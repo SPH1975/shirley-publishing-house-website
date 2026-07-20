@@ -1,0 +1,15 @@
+{
+  "order": 5,
+  "number": "05",
+  "title": "Book Publishing Services",
+  "summary": "Creative and technical services that prepare books for professional production and distribution.",
+  "items": [
+    "Book layout and formatting",
+    "Cover design",
+    "Interior design",
+    "Self-publishing assistance",
+    "Print-on-demand support",
+    "Repository listing"
+  ],
+  "featured": false
+}

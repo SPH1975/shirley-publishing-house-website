@@ -1,0 +1,42 @@
+SHIRLEY PUBLISHING HOUSE — PUBLIC WEBSITE WITH PRIVATE CONTENT MANAGER
+
+IMPORTANT
+This version must be deployed from a GitHub repository connected to Netlify. Do not use only Netlify drag-and-drop if you want the online admin to save and publish changes.
+
+WHAT THE PRIVATE CONTENT MANAGER CAN EDIT
+1. Add, edit, delete, search, and feature publications.
+2. Upload book covers and other publication images.
+3. Edit homepage and page hero headings/introduction text.
+4. Edit the publishing services shown on the homepage and Services page.
+5. Update email, phone number, location, tagline, Facebook details, and footer text.
+
+SETUP
+1. Create a private GitHub repository.
+2. Upload everything inside this website folder to the root of the GitHub repository. The root must contain index.html, package.json, netlify.toml, admin, content, assets, and scripts.
+3. In Netlify, choose Add new project > Import an existing project > GitHub, then select the repository.
+4. Netlify will detect netlify.toml and run npm run build automatically.
+5. In Netlify, enable Identity for the site.
+6. Under Identity registration preferences, choose Invite only.
+7. Enable Git Gateway.
+8. Invite only your own administrative email address.
+9. Accept the invitation and create your password.
+10. Open https://YOUR-SITE.netlify.app/admin/ and log in.
+
+USING THE CONTENT MANAGER
+- Publications: click New Publication, complete the fields, upload a cover, and click Publish.
+- Website Page Headings: edit the headline and introductory paragraph of each page.
+- Publishing Services: add, edit, remove, or reorder service entries.
+- Business Settings: update contact and brand information.
+
+HOW CHANGES GO LIVE
+Each Publish action commits the content to GitHub. Netlify automatically rebuilds repository-data.js, repository-data.json, and cms-data.js and deploys the revised website. This normally takes a short time.
+
+SECURITY
+- The public website contains no visible dashboard link.
+- /admin/ is excluded from search-engine indexing and requires authentication.
+- Keep Identity registration set to Invite only.
+- Invite only trusted administrators.
+- Do not share your GitHub, Netlify, email, password, or OTP credentials.
+
+LOCAL PREVIEW
+Run npm run build after manually changing JSON files. You can then open index.html or use a local static server. The online admin login itself requires the configured Netlify site.

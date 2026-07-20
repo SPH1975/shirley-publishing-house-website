@@ -1,0 +1,19 @@
+SHIRLEY PUBLISHING HOUSE WEBSITE — TESTING GUIDE
+
+EASIEST METHOD — NO INSTALLATION REQUIRED
+1. Extract the complete ZIP file.
+2. Open the extracted shirley_publishing_website folder.
+3. Double-click START_WEBSITE.bat.
+4. The home page will open directly in your browser.
+5. Test the navigation links between all pages.
+
+IMPORTANT
+- Do not run the launcher while it is still inside the ZIP file.
+- Keep all HTML, CSS, JavaScript, and assets files together in the same folder structure.
+
+OPTIONAL LOCAL SERVER METHOD
+Use START_LOCAL_SERVER.bat only when Python is installed. It opens:
+http://localhost:8000/index.html
+
+TO TEST MANUALLY
+You may also double-click index.html directly.

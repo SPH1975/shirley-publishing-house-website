@@ -1,0 +1,24 @@
+SHIRLEY PUBLISHING HOUSE — REPOSITORY IMPORT NOTES
+
+Source file:
+ISBN application Submission 19163-merged.pdf
+
+Extraction results:
+- 202 publication records detected and placed in the master spreadsheet.
+- 196 active publications included in the public website repository.
+- 2 cancelled ISBN records retained in the master spreadsheet but excluded from the public website.
+- 198 publication cover/title-page images extracted from the PDF.
+- 4 branded fallback covers generated where a suitable cover/title page was unavailable.
+
+Repository data files:
+- repository-data.js: file used directly by repository.html
+- repository-data.json: JSON backup / external integration format
+
+Descriptions:
+The merged PDF generally does not contain official synopses. Neutral placeholder descriptions are used and can later be replaced with official back-cover descriptions or author-provided summaries.
+
+Updating the website:
+1. Edit repository-data.js or use the Publisher Dashboard.
+2. Put cover files in assets/covers/.
+3. Keep cover paths in the format assets/covers/filename.webp.
+4. Open repository.html to verify the searchable catalog.

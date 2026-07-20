@@ -1,0 +1,53 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="900" height="1200" viewBox="0 0 900 1200" role="img" aria-labelledby="title desc">
+  <title id="title">Sample cover for From Dough to Knowledge</title>
+  <desc id="desc">A blue educational cover with an open book, wheat, and a bread loaf.</desc>
+  <defs>
+    <linearGradient id="bg" x1="0" y1="0" x2="1" y2="1">
+      <stop offset="0" stop-color="#08204a"/>
+      <stop offset="0.55" stop-color="#164ca3"/>
+      <stop offset="1" stop-color="#3a78d4"/>
+    </linearGradient>
+    <linearGradient id="bread" x1="0" y1="0" x2="0" y2="1">
+      <stop offset="0" stop-color="#ffd58a"/>
+      <stop offset="1" stop-color="#d99236"/>
+    </linearGradient>
+    <filter id="shadow" x="-20%" y="-20%" width="140%" height="140%">
+      <feDropShadow dx="0" dy="18" stdDeviation="20" flood-color="#00102d" flood-opacity="0.35"/>
+    </filter>
+  </defs>
+  <rect width="900" height="1200" fill="url(#bg)"/>
+  <circle cx="760" cy="160" r="240" fill="#ffffff" opacity="0.08"/>
+  <circle cx="90" cy="1040" r="320" fill="#ffffff" opacity="0.06"/>
+  <rect x="48" y="48" width="804" height="1104" rx="30" fill="none" stroke="#bdd4ff" stroke-width="3" opacity="0.65"/>
+  <text x="80" y="120" fill="#dce9ff" font-family="Arial, sans-serif" font-size="28" font-weight="700" letter-spacing="5">SHIRLEY PUBLISHING HOUSE</text>
+  <text x="80" y="235" fill="#ffffff" font-family="Georgia, serif" font-size="76" font-weight="700">FROM DOUGH</text>
+  <text x="80" y="318" fill="#ffffff" font-family="Georgia, serif" font-size="76" font-weight="700">TO KNOWLEDGE</text>
+  <line x1="82" y1="358" x2="650" y2="358" stroke="#f8bd52" stroke-width="8"/>
+  <text x="82" y="414" fill="#e9f1ff" font-family="Arial, sans-serif" font-size="31" font-weight="600">DESIGNING SKILLS IN BREAD AND</text>
+  <text x="82" y="456" fill="#e9f1ff" font-family="Arial, sans-serif" font-size="31" font-weight="600">PASTRY PRODUCTION</text>
+  <g transform="translate(105 565)" filter="url(#shadow)">
+    <path d="M0 115 Q165 35 345 120 L345 365 Q165 285 0 365 Z" fill="#f5f8ff"/>
+    <path d="M345 120 Q525 35 690 115 L690 365 Q525 285 345 365 Z" fill="#ffffff"/>
+    <path d="M345 120 L345 365" stroke="#9bb8e9" stroke-width="8"/>
+    <path d="M45 155 Q170 105 302 153" fill="none" stroke="#a7bde3" stroke-width="7"/>
+    <path d="M388 153 Q520 105 645 155" fill="none" stroke="#a7bde3" stroke-width="7"/>
+    <path d="M70 205 Q175 165 290 205" fill="none" stroke="#c5d4ee" stroke-width="6"/>
+    <path d="M400 205 Q515 165 620 205" fill="none" stroke="#c5d4ee" stroke-width="6"/>
+  </g>
+  <g transform="translate(250 515)" filter="url(#shadow)">
+    <path d="M0 150 C0 50 90 0 200 0 C310 0 400 50 400 150 C400 230 320 275 200 275 C80 275 0 230 0 150Z" fill="url(#bread)" stroke="#fff1c8" stroke-width="8"/>
+    <path d="M100 45 C72 90 72 130 100 175" fill="none" stroke="#fff2c9" stroke-width="20" stroke-linecap="round"/>
+    <path d="M200 26 C170 78 170 130 200 183" fill="none" stroke="#fff2c9" stroke-width="20" stroke-linecap="round"/>
+    <path d="M300 45 C272 90 272 130 300 175" fill="none" stroke="#fff2c9" stroke-width="20" stroke-linecap="round"/>
+  </g>
+  <g fill="none" stroke="#f7c75c" stroke-width="8" stroke-linecap="round">
+    <path d="M130 930 C95 865 85 800 92 735"/>
+    <path d="M755 925 C790 860 800 795 793 730"/>
+    <path d="M105 805 l-30 -26 M108 842 l-35 -14 M111 875 l-38 4"/>
+    <path d="M780 800 l30 -26 M777 837 l35 -14 M774 870 l38 4"/>
+  </g>
+  <text x="450" y="1025" text-anchor="middle" fill="#ffffff" font-family="Arial, sans-serif" font-size="42" font-weight="700">JEZERELL S. ABENOJA, LPT</text>
+  <text x="450" y="1080" text-anchor="middle" fill="#d9e7ff" font-family="Arial, sans-serif" font-size="25" letter-spacing="3">FIRST EDITION · 2026</text>
+  <rect x="690" y="1090" width="150" height="42" rx="21" fill="#ffffff" opacity="0.14"/>
+  <text x="765" y="1118" text-anchor="middle" fill="#ffffff" font-family="Arial, sans-serif" font-size="20" font-weight="700">SAMPLE COVER</text>
+</svg>

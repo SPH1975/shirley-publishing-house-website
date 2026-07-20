@@ -1,0 +1,17 @@
+{
+  "order": 4,
+  "number": "04",
+  "title": "Printing and Binding Services",
+  "summary": "Production services for manuscripts, academic outputs, books, institutional publications, and custom printed materials.",
+  "items": [
+    "Digital and short-run printing",
+    "Soft binding",
+    "Perfect binding",
+    "Hard binding",
+    "Spiral binding",
+    "Booklet and journal printing",
+    "Yearbooks and souvenir programs",
+    "Lamination and receipt printing"
+  ],
+  "featured": false
+}

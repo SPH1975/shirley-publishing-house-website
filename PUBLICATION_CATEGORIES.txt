@@ -1,0 +1,27 @@
+SHIRLEY PUBLISHING HOUSE — REPOSITORY SUBJECT CLASSIFICATIONS
+
+All 196 repository entries have been assigned a subject classification based on the publication title, publication type, and available bibliographic information.
+
+Category totals:
+- Children's Literature & Storybooks: 90
+- Language, Reading & Communication: 29
+- Mathematics & Statistics: 21
+- Science & Health: 14
+- Social Studies, Culture & Indigenous Knowledge: 12
+- Technology, Livelihood & Vocational Education: 7
+- Agriculture & Environmental Studies: 6
+- Education, Teaching & Research: 6
+- Early Childhood & General Education: 4
+- Business, Entrepreneurship & Management: 4
+- Engineering & Applied Sciences: 2
+- Academic Journals & Research: 1
+
+The public repository page now contains:
+- A Browse by Classification section with category cards and publication counts
+- A Subject Category filter
+- Separate publication sections for every classification
+- Subject Classification details in each publication pop-up
+
+The Publisher Dashboard also includes a Subject Classification field for future publications.
+
+These classifications are subject-oriented website groupings and are not replacements for the official category recorded in the ISBN/ISSN application.

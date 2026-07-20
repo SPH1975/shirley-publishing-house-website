@@ -1,0 +1,15 @@
+{
+  "order": 3,
+  "number": "03",
+  "title": "Academic and Research Services",
+  "summary": "Support for scholarly works intended for journals, institutional publication, or public dissemination.",
+  "items": [
+    "Thesis review",
+    "Dissertation review",
+    "Article conversion and formatting",
+    "Journal publication support",
+    "Journal submission assistance",
+    "Research manuscript preparation"
+  ],
+  "featured": false
+}

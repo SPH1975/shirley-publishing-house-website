@@ -1,0 +1,28 @@
+{
+  "id": "my-first-online-class-9786214731992",
+  "title": "My First Online Class",
+  "author": "Emelie I. Agbayani",
+  "publisher": "Shirley Publishing House",
+  "type": "Children's Book",
+  "year": 2024,
+  "publicationDate": "January 29, 2024",
+  "edition": "FIRST EDITION",
+  "language": "ENGLISH",
+  "format": "Softbound/Paperback",
+  "category": "Children's book",
+  "identifierLabel": "ISBN",
+  "identifier": "978-621-473-199-2",
+  "cover": "assets/covers/9786214731992-my-first-online-class.webp",
+  "abstract": "",
+  "keywords": [
+    "first",
+    "online",
+    "class",
+    "children's book",
+    "english"
+  ],
+  "accessUrl": "contact.html",
+  "accessLabel": "Inquire About This Publication",
+  "featured": false,
+  "subjectCategory": "Children's Literature & Storybooks"
+}

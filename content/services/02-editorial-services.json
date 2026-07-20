@@ -1,0 +1,17 @@
+{
+  "order": 2,
+  "number": "02",
+  "title": "Editorial Services",
+  "summary": "Professional manuscript refinement to strengthen clarity, correctness, consistency, structure, and readability.",
+  "items": [
+    "Proofreading",
+    "Copy editing",
+    "Technical editing",
+    "Content editing",
+    "Language editing",
+    "Manuscript evaluation",
+    "Plagiarism checking",
+    "Peer-review coordination"
+  ],
+  "featured": false
+}

@@ -1,0 +1,158 @@
+backend:
+  name: git-gateway
+  branch: main
+
+local_backend: true
+media_folder: "assets/uploads"
+public_folder: "/assets/uploads"
+logo_url: "/assets/shirley-logo-transparent.png"
+
+slug:
+  encoding: "ascii"
+  clean_accents: true
+  sanitize_replacement: "-"
+
+collections:
+  - name: "publications"
+    label: "Publications"
+    label_singular: "Publication"
+    folder: "content/publications"
+    create: true
+    delete: true
+    extension: "json"
+    format: "json"
+    identifier_field: "title"
+    summary: "{{title}} — {{author}}"
+    slug: "{{slug}}-{{identifier}}"
+    sortable_fields: ["title", "author", "year", "identifier"]
+    view_filters:
+      - label: "Featured"
+        field: "featured"
+        pattern: true
+    fields:
+      - { label: "Publication Title", name: "title", widget: "string" }
+      - { label: "Author", name: "author", widget: "string" }
+      - { label: "Publisher", name: "publisher", widget: "string", default: "Shirley Publishing House" }
+      - label: "Publication Type"
+        name: "type"
+        widget: "select"
+        options: ["Children's Book", "Textbook / Educational Material", "Book", "Journal", "Poem / Poetry Collection", "Research Article", "Thesis-Derived Article", "Dissertation-Derived Article", "Module / Learning Material", "Institutional Publication", "Other"]
+      - label: "Subject Classification"
+        name: "subjectCategory"
+        widget: "select"
+        options:
+          - "Children's Literature & Storybooks"
+          - "Language, Reading & Communication"
+          - "Mathematics & Statistics"
+          - "Science & Health"
+          - "Social Studies, Culture & Indigenous Knowledge"
+          - "Technology, Livelihood & Vocational Education"
+          - "Education, Teaching & Research"
+          - "Agriculture & Environmental Studies"
+          - "Business, Entrepreneurship & Management"
+          - "Engineering & Applied Sciences"
+          - "Early Childhood & General Education"
+          - "Academic Journals & Research"
+      - { label: "Publication Year", name: "year", widget: "number", value_type: "int", min: 1900, max: 2100 }
+      - { label: "Publication Date", name: "publicationDate", widget: "string", required: false, hint: "Example: April 10, 2025" }
+      - { label: "Edition / Volume", name: "edition", widget: "string", required: false }
+      - { label: "Language", name: "language", widget: "string", required: false }
+      - { label: "Format", name: "format", widget: "string", required: false, default: "Softbound/Paperback" }
+      - { label: "Official Category", name: "category", widget: "string", required: false }
+      - label: "Identifier Type"
+        name: "identifierLabel"
+        widget: "select"
+        options: ["ISBN", "ISSN", "ISMN", "DOI", "Other"]
+        default: "ISBN"
+      - { label: "ISBN / ISSN / Identifier", name: "identifier", widget: "string" }
+      - { label: "Cover Image", name: "cover", widget: "image", required: false }
+      - { label: "Short Description", name: "abstract", widget: "text", required: false }
+      - { label: "Keywords", name: "keywords", widget: "list", required: false, default: [] }
+      - { label: "Inquiry / Access Link", name: "accessUrl", widget: "string", default: "contact.html", required: false }
+      - { label: "Button Label", name: "accessLabel", widget: "string", default: "Inquire About This Publication", required: false }
+      - { label: "Featured Publication", name: "featured", widget: "boolean", default: false, required: false }
+
+  - name: "pages"
+    label: "Website Page Headings"
+    files:
+      - label: "Home Page"
+        name: "home"
+        file: "content/pages/home.json"
+        format: "json"
+        fields: &page_fields
+          - { label: "Page Key", name: "page", widget: "hidden", default: "home" }
+          - { label: "Small Heading", name: "eyebrow", widget: "string", required: false }
+          - { label: "Main Heading", name: "title", widget: "string" }
+          - { label: "Introduction", name: "intro", widget: "text" }
+      - label: "About Page"
+        name: "about"
+        file: "content/pages/about.json"
+        format: "json"
+        fields: *page_fields
+      - label: "Services Page"
+        name: "services"
+        file: "content/pages/services.json"
+        format: "json"
+        fields: *page_fields
+      - label: "Journal Page"
+        name: "journal"
+        file: "content/pages/journal.json"
+        format: "json"
+        fields: *page_fields
+      - label: "Repository Page"
+        name: "repository"
+        file: "content/pages/repository.json"
+        format: "json"
+        fields: *page_fields
+      - label: "For Authors Page"
+        name: "authors"
+        file: "content/pages/authors.json"
+        format: "json"
+        fields: *page_fields
+      - label: "Submit Manuscript Page"
+        name: "submit"
+        file: "content/pages/submit.json"
+        format: "json"
+        fields: *page_fields
+      - label: "Contact Page"
+        name: "contact"
+        file: "content/pages/contact.json"
+        format: "json"
+        fields: *page_fields
+
+  - name: "services"
+    label: "Publishing Services"
+    label_singular: "Service"
+    folder: "content/services"
+    create: true
+    delete: true
+    extension: "json"
+    format: "json"
+    identifier_field: "title"
+    summary: "{{number}} — {{title}}"
+    slug: "{{order}}-{{slug}}"
+    fields:
+      - { label: "Display Order", name: "order", widget: "number", value_type: "int", min: 1 }
+      - { label: "Number", name: "number", widget: "string", hint: "Example: 01" }
+      - { label: "Service Title", name: "title", widget: "string" }
+      - { label: "Short Explanation", name: "summary", widget: "text" }
+      - { label: "Included Services", name: "items", widget: "list" }
+      - { label: "Highlight on Homepage", name: "featured", widget: "boolean", default: false, required: false }
+
+  - name: "settings"
+    label: "Business Settings"
+    files:
+      - label: "Contact and Brand Information"
+        name: "site_settings"
+        file: "content/site-settings.json"
+        format: "json"
+        fields:
+          - { label: "Business Name", name: "businessName", widget: "string" }
+          - { label: "Tagline", name: "tagline", widget: "string" }
+          - { label: "Email", name: "email", widget: "string" }
+          - { label: "Phone Display", name: "phoneDisplay", widget: "string" }
+          - { label: "Phone Link", name: "phoneLink", widget: "string", hint: "Example: +639533008505" }
+          - { label: "Location", name: "location", widget: "string" }
+          - { label: "Facebook Page Name", name: "facebookPage", widget: "string" }
+          - { label: "Facebook Page URL", name: "facebookUrl", widget: "string", required: false }
+          - { label: "Footer Description", name: "footerDescription", widget: "text" }

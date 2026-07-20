@@ -1,0 +1,15 @@
+{
+  "order": 1,
+  "number": "01",
+  "title": "Publication Registration Services",
+  "summary": "Assistance with formal identifiers and compliance requirements for books, journals, music publications, and other eligible works.",
+  "items": [
+    "ISBN application assistance",
+    "ISSN application assistance",
+    "ISMN application assistance",
+    "Copyright registration assistance",
+    "CIP data assistance",
+    "Legal deposit compliance"
+  ],
+  "featured": true
+}
