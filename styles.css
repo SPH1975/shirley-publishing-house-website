@@ -751,3 +751,16 @@ input:focus, select:focus, textarea:focus { border-color: var(--blue-500); box-s
   .journal-card-facts, .journal-accepted-grid, .editorial-panel { grid-template-columns: 1fr; }
   .journal-card-actions .btn { width: 100%; }
 }
+
+
+/* Optional editorial-board / journal back-page image */
+.editorial-media-grid { display: grid; grid-template-columns: minmax(280px, .78fr) minmax(0, 1.22fr); gap: 28px; align-items: start; max-width: 1120px; margin: 0 auto; }
+.editorial-media-grid .editorial-panel { max-width: none; margin: 0; }
+.editorial-board-image-card { margin: 0; padding: 18px; border: 1px solid var(--line); border-radius: 18px; background: #fff; box-shadow: var(--shadow-sm); }
+.editorial-board-image-card a { display: block; border-radius: 12px; overflow: hidden; background: var(--soft); }
+.editorial-board-image-card img { display: block; width: 100%; max-height: 760px; object-fit: contain; margin: 0 auto; }
+.editorial-board-image-card figcaption { padding: 12px 4px 2px; color: var(--muted); font-size: .8rem; font-weight: 700; text-align: center; }
+@media (max-width: 820px) {
+  .editorial-media-grid { grid-template-columns: 1fr; }
+  .editorial-board-image-card { max-width: 600px; width: 100%; margin: 0 auto; }
+}

@@ -49,6 +49,7 @@ const journals = readFolder(path.join(root, 'content', 'journals'), true)
       shortTitle: String(item.shortTitle || title).trim(),
       issn: String(item.issn || '').trim(),
       cover: cleanPath(item.cover || ''),
+      editorialBoardImage: cleanPath(item.editorialBoardImage || ''),
       description: String(item.description || '').trim(),
       scope: String(item.scope || '').trim(),
       disciplines: Array.isArray(item.disciplines) ? unique(item.disciplines.map(String)) : [],

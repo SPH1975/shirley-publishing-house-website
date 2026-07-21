@@ -13,6 +13,7 @@
     return fallback;
   };
   const coverSrc = (journal) => String(journal.cover || 'assets/journal-cover-official.png').replace(/^\//, '');
+  const editorialBoardImageSrc = (journal) => String(journal.editorialBoardImage || '').replace(/^\//, '');
   const initials = (label = '') => label.split(/\s+/).filter(Boolean).slice(0, 2).map((word) => word[0]).join('').toUpperCase() || 'JW';
 
   const listGrid = document.querySelector('#journals-grid');
@@ -141,10 +142,28 @@
   }
 
   const editorialSection = document.getElementById('journal-editorial-section');
+  const editorialPanel = document.getElementById('journal-editorial-panel');
   const boardWrap = document.getElementById('journal-board-wrap');
   const board = document.getElementById('journal-editorial-board');
+  const boardImageWrap = document.getElementById('journal-board-image-wrap');
+  const boardImage = document.getElementById('journal-board-image');
+  const boardImageLink = document.getElementById('journal-board-image-link');
+  const boardImageSource = editorialBoardImageSrc(journal);
+
+  if (boardImageSource && boardImage && boardImageWrap) {
+    boardImage.src = boardImageSource;
+    boardImage.alt = `${journal.title} editorial board and journal back page`;
+    if (boardImageLink) boardImageLink.href = boardImageSource;
+    boardImageWrap.hidden = false;
+  } else if (boardImageWrap) {
+    boardImageWrap.hidden = true;
+  }
+
   if ((journal.editorialBoard || []).length && board) {
     board.innerHTML = journal.editorialBoard.map((member) => `<li>${escapeHtml(member)}</li>`).join('');
   } else if (boardWrap) boardWrap.hidden = true;
-  if (!journal.editorInChief && !(journal.editorialBoard || []).length && editorialSection) editorialSection.hidden = true;
+
+  const hasEditorialText = Boolean(journal.editorInChief || (journal.editorialBoard || []).length);
+  if (!hasEditorialText && editorialPanel) editorialPanel.hidden = true;
+  if (!hasEditorialText && !boardImageSource && editorialSection) editorialSection.hidden = true;
 })();

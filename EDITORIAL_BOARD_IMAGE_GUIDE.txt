@@ -1,0 +1,31 @@
+SHIRLEY PUBLISHING HOUSE — EDITORIAL BOARD IMAGE UPGRADE
+
+FILES INCLUDED
+- admin/config.yml
+- scripts/build-content.js
+- journals.js
+- journal-profile.html
+- styles.css
+
+INSTALLATION USING GITHUB DESKTOP
+1. Extract this ZIP.
+2. Open GitHub Desktop and select your website repository.
+3. Click Repository > Show in Explorer.
+4. Copy everything INSIDE the editorial_board_image_patch folder into the repository folder.
+5. Choose Replace files in the destination.
+6. Return to GitHub Desktop.
+7. Commit with: Add editorial board image to journal profiles
+8. Click Push origin.
+9. Wait for Netlify's newest deploy to show Published.
+
+HOW TO USE
+1. Open https://shirleypublishinghouse.com/admin/
+2. Click Journals.
+3. Open the journal you want to edit.
+4. Find Editorial Board Image / Journal Back Page.
+5. Upload the back-page image.
+6. Click Publish.
+7. Wait for the Netlify deployment.
+8. Open the journal profile and hard-refresh with Ctrl+Shift+R.
+
+The image will appear in the Editorial Leadership section and can be clicked to view it at full size.
