@@ -1,0 +1,30 @@
+{
+  "submissionUrl": "submit.html",
+  "disciplines": [
+    "Literature"
+  ],
+  "issn": "On Process",
+  "editorialCriteria": [],
+  "currentVolumeIssue": "Volume 1",
+  "active": true,
+  "publicationsUrl": "repository.html",
+  "featured": true,
+  "publicationFrequency": "Quarterly",
+  "editorInChief": "LETICIA D. GUINSIMAN PhD",
+  "scope": "Literature and Creative Arts",
+  "cover": "/assets/uploads/screenshot-2026-07-21-110548.png",
+  "title": "Likhang Lahi: A Philippine Journal of Literature and Culture Arts",
+  "preparationGuidelines": [],
+  "acceptedWorks": [
+    "Poems",
+    "Short",
+    "Story",
+    ""
+  ],
+  "description": "A peer-reviewed quarterly publication that showcases original literary and artistic works celebrating Philippine languages, cultures, traditions, and creative expression. It welcomes poetry, fiction, creative nonfiction, drama, literary essays, translations, children’s literature, book reviews, and visual arts from both emerging and established writers and artists.",
+  "editorialBoard": [
+    "DONNAVEE VALMORES B. CABASAL",
+    "SORICK B. DE LEON",
+    "CHRISTOPHER NALDA"
+  ]
+}

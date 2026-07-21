@@ -5,9 +5,21 @@
   <meta name="viewport" content="width=device-width,initial-scale=1">
   <meta name="robots" content="noindex,nofollow">
   <title>Shirley Publishing House Content Manager</title>
+  <script src="https://identity.netlify.com/v1/netlify-identity-widget.js"></script>
 </head>
 <body>
-  <script src="https://identity.netlify.com/v1/netlify-identity-widget.js"></script>
+  <script>
+    if (window.netlifyIdentity) {
+      window.netlifyIdentity.on("init", function (user) {
+        if (!user && /#(invite_token|confirmation_token|recovery_token)=/.test(window.location.hash)) {
+          window.netlifyIdentity.open();
+        }
+      });
+      window.netlifyIdentity.on("login", function () {
+        window.netlifyIdentity.close();
+      });
+    }
+  </script>
   <script src="https://unpkg.com/decap-cms@^3.0.0/dist/decap-cms.js"></script>
 </body>
 </html>
