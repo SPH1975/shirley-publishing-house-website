@@ -1,0 +1,56 @@
+window.SHIRLEY_JOURNALS = [
+  {
+    "urlSlug": "multidisciplinary-international-theses-and-articles-journal",
+    "title": "Multidisciplinary International Theses and Articles Journal Graduate Studies",
+    "shortTitle": "Multidisciplinary International Theses and Articles Journal",
+    "issn": "3116-403X",
+    "cover": "assets/journal-cover-official.png",
+    "description": "The journal presents independently published scholarly works across different academic disciplines, including thesis- and dissertation-derived articles prepared as standalone publications.",
+    "scope": "Multidisciplinary Graduate Studies",
+    "disciplines": [
+      "Education & Teaching",
+      "Information Technology",
+      "Engineering",
+      "Business & Management",
+      "Social Sciences",
+      "Agriculture",
+      "Health Sciences",
+      "Hospitality & Tourism",
+      "Other Graduate Disciplines"
+    ],
+    "publicationFrequency": "As issues are completed",
+    "format": "Individual Scholarly Articles",
+    "currentVolumeIssue": "Current issue information available upon inquiry",
+    "editorInChief": "Shirley Publishing House Editorial Office",
+    "editorialBoard": [],
+    "acceptedWorks": [
+      "Research Articles",
+      "Thesis-Derived Articles",
+      "Dissertation-Derived Articles",
+      "Review Articles",
+      "Case Studies",
+      "Institutional Papers"
+    ],
+    "preparationGuidelines": [
+      "Use a clear and specific title",
+      "Include author information and institutional affiliation",
+      "Provide an abstract and relevant keywords",
+      "Use IMRAD format when appropriate to the discipline",
+      "Apply a consistent citation and reference style",
+      "Remove thesis-specific pages not needed in a standalone article"
+    ],
+    "editorialCriteria": [
+      "Relevance to the journal’s multidisciplinary scope",
+      "Originality and academic contribution",
+      "Clarity, organization, and methodological soundness",
+      "Ethical handling of data, sources, and authorship",
+      "Completeness of citations and references",
+      "Readiness for editing and publication"
+    ],
+    "submissionUrl": "submit.html",
+    "publicationsUrl": "repository.html",
+    "featured": true,
+    "active": true,
+    "id": "multidisciplinary-international-theses-and-articles-journal"
+  }
+];

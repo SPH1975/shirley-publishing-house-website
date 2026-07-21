@@ -2,7 +2,9 @@ backend:
   name: git-gateway
   branch: main
 
-local_backend: true
+site_url: "https://shirleypublishinghouse.com"
+display_url: "https://shirleypublishinghouse.com"
+
 media_folder: "assets/uploads"
 public_folder: "/assets/uploads"
 logo_url: "/assets/shirley-logo-transparent.png"
@@ -72,6 +74,48 @@ collections:
       - { label: "Button Label", name: "accessLabel", widget: "string", default: "Inquire About This Publication", required: false }
       - { label: "Featured Publication", name: "featured", widget: "boolean", default: false, required: false }
 
+
+  - name: "journals"
+    label: "Journals"
+    label_singular: "Journal"
+    folder: "content/journals"
+    create: true
+    delete: true
+    extension: "json"
+    format: "json"
+    identifier_field: "title"
+    summary: "{{title}} — ISSN {{issn}}"
+    slug: "{{slug}}"
+    sortable_fields: ["title", "issn", "featured"]
+    view_filters:
+      - label: "Featured"
+        field: "featured"
+        pattern: true
+      - label: "Active"
+        field: "active"
+        pattern: true
+    fields:
+      - { label: "Journal Title", name: "title", widget: "string" }
+      - { label: "Short Journal Name", name: "shortTitle", widget: "string", required: false, hint: "A shorter name for cards and headings." }
+      - { label: "URL Slug", name: "urlSlug", widget: "string", required: false, hint: "Optional. Use lowercase words separated by hyphens, such as international-journal-of-education." }
+      - { label: "ISSN", name: "issn", widget: "string", required: false }
+      - { label: "Journal Cover", name: "cover", widget: "image", required: false }
+      - { label: "Journal Description", name: "description", widget: "text" }
+      - { label: "Scope", name: "scope", widget: "string", required: false, hint: "Example: Multidisciplinary Graduate Studies" }
+      - { label: "Disciplines Covered", name: "disciplines", widget: "list", required: false, default: [] }
+      - { label: "Publication Frequency", name: "publicationFrequency", widget: "string", required: false, hint: "Example: Biannual, Quarterly, or As issues are completed" }
+      - { label: "Publication Format", name: "format", widget: "string", required: false, hint: "Example: Print and Online" }
+      - { label: "Current Volume and Issue", name: "currentVolumeIssue", widget: "string", required: false }
+      - { label: "Editor-in-Chief", name: "editorInChief", widget: "string", required: false }
+      - { label: "Editorial Board Members", name: "editorialBoard", widget: "list", required: false, default: [] }
+      - { label: "Accepted Types of Work", name: "acceptedWorks", widget: "list", required: false, default: ["Research Articles", "Review Articles"] }
+      - { label: "Article Preparation Guidelines", name: "preparationGuidelines", widget: "list", required: false, default: [] }
+      - { label: "Editorial Assessment Criteria", name: "editorialCriteria", widget: "list", required: false, default: [] }
+      - { label: "Submission Link", name: "submissionUrl", widget: "string", default: "submit.html", required: false }
+      - { label: "Published Works Link", name: "publicationsUrl", widget: "string", default: "repository.html", required: false }
+      - { label: "Feature This Journal", name: "featured", widget: "boolean", default: false, required: false }
+      - { label: "Show on Website", name: "active", widget: "boolean", default: true, required: false }
+
   - name: "pages"
     label: "Website Page Headings"
     files:
@@ -94,7 +138,7 @@ collections:
         file: "content/pages/services.json"
         format: "json"
         fields: *page_fields
-      - label: "Journal Page"
+      - label: "Journals Page"
         name: "journal"
         file: "content/pages/journal.json"
         format: "json"

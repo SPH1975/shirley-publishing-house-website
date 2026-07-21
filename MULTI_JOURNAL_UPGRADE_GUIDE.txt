@@ -1,0 +1,65 @@
+SHIRLEY PUBLISHING HOUSE — MULTI-JOURNAL UPGRADE
+================================================
+
+WHAT THIS UPGRADE DOES
+----------------------
+1. Changes “Our Journal” to “Our Journals”.
+2. Adds a journal directory page at journal.html.
+3. Adds a reusable journal profile page at journal-profile.html.
+4. Adds a new “Journals” section to the private /admin/ dashboard.
+5. Lets you create, edit, hide, feature, or delete journal profiles without manually editing HTML.
+6. Keeps the current Multidisciplinary International Theses and Articles Journal as the first journal.
+
+FILES THAT MUST BE REPLACED OR ADDED
+------------------------------------
+- admin/config.yml
+- scripts/build-content.js
+- content/pages/journal.json
+- content/journals/multidisciplinary-international-theses-and-articles-journal.json
+- journal.html
+- journal-profile.html
+- journals.js
+- journals-data.js
+- journals-data.json
+- cms-data.js
+- styles.css
+- index.html
+- about.html
+- services.html
+- authors.html
+- submit.html
+- contact.html
+- repository.html
+
+RECOMMENDED UPLOAD METHOD — GITHUB DESKTOP
+------------------------------------------
+1. Extract the ZIP file.
+2. Open GitHub Desktop and select your website repository.
+3. Click Repository > Show in Explorer.
+4. Copy everything inside the extracted upgrade folder into the repository folder.
+5. Choose “Replace the files in the destination” when Windows asks.
+6. Return to GitHub Desktop.
+7. Enter this summary: Add multi-journal admin and journal directory
+8. Click Commit to main.
+9. Click Push origin.
+10. Open Netlify > Deploys and wait until the latest deploy says Published.
+
+AFTER DEPLOYMENT
+----------------
+1. Visit https://shirleypublishinghouse.com/journal.html
+2. Confirm the current journal appears as a card.
+3. Visit https://shirleypublishinghouse.com/admin/
+4. Log in and open the new “Journals” section.
+5. Click New Journal.
+6. Enter the journal title, ISSN, cover, description, scope, disciplines, frequency, and links.
+7. Turn on “Show on Website”.
+8. Click Publish.
+9. Wait for Netlify to finish the automatic deployment.
+
+IMPORTANT
+---------
+- Do not delete the content/journals folder.
+- Use a unique journal title for every journal.
+- The URL Slug field is optional. If used, enter lowercase words separated by hyphens.
+- Uploaded covers are saved in assets/uploads.
+- The website’s existing Publications section remains separate from Journals.
