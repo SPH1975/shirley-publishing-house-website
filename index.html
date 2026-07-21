@@ -9,6 +9,14 @@
 <title>Shirley Publishing House | Publication &amp; Printing Services</title>
 <link href="assets/favicon.png" rel="icon" type="image/png"/>
 <link href="styles.css" rel="stylesheet"/>
+<script>
+(function () {
+  var hash = window.location.hash || "";
+  if (/^#(invite_token|confirmation_token|recovery_token)=/.test(hash)) {
+    window.location.replace("/admin/" + hash);
+  }
+})();
+</script>
 </head>
 <body data-page="home">
 <a class="skip-link" href="#main-content">Skip to content</a>
