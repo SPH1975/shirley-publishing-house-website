@@ -14,6 +14,7 @@
   };
   const coverSrc = (journal) => String(journal.cover || 'assets/journal-cover-official.png').replace(/^\//, '');
   const editorialBoardImageSrc = (journal) => String(journal.editorialBoardImage || '').replace(/^\//, '');
+  const journalFileSrc = (journal) => String(journal.journalFile || '').replace(/^\//, '');
   const initials = (label = '') => label.split(/\s+/).filter(Boolean).slice(0, 2).map((word) => word[0]).join('').toUpperCase() || 'JW';
 
   const listGrid = document.querySelector('#journals-grid');
@@ -42,6 +43,7 @@
             ${facts ? `<div class="journal-card-facts">${facts}</div>` : ''}
             <div class="journal-card-actions">
               <a class="btn btn-primary" href="${profileUrl}">View Journal</a>
+              ${journalFileSrc(journal) ? `<a class="btn btn-secondary journal-download-card" href="${escapeHtml(journalFileSrc(journal))}" download>Download Issue</a>` : ''}
               <a class="btn btn-secondary" href="${escapeHtml(safeUrl(journal.submissionUrl, 'submit.html'))}">Submit an Article</a>
             </div>
           </div>
@@ -58,7 +60,7 @@
   const journal = journals.find((item) => item.id === requestedId) || (journals.length === 1 && !requestedId ? journals[0] : null);
 
   const hideSectionsForMissing = () => {
-    ['journal-profile-section', 'journal-accepted-section', 'journal-guidelines-section', 'journal-editorial-section'].forEach((id) => {
+    ['journal-profile-section', 'journal-download-section', 'journal-accepted-section', 'journal-guidelines-section', 'journal-editorial-section'].forEach((id) => {
       const element = document.getElementById(id);
       if (element) element.hidden = true;
     });
@@ -122,6 +124,30 @@
   });
   const publicationsLink = document.getElementById('journal-publications-link');
   if (publicationsLink) publicationsLink.href = publicationsUrl;
+
+  const journalFile = journalFileSrc(journal);
+  const downloadLabel = journal.downloadLabel || 'Download Full Journal (PDF)';
+  const profileDownloadLink = document.getElementById('journal-download-link');
+  const downloadSection = document.getElementById('journal-download-section');
+  const downloadSectionLink = document.getElementById('journal-download-section-link');
+  const downloadTitle = document.getElementById('journal-download-title');
+  const downloadNote = document.getElementById('journal-download-note');
+  if (journalFile) {
+    [profileDownloadLink, downloadSectionLink].forEach((link) => {
+      if (!link) return;
+      link.href = journalFile;
+      link.setAttribute('download', '');
+      link.hidden = false;
+    });
+    if (profileDownloadLink) profileDownloadLink.textContent = downloadLabel;
+    if (downloadSectionLink) downloadSectionLink.textContent = downloadLabel;
+    if (downloadTitle) downloadTitle.textContent = `Download ${journal.currentVolumeIssue || journal.shortTitle || 'the journal issue'}`;
+    if (downloadNote) downloadNote.textContent = `Access the complete digital issue of ${journal.title} as a PDF file.`;
+    if (downloadSection) downloadSection.hidden = false;
+  } else {
+    if (profileDownloadLink) profileDownloadLink.hidden = true;
+    if (downloadSection) downloadSection.hidden = true;
+  }
 
   const acceptedSection = document.getElementById('journal-accepted-section');
   const acceptedGrid = document.getElementById('journal-accepted-works');

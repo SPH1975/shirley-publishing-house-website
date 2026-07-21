@@ -1,0 +1,27 @@
+SHIRLEY PUBLISHING HOUSE — JOURNAL PDF DOWNLOAD UPGRADE
+
+WHAT THIS FIX ADDS
+- A “Downloadable Journal PDF / Full Issue” file-upload field in Admin > Journals.
+- A customizable download-button label.
+- A Download Issue button on the Our Journals directory.
+- A prominent Download Full Journal button and download section on each journal profile.
+
+HOW TO INSTALL
+1. Copy all files from this patch into the root of your GitHub repository.
+2. Replace existing files when prompted.
+3. Commit with: Add downloadable journal PDF
+4. Push to main and wait for Netlify to show Published.
+
+HOW TO UPLOAD A JOURNAL
+1. Open https://shirleypublishinghouse.com/admin/
+2. Select Journals and open the journal entry.
+3. Under “Downloadable Journal PDF / Full Issue,” upload the complete PDF.
+4. Optionally edit the Download Button Label.
+5. Click Publish and wait for Netlify to deploy.
+6. Open the public journal profile and test the download button.
+
+RECOMMENDATIONS
+- Use a searchable, web-optimized PDF.
+- Compress images to keep the file reasonably small for mobile visitors.
+- Do not upload editable source files, private author information, IDs, contracts, or unpublished manuscripts.
+- Upload only material that Shirley Publishing House has permission to distribute publicly.

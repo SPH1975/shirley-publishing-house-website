@@ -101,6 +101,8 @@ collections:
       - { label: "ISSN", name: "issn", widget: "string", required: false }
       - { label: "Journal Cover", name: "cover", widget: "image", required: false }
       - { label: "Editorial Board Image / Journal Back Page", name: "editorialBoardImage", widget: "image", required: false, hint: "Upload the back page or designed editorial-board image. It will appear on the journal profile page." }
+      - { label: "Downloadable Journal PDF / Full Issue", name: "journalFile", widget: "file", required: false, hint: "Upload the complete journal issue as a PDF. Visitors will be able to download it from the journal directory and profile page. Use a compressed, web-optimized PDF for faster downloads." }
+      - { label: "Download Button Label", name: "downloadLabel", widget: "string", default: "Download Full Journal (PDF)", required: false }
       - { label: "Journal Description", name: "description", widget: "text" }
       - { label: "Scope", name: "scope", widget: "string", required: false, hint: "Example: Multidisciplinary Graduate Studies" }
       - { label: "Disciplines Covered", name: "disciplines", widget: "list", required: false, default: [] }

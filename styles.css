@@ -764,3 +764,19 @@ input:focus, select:focus, textarea:focus { border-color: var(--blue-500); box-s
   .editorial-media-grid { grid-template-columns: 1fr; }
   .editorial-board-image-card { max-width: 600px; width: 100%; margin: 0 auto; }
 }
+
+
+/* Downloadable full journal issue */
+.journal-download-section[hidden] { display: none; }
+.journal-download-card { display: grid; grid-template-columns: auto minmax(0, 1fr) auto; gap: 24px; align-items: center; padding: 30px 34px; border: 1px solid rgba(31, 94, 199, .20); border-radius: 20px; background: linear-gradient(135deg, #f7faff 0%, #eef4ff 100%); box-shadow: var(--shadow-sm); }
+.journal-download-icon { display: grid; place-items: center; width: 74px; height: 86px; border-radius: 12px; color: #fff; background: linear-gradient(145deg, #d62828, #8f1111); font-size: 1rem; font-weight: 900; letter-spacing: .08em; box-shadow: 0 14px 28px rgba(143, 17, 17, .20); }
+.journal-download-copy .eyebrow { margin-bottom: 6px; }
+.journal-download-copy h2 { margin: 0 0 7px; color: var(--navy-950); font-family: Georgia, serif; font-size: clamp(1.55rem, 2.4vw, 2.2rem); }
+.journal-download-copy p:last-child { margin: 0; color: var(--muted); }
+.journal-download-card .btn { white-space: nowrap; }
+.journal-download-card[hidden], #journal-download-link[hidden] { display: none; }
+@media (max-width: 760px) {
+  .journal-download-card { grid-template-columns: auto 1fr; padding: 24px; }
+  .journal-download-card .btn { grid-column: 1 / -1; width: 100%; }
+  .journal-download-icon { width: 62px; height: 72px; }
+}

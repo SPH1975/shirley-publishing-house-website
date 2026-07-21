@@ -50,6 +50,8 @@ const journals = readFolder(path.join(root, 'content', 'journals'), true)
       issn: String(item.issn || '').trim(),
       cover: cleanPath(item.cover || ''),
       editorialBoardImage: cleanPath(item.editorialBoardImage || ''),
+      journalFile: cleanPath(item.journalFile || ''),
+      downloadLabel: String(item.downloadLabel || 'Download Full Journal (PDF)').trim(),
       description: String(item.description || '').trim(),
       scope: String(item.scope || '').trim(),
       disciplines: Array.isArray(item.disciplines) ? unique(item.disciplines.map(String)) : [],
