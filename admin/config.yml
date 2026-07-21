@@ -2,7 +2,9 @@ backend:
   name: git-gateway
   branch: main
 
-local_backend: true
+site_url: "https://shirleypublishinghouse.com"
+display_url: "https://shirleypublishinghouse.com"
+
 media_folder: "assets/uploads"
 public_folder: "/assets/uploads"
 logo_url: "/assets/shirley-logo-transparent.png"
