@@ -37,9 +37,9 @@ window.SHIRLEY_CMS = {
     },
     "journal": {
       "page": "journal",
-      "eyebrow": "Official journal",
-      "title": "A multidisciplinary home for graduate research and scholarly articles.",
-      "intro": "Explore the scope, publication details, and submission pathway of the Multidisciplinary International Theses and Articles Journal Graduate Studies."
+      "eyebrow": "Academic publishing",
+      "title": "Explore the journals of Shirley Publishing House.",
+      "intro": "Browse our peer-reviewed and scholarly journals, review their scope and publication information, and choose the appropriate journal for your manuscript."
     },
     "repository": {
       "page": "repository",
