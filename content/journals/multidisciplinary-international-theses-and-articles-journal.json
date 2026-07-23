@@ -26,7 +26,7 @@
   "featured": true,
   "publicationFrequency": "Quarterly",
   "journalFile": "/assets/uploads/multidisciplinary-international-theses-and-articles-journal-graduate-studies.pdf",
-  "editorInChief": "LETICIA D. GUINSIMAN PhD ",
+  "editorInChief": "",
   "scope": "Multidisciplinary Graduate Studies",
   "cover": "/assets/uploads/chatgpt-image-jul-23-2026-02_48_04-pm.png",
   "format": "Print & Online",
@@ -51,8 +51,5 @@
   "shortTitle": "Multidisciplinary International Theses and Articles Journal",
   "editorialBoardImage": "/assets/uploads/screenshot-2026-07-21-154734.png",
   "description": "The journal presents independently published scholarly works across different academic disciplines, including thesis- and dissertation-derived articles prepared as standalone publications.",
-  "editorialBoard": [
-    "JOSEPH C. ECO",
-    "JOSSANTH VICENTE"
-  ]
+  "editorialBoard": []
 }
