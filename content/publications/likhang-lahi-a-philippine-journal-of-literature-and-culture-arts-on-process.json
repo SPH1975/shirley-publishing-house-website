@@ -17,5 +17,6 @@
   "publisher": "Shirley Publishing House",
   "year": 2026,
   "category": "",
-  "edition": "Volume 1"
+  "edition": "Volume 1",
+  "active": false
 }

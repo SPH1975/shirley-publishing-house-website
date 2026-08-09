@@ -1,0 +1,38 @@
+{
+  "id": "batawil-9786214730582",
+  "title": "BATAWIL",
+  "author": "JENNIFER B. TAGURE",
+  "publisher": "Shirley Publishing House",
+  "type": "Children's Book",
+  "year": 2022,
+  "publicationDate": "SEPTEMBER 13, 2022",
+  "edition": "FIRST EDITION",
+  "language": "FILIPINO",
+  "format": "Hardbound; Softbound/Paperback",
+  "category": "Children's book",
+  "identifierLabel": "ISBN",
+  "identifier": "978-621-473-058-2; 978-621-473-059-9",
+  "identifiers": [
+    {
+      "format": "Hardbound",
+      "isbn": "978-621-473-058-2"
+    },
+    {
+      "format": "Softbound/Paperback",
+      "isbn": "978-621-473-059-9"
+    }
+  ],
+  "suggestedRetailPrice": "N/A",
+  "cover": "https://drive.google.com/thumbnail?id=1hcn0n5dQQcn4mVPhKoi6iMfg2FCSNZok&sz=w1000",
+  "abstract": "",
+  "keywords": [
+    "batawil",
+    "children's book",
+    "filipino",
+    "social studies, culture & indigenous knowledge"
+  ],
+  "accessUrl": "contact.html",
+  "accessLabel": "Inquire About This Publication",
+  "featured": false,
+  "subjectCategory": "Social Studies, Culture & Indigenous Knowledge"
+}

@@ -1,0 +1,36 @@
+{
+  "id": "wally-worm-9786214730926",
+  "title": "Wally Worm",
+  "author": "Phoebe Basilio Paraguas",
+  "publisher": "Shirley Publishing House",
+  "type": "Children's Book",
+  "year": 2023,
+  "publicationDate": "January 19, 2023",
+  "edition": "FIRST EDITION",
+  "language": "ENGLISH",
+  "format": "Softbound/Paperback",
+  "category": "Textbook / educational materials",
+  "identifierLabel": "ISBN",
+  "identifier": "978-621-473-092-6",
+  "identifiers": [
+    {
+      "format": "Softbound/Paperback",
+      "isbn": "978-621-473-092-6"
+    }
+  ],
+  "suggestedRetailPrice": "N/A",
+  "cover": "https://drive.google.com/thumbnail?id=1s1dm16gALQdW5TE0ABFpmZ8UhpZPDBau&sz=w1000",
+  "abstract": "",
+  "keywords": [
+    "wally",
+    "worm",
+    "children's book",
+    "textbook / educational materials",
+    "english",
+    "children's literature & storybooks"
+  ],
+  "accessUrl": "contact.html",
+  "accessLabel": "Inquire About This Publication",
+  "featured": false,
+  "subjectCategory": "Children's Literature & Storybooks"
+}

@@ -141,6 +141,8 @@
     item.language,
     item.identifierLabel,
     item.identifier,
+    item.suggestedRetailPrice,
+    ...(Array.isArray(item.identifiers) ? item.identifiers.flatMap((entry) => [entry.format, entry.isbn]) : []),
     item.abstract,
     ...(Array.isArray(item.keywords) ? item.keywords : [])
   ].filter(Boolean).join(' '));
@@ -284,6 +286,10 @@
   const openDialog = (item) => {
     if (!dialog || !dialogContent) return;
     const keywords = Array.isArray(item.keywords) ? item.keywords : [];
+    const identifiers = Array.isArray(item.identifiers) ? item.identifiers : [];
+    const identifierDetails = identifiers.length
+      ? identifiers.map((entry) => `${entry.format ? `${escapeHtml(entry.format)}: ` : ''}${escapeHtml(entry.isbn)}`).join('<br>')
+      : escapeHtml(item.identifier || '');
     dialogContent.innerHTML = `
       <div class="dialog-publication-layout">
         <aside class="dialog-cover-panel" aria-label="Publication cover">
@@ -302,10 +308,11 @@
               ${item.publisher ? `<div><dt>Publisher</dt><dd>${escapeHtml(item.publisher)}</dd></div>` : ''}
               ${item.publicationDate ? `<div><dt>Publication Date</dt><dd>${escapeHtml(item.publicationDate)}</dd></div>` : (item.year ? `<div><dt>Year</dt><dd>${escapeHtml(item.year)}</dd></div>` : '')}
               ${(item.edition || item.volume) ? `<div><dt>Edition / Volume</dt><dd>${escapeHtml(item.edition || item.volume)}</dd></div>` : ''}
-              ${item.identifier ? `<div><dt>${escapeHtml(item.identifierLabel || 'Identifier')}</dt><dd>${escapeHtml(item.identifier)}</dd></div>` : ''}
+              ${(item.identifier || identifiers.length) ? `<div><dt>${escapeHtml(identifiers.length > 1 ? 'ISBNs' : (item.identifierLabel || 'Identifier'))}</dt><dd>${identifierDetails}</dd></div>` : ''}
               ${item.language ? `<div><dt>Language</dt><dd>${escapeHtml(item.language)}</dd></div>` : ''}
               ${item.category ? `<div><dt>Publication Category</dt><dd>${escapeHtml(item.category)}</dd></div>` : ''}
               ${item.format ? `<div><dt>Format</dt><dd>${escapeHtml(item.format)}</dd></div>` : ''}
+              ${item.suggestedRetailPrice ? `<div><dt>Suggested Retail Price</dt><dd>${escapeHtml(item.suggestedRetailPrice)}</dd></div>` : ''}
             </dl>
 
             ${item.abstract ? `<p class="dialog-description">${escapeHtml(item.abstract)}</p>` : ''}

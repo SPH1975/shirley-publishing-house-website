@@ -1,0 +1,41 @@
+{
+  "id": "karangahan-nin-puso-9786214730094",
+  "title": "KARANGAHAN NIN PUSO",
+  "author": "DENNIS DAMASO-BARCEBAL",
+  "publisher": "Shirley Publishing House",
+  "type": "Book",
+  "year": 2021,
+  "publicationDate": "AUGUST 20,2021",
+  "edition": "FIRST EDITION",
+  "language": "ENGLISH AND FILIPINO",
+  "format": "Softbound/Paperback; PDF (downloadable)",
+  "category": "Trade books, Textbook / educational materials",
+  "identifierLabel": "ISBN",
+  "identifier": "978-621-473-009-4; 978-621-473-010-0",
+  "identifiers": [
+    {
+      "format": "Softbound/Paperback",
+      "isbn": "978-621-473-009-4"
+    },
+    {
+      "format": "PDF (downloadable)",
+      "isbn": "978-621-473-010-0"
+    }
+  ],
+  "suggestedRetailPrice": "450.00",
+  "cover": "assets/covers/9786214730094-karangahan-nin-puso.webp",
+  "abstract": "",
+  "keywords": [
+    "karangahan",
+    "nin",
+    "puso",
+    "book",
+    "trade books, textbook / educational materials",
+    "english and filipino",
+    "social studies, culture & indigenous knowledge"
+  ],
+  "accessUrl": "contact.html",
+  "accessLabel": "Inquire About This Publication",
+  "featured": false,
+  "subjectCategory": "Social Studies, Culture & Indigenous Knowledge"
+}

@@ -30,7 +30,7 @@ const slugify = (value = '') => String(value).toLowerCase().normalize('NFD')
 const unique = (values) => [...new Set(values.filter(Boolean))];
 const cleanPath = (value = '') => String(value).replace(/^\//, '');
 
-const publications = readFolder(path.join(root, 'content', 'publications')).map((item) => {
+const publications = readFolder(path.join(root, 'content', 'publications')).filter((item) => item.active !== false).map((item) => {
   const identifier = String(item.identifier || '').trim();
   const title = String(item.title || 'Untitled Publication').trim();
   const cover = cleanPath(item.cover || '');
@@ -122,11 +122,11 @@ const pages = Object.fromEntries(readFolder(path.join(root, 'content', 'pages'))
 const services = readFolder(path.join(root, 'content', 'services')).sort((a, b) => (Number(a.order) || 999) - (Number(b.order) || 999));
 const site = readJson(path.join(root, 'content', 'site-settings.json'));
 
-fs.writeFileSync(path.join(root, 'repository-data.json'), JSON.stringify(publications, null, 2));
+fs.writeFileSync(path.join(root, 'repository-data.json'), `${JSON.stringify(publications, null, 2)}\n`);
 fs.writeFileSync(path.join(root, 'repository-data.js'), `window.SHIRLEY_REPOSITORY = ${JSON.stringify(publications, null, 2)};\n`);
-fs.writeFileSync(path.join(root, 'journals-data.json'), JSON.stringify(journals, null, 2));
+fs.writeFileSync(path.join(root, 'journals-data.json'), `${JSON.stringify(journals, null, 2)}\n`);
 fs.writeFileSync(path.join(root, 'journals-data.js'), `window.SHIRLEY_JOURNALS = ${JSON.stringify(journals, null, 2)};\n`);
-fs.writeFileSync(path.join(root, 'journal-articles-data.json'), JSON.stringify(journalArticles, null, 2));
+fs.writeFileSync(path.join(root, 'journal-articles-data.json'), `${JSON.stringify(journalArticles, null, 2)}\n`);
 fs.writeFileSync(path.join(root, 'journal-articles-data.js'), `window.SHIRLEY_JOURNAL_ARTICLES = ${JSON.stringify(journalArticles, null, 2)};\n`);
 fs.writeFileSync(path.join(root, 'cms-data.js'), `window.SHIRLEY_CMS = ${JSON.stringify({ site, pages, services }, null, 2)};\n`);
 console.log(`Built ${publications.length} publications, ${journals.length} journals, ${journalArticles.length} journal articles, ${services.length} services, and ${Object.keys(pages).length} page records.`);
