@@ -12,6 +12,19 @@ const readFolder = (folder, includeFileName = false) => {
       return includeFileName ? { ...item, __fileSlug: path.basename(name, '.json') } : item;
     });
 };
+const readBatches = (folder) => {
+  if (!fs.existsSync(folder)) return [];
+  return fs.readdirSync(folder)
+    .filter((name) => name.endsWith('.json'))
+    .flatMap((name) => {
+      const items = readJson(path.join(folder, name));
+      if (!Array.isArray(items)) throw new Error(`Journal article batch ${name} must contain a JSON array.`);
+      return items.map((item, index) => ({
+        ...item,
+        __fileSlug: item.id || `${path.basename(name, '.json')}-${index + 1}`,
+      }));
+    });
+};
 const slugify = (value = '') => String(value).toLowerCase().normalize('NFD')
   .replace(/[\u0300-\u036f]/g, '').replace(/[^a-z0-9]+/g, '-').replace(/^-|-$/g, '');
 const unique = (values) => [...new Set(values.filter(Boolean))];
@@ -73,8 +86,10 @@ const journals = readFolder(path.join(root, 'content', 'journals'), true)
   .filter((item) => item.active)
   .sort((a, b) => Number(b.featured) - Number(a.featured) || a.title.localeCompare(b.title));
 
-const journalArticles = readFolder(path.join(root, 'content', 'journal-articles'), true)
-  .map((item) => {
+const journalArticles = [
+  ...readFolder(path.join(root, 'content', 'journal-articles'), true),
+  ...readBatches(path.join(root, 'content', 'journal-article-batches')),
+].map((item) => {
     const title = String(item.title || 'Untitled Article').trim();
     const { __fileSlug, ...articleData } = item;
     return {
