@@ -60,7 +60,7 @@
   const journal = journals.find((item) => item.id === requestedId) || (journals.length === 1 && !requestedId ? journals[0] : null);
 
   const hideSectionsForMissing = () => {
-    ['journal-profile-section', 'journal-download-section', 'journal-accepted-section', 'journal-guidelines-section', 'journal-editorial-section'].forEach((id) => {
+    ['journal-profile-section', 'journal-details'].forEach((id) => {
       const element = document.getElementById(id);
       if (element) element.hidden = true;
     });
@@ -86,6 +86,7 @@
   setText('journal-hero-intro', journal.description || `View the scope and publication information for ${journal.title}.`);
   setText('journal-title', journal.title);
   setText('journal-description', journal.description);
+  setText('journal-tab-description-copy', journal.description);
   setText('journal-editor-chief', journal.editorInChief);
   document.title = `${journal.shortTitle || journal.title} | Shirley Publishing House`;
   const descriptionMeta = document.querySelector('meta[name="description"]');
@@ -110,10 +111,13 @@
 
   const disciplineWrap = document.getElementById('journal-disciplines-wrap');
   const disciplines = document.getElementById('journal-disciplines');
+  const disciplinesTab = document.getElementById('journal-disciplines-tab');
   if ((journal.disciplines || []).length && disciplines) {
     disciplines.innerHTML = journal.disciplines.map((item) => `<span>${escapeHtml(item)}</span>`).join('');
+    if (disciplinesTab) disciplinesTab.innerHTML = journal.disciplines.map((item) => `<span>${escapeHtml(item)}</span>`).join('');
   } else if (disciplineWrap) {
     disciplineWrap.hidden = true;
+    document.getElementById('journal-disciplines-tab-wrap')?.setAttribute('hidden', '');
   }
 
   const submitUrl = safeUrl(journal.submissionUrl, 'submit.html');
@@ -124,6 +128,8 @@
   });
   const publicationsLink = document.getElementById('journal-publications-link');
   if (publicationsLink) publicationsLink.href = publicationsUrl;
+  const archivePublicationsLink = document.getElementById('journal-archive-publications-link');
+  if (archivePublicationsLink) archivePublicationsLink.href = publicationsUrl;
 
   const journalFile = journalFileSrc(journal);
   const downloadLabel = journal.downloadLabel || 'Download Full Journal (PDF)';
@@ -152,7 +158,7 @@
   const acceptedSection = document.getElementById('journal-accepted-section');
   const acceptedGrid = document.getElementById('journal-accepted-works');
   if ((journal.acceptedWorks || []).length && acceptedGrid) {
-    acceptedGrid.innerHTML = journal.acceptedWorks.map((item) => `<article class="value-card"><span>${escapeHtml(initials(item))}</span><h3>${escapeHtml(item)}</h3><p>Submissions are considered in accordance with this journal’s scope, editorial policies, and quality standards.</p></article>`).join('');
+    acceptedGrid.innerHTML = journal.acceptedWorks.map((item) => `<li>${escapeHtml(item)}</li>`).join('');
   } else if (acceptedSection) acceptedSection.hidden = true;
 
   const fillList = (listId, cardId, values) => {
@@ -167,7 +173,6 @@
     document.getElementById('journal-guidelines-section')?.setAttribute('hidden', '');
   }
 
-  const editorialSection = document.getElementById('journal-editorial-section');
   const editorialPanel = document.getElementById('journal-editorial-panel');
   const boardWrap = document.getElementById('journal-board-wrap');
   const board = document.getElementById('journal-editorial-board');
@@ -191,5 +196,33 @@
 
   const hasEditorialText = Boolean(journal.editorInChief || (journal.editorialBoard || []).length);
   if (!hasEditorialText && editorialPanel) editorialPanel.hidden = true;
-  if (!hasEditorialText && !boardImageSource && editorialSection) editorialSection.hidden = true;
+  if (!hasEditorialText && !boardImageSource) {
+    document.getElementById('journal-panel-editorial')?.classList.add('is-empty');
+  }
+
+  const tabs = [...document.querySelectorAll('[data-journal-tab]')];
+  const panels = [...document.querySelectorAll('[data-journal-panel]')];
+  const activateTab = (name) => {
+    tabs.forEach((tab) => {
+      const active = tab.dataset.journalTab === name;
+      tab.classList.toggle('is-active', active);
+      tab.setAttribute('aria-selected', String(active));
+      tab.tabIndex = active ? 0 : -1;
+    });
+    panels.forEach((panel) => {
+      const active = panel.dataset.journalPanel === name;
+      panel.classList.toggle('is-active', active);
+      panel.hidden = !active;
+    });
+  };
+  tabs.forEach((tab, index) => {
+    tab.addEventListener('click', () => activateTab(tab.dataset.journalTab));
+    tab.addEventListener('keydown', (event) => {
+      if (!['ArrowLeft', 'ArrowRight'].includes(event.key)) return;
+      event.preventDefault();
+      const next = event.key === 'ArrowRight' ? (index + 1) % tabs.length : (index - 1 + tabs.length) % tabs.length;
+      tabs[next].focus();
+      activateTab(tabs[next].dataset.journalTab);
+    });
+  });
 })();
