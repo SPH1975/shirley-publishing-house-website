@@ -1,4 +1,10 @@
 (() => {
+  const updateNotice = document.createElement('div');
+  updateNotice.className = 'site-update-notice';
+  updateNotice.setAttribute('role', 'status');
+  updateNotice.innerHTML = '<div class="container site-update-notice-inner"><span class="site-update-dot" aria-hidden="true"></span><strong>Website Update in Progress</strong><span>We are currently updating journal information and adding article files. Some content may be temporarily incomplete.</span></div>';
+  document.body.insertBefore(updateNotice, document.body.firstChild);
+
   const menuButton = document.querySelector('.menu-toggle');
   const mainNav = document.querySelector('.main-nav');
 
