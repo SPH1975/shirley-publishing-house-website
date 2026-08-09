@@ -1,0 +1,52 @@
+{
+  "title": "National Research Journal",
+  "shortTitle": "National Research Journal",
+  "urlSlug": "national-research-journal",
+  "issn": "2960-3625",
+  "cover": "assets/uploads/journal-covers/national-research-journal-cover.png",
+  "description": "National Research Journal is a semi-annual English-language scholarly publication of Shirley Publishing House. It provides a venue for original research, academic studies, and evidence-based contributions addressing educational, institutional, scientific, social, and national development concerns.",
+  "scope": "National and Multidisciplinary Research",
+  "disciplines": [
+    "Education and Teaching",
+    "Social Sciences",
+    "Science and Technology",
+    "Business and Management",
+    "Public Administration",
+    "Agriculture and Rural Development",
+    "Health and Community Studies",
+    "Other Research Disciplines"
+  ],
+  "publicationFrequency": "Semi-annual",
+  "format": "Print",
+  "currentVolumeIssue": "",
+  "establishedYear": "2022",
+  "editorInChief": "",
+  "editorialBoard": [],
+  "acceptedWorks": [
+    "Research Articles",
+    "Review Articles",
+    "Case Studies",
+    "Institutional Research",
+    "Policy and Development Studies"
+  ],
+  "preparationGuidelines": [
+    "Use a clear and specific research title",
+    "Include complete author information and institutional affiliation",
+    "Provide an abstract and relevant keywords",
+    "Use IMRAD format when appropriate",
+    "Apply a consistent citation and reference style",
+    "Submit original work that has not been published elsewhere"
+  ],
+  "editorialCriteria": [
+    "Relevance to the journal's national and multidisciplinary scope",
+    "Originality and research contribution",
+    "Clarity, organization, and methodological soundness",
+    "Ethical handling of data, sources, and authorship",
+    "Accuracy and completeness of citations and references",
+    "Readiness for editorial review and publication"
+  ],
+  "submissionUrl": "submit.html",
+  "publicationsUrl": "repository.html",
+  "featured": true,
+  "active": true
+}
