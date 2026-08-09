@@ -99,7 +99,7 @@ window.SHIRLEY_JOURNALS = [
     "shortTitle": "National Research Journal",
     "urlSlug": "national-research-journal",
     "issn": "2960-3625",
-    "cover": "assets/uploads/journal-covers/national-research-journal-cover.png",
+    "cover": "assets/uploads/journal-covers/national-research-journal-cover-2026.svg",
     "description": "National Research Journal is a semi-annual English-language scholarly publication of Shirley Publishing House. It provides a venue for original research, academic studies, and evidence-based contributions addressing educational, institutional, scientific, social, and national development concerns.",
     "scope": "National and Multidisciplinary Research",
     "disciplines": [
@@ -113,7 +113,7 @@ window.SHIRLEY_JOURNALS = [
       "Other Research Disciplines"
     ],
     "publicationFrequency": "Semi-annual",
-    "format": "Print & Online",
+    "format": "Print",
     "currentVolumeIssue": "Volume 4 Issue No. 2",
     "establishedYear": "2022",
     "editorInChief": "",
