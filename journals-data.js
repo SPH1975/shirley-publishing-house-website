@@ -113,8 +113,8 @@ window.SHIRLEY_JOURNALS = [
       "Other Research Disciplines"
     ],
     "publicationFrequency": "Semi-annual",
-    "format": "Print",
-    "currentVolumeIssue": "Volume 1 Issue No. 1",
+    "format": "Print & Online",
+    "currentVolumeIssue": "Volume 4 Issue No. 2",
     "establishedYear": "2022",
     "editorInChief": "",
     "editorialBoard": [],
