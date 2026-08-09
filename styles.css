@@ -1948,3 +1948,97 @@ body.is-scrolled .brand img { width: 218px; height: 64px; }
 .journal-detail-hero .eyebrow {
   color: #a8d6ff;
 }
+
+/* ==========================================================================
+   Sitewide contrast corrections — August 2026
+   ========================================================================== */
+
+/* Restore strong branded surfaces where the inherited copy is intentionally light. */
+.about-panel {
+  color: #fff;
+  border-color: rgba(143, 202, 255, .24);
+  background:
+    radial-gradient(circle at 100% 0, rgba(96, 179, 249, .28), transparent 22rem),
+    linear-gradient(145deg, #020a18, #082a5c 58%, #0b4f9d);
+  box-shadow: 0 28px 70px rgba(6, 29, 66, .22);
+}
+.about-panel .eyebrow { color: #bfe1ff; }
+.about-panel h3 { color: #fff; }
+.about-panel > p:not(.eyebrow) { color: rgba(242, 248, 255, .86); }
+.about-panel .about-stat {
+  border-color: rgba(255, 255, 255, .17);
+  background: rgba(255, 255, 255, .10);
+}
+.about-panel .about-stat strong { color: #bfe1ff; }
+.about-panel .about-stat span { color: rgba(242, 248, 255, .82); }
+
+.process-grid .process-step {
+  color: #fff;
+  border-color: rgba(128, 193, 250, .22);
+  background:
+    radial-gradient(circle at 100% 0, rgba(72, 160, 238, .20), transparent 12rem),
+    linear-gradient(145deg, #061d42, #0a3d80);
+  box-shadow: 0 18px 42px rgba(6, 29, 66, .18);
+}
+.process-grid .process-step h3 { color: #fff; }
+.process-grid .process-step p { color: rgba(242, 248, 255, .82); }
+.process-grid .process-step:hover {
+  border-color: rgba(150, 210, 255, .42);
+  box-shadow: 0 26px 58px rgba(6, 29, 66, .26);
+}
+
+.form-layout .contact-card {
+  color: #fff;
+  border-color: rgba(128, 193, 250, .22);
+  background:
+    radial-gradient(circle at 100% 0, rgba(72, 160, 238, .24), transparent 17rem),
+    linear-gradient(145deg, #020a18, #082a5c 62%, #0b4f9d);
+  box-shadow: 0 26px 62px rgba(6, 29, 66, .22);
+}
+.form-layout .contact-card h2,
+.form-layout .contact-card .contact-list strong,
+.form-layout .contact-card .contact-list a { color: #fff; }
+.form-layout .contact-card > p { color: rgba(242, 248, 255, .84); }
+.form-layout .contact-card .contact-list span { color: #b9d9f6; }
+.form-layout .contact-card .contact-list a:hover strong,
+.form-layout .contact-card .contact-list a:hover span { color: #d9ecff; }
+
+.repository-page-hero .repository-page-stat-card { color: var(--text); }
+.repository-page-hero .repository-page-stat-card > span {
+  color: var(--blue-700);
+  font-weight: 900;
+}
+.repository-page-hero .repository-page-stat-card > small {
+  color: var(--muted);
+  opacity: 1;
+}
+.journal-issue-group > header h3 { color: #fff; }
+
+/* Increase readability of small copy on dark and gradient surfaces. */
+.hero-copy > p:not(.eyebrow) { color: rgba(246, 250, 255, .90); }
+.hero-micro { color: rgba(242, 248, 255, .88); }
+.page-hero p,
+.repository-page-hero p { color: rgba(246, 250, 255, .88); }
+.breadcrumbs,
+.breadcrumbs a { color: #d5eaff; }
+.page-hero .eyebrow,
+.repository-page-hero .eyebrow,
+.journals-hero .eyebrow,
+.journal-detail-hero .eyebrow { color: #bfe1ff; }
+.cta-band p { color: rgba(242, 248, 255, .88); }
+.site-update-notice-inner > span:last-child { color: rgba(255, 255, 255, .92); }
+.topbar { color: rgba(255, 255, 255, .86); }
+.site-footer { color: rgba(235, 244, 255, .82); }
+
+@media (max-width: 640px) {
+  .about-panel,
+  .process-grid .process-step,
+  .form-layout .contact-card { border-radius: 18px; }
+}
+
+.page-hero p:not(.eyebrow),
+.repository-page-hero p:not(.eyebrow) { color: rgba(246, 250, 255, .88); }
+
+.process-section .section-heading p { color: rgba(246, 250, 255, .88); }
+.process-section .eyebrow { color: #bfe1ff; }
+.process-step:not(:last-child)::after { color: #8ec8ff; }
