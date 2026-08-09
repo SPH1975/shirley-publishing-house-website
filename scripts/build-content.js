@@ -58,6 +58,7 @@ const journals = readFolder(path.join(root, 'content', 'journals'), true)
       publicationFrequency: String(item.publicationFrequency || '').trim(),
       format: String(item.format || '').trim(),
       currentVolumeIssue: String(item.currentVolumeIssue || '').trim(),
+      establishedYear: String(item.establishedYear || '').trim(),
       editorInChief: String(item.editorInChief || '').trim(),
       editorialBoard: Array.isArray(item.editorialBoard) ? unique(item.editorialBoard.map(String)) : [],
       acceptedWorks: Array.isArray(item.acceptedWorks) ? unique(item.acceptedWorks.map(String)) : [],
