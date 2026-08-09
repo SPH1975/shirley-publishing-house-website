@@ -178,7 +178,17 @@
       if (!issueGroups.has(key)) issueGroups.set(key, []);
       issueGroups.get(key).push(article);
     });
-    articleArchive.innerHTML = [...issueGroups.entries()].map(([key, articles]) => {
+    const numericArchiveValue = (value) => {
+      const match = String(value ?? '').match(/\d+(?:\.\d+)?/);
+      return match ? Number(match[0]) : Number.NEGATIVE_INFINITY;
+    };
+    const orderedIssueGroups = [...issueGroups.entries()].sort(([keyA], [keyB]) => {
+      const [volumeA, issueA] = keyA.split('::');
+      const [volumeB, issueB] = keyB.split('::');
+      return numericArchiveValue(volumeB) - numericArchiveValue(volumeA)
+        || numericArchiveValue(issueB) - numericArchiveValue(issueA);
+    });
+    articleArchive.innerHTML = orderedIssueGroups.map(([key, articles]) => {
       const [volume, issue, issueLabel] = key.split('::');
       const issueTitle = volume === 'Unassigned' && issue === 'Unassigned'
         ? 'Published Articles'
