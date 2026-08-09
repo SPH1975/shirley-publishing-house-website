@@ -88,4 +88,112 @@
       </article>`;
     }).join('');
   }
+
+
+  /* Sitewide experience enhancements */
+  const progressBar = document.createElement('div');
+  progressBar.className = 'scroll-progress';
+  progressBar.setAttribute('aria-hidden', 'true');
+  document.body.appendChild(progressBar);
+
+  const backToTop = document.createElement('button');
+  backToTop.className = 'site-back-to-top';
+  backToTop.type = 'button';
+  backToTop.setAttribute('aria-label', 'Back to top');
+  backToTop.innerHTML = '<span aria-hidden="true">↑</span>';
+  document.body.appendChild(backToTop);
+
+  backToTop.addEventListener('click', () => {
+    window.scrollTo({ top: 0, behavior: 'smooth' });
+  });
+
+  let scrollFramePending = false;
+  const updateScrollExperience = () => {
+    const scrollTop = window.scrollY || document.documentElement.scrollTop;
+    const scrollRange = Math.max(1, document.documentElement.scrollHeight - window.innerHeight);
+    progressBar.style.width = Math.min(100, Math.max(0, (scrollTop / scrollRange) * 100)) + '%';
+    document.body.classList.toggle('is-scrolled', scrollTop > 24);
+    backToTop.classList.toggle('is-visible', scrollTop > 620);
+    scrollFramePending = false;
+  };
+
+  window.addEventListener('scroll', () => {
+    if (!scrollFramePending) {
+      scrollFramePending = true;
+      window.requestAnimationFrame(updateScrollExperience);
+    }
+  }, { passive: true });
+  window.addEventListener('resize', updateScrollExperience, { passive: true });
+  updateScrollExperience();
+
+  const closeNavigation = () => {
+    mainNav?.classList.remove('is-open');
+    menuButton?.setAttribute('aria-expanded', 'false');
+    menuButton?.setAttribute('aria-label', 'Open navigation menu');
+  };
+
+  document.addEventListener('click', (event) => {
+    const header = document.querySelector('.site-header');
+    if (mainNav?.classList.contains('is-open') && header && !header.contains(event.target)) {
+      closeNavigation();
+    }
+  });
+
+  document.addEventListener('keydown', (event) => {
+    if (event.key === 'Escape' && mainNav?.classList.contains('is-open')) {
+      closeNavigation();
+      menuButton?.focus();
+    }
+  });
+
+  window.addEventListener('resize', () => {
+    if (window.innerWidth > 900) closeNavigation();
+  }, { passive: true });
+
+  const reducedMotion = window.matchMedia?.('(prefers-reduced-motion: reduce)').matches;
+  const revealSelector = [
+    '.section-heading',
+    '.feature-item',
+    '.service-card',
+    '.service-detail',
+    '.process-step',
+    '.preview-card',
+    '.content-card',
+    '.why-card',
+    '.value-card',
+    '.about-panel',
+    '.contact-card',
+    '.web-form',
+    '.journal-directory-card',
+    '.journal-profile-dynamic',
+    '.journal-tab-panel',
+    '.journal-issue-group',
+    '.journal-article-card',
+    '.repository-category-card',
+    '.repository-card',
+    '.repository-page-stat-card',
+    '.repository-disclaimer'
+  ].join(',');
+
+  const revealTargets = [...document.querySelectorAll(revealSelector)];
+  revealTargets.forEach((element, index) => {
+    element.classList.add('reveal-target');
+    element.style.setProperty('--reveal-delay', ((index % 4) * 65) + 'ms');
+  });
+
+  if (!reducedMotion && 'IntersectionObserver' in window && revealTargets.length) {
+    document.documentElement.classList.add('motion-ready');
+    const revealObserver = new IntersectionObserver((entries) => {
+      entries.forEach((entry) => {
+        if (!entry.isIntersecting) return;
+        entry.target.classList.add('is-revealed');
+        revealObserver.unobserve(entry.target);
+      });
+    }, { threshold: 0.08, rootMargin: '0px 0px -8% 0px' });
+
+    revealTargets.forEach((element) => revealObserver.observe(element));
+  } else {
+    revealTargets.forEach((element) => element.classList.add('is-revealed'));
+  }
+
 })();
