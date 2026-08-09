@@ -8,7 +8,7 @@
 <meta content="#061d42" name="theme-color"/>
 <title>Shirley Publishing House | Publication &amp; Printing Services</title>
 <link href="assets/favicon.png" rel="icon" type="image/png"/>
-<link href="styles.css?v=20260809-contrast1" rel="stylesheet"/>
+<link href="styles.css?v=20260809-services1" rel="stylesheet"/>
 <script>
 (function () {
   var hash = window.location.hash || "";
@@ -111,12 +111,18 @@
 </div>
 </div>
 </section>
-<section class="section section-soft">
+<section class="section section-soft service-explorer-section" aria-labelledby="service-explorer-title">
 <div class="container">
-<div class="section-heading center">
-<p class="eyebrow">What we do</p>
-<h2>Complete publishing services under one roof</h2>
-<p>Choose a single service or allow our team to guide your work through the complete publishing process.</p>
+<div class="section-heading center service-explorer-heading">
+<p class="eyebrow">Explore our expertise</p>
+<h2 id="service-explorer-title">Everything your publication needs, under one roof</h2>
+<p>Select a service to see how our team can move your work forward—from registration and editing to professional production.</p>
+</div>
+<div class="service-explorer" data-service-explorer>
+<div class="service-explorer-menu">
+<div class="service-explorer-menu-heading">
+<span>Choose a service</span>
+<strong>Six ways we help</strong>
 </div>
 <div class="service-grid">
 <article class="service-card featured"><div class="number">01</div><h3>Publication Registration</h3><p>Formal identification and compliance support for your publication.</p><ul><li>ISBN, ISSN, and ISMN</li><li>Copyright registration</li><li>CIP data assistance</li><li>Legal deposit compliance</li></ul></article>
@@ -126,7 +132,35 @@
 <article class="service-card"><div class="number">05</div><h3>Book Publishing</h3><p>Creative and technical preparation for books ready for print or distribution.</p><ul><li>Book layout and formatting</li><li>Cover and interior design</li><li>Self-publishing assistance</li><li>Print-on-demand support</li></ul></article>
 <article class="service-card"><div class="number">06</div><h3>Institutional Services</h3><p>Customized solutions for schools, organizations, and academic offices.</p><ul><li>School journals and modules</li><li>Learning materials</li><li>Customized publications</li><li>Institutional printing</li></ul></article>
 </div>
-<div style="text-align:center;margin-top:32px"><a class="btn btn-primary" href="services.html">View All Services</a></div>
+</div>
+<section class="service-explorer-panel" data-service-panel role="tabpanel" aria-live="polite" aria-atomic="true" hidden>
+<div class="service-panel-kicker">
+<span class="service-panel-number" data-service-number>01</span>
+<span data-service-position>Service 1 of 6</span>
+</div>
+<p class="service-panel-label">Selected service</p>
+<h3 data-service-title>Publication Registration</h3>
+<p class="service-panel-summary" data-service-summary>Formal identification and compliance support for your publication.</p>
+<div class="service-panel-divider" aria-hidden="true"></div>
+<p class="service-panel-list-label">What we can help with</p>
+<ul class="service-panel-list" data-service-items>
+<li>ISBN, ISSN, and ISMN</li>
+<li>Copyright registration</li>
+<li>CIP data assistance</li>
+<li>Legal deposit compliance</li>
+</ul>
+<div class="service-panel-next">
+<div>
+<span>Have a project in mind?</span>
+<strong>Let’s identify the right publishing support for it.</strong>
+</div>
+<div class="service-panel-actions">
+<a class="btn btn-light" href="contact.html">Discuss this service</a>
+<a class="service-panel-link" href="services.html">View all services <span aria-hidden="true">→</span></a>
+</div>
+</div>
+</section>
+</div>
 </div>
 </section>
 <section class="section process-section">
@@ -209,6 +243,6 @@
 </div>
 </footer>
 <script src="cms-data.js"></script><script src="cms-content.js"></script><script src="repository-data.js"></script>
-<script src="script.js?v=20260809"></script>
+<script src="script.js?v=20260809-services1"></script>
 </body>
 </html>
