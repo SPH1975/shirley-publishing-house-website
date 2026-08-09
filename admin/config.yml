@@ -119,6 +119,46 @@ collections:
       - { label: "Feature This Journal", name: "featured", widget: "boolean", default: false, required: false }
       - { label: "Show on Website", name: "active", widget: "boolean", default: true, required: false }
 
+  - name: "journal_articles"
+    label: "Journal Article Archive"
+    label_singular: "Journal Article"
+    folder: "content/journal-articles"
+    create: true
+    delete: true
+    extension: "json"
+    format: "json"
+    identifier_field: "title"
+    summary: "{{title}} — Volume {{volume}}, Issue {{issue}}"
+    slug: "{{year}}-{{month}}-{{day}}-{{slug}}"
+    sortable_fields: ["title", "publicationDate", "volume", "issue"]
+    fields:
+      - label: "Journal"
+        name: "journalId"
+        widget: "relation"
+        collection: "journals"
+        search_fields: ["title", "shortTitle", "urlSlug"]
+        display_fields: ["title"]
+        value_field: "urlSlug"
+        hint: "Select the journal where this article was published."
+      - { label: "Article Title", name: "title", widget: "string" }
+      - { label: "Authors", name: "authors", widget: "list", hint: "Add each author as a separate entry." }
+      - label: "Article Type"
+        name: "articleType"
+        widget: "select"
+        options: ["Research Article", "Thesis-Derived Article", "Dissertation-Derived Article", "Review Article", "Case Study", "Institutional Paper", "Creative Work", "Other"]
+        default: "Research Article"
+      - { label: "Abstract", name: "abstract", widget: "text", required: false }
+      - { label: "Keywords", name: "keywords", widget: "list", required: false, default: [] }
+      - { label: "Volume", name: "volume", widget: "string", hint: "Example: 2" }
+      - { label: "Issue", name: "issue", widget: "string", hint: "Example: 1" }
+      - { label: "Issue Display Label", name: "issueLabel", widget: "string", required: false, hint: "Optional. Example: January–June 2023" }
+      - { label: "Publication Date", name: "publicationDate", widget: "datetime", date_format: "YYYY-MM-DD", time_format: false, format: "YYYY-MM-DD" }
+      - { label: "Page Range", name: "pages", widget: "string", required: false, hint: "Example: 15–29" }
+      - { label: "DOI", name: "doi", widget: "string", required: false }
+      - { label: "Article PDF", name: "pdfFile", widget: "file", media_library: { config: { multiple: false } }, hint: "Upload the final article PDF. This creates the public View/Download PDF button." }
+      - { label: "Feature Article", name: "featured", widget: "boolean", default: false, required: false }
+      - { label: "Show in Journal Archive", name: "active", widget: "boolean", default: true, required: false }
+
   - name: "pages"
     label: "Website Page Headings"
     files:
