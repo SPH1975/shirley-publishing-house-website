@@ -1,21 +1,1316 @@
 window.SHIRLEY_JOURNAL_ARTICLES = [
   {
     "journalId": "national-research-journal",
-    "title": "Accreditation Readiness of Non-Accredited Information Technology Programs in Western Visayas: A Provincial and Faculty-Profile Analysis",
+    "title": "Teaching Integral Calculus as Strategic Anti-Differentiation: Concepts, Methods, and Applications",
     "authors": [
-      "Rose May Cora P. Lagon"
+      "Alan P. Nebrida, James G. Bangunan, and Dhom Ryan S. Millares"
     ],
-    "articleType": "Research Article",
-    "abstract": "This article examines accreditation-readiness results for non-accredited Information Technology programs in Region VI.",
+    "articleType": "Review Article",
+    "abstract": "A portfolio of 2 source-derived manuscripts is reconstructed here as one integrative conceptual or practice review concerning integral calculus, and integration strategy. It uses an integrative document-analysis approach to examine the source portfolio. The review identifies relationships across the component themes, eliminates repeated framing, and introduces independent literature or official policy where needed. Any numerical findings are reported as secondary evidence only because the underlying raw data were not available for recalculation. The synthesis therefore offers one bounded contribution while making its evidentiary and publication checks explicit.",
+    "keywords": [
+      "integral calculus",
+      "integration strategy",
+      "engineering math",
+      "integrative review",
+      "editorial consolidation"
+    ],
+    "volume": "4",
+    "issue": "2",
+    "issueLabel": "Issue No. 2 (2025)",
+    "pages": "1–10",
+    "pdfFile": "https://drive.google.com/file/d/1PyQs5CGK2toT9xfDqFloNyUQ19mw5bsB/view?usp=sharing",
+    "featured": false,
+    "active": true,
+    "id": "nrj-volume-4-issue-2-teaching-integral-calculus-as-strategic-anti-differentiation-concepts-methods-and-applic",
+    "publicationDate": "",
+    "doi": ""
+  },
+  {
+    "journalId": "national-research-journal",
+    "title": "A Coherent Learning Progression for Differential Calculus: Functions, Limits, Derivatives, Curves, and Optimization",
+    "authors": [
+      "Alan P. Nebrida, James G. Bangunan, and Jemimah P. Natividad"
+    ],
+    "articleType": "Review Article",
+    "abstract": "A portfolio of 5 source-derived manuscripts is reconstructed here as one integrative conceptual or practice review concerning curve analysis, differentiation, functions, limits, and optimization and motion. It uses an integrative document-analysis approach to examine the source portfolio. The review identifies relationships across the component themes, eliminates repeated framing, and introduces independent literature or official policy where needed. Any numerical findings are reported as secondary evidence only because the underlying raw data were not available for recalculation. The synthesis therefore offers one bounded contribution while making its evidentiary and publication checks explicit.",
+    "keywords": [
+      "curve analysis",
+      "differentiation",
+      "functions",
+      "limits",
+      "optimization and motion",
+      "engineering math",
+      "integrative review",
+      "editorial consolidation"
+    ],
+    "volume": "4",
+    "issue": "2",
+    "issueLabel": "Issue No. 2 (2025)",
+    "pages": "1–15",
+    "pdfFile": "https://drive.google.com/file/d/1wKK02Oi7x7mKzlMcdGukswphqC5ciYEJ/view?usp=sharing",
+    "featured": false,
+    "active": true,
+    "id": "nrj-volume-4-issue-2-a-coherent-learning-progression-for-differential-calculus-functions-limits-derivatives-c",
+    "publicationDate": "",
+    "doi": ""
+  },
+  {
+    "journalId": "national-research-journal",
+    "title": "Engineering Mathematics as a Modeling Toolkit: Calculus, Vectors, Dynamic Systems, Probability, and Statistics",
+    "authors": [
+      "Alan Pacites Nebrida"
+    ],
+    "articleType": "Review Article",
+    "abstract": "A portfolio of 5 source-derived manuscripts is reconstructed here as one integrative conceptual or practice review concerning calculus applications, dynamic engineering systems, engineering mathematics, probability and statistics, and vector analysis. It uses an integrative document-analysis approach to examine the source portfolio. The review identifies relationships across the component themes, eliminates repeated framing, and introduces independent literature or official policy where needed. Any numerical findings are reported as secondary evidence only because the underlying raw data were not available for recalculation. The synthesis therefore offers one bounded contribution while making its evidentiary and publication checks explicit.",
+    "keywords": [
+      "calculus applications",
+      "dynamic engineering systems",
+      "engineering mathematics",
+      "probability and statistics",
+      "vector analysis",
+      "engineering math",
+      "integrative review",
+      "editorial consolidation"
+    ],
+    "volume": "4",
+    "issue": "2",
+    "issueLabel": "Issue No. 2 (2025)",
+    "pages": "1–15",
+    "pdfFile": "https://drive.google.com/file/d/14lSOH9UEbRIyr3cMMhJOGkLtV9heRycQ/view?usp=sharing",
+    "featured": false,
+    "active": true,
+    "id": "nrj-volume-4-issue-2-engineering-mathematics-as-a-modeling-toolkit-calculus-vectors-dynamic-systems-probabili",
+    "publicationDate": "",
+    "doi": ""
+  },
+  {
+    "journalId": "national-research-journal",
+    "title": "Project CELLS as a Multimodal Science-Reading Intervention: Visuals, Peer Tutoring, Games, and Remediation",
+    "authors": [
+      "Christine Joy A. Orero and Melissa K. Bugtong"
+    ],
+    "articleType": "Review Article",
+    "abstract": "This integrative conceptual or practice review brings 5 related source-derived manuscripts into a single contribution focused on game-based reinforcement, peer tutoring, science reading, science remediation, and visual aids. It uses an integrative document-analysis approach to examine the source portfolio, compares the components, removes contribution-level repetition, and evaluates the material alongside independent scholarly or policy sources. The analysis treats the themes as parts of one evidentiary portfolio. Numerical results, where present, are secondary reports from the author-supplied source and were not recalculated from raw data. The resulting manuscript separates demonstrated findings from design implications and records the verification conditions that remain before publication.",
+    "keywords": [
+      "game-based reinforcement",
+      "peer tutoring",
+      "science reading",
+      "science remediation",
+      "visual aids",
+      "pedagogy",
+      "integrative review",
+      "editorial consolidation"
+    ],
+    "volume": "4",
+    "issue": "2",
+    "issueLabel": "Issue No. 2 (2025)",
+    "pages": "1–15",
+    "pdfFile": "https://drive.google.com/file/d/1YTnQVcJdn9MgWJVkiNvhkWRU-zBzbuZ2/view?usp=sharing",
+    "featured": false,
+    "active": true,
+    "id": "nrj-volume-4-issue-2-project-cells-as-a-multimodal-science-reading-intervention-visuals-peer-tutoring-games-a",
+    "publicationDate": "",
+    "doi": ""
+  },
+  {
+    "journalId": "national-research-journal",
+    "title": "Strategic Human Resource Management: Recruitment, Governance, Motivation, and Workforce Development",
+    "authors": [
+      "Lynle N. Mendoza, MBA"
+    ],
+    "articleType": "Review Article",
+    "abstract": "A portfolio of 5 source-derived manuscripts is reconstructed here as one integrative conceptual or practice review concerning employee motivation, employment governance, recruitment system, strategic hr management, and workforce development. It uses an integrative document-analysis approach to examine the source portfolio. The review identifies relationships across the component themes, eliminates repeated framing, and introduces independent literature or official policy where needed. Any numerical findings are reported as secondary evidence only because the underlying raw data were not available for recalculation. The synthesis therefore offers one bounded contribution while making its evidentiary and publication checks explicit.",
+    "keywords": [
+      "employee motivation",
+      "employment governance",
+      "recruitment system",
+      "strategic hr management",
+      "workforce development",
+      "business hr",
+      "integrative review",
+      "editorial consolidation"
+    ],
+    "volume": "4",
+    "issue": "2",
+    "issueLabel": "Issue No. 2 (2025)",
+    "pages": "1–15",
+    "pdfFile": "https://drive.google.com/file/d/1LpAPllivPclTme1VZif41yOQwkQSIkCU/view?usp=sharing",
+    "featured": false,
+    "active": true,
+    "id": "nrj-volume-4-issue-2-strategic-human-resource-management-recruitment-governance-motivation-and-workforce-deve",
+    "publicationDate": "",
+    "doi": ""
+  },
+  {
+    "journalId": "national-research-journal",
+    "title": "Competency-Based Culinary Education: Mise-en-Place, Cooking Systems, Assessment, and Food Safety",
+    "authors": [
+      "Evangeline H. Castro, PhD and Ermelinda P. Depayso, MBA"
+    ],
+    "articleType": "Review Article",
+    "abstract": "A portfolio of 5 source-derived manuscripts is reconstructed here as one integrative conceptual or practice review concerning cooking methods, culinary assessment, culinary precision, culinary systems, and food safety. It uses an integrative document-analysis approach to examine the source portfolio. The review identifies relationships across the component themes, eliminates repeated framing, and introduces independent literature or official policy where needed. Any numerical findings are reported as secondary evidence only because the underlying raw data were not available for recalculation. The synthesis therefore offers one bounded contribution while making its evidentiary and publication checks explicit.",
+    "keywords": [
+      "cooking methods",
+      "culinary assessment",
+      "culinary precision",
+      "culinary systems",
+      "food safety",
+      "food",
+      "integrative review",
+      "editorial consolidation"
+    ],
+    "volume": "4",
+    "issue": "1",
+    "issueLabel": "Issue No. 1 (2025)",
+    "pages": "1–15",
+    "pdfFile": "https://drive.google.com/file/d/1OQ55YYdF8j5kryVd-BElcDxrxwnWk9Jd/view?usp=sharing",
+    "featured": false,
+    "active": true,
+    "id": "nrj-volume-4-issue-1-competency-based-culinary-education-mise-en-place-cooking-systems-assessment-and-food-sa",
+    "publicationDate": "",
+    "doi": ""
+  },
+  {
+    "journalId": "national-research-journal",
+    "title": "Designing Beginning-Reading Materials through the Marungko Approach: Decoding, Visual Support, Sentence Meaning, and Comprehension",
+    "authors": [
+      "Agnes V. Sumayao, LPT"
+    ],
+    "articleType": "Review Article",
+    "abstract": "This article resolves overlap among 5 manuscripts derived from the same source by integrating their treatment of comprehension questions, cvc word reading, picture-word integration, reading intervention materials, and sentence meaning. As a integrative conceptual or practice review, it uses an integrative document-analysis approach to examine the source portfolio, retains substantively distinct themes, and compares the portfolio with independent scholarship or current policy. Reported numbers are reproduced only as claims in the supplied documents; no raw-data reanalysis was possible. The reconstruction clarifies the common contribution, limits claims to the available evidence, and specifies the author, data, legal, policy, or community review still required.",
+    "keywords": [
+      "comprehension questions",
+      "cvc word reading",
+      "picture-word integration",
+      "reading intervention materials",
+      "sentence meaning",
+      "literacy",
+      "integrative review",
+      "editorial consolidation"
+    ],
+    "volume": "3",
+    "issue": "2",
+    "issueLabel": "Issue No. 2 (2024)",
+    "pages": "1–14",
+    "pdfFile": "https://drive.google.com/file/d/1oa_R3CkgDPCo2dn-BpF-y_ZF1xgtBEKv/view?usp=sharing",
+    "featured": false,
+    "active": true,
+    "id": "nrj-volume-3-issue-2-designing-beginning-reading-materials-through-the-marungko-approach-decoding-visual-supp",
+    "publicationDate": "",
+    "doi": ""
+  },
+  {
+    "journalId": "national-research-journal",
+    "title": "Communicative Competence in Education: Speaking Anxiety, Feedback, Ethics, and Digital Instructional Support",
+    "authors": [
+      "Dr. Jay-Ar D. Catabona"
+    ],
+    "articleType": "Review Article",
+    "abstract": "This article resolves overlap among 5 manuscripts derived from the same source by integrating their treatment of classroom feedback, communicative competence, ethical communication, instructional materials and ict, and speaking anxiety. As a integrative conceptual or practice review, it uses an integrative document-analysis approach to examine the source portfolio, retains substantively distinct themes, and compares the portfolio with independent scholarship or current policy. Reported numbers are reproduced only as claims in the supplied documents; no raw-data reanalysis was possible. The reconstruction clarifies the common contribution, limits claims to the available evidence, and specifies the author, data, legal, policy, or community review still required.",
+    "keywords": [
+      "classroom feedback",
+      "communicative competence",
+      "ethical communication",
+      "instructional materials and ict",
+      "speaking anxiety",
+      "communication",
+      "integrative review",
+      "editorial consolidation"
+    ],
+    "volume": "3",
+    "issue": "2",
+    "issueLabel": "Issue No. 2 (2024)",
+    "pages": "1–17",
+    "pdfFile": "https://drive.google.com/file/d/177dtZjAn-DO6sbxsYOUd0C4l8aEYSCx_/view?usp=sharing",
+    "featured": false,
+    "active": true,
+    "id": "nrj-volume-3-issue-2-communicative-competence-in-education-speaking-anxiety-feedback-ethics-and-digital-instr",
+    "publicationDate": "",
+    "doi": ""
+  },
+  {
+    "journalId": "national-research-journal",
+    "title": "Words in Action as a Language Intervention: Visual Scaffolding, Lexical Retrieval, and Sentence Production",
+    "authors": [
+      "Jeanifer Manzanero Singson"
+    ],
+    "articleType": "Review Article",
+    "abstract": "This article resolves overlap among 5 manuscripts derived from the same source by integrating their treatment of answer keys, lexical retrieval, targeted intervention, verb-based sentences, and visual action verbs. As a integrative conceptual or practice review, it uses an integrative document-analysis approach to examine the source portfolio, retains substantively distinct themes, and compares the portfolio with independent scholarship or current policy. Reported numbers are reproduced only as claims in the supplied documents; no raw-data reanalysis was possible. The reconstruction clarifies the common contribution, limits claims to the available evidence, and specifies the author, data, legal, policy, or community review still required.",
+    "keywords": [
+      "answer keys",
+      "lexical retrieval",
+      "targeted intervention",
+      "verb-based sentences",
+      "visual action verbs",
+      "literacy",
+      "integrative review",
+      "editorial consolidation"
+    ],
+    "volume": "3",
+    "issue": "2",
+    "issueLabel": "Issue No. 2 (2024)",
+    "pages": "1–14",
+    "pdfFile": "https://drive.google.com/file/d/1ygrRHvuZMyC5OtV6_BwxJ5IFKJ17Nyx2/view?usp=sharing",
+    "featured": false,
+    "active": true,
+    "id": "nrj-volume-3-issue-2-words-in-action-as-a-language-intervention-visual-scaffolding-lexical-retrieval-and-sent",
+    "publicationDate": "",
+    "doi": ""
+  },
+  {
+    "journalId": "national-research-journal",
+    "title": "The SPEED Phonics Intervention: Letter Formation, Sound Awareness, Scaffolded Practice, and Independent Reading",
+    "authors": [
+      "Marjorie G. Barlolong, Joy P. Domingo, and Ruth S. Redovan"
+    ],
+    "articleType": "Review Article",
+    "abstract": "A portfolio of 5 source-derived manuscripts is reconstructed here as one integrative conceptual or practice review concerning curriculum-aligned phonics, independent reading, initial-sound awareness, letter formation, and phonics support cycle. It uses an integrative document-analysis approach to examine the source portfolio. The review identifies relationships across the component themes, eliminates repeated framing, and introduces independent literature or official policy where needed. Any numerical findings are reported as secondary evidence only because the underlying raw data were not available for recalculation. The synthesis therefore offers one bounded contribution while making its evidentiary and publication checks explicit.",
+    "keywords": [
+      "curriculum-aligned phonics",
+      "independent reading",
+      "initial-sound awareness",
+      "letter formation",
+      "phonics support cycle",
+      "literacy",
+      "integrative review",
+      "editorial consolidation"
+    ],
+    "volume": "3",
+    "issue": "2",
+    "issueLabel": "Issue No. 2 (2024)",
+    "pages": "1–15",
+    "pdfFile": "https://drive.google.com/file/d/1YFBp5E5cXpRVVw76Dn5vlLw7O90SOAOr/view?usp=sharing",
+    "featured": false,
+    "active": true,
+    "id": "nrj-volume-3-issue-2-the-speed-phonics-intervention-letter-formation-sound-awareness-scaffolded-practice-and",
+    "publicationDate": "",
+    "doi": ""
+  },
+  {
+    "journalId": "national-research-journal",
+    "title": "Digital Survey Literacy for Young Entrepreneurs: Questionnaire Design, Administration, Feedback, and Data Quality",
+    "authors": [
+      "Warlita C. Taguiam"
+    ],
+    "articleType": "Review Article",
+    "abstract": "This integrative conceptual or practice review brings 5 related source-derived manuscripts into a single contribution focused on digital entrepreneurship, digital feedback, online surveys, survey data quality, and survey questionnaires. It uses an integrative document-analysis approach to examine the source portfolio, compares the components, removes contribution-level repetition, and evaluates the material alongside independent scholarly or policy sources. The analysis treats the themes as parts of one evidentiary portfolio. Numerical results, where present, are secondary reports from the author-supplied source and were not recalculated from raw data. The resulting manuscript separates demonstrated findings from design implications and records the verification conditions that remain before publication.",
+    "keywords": [
+      "digital entrepreneurship",
+      "digital feedback",
+      "online surveys",
+      "survey data quality",
+      "survey questionnaires",
+      "research methods",
+      "integrative review",
+      "editorial consolidation"
+    ],
+    "volume": "3",
+    "issue": "2",
+    "issueLabel": "Issue No. 2 (2024)",
+    "pages": "1–13",
+    "pdfFile": "https://drive.google.com/file/d/1j-WdDIQDuyXhNBpJex-evrMT7dIhXrTc/view?usp=sharing",
+    "featured": false,
+    "active": true,
+    "id": "nrj-volume-3-issue-2-digital-survey-literacy-for-young-entrepreneurs-questionnaire-design-administration-feed",
+    "publicationDate": "",
+    "doi": ""
+  },
+  {
+    "journalId": "national-research-journal",
+    "title": "Governance and Financial Stewardship of School-Based Income-Generating Projects",
+    "authors": [
+      "Almerez et al."
+    ],
+    "articleType": "Review Article",
+    "abstract": "A portfolio of 3 source-derived manuscripts is reconstructed here as one integrative conceptual or practice review concerning financial stewardship, project governance, and school income projects. It uses an integrative document-analysis approach to examine the source portfolio. The review identifies relationships across the component themes, eliminates repeated framing, and introduces independent literature or official policy where needed. Any numerical findings are reported as secondary evidence only because the underlying raw data were not available for recalculation. The synthesis therefore offers one bounded contribution while making its evidentiary and publication checks explicit.",
+    "keywords": [
+      "financial stewardship",
+      "project governance",
+      "school income projects",
+      "entrepreneurship",
+      "integrative review",
+      "editorial consolidation"
+    ],
+    "volume": "3",
+    "issue": "1",
+    "issueLabel": "Issue No. 1 (2024)",
+    "pages": "1–12",
+    "pdfFile": "https://drive.google.com/file/d/1YlTaJRMgLSVi_mXU-atjTGmniNEkhlo_/view?usp=sharing",
+    "featured": false,
+    "active": true,
+    "id": "nrj-volume-3-issue-1-governance-and-financial-stewardship-of-school-based-income-generating-projects",
+    "publicationDate": "",
+    "doi": ""
+  },
+  {
+    "journalId": "national-research-journal",
+    "title": "Teaching under the MATATAG Curriculum: Leadership, Inclusion, Hybrid Learning, and Home-School Partnership",
+    "authors": [
+      "Baby Jane Relles Molina, LPT"
+    ],
+    "articleType": "Review Article",
+    "abstract": "A portfolio of 5 source-derived manuscripts is reconstructed here as one integrative conceptual or practice review concerning home-school linkage, hybrid learning, inclusive pedagogy, instructional leadership, and teaching scholarship. It uses an integrative document-analysis approach to examine the source portfolio. The review identifies relationships across the component themes, eliminates repeated framing, and introduces independent literature or official policy where needed. Any numerical findings are reported as secondary evidence only because the underlying raw data were not available for recalculation. The synthesis therefore offers one bounded contribution while making its evidentiary and publication checks explicit.",
+    "keywords": [
+      "home-school linkage",
+      "hybrid learning",
+      "inclusive pedagogy",
+      "instructional leadership",
+      "teaching scholarship",
+      "pedagogy",
+      "integrative review",
+      "editorial consolidation"
+    ],
+    "volume": "3",
+    "issue": "1",
+    "issueLabel": "Issue No. 1 (2024)",
+    "pages": "1–16",
+    "pdfFile": "https://drive.google.com/file/d/1p70L3BxjkOaoQpQM4MtOrWS2x6Mcv_rT/view?usp=sharing",
+    "featured": false,
+    "active": true,
+    "id": "nrj-volume-3-issue-1-teaching-under-the-matatag-curriculum-leadership-inclusion-hybrid-learning-and-home-scho",
+    "publicationDate": "",
+    "doi": ""
+  },
+  {
+    "journalId": "national-research-journal",
+    "title": "CVC Word-Recognition Intervention in Kindergarten: Design, Implementation, Outcomes, and Learner-Profile Analysis",
+    "authors": [
+      "Catherine V. Taguinod, LPT, MAEd"
+    ],
+    "articleType": "Review Article",
+    "abstract": "This article resolves overlap among 5 manuscripts derived from the same source by integrating their treatment of cvc decoding, cvc methodology, cvc outcomes, differentiated cvc materials, and profile differences. As a secondary analysis and integrative review, it integrates the design, reported methods, and findings available in the source portfolio, retains substantively distinct themes, and compares the portfolio with independent scholarship or current policy. Reported numbers are reproduced only as claims in the supplied documents; no raw-data reanalysis was possible. The reconstruction clarifies the common contribution, limits claims to the available evidence, and specifies the author, data, legal, policy, or community review still required.",
+    "keywords": [
+      "cvc decoding",
+      "cvc methodology",
+      "cvc outcomes",
+      "differentiated cvc materials",
+      "profile differences",
+      "literacy",
+      "integrative review",
+      "editorial consolidation"
+    ],
+    "volume": "3",
+    "issue": "1",
+    "issueLabel": "Issue No. 1 (2024)",
+    "pages": "1–14",
+    "pdfFile": "https://drive.google.com/file/d/1yHAeoT_SSfroYLp88NR2JHpzSi2I-cgt/view?usp=sharing",
+    "featured": false,
+    "active": true,
+    "id": "nrj-volume-3-issue-1-cvc-word-recognition-intervention-in-kindergarten-design-implementation-outcomes-and-lea",
+    "publicationDate": "",
+    "doi": ""
+  },
+  {
+    "journalId": "national-research-journal",
+    "title": "Designing and Communicating Quantitative Research: An Integrated Practical Research 2 Framework",
+    "authors": [
+      "Irene Divinagracia Suganob, Ph.D."
+    ],
+    "articleType": "Review Article",
+    "abstract": "A portfolio of 5 source-derived manuscripts is reconstructed here as one integrative conceptual or practice review concerning conceptual framework, research communication, research design, research instruments, and statistical evidence. It uses an integrative document-analysis approach to examine the source portfolio. The review identifies relationships across the component themes, eliminates repeated framing, and introduces independent literature or official policy where needed. Any numerical findings are reported as secondary evidence only because the underlying raw data were not available for recalculation. The synthesis therefore offers one bounded contribution while making its evidentiary and publication checks explicit.",
+    "keywords": [
+      "conceptual framework",
+      "research communication",
+      "research design",
+      "research instruments",
+      "statistical evidence",
+      "research methods",
+      "integrative review",
+      "editorial consolidation"
+    ],
+    "volume": "3",
+    "issue": "1",
+    "issueLabel": "Issue No. 1 (2024)",
+    "pages": "1–15",
+    "pdfFile": "https://drive.google.com/file/d/1QvueObLz9WuogjrOp-RznZIlg9-vmVtP/view?usp=sharing",
+    "featured": false,
+    "active": true,
+    "id": "nrj-volume-3-issue-1-designing-and-communicating-quantitative-research-an-integrated-practical-research-2-fra",
+    "publicationDate": "",
+    "doi": ""
+  },
+  {
+    "journalId": "national-research-journal",
+    "title": "The Electrical Training Board as a Competency-Based Learning System: Design, Safety, and Assessment",
+    "authors": [
+      "Larry D. Somera"
+    ],
+    "articleType": "Review Article",
+    "abstract": "This article resolves overlap among 3 manuscripts derived from the same source by integrating their treatment of electrical safety, electrical training board, and skills assessment. As a integrative conceptual or practice review, it uses an integrative document-analysis approach to examine the source portfolio, retains substantively distinct themes, and compares the portfolio with independent scholarship or current policy. Reported numbers are reproduced only as claims in the supplied documents; no raw-data reanalysis was possible. The reconstruction clarifies the common contribution, limits claims to the available evidence, and specifies the author, data, legal, policy, or community review still required.",
+    "keywords": [
+      "electrical safety",
+      "electrical training board",
+      "skills assessment",
+      "vocational",
+      "integrative review",
+      "editorial consolidation"
+    ],
+    "volume": "3",
+    "issue": "1",
+    "issueLabel": "Issue No. 1 (2024)",
+    "pages": "1–11",
+    "pdfFile": "https://drive.google.com/file/d/13V3O-6Wj5-IhgbdqzqtzymLPsEdmwZZb/view?usp=sharing",
+    "featured": false,
+    "active": true,
+    "id": "nrj-volume-3-issue-1-the-electrical-training-board-as-a-competency-based-learning-system-design-safety-and-as",
+    "publicationDate": "",
+    "doi": ""
+  },
+  {
+    "journalId": "national-research-journal",
+    "title": "Project FORE as a Differentiated Oral-Reading System: Fluency, Text Complexity, and Assessment",
+    "authors": [
+      "Maria Elena Rempillo-Sergio, MAED"
+    ],
+    "articleType": "Review Article",
+    "abstract": "This integrative conceptual or practice review brings 3 related source-derived manuscripts into a single contribution focused on differentiated oral reading, reading fluency, and text complexity. It uses an integrative document-analysis approach to examine the source portfolio, compares the components, removes contribution-level repetition, and evaluates the material alongside independent scholarly or policy sources. The analysis treats the themes as parts of one evidentiary portfolio. Numerical results, where present, are secondary reports from the author-supplied source and were not recalculated from raw data. The resulting manuscript separates demonstrated findings from design implications and records the verification conditions that remain before publication.",
+    "keywords": [
+      "differentiated oral reading",
+      "reading fluency",
+      "text complexity",
+      "literacy",
+      "integrative review",
+      "editorial consolidation"
+    ],
+    "volume": "3",
+    "issue": "1",
+    "issueLabel": "Issue No. 1 (2024)",
+    "pages": "1–12",
+    "pdfFile": "https://drive.google.com/file/d/18boPZF5Gh80tJfGI5dCEetb3NRKOOvVk/view?usp=sharing",
+    "featured": false,
+    "active": true,
+    "id": "nrj-volume-3-issue-1-project-fore-as-a-differentiated-oral-reading-system-fluency-text-complexity-and-assessm",
+    "publicationDate": "",
+    "doi": ""
+  },
+  {
+    "journalId": "national-research-journal",
+    "title": "Entrepreneurial Competencies, Small-Enterprise Strategy, and Local Development",
+    "authors": [
+      "Queenie Lyn G. Almerez, PhD and Ariel C. Balio, Jr."
+    ],
+    "articleType": "Review Article",
+    "abstract": "This article resolves overlap among 3 manuscripts derived from the same source by integrating their treatment of entrepreneurial competencies, local development, and small enterprise. As a integrative conceptual or practice review, it uses an integrative document-analysis approach to examine the source portfolio, retains substantively distinct themes, and compares the portfolio with independent scholarship or current policy. Reported numbers are reproduced only as claims in the supplied documents; no raw-data reanalysis was possible. The reconstruction clarifies the common contribution, limits claims to the available evidence, and specifies the author, data, legal, policy, or community review still required.",
+    "keywords": [
+      "entrepreneurial competencies",
+      "local development",
+      "small enterprise",
+      "entrepreneurship",
+      "integrative review",
+      "editorial consolidation"
+    ],
+    "volume": "3",
+    "issue": "1",
+    "issueLabel": "Issue No. 1 (2024)",
+    "pages": "1–13",
+    "pdfFile": "https://drive.google.com/file/d/17fnId7OuFXFvWyiIphGbRxmWNJbmD_3L/view?usp=sharing",
+    "featured": false,
+    "active": true,
+    "id": "nrj-volume-3-issue-1-entrepreneurial-competencies-small-enterprise-strategy-and-local-development",
+    "publicationDate": "",
+    "doi": ""
+  },
+  {
+    "journalId": "national-research-journal",
+    "title": "Conceptual Foundations and Systematic Analysis of Introductory Electrical Circuits",
+    "authors": [
+      "Alan P. Nebrida"
+    ],
+    "articleType": "Review Article",
+    "abstract": "A portfolio of 5 source-derived manuscripts is reconstructed here as one integrative conceptual or practice review concerning circuit analysis, circuit transients, dc resistive networks, electrical quantities, and electrical resistance. It uses an integrative document-analysis approach to examine the source portfolio. The review identifies relationships across the component themes, eliminates repeated framing, and introduces independent literature or official policy where needed. Any numerical findings are reported as secondary evidence only because the underlying raw data were not available for recalculation. The synthesis therefore offers one bounded contribution while making its evidentiary and publication checks explicit.",
+    "keywords": [
+      "circuit analysis",
+      "circuit transients",
+      "dc resistive networks",
+      "electrical quantities",
+      "electrical resistance",
+      "engineering math",
+      "integrative review",
+      "editorial consolidation"
+    ],
+    "volume": "2",
+    "issue": "2",
+    "issueLabel": "Issue No. 2 (2023)",
+    "pages": "1–15",
+    "pdfFile": "https://drive.google.com/file/d/1O9iTFH_USaz2aHGjqVD4ZwpffZendmG7/view?usp=sharing",
+    "featured": false,
+    "active": true,
+    "id": "nrj-volume-2-issue-2-conceptual-foundations-and-systematic-analysis-of-introductory-electrical-circuits",
+    "publicationDate": "",
+    "doi": ""
+  },
+  {
+    "journalId": "national-research-journal",
+    "title": "Economic Thought, Political Economy, and Competing Theories of Wealth: A Historical Review",
+    "authors": [
+      "Christopher D. Balubayan"
+    ],
+    "articleType": "Review Article",
+    "abstract": "A portfolio of 5 source-derived manuscripts is reconstructed here as one integrative conceptual or practice review concerning modern economic thought, economic ideas, marxian critique, national wealth, and political economy. It uses an integrative document-analysis approach to examine the source portfolio. The review identifies relationships across the component themes, eliminates repeated framing, and introduces independent literature or official policy where needed. Any numerical findings are reported as secondary evidence only because the underlying raw data were not available for recalculation. The synthesis therefore offers one bounded contribution while making its evidentiary and publication checks explicit.",
+    "keywords": [
+      "modern economic thought",
+      "economic ideas",
+      "marxian critique",
+      "national wealth",
+      "political economy",
+      "history governance",
+      "integrative review",
+      "editorial consolidation"
+    ],
+    "volume": "2",
+    "issue": "2",
+    "issueLabel": "Issue No. 2 (2023)",
+    "pages": "1–15",
+    "pdfFile": "https://drive.google.com/file/d/1YswI3g74KmiN6QWh8NRo3QSymasqQRw1/view?usp=sharing",
+    "featured": false,
+    "active": true,
+    "id": "nrj-volume-2-issue-2-economic-thought-political-economy-and-competing-theories-of-wealth-a-historical-review",
+    "publicationDate": "",
+    "doi": ""
+  },
+  {
+    "journalId": "national-research-journal",
+    "title": "Data Structures and Algorithmic Problem Solving in Python: An Integrated Instructional Framework",
+    "authors": [
+      "Engr. Naomi Asendiente Bajao"
+    ],
+    "articleType": "Review Article",
+    "abstract": "A portfolio of 5 source-derived manuscripts is reconstructed here as one integrative conceptual or practice review concerning algorithm development, linear data structures, search trees, sorting algorithms, and stacks and queues. It uses an integrative document-analysis approach to examine the source portfolio. The review identifies relationships across the component themes, eliminates repeated framing, and introduces independent literature or official policy where needed. Any numerical findings are reported as secondary evidence only because the underlying raw data were not available for recalculation. The synthesis therefore offers one bounded contribution while making its evidentiary and publication checks explicit.",
+    "keywords": [
+      "algorithm development",
+      "linear data structures",
+      "search trees",
+      "sorting algorithms",
+      "stacks and queues",
+      "computing",
+      "integrative review",
+      "editorial consolidation"
+    ],
+    "volume": "2",
+    "issue": "2",
+    "issueLabel": "Issue No. 2 (2023)",
+    "pages": "1–13",
+    "pdfFile": "https://drive.google.com/file/d/1-i3p2rlWJDh2RvcXp9dLPqNyXB4ZSbSc/view?usp=sharing",
+    "featured": false,
+    "active": true,
+    "id": "nrj-volume-2-issue-2-data-structures-and-algorithmic-problem-solving-in-python-an-integrated-instructional-fr",
+    "publicationDate": "",
+    "doi": ""
+  },
+  {
+    "journalId": "national-research-journal",
+    "title": "From Strategic Analysis to Implementation and Evaluation: An Integrated Management Framework",
+    "authors": [
+      "Generoso E. Udanga, MBA"
+    ],
+    "articleType": "Review Article",
+    "abstract": "This article resolves overlap among 5 manuscripts derived from the same source by integrating their treatment of competitive advantage, external audit, strategic planning, strategy evaluation, and strategy implementation. As a integrative conceptual or practice review, it uses an integrative document-analysis approach to examine the source portfolio, retains substantively distinct themes, and compares the portfolio with independent scholarship or current policy. Reported numbers are reproduced only as claims in the supplied documents; no raw-data reanalysis was possible. The reconstruction clarifies the common contribution, limits claims to the available evidence, and specifies the author, data, legal, policy, or community review still required.",
+    "keywords": [
+      "competitive advantage",
+      "external audit",
+      "strategic planning",
+      "strategy evaluation",
+      "strategy implementation",
+      "business strategy",
+      "integrative review",
+      "editorial consolidation"
+    ],
+    "volume": "2",
+    "issue": "2",
+    "issueLabel": "Issue No. 2 (2023)",
+    "pages": "1–14",
+    "pdfFile": "https://drive.google.com/file/d/1wuoo3KVD13OzcxiWd_-ze4efJXt3gd86/view?usp=sharing",
+    "featured": false,
+    "active": true,
+    "id": "nrj-volume-2-issue-2-from-strategic-analysis-to-implementation-and-evaluation-an-integrated-management-framew",
+    "publicationDate": "",
+    "doi": ""
+  },
+  {
+    "journalId": "national-research-journal",
+    "title": "Moral Reasoning, Responsibility, and Ethical Citizenship: An Integrated Review",
+    "authors": [
+      "Generoso E. Udanga, MBA"
+    ],
+    "articleType": "Review Article",
+    "abstract": "This article resolves overlap among 5 manuscripts derived from the same source by integrating their treatment of cultural relativism, freedom and responsibility, moral decision-making, moral development, and taxation ethics. As a integrative conceptual or practice review, it uses an integrative document-analysis approach to examine the source portfolio, retains substantively distinct themes, and compares the portfolio with independent scholarship or current policy. Reported numbers are reproduced only as claims in the supplied documents; no raw-data reanalysis was possible. The reconstruction clarifies the common contribution, limits claims to the available evidence, and specifies the author, data, legal, policy, or community review still required.",
+    "keywords": [
+      "cultural relativism",
+      "freedom and responsibility",
+      "moral decision-making",
+      "moral development",
+      "taxation ethics",
+      "ethics",
+      "integrative review",
+      "editorial consolidation"
+    ],
+    "volume": "2",
+    "issue": "2",
+    "issueLabel": "Issue No. 2 (2023)",
+    "pages": "1–14",
+    "pdfFile": "https://drive.google.com/file/d/1impWhmz-WM2p3arHns6X8ij6mhwJCkcD/view?usp=sharing",
+    "featured": false,
+    "active": true,
+    "id": "nrj-volume-2-issue-2-moral-reasoning-responsibility-and-ethical-citizenship-an-integrated-review",
+    "publicationDate": "",
+    "doi": ""
+  },
+  {
+    "journalId": "national-research-journal",
+    "title": "Building Number Sense and Mathematical Judgment in the Primary Grades",
+    "authors": [
+      "Lemyrose B. Balmaceda"
+    ],
+    "articleType": "Review Article",
+    "abstract": "This article resolves overlap among 5 manuscripts derived from the same source by integrating their treatment of active mathematics, financial literacy, fractions and decimals, mathematical estimation, and number sense. As a integrative conceptual or practice review, it uses an integrative document-analysis approach to examine the source portfolio, retains substantively distinct themes, and compares the portfolio with independent scholarship or current policy. Reported numbers are reproduced only as claims in the supplied documents; no raw-data reanalysis was possible. The reconstruction clarifies the common contribution, limits claims to the available evidence, and specifies the author, data, legal, policy, or community review still required.",
+    "keywords": [
+      "active mathematics",
+      "financial literacy",
+      "fractions and decimals",
+      "mathematical estimation",
+      "number sense",
+      "math education",
+      "integrative review",
+      "editorial consolidation"
+    ],
+    "volume": "2",
+    "issue": "2",
+    "issueLabel": "Issue No. 2 (2023)",
+    "pages": "1–15",
+    "pdfFile": "https://drive.google.com/file/d/14u-llPu9CkxxgeSSydFMSZEGMvTBJt7y/view?usp=sharing",
+    "featured": false,
+    "active": true,
+    "id": "nrj-volume-2-issue-2-building-number-sense-and-mathematical-judgment-in-the-primary-grades",
+    "publicationDate": "",
+    "doi": ""
+  },
+  {
+    "journalId": "national-research-journal",
+    "title": "The Employee Entry Lifecycle: Selection, Job Offers, and Onboarding",
+    "authors": [
+      "Cheryl G. Abalos-Bancoro and Jaysone Christopher M. Bancoro"
+    ],
+    "articleType": "Review Article",
+    "abstract": "A portfolio of 3 source-derived manuscripts is reconstructed here as one integrative conceptual or practice review concerning employee selection, job offer, and onboarding. It uses an integrative document-analysis approach to examine the source portfolio. The review identifies relationships across the component themes, eliminates repeated framing, and introduces independent literature or official policy where needed. Any numerical findings are reported as secondary evidence only because the underlying raw data were not available for recalculation. The synthesis therefore offers one bounded contribution while making its evidentiary and publication checks explicit.",
+    "keywords": [
+      "employee selection",
+      "job offer",
+      "onboarding",
+      "business hr",
+      "integrative review",
+      "editorial consolidation"
+    ],
+    "volume": "2",
+    "issue": "1",
+    "issueLabel": "Issue No. 1 (2023)",
+    "pages": "1–12",
+    "pdfFile": "https://drive.google.com/file/d/1ffR2iXI9MTYnosTWVusem5Q5XN8F7ueR/view?usp=sharing",
+    "featured": false,
+    "active": true,
+    "id": "nrj-volume-2-issue-1-the-employee-entry-lifecycle-selection-job-offers-and-onboarding",
+    "publicationDate": "",
+    "doi": ""
+  },
+  {
+    "journalId": "national-research-journal",
+    "title": "Leadership, Communication, and Team Effectiveness: An Integrated Organizational Behavior Framework",
+    "authors": [
+      "Cheryl G. Abalos-Bancoro and Jaysone Christopher M. Bancoro"
+    ],
+    "articleType": "Review Article",
+    "abstract": "This integrative conceptual or practice review brings 3 related source-derived manuscripts into a single contribution focused on effective teams, leadership style, and organizational communication. It uses an integrative document-analysis approach to examine the source portfolio, compares the components, removes contribution-level repetition, and evaluates the material alongside independent scholarly or policy sources. The analysis treats the themes as parts of one evidentiary portfolio. Numerical results, where present, are secondary reports from the author-supplied source and were not recalculated from raw data. The resulting manuscript separates demonstrated findings from design implications and records the verification conditions that remain before publication.",
+    "keywords": [
+      "effective teams",
+      "leadership style",
+      "organizational communication",
+      "business hr",
+      "integrative review",
+      "editorial consolidation"
+    ],
+    "volume": "2",
+    "issue": "1",
+    "issueLabel": "Issue No. 1 (2023)",
+    "pages": "1–12",
+    "pdfFile": "https://drive.google.com/file/d/1vC6KyMgZezsE7jmhGtVhP955Nbps6GDX/view?usp=sharing",
+    "featured": false,
+    "active": true,
+    "id": "nrj-volume-2-issue-1-leadership-communication-and-team-effectiveness-an-integrated-organizational-behavior-fr",
+    "publicationDate": "",
+    "doi": ""
+  },
+  {
+    "journalId": "national-research-journal",
+    "title": "Designing and Assessing Self-Paced Computer Systems Servicing Instruction in TVET",
+    "authors": [
+      "Donald B. Mandac"
+    ],
+    "articleType": "Review Article",
+    "abstract": "This integrative conceptual or practice review brings 2 related source-derived manuscripts into a single contribution focused on computer installation, and tvet assessment. It uses an integrative document-analysis approach to examine the source portfolio, compares the components, removes contribution-level repetition, and evaluates the material alongside independent scholarly or policy sources. The analysis treats the themes as parts of one evidentiary portfolio. Numerical results, where present, are secondary reports from the author-supplied source and were not recalculated from raw data. The resulting manuscript separates demonstrated findings from design implications and records the verification conditions that remain before publication.",
+    "keywords": [
+      "computer installation",
+      "tvet assessment",
+      "vocational",
+      "integrative review",
+      "editorial consolidation"
+    ],
+    "volume": "2",
+    "issue": "1",
+    "issueLabel": "Issue No. 1 (2023)",
+    "pages": "1–10",
+    "pdfFile": "https://drive.google.com/file/d/14QztKiHp8cMn8kEEE1957S4xFy1OTX9I/view?usp=sharing",
+    "featured": false,
+    "active": true,
+    "id": "nrj-volume-2-issue-1-designing-and-assessing-self-paced-computer-systems-servicing-instruction-in-tvet",
+    "publicationDate": "",
+    "doi": ""
+  },
+  {
+    "journalId": "national-research-journal",
+    "title": "Grievance Handling, Collective Bargaining, and Management Prerogative in Philippine Labor Relations",
+    "authors": [
+      "Ernesto Villanueva Tumacole Jr"
+    ],
+    "articleType": "Review Article",
+    "abstract": "This article resolves overlap among 3 manuscripts derived from the same source by integrating their treatment of collective bargaining, employee grievances, and management prerogative. As a integrative conceptual or practice review, it uses an integrative document-analysis approach to examine the source portfolio, retains substantively distinct themes, and compares the portfolio with independent scholarship or current policy. Reported numbers are reproduced only as claims in the supplied documents; no raw-data reanalysis was possible. The reconstruction clarifies the common contribution, limits claims to the available evidence, and specifies the author, data, legal, policy, or community review still required.",
+    "keywords": [
+      "collective bargaining",
+      "employee grievances",
+      "management prerogative",
+      "labor",
+      "integrative review",
+      "editorial consolidation"
+    ],
+    "volume": "2",
+    "issue": "1",
+    "issueLabel": "Issue No. 1 (2023)",
+    "pages": "1–14",
+    "pdfFile": "https://drive.google.com/file/d/1FkXm9AfpHBrL6xKH_qdem6fMEe8P2lQc/view?usp=sharing",
+    "featured": false,
+    "active": true,
+    "id": "nrj-volume-2-issue-1-grievance-handling-collective-bargaining-and-management-prerogative-in-philippine-labor",
+    "publicationDate": "",
+    "doi": ""
+  },
+  {
+    "journalId": "national-research-journal",
+    "title": "Teacher Competency and Professional Development Needs in Kasibu West District: A Consolidated Needs Analysis",
+    "authors": [
+      "Jobel S. Olli"
+    ],
+    "articleType": "Review Article",
+    "abstract": "This secondary analysis and integrative review brings 4 related source-derived manuscripts into a single contribution focused on behavioral development, ict training needs, new normal teaching, and teaching competence. It integrates the design, reported methods, and findings available in the source portfolio, compares the components, removes contribution-level repetition, and evaluates the material alongside independent scholarly or policy sources. The analysis treats the themes as parts of one evidentiary portfolio. Numerical results, where present, are secondary reports from the author-supplied source and were not recalculated from raw data. The resulting manuscript separates demonstrated findings from design implications and records the verification conditions that remain before publication.",
+    "keywords": [
+      "behavioral development",
+      "ict training needs",
+      "new normal teaching",
+      "teaching competence",
+      "pedagogy",
+      "integrative review",
+      "editorial consolidation"
+    ],
+    "volume": "2",
+    "issue": "1",
+    "issueLabel": "Issue No. 1 (2023)",
+    "pages": "1–11",
+    "pdfFile": "https://drive.google.com/file/d/1jSUi6DYv-0lmGRYYfeZhgYfn0uLoK8qj/view?usp=sharing",
+    "featured": false,
+    "active": true,
+    "id": "nrj-volume-2-issue-1-teacher-competency-and-professional-development-needs-in-kasibu-west-district-a-consolid",
+    "publicationDate": "",
+    "doi": ""
+  },
+  {
+    "journalId": "national-research-journal",
+    "title": "From Research Problem to Literature and Variables: An Integrated Practical Research Primer",
+    "authors": [
+      "Joseph T. Gudelos"
+    ],
+    "articleType": "Review Article",
+    "abstract": "A portfolio of 3 source-derived manuscripts is reconstructed here as one integrative conceptual or practice review concerning literature review, researchable problem, and variable roles. It uses an integrative document-analysis approach to examine the source portfolio. The review identifies relationships across the component themes, eliminates repeated framing, and introduces independent literature or official policy where needed. Any numerical findings are reported as secondary evidence only because the underlying raw data were not available for recalculation. The synthesis therefore offers one bounded contribution while making its evidentiary and publication checks explicit.",
+    "keywords": [
+      "literature review",
+      "researchable problem",
+      "variable roles",
+      "research methods",
+      "integrative review",
+      "editorial consolidation"
+    ],
+    "volume": "2",
+    "issue": "1",
+    "issueLabel": "Issue No. 1 (2023)",
+    "pages": "1–12",
+    "pdfFile": "https://drive.google.com/file/d/1v8XV4xJFY6f3yisoaECNc6onIH8mwaLi/view?usp=sharing",
+    "featured": false,
+    "active": true,
+    "id": "nrj-volume-2-issue-1-from-research-problem-to-literature-and-variables-an-integrated-practical-research-prime",
+    "publicationDate": "",
+    "doi": ""
+  },
+  {
+    "journalId": "national-research-journal",
+    "title": "Coherence and Integrity in School Research: An Integrated Framework for Titles, Literature, Design, and Analysis",
+    "authors": [
+      "Leticia Biteng De Leon-Guinsiman"
+    ],
+    "articleType": "Review Article",
+    "abstract": "A portfolio of 5 source-derived manuscripts is reconstructed here as one integrative conceptual or practice review concerning literature review, qualitative analysis, quantitative design, research integrity, and researchable titles. It uses an integrative document-analysis approach to examine the source portfolio. The review identifies relationships across the component themes, eliminates repeated framing, and introduces independent literature or official policy where needed. Any numerical findings are reported as secondary evidence only because the underlying raw data were not available for recalculation. The synthesis therefore offers one bounded contribution while making its evidentiary and publication checks explicit.",
+    "keywords": [
+      "literature review",
+      "qualitative analysis",
+      "quantitative design",
+      "research integrity",
+      "researchable titles",
+      "research methods",
+      "integrative review",
+      "editorial consolidation"
+    ],
+    "volume": "2",
+    "issue": "1",
+    "issueLabel": "Issue No. 1 (2023)",
+    "pages": "1–16",
+    "pdfFile": "https://drive.google.com/file/d/1IhpyT7vf_w0uIRxzVW1ZhbbHnkyHM0Cv/view?usp=sharing",
+    "featured": false,
+    "active": true,
+    "id": "nrj-volume-2-issue-1-coherence-and-integrity-in-school-research-an-integrated-framework-for-titles-literature",
+    "publicationDate": "",
+    "doi": ""
+  },
+  {
+    "journalId": "national-research-journal",
+    "title": "Teaching Division Through Concrete Models, Symbols, and Word Problems in Primary Mathematics",
+    "authors": [
+      "Mary Anne E. Hangdaan"
+    ],
+    "articleType": "Review Article",
+    "abstract": "This integrative conceptual or practice review brings 2 related source-derived manuscripts into a single contribution focused on division word problems, and symbolic division. It uses an integrative document-analysis approach to examine the source portfolio, compares the components, removes contribution-level repetition, and evaluates the material alongside independent scholarly or policy sources. The analysis treats the themes as parts of one evidentiary portfolio. Numerical results, where present, are secondary reports from the author-supplied source and were not recalculated from raw data. The resulting manuscript separates demonstrated findings from design implications and records the verification conditions that remain before publication.",
+    "keywords": [
+      "division word problems",
+      "symbolic division",
+      "math education",
+      "integrative review",
+      "editorial consolidation"
+    ],
+    "volume": "2",
+    "issue": "1",
+    "issueLabel": "Issue No. 1 (2023)",
+    "pages": "1–10",
+    "pdfFile": "https://drive.google.com/file/d/1nZ_Q-VwiK1w8hQOGTeOn9ylGC-USBtVL/view?usp=sharing",
+    "featured": false,
+    "active": true,
+    "id": "nrj-volume-2-issue-1-teaching-division-through-concrete-models-symbols-and-word-problems-in-primary-mathemati",
+    "publicationDate": "",
+    "doi": ""
+  },
+  {
+    "journalId": "national-research-journal",
+    "title": "Professional Communication and Reservation Management in Food and Beverage Service",
+    "authors": [
+      "Sally A. Angeles"
+    ],
+    "articleType": "Review Article",
+    "abstract": "This article resolves overlap among 2 manuscripts derived from the same source by integrating their treatment of table reservations, and telephone etiquette. As a integrative conceptual or practice review, it uses an integrative document-analysis approach to examine the source portfolio, retains substantively distinct themes, and compares the portfolio with independent scholarship or current policy. Reported numbers are reproduced only as claims in the supplied documents; no raw-data reanalysis was possible. The reconstruction clarifies the common contribution, limits claims to the available evidence, and specifies the author, data, legal, policy, or community review still required.",
+    "keywords": [
+      "table reservations",
+      "telephone etiquette",
+      "hospitality",
+      "integrative review",
+      "editorial consolidation"
+    ],
+    "volume": "2",
+    "issue": "1",
+    "issueLabel": "Issue No. 1 (2023)",
+    "pages": "1–11",
+    "pdfFile": "https://drive.google.com/file/d/11SvT0_yScMmemVfnAxRbRr-43Wk05xRV/view?usp=sharing",
+    "featured": false,
+    "active": true,
+    "id": "nrj-volume-2-issue-1-professional-communication-and-reservation-management-in-food-and-beverage-service",
+    "publicationDate": "",
+    "doi": ""
+  },
+  {
+    "journalId": "national-research-journal",
+    "title": "Designing Quantitative Research Intervention Materials for Senior High School: An Integrated Framework for Design, Sampling, Data Collection, and Assessment",
+    "authors": [
+      "Ailene Z. Sepulchre"
+    ],
+    "articleType": "Review Article",
+    "abstract": "This integrative conceptual or practice review brings 5 related source-derived manuscripts into a single contribution focused on data collection, remediation cycle, research design scenarios, sampling plan, and statistical quality assurance. It uses an integrative document-analysis approach to examine the source portfolio, compares the components, removes contribution-level repetition, and evaluates the material alongside independent scholarly or policy sources. The analysis treats the themes as parts of one evidentiary portfolio. Numerical results, where present, are secondary reports from the author-supplied source and were not recalculated from raw data. The resulting manuscript separates demonstrated findings from design implications and records the verification conditions that remain before publication.",
+    "keywords": [
+      "data collection",
+      "remediation cycle",
+      "research design scenarios",
+      "sampling plan",
+      "statistical quality assurance",
+      "research methods",
+      "integrative review",
+      "editorial consolidation"
+    ],
+    "volume": "1",
+    "issue": "2",
+    "issueLabel": "Issue No. 2 (2022)",
+    "pages": "1–15",
+    "pdfFile": "https://drive.google.com/file/d/1vkHo8b5gCzZV3Xnhtidyq6QEh7EiggLf/view?usp=sharing",
+    "featured": false,
+    "active": true,
+    "id": "nrj-volume-1-issue-2-designing-quantitative-research-intervention-materials-for-senior-high-school-an-integra",
+    "publicationDate": "",
+    "doi": ""
+  },
+  {
+    "journalId": "national-research-journal",
+    "title": "Strategic Intervention Materials for Araling Panlipunan 8: Design, Contextualization, and Assessment of Historical Appreciation",
+    "authors": [
+      "Love-Joy I. Kafilas"
+    ],
+    "articleType": "Review Article",
+    "abstract": "This article resolves overlap among 4 manuscripts derived from the same source by integrating their treatment of assessing appreciation, family heritage, self-paced remediation, and strategic intervention materials. As a integrative conceptual or practice review, it uses an integrative document-analysis approach to examine the source portfolio, retains substantively distinct themes, and compares the portfolio with independent scholarship or current policy. Reported numbers are reproduced only as claims in the supplied documents; no raw-data reanalysis was possible. The reconstruction clarifies the common contribution, limits claims to the available evidence, and specifies the author, data, legal, policy, or community review still required.",
+    "keywords": [
+      "assessing appreciation",
+      "family heritage",
+      "self-paced remediation",
+      "strategic intervention materials",
+      "pedagogy",
+      "integrative review",
+      "editorial consolidation"
+    ],
+    "volume": "1",
+    "issue": "2",
+    "issueLabel": "Issue No. 2 (2022)",
+    "pages": "1–13",
+    "pdfFile": "https://drive.google.com/file/d/11B8IH_26GANr6Y4KEN7AknXXM4Vy7CQC/view?usp=sharing",
+    "featured": false,
+    "active": true,
+    "id": "nrj-volume-1-issue-2-strategic-intervention-materials-for-araling-panlipunan-8-design-contextualization-and-a",
+    "publicationDate": "",
+    "doi": ""
+  },
+  {
+    "journalId": "national-research-journal",
+    "title": "A Strategic Intervention Framework for Grade 6 Subject-Verb Agreement: Sequencing, Practice, Authentic Writing, and Quality Assurance",
+    "authors": [
+      "Nieves M. Kimo"
+    ],
+    "articleType": "Review Article",
+    "abstract": "This article resolves overlap among 4 manuscripts derived from the same source by integrating their treatment of community letter, progressive practice, quality assurance, and rule sequencing. As a integrative conceptual or practice review, it uses an integrative document-analysis approach to examine the source portfolio, retains substantively distinct themes, and compares the portfolio with independent scholarship or current policy. Reported numbers are reproduced only as claims in the supplied documents; no raw-data reanalysis was possible. The reconstruction clarifies the common contribution, limits claims to the available evidence, and specifies the author, data, legal, policy, or community review still required.",
+    "keywords": [
+      "community letter",
+      "progressive practice",
+      "quality assurance",
+      "rule sequencing",
+      "literacy",
+      "integrative review",
+      "editorial consolidation"
+    ],
+    "volume": "1",
+    "issue": "2",
+    "issueLabel": "Issue No. 2 (2022)",
+    "pages": "1–13",
+    "pdfFile": "https://drive.google.com/file/d/1h4TUdjqZN9smaMlPHVGPwkuTS3O7ljOM/view?usp=sharing",
+    "featured": false,
+    "active": true,
+    "id": "nrj-volume-1-issue-2-a-strategic-intervention-framework-for-grade-6-subject-verb-agreement-sequencing-practic",
+    "publicationDate": "",
+    "doi": ""
+  },
+  {
+    "journalId": "national-research-journal",
+    "title": "Teaching Creative Writing in Grade 8: A Localized Framework for Process, Genre, Figurative Language, and Literary Voice",
+    "authors": [
+      "Novelyn V. Lopez"
+    ],
+    "articleType": "Review Article",
+    "abstract": "A portfolio of 5 source-derived manuscripts is reconstructed here as one integrative conceptual or practice review concerning figurative language, localized creative writing, poetry structure, recursive writing process, and short story. It uses an integrative document-analysis approach to examine the source portfolio. The review identifies relationships across the component themes, eliminates repeated framing, and introduces independent literature or official policy where needed. Any numerical findings are reported as secondary evidence only because the underlying raw data were not available for recalculation. The synthesis therefore offers one bounded contribution while making its evidentiary and publication checks explicit.",
+    "keywords": [
+      "figurative language",
+      "localized creative writing",
+      "poetry structure",
+      "recursive writing process",
+      "short story",
+      "literacy",
+      "integrative review",
+      "editorial consolidation"
+    ],
+    "volume": "1",
+    "issue": "2",
+    "issueLabel": "Issue No. 2 (2022)",
+    "pages": "1–15",
+    "pdfFile": "https://drive.google.com/file/d/1XPwUKf677gKL3WpNgJVO0Yryd1uHPkck/view?usp=sharing",
+    "featured": false,
+    "active": true,
+    "id": "nrj-volume-1-issue-2-teaching-creative-writing-in-grade-8-a-localized-framework-for-process-genre-figurative",
+    "publicationDate": "",
+    "doi": ""
+  },
+  {
+    "journalId": "national-research-journal",
+    "title": "Learning Continuity in Bayombong I District: Resources, Assessment, Technology Access, and Stakeholder Agency During School Disruption",
+    "authors": [
+      "Rachelle F. Buncad"
+    ],
+    "articleType": "Review Article",
+    "abstract": "This article resolves overlap among 5 manuscripts derived from the same source by integrating their treatment of assessment continuity, learning continuity plan, learning materials logistics, teacher agency, and technology access. As a secondary analysis and integrative review, it integrates the design, reported methods, and findings available in the source portfolio, retains substantively distinct themes, and compares the portfolio with independent scholarship or current policy. Reported numbers are reproduced only as claims in the supplied documents; no raw-data reanalysis was possible. The reconstruction clarifies the common contribution, limits claims to the available evidence, and specifies the author, data, legal, policy, or community review still required.",
+    "keywords": [
+      "assessment continuity",
+      "learning continuity plan",
+      "learning materials logistics",
+      "teacher agency",
+      "technology access",
+      "emergency learning",
+      "integrative review",
+      "editorial consolidation"
+    ],
+    "volume": "1",
+    "issue": "2",
+    "issueLabel": "Issue No. 2 (2022)",
+    "pages": "1–14",
+    "pdfFile": "https://drive.google.com/file/d/1PDrVd2mLXku9bqczZRYsSwM24iLukib0/view?usp=sharing",
+    "featured": false,
+    "active": true,
+    "id": "nrj-volume-1-issue-2-learning-continuity-in-bayombong-i-district-resources-assessment-technology-access-and-s",
+    "publicationDate": "",
+    "doi": ""
+  },
+  {
+    "journalId": "national-research-journal",
+    "title": "Designing Self-Paced Word-Processing Instruction: Formatting, Visual Hierarchy, and Print Quality in Grade 8 ICT",
+    "authors": [
+      "Felisa T. Ubaldo"
+    ],
+    "articleType": "Review Article",
+    "abstract": "A portfolio of 5 source-derived manuscripts is reconstructed here as one integrative conceptual or practice review concerning character formatting, paragraph formatting, print preview, self-paced learning sheets, and typography and visual hierarchy. It uses an integrative document-analysis approach to examine the source portfolio. The review identifies relationships across the component themes, eliminates repeated framing, and introduces independent literature or official policy where needed. Any numerical findings are reported as secondary evidence only because the underlying raw data were not available for recalculation. The synthesis therefore offers one bounded contribution while making its evidentiary and publication checks explicit.",
+    "keywords": [
+      "character formatting",
+      "paragraph formatting",
+      "print preview",
+      "self-paced learning sheets",
+      "typography and visual hierarchy",
+      "pedagogy",
+      "integrative review",
+      "editorial consolidation"
+    ],
     "volume": "1",
     "issue": "1",
     "issueLabel": "Issue No. 1 (2022)",
-    "pages": "78–82",
-    "pdfFile": "assets/uploads/journal-archive/national-research-journal/volume-1-issue-1/rose-lagon-accreditation-readiness.pdf",
+    "pages": "1–15",
+    "pdfFile": "https://drive.google.com/file/d/1osAYv9wrKlujqSi3H6iysyMrPUWEFEQu/view?usp=sharing",
     "featured": false,
     "active": true,
-    "id": "nrj-volume-1-issue-1-accreditation-readiness",
-    "keywords": [],
+    "id": "nrj-volume-1-issue-1-designing-self-paced-word-processing-instruction-formatting-visual-hierarchy-and-print-q",
+    "publicationDate": "",
+    "doi": ""
+  },
+  {
+    "journalId": "national-research-journal",
+    "title": "A Scaffolded Framework for Grade 3 Reading Comprehension: Graphic Organization, Critical Literacy, and Evaluative Response",
+    "authors": [
+      "Gee Ann E. Serdena"
+    ],
+    "articleType": "Review Article",
+    "abstract": "This article resolves overlap among 3 manuscripts derived from the same source by integrating their treatment of critical literacy, graphic organizers, and reading comprehension. As a integrative conceptual or practice review, it uses an integrative document-analysis approach to examine the source portfolio, retains substantively distinct themes, and compares the portfolio with independent scholarship or current policy. Reported numbers are reproduced only as claims in the supplied documents; no raw-data reanalysis was possible. The reconstruction clarifies the common contribution, limits claims to the available evidence, and specifies the author, data, legal, policy, or community review still required.",
+    "keywords": [
+      "critical literacy",
+      "graphic organizers",
+      "reading comprehension",
+      "literacy",
+      "integrative review",
+      "editorial consolidation"
+    ],
+    "volume": "1",
+    "issue": "1",
+    "issueLabel": "Issue No. 1 (2022)",
+    "pages": "1–12",
+    "pdfFile": "https://drive.google.com/file/d/1zu3cgW8ikDcdcIIWo01k2Y2ZtOxFGztR/view?usp=sharing",
+    "featured": false,
+    "active": true,
+    "id": "nrj-volume-1-issue-1-a-scaffolded-framework-for-grade-3-reading-comprehension-graphic-organization-critical-l",
+    "publicationDate": "",
+    "doi": ""
+  },
+  {
+    "journalId": "national-research-journal",
+    "title": "Professionalization and Consumer Protection in Philippine Real Estate Practice: A Secondary Analysis of Practitioner Evidence",
+    "authors": [
+      "Geena B. Hipolito"
+    ],
+    "articleType": "Review Article",
+    "abstract": "This secondary analysis and integrative review brings 3 related source-derived manuscripts into a single contribution focused on consumer protection, professional profile, and real estate professionalization. It integrates the design, reported methods, and findings available in the source portfolio, compares the components, removes contribution-level repetition, and evaluates the material alongside independent scholarly or policy sources. The analysis treats the themes as parts of one evidentiary portfolio. Numerical results, where present, are secondary reports from the author-supplied source and were not recalculated from raw data. The resulting manuscript separates demonstrated findings from design implications and records the verification conditions that remain before publication.",
+    "keywords": [
+      "consumer protection",
+      "professional profile",
+      "real estate professionalization",
+      "real estate",
+      "integrative review",
+      "editorial consolidation"
+    ],
+    "volume": "1",
+    "issue": "1",
+    "issueLabel": "Issue No. 1 (2022)",
+    "pages": "1–11",
+    "pdfFile": "https://drive.google.com/file/d/1nk1sg7PRsW7QINswYqz8870LxWd50sdi/view?usp=sharing",
+    "featured": false,
+    "active": true,
+    "id": "nrj-volume-1-issue-1-professionalization-and-consumer-protection-in-philippine-real-estate-practice-a-seconda",
+    "publicationDate": "",
+    "doi": ""
+  },
+  {
+    "journalId": "national-research-journal",
+    "title": "Values, Digital Citizenship, and Cultural Identity in Secondary Reading: An Integrated Comprehension Framework",
+    "authors": [
+      "John Michael D. Nicholas"
+    ],
+    "articleType": "Review Article",
+    "abstract": "A portfolio of 5 source-derived manuscripts is reconstructed here as one integrative conceptual or practice review concerning comprehension architecture, digital world, filipino identity, safe and inclusive schools, and values-based comprehension. It uses an integrative document-analysis approach to examine the source portfolio. The review identifies relationships across the component themes, eliminates repeated framing, and introduces independent literature or official policy where needed. Any numerical findings are reported as secondary evidence only because the underlying raw data were not available for recalculation. The synthesis therefore offers one bounded contribution while making its evidentiary and publication checks explicit.",
+    "keywords": [
+      "comprehension architecture",
+      "digital world",
+      "filipino identity",
+      "safe and inclusive schools",
+      "values-based comprehension",
+      "literacy",
+      "integrative review",
+      "editorial consolidation"
+    ],
+    "volume": "1",
+    "issue": "1",
+    "issueLabel": "Issue No. 1 (2022)",
+    "pages": "1–15",
+    "pdfFile": "https://drive.google.com/file/d/1VogQcpfU8ozhWG4T9PG-k1aPtd2MjOhn/view?usp=sharing",
+    "featured": false,
+    "active": true,
+    "id": "nrj-volume-1-issue-1-values-digital-citizenship-and-cultural-identity-in-secondary-reading-an-integrated-comp",
+    "publicationDate": "",
+    "doi": ""
+  },
+  {
+    "journalId": "national-research-journal",
+    "title": "Executive Power and Institutional Change in the Philippines: A Historical Synthesis Through the Duterte Administration",
+    "authors": [
+      "Julius Rey Canaoay-Agno"
+    ],
+    "articleType": "Review Article",
+    "abstract": "A portfolio of 1 source-derived manuscripts is reconstructed here as one integrative conceptual or practice review concerning . It uses an integrative document-analysis approach to examine the source portfolio. The review identifies relationships across the component themes, eliminates repeated framing, and introduces independent literature or official policy where needed. Any numerical findings are reported as secondary evidence only because the underlying raw data were not available for recalculation. The synthesis therefore offers one bounded contribution while making its evidentiary and publication checks explicit.",
+    "keywords": [
+      "executive power",
+      "history governance",
+      "integrative review",
+      "editorial consolidation"
+    ],
+    "volume": "1",
+    "issue": "1",
+    "issueLabel": "Issue No. 1 (2022)",
+    "pages": "1–9",
+    "pdfFile": "https://drive.google.com/file/d/1TB3WfUBt0hT0ehyBTo5kGs-zvyECrBQX/view?usp=sharing",
+    "featured": false,
+    "active": true,
+    "id": "nrj-volume-1-issue-1-executive-power-and-institutional-change-in-the-philippines-a-historical-synthesis-throu",
+    "publicationDate": "",
+    "doi": ""
+  },
+  {
+    "journalId": "national-research-journal",
+    "title": "Design, Outcomes, and Responsible Scale-Up of a Mobile Handwriting Clinic for Kindergarten Learners",
+    "authors": [
+      "Karen Faye L. Soberano"
+    ],
+    "articleType": "Review Article",
+    "abstract": "This secondary analysis and integrative review brings 3 related source-derived manuscripts into a single contribution focused on handwriting clinic quality, handwriting performance, and handwriting scale-up. It integrates the design, reported methods, and findings available in the source portfolio, compares the components, removes contribution-level repetition, and evaluates the material alongside independent scholarly or policy sources. The analysis treats the themes as parts of one evidentiary portfolio. Numerical results, where present, are secondary reports from the author-supplied source and were not recalculated from raw data. The resulting manuscript separates demonstrated findings from design implications and records the verification conditions that remain before publication.",
+    "keywords": [
+      "handwriting clinic quality",
+      "handwriting performance",
+      "handwriting scale-up",
+      "literacy",
+      "integrative review",
+      "editorial consolidation"
+    ],
+    "volume": "1",
+    "issue": "1",
+    "issueLabel": "Issue No. 1 (2022)",
+    "pages": "1–14",
+    "pdfFile": "https://drive.google.com/file/d/1293Dx5XwgWC07Jlo6cOmGnxT6Rgn9_oS/view?usp=sharing",
+    "featured": false,
+    "active": true,
+    "id": "nrj-volume-1-issue-1-design-outcomes-and-responsible-scale-up-of-a-mobile-handwriting-clinic-for-kindergarten",
+    "publicationDate": "",
+    "doi": ""
+  },
+  {
+    "journalId": "national-research-journal",
+    "title": "From Research Questions to Statistical Decisions: An Integrated Quantitative Research Framework for Senior High School",
+    "authors": [
+      "Mohamad T. Simpal and Arjey B. Mangakoy"
+    ],
+    "articleType": "Review Article",
+    "abstract": "This integrative conceptual or practice review brings 2 related source-derived manuscripts into a single contribution focused on measurement scales, and research design. It uses an integrative document-analysis approach to examine the source portfolio, compares the components, removes contribution-level repetition, and evaluates the material alongside independent scholarly or policy sources. The analysis treats the themes as parts of one evidentiary portfolio. Numerical results, where present, are secondary reports from the author-supplied source and were not recalculated from raw data. The resulting manuscript separates demonstrated findings from design implications and records the verification conditions that remain before publication.",
+    "keywords": [
+      "measurement scales",
+      "research design",
+      "research methods",
+      "integrative review",
+      "editorial consolidation"
+    ],
+    "volume": "1",
+    "issue": "1",
+    "issueLabel": "Issue No. 1 (2022)",
+    "pages": "1–11",
+    "pdfFile": "https://drive.google.com/file/d/1fNAuq1D6qqeLozSsrejlibTD26aeTGJc/view?usp=sharing",
+    "featured": false,
+    "active": true,
+    "id": "nrj-volume-1-issue-1-from-research-questions-to-statistical-decisions-an-integrated-quantitative-research-fra",
+    "publicationDate": "",
+    "doi": ""
+  },
+  {
+    "journalId": "national-research-journal",
+    "title": "Household Linen Sewing Education: Safety, Skill Development, and Home-Based Livelihood Potential",
+    "authors": [
+      "Naty J. Buyuccan"
+    ],
+    "articleType": "Review Article",
+    "abstract": "This article resolves overlap among 2 manuscripts derived from the same source by integrating their treatment of household linen sewing, and sewing safety. As a integrative conceptual or practice review, it uses an integrative document-analysis approach to examine the source portfolio, retains substantively distinct themes, and compares the portfolio with independent scholarship or current policy. Reported numbers are reproduced only as claims in the supplied documents; no raw-data reanalysis was possible. The reconstruction clarifies the common contribution, limits claims to the available evidence, and specifies the author, data, legal, policy, or community review still required.",
+    "keywords": [
+      "household linen sewing",
+      "sewing safety",
+      "vocational",
+      "integrative review",
+      "editorial consolidation"
+    ],
+    "volume": "1",
+    "issue": "1",
+    "issueLabel": "Issue No. 1 (2022)",
+    "pages": "1–11",
+    "pdfFile": "https://drive.google.com/file/d/1EioZwgmaXq3zH0r-bo9Q8DBxduvnkoGU/view?usp=sharing",
+    "featured": false,
+    "active": true,
+    "id": "nrj-volume-1-issue-1-household-linen-sewing-education-safety-skill-development-and-home-based-livelihood-pote",
+    "publicationDate": "",
+    "doi": ""
+  },
+  {
+    "journalId": "national-research-journal",
+    "title": "Accreditation Readiness and Faculty Capacity in Non-Accredited Information Technology Programs: A Secondary Analysis",
+    "authors": [
+      "Rose May Cora P. Lagon"
+    ],
+    "articleType": "Review Article",
+    "abstract": "This secondary analysis and integrative review brings 4 related source-derived manuscripts into a single contribution focused on accreditation capacity, accreditation readiness, computer technology competence, and organizational commitment. It integrates the design, reported methods, and findings available in the source portfolio, compares the components, removes contribution-level repetition, and evaluates the material alongside independent scholarly or policy sources. The analysis treats the themes as parts of one evidentiary portfolio. Numerical results, where present, are secondary reports from the author-supplied source and were not recalculated from raw data. The resulting manuscript separates demonstrated findings from design implications and records the verification conditions that remain before publication.",
+    "keywords": [
+      "accreditation capacity",
+      "accreditation readiness",
+      "computer technology competence",
+      "organizational commitment",
+      "pedagogy",
+      "integrative review",
+      "editorial consolidation"
+    ],
+    "volume": "1",
+    "issue": "1",
+    "issueLabel": "Issue No. 1 (2022)",
+    "pages": "1–14",
+    "pdfFile": "https://drive.google.com/file/d/1D6yG4qoDgHkLVkcOYWViqbaubUEViRYu/view?usp=sharing",
+    "featured": false,
+    "active": true,
+    "id": "nrj-volume-1-issue-1-accreditation-readiness-and-faculty-capacity-in-non-accredited-information-technology-pr",
     "publicationDate": "",
     "doi": ""
   },
@@ -35,26 +1330,6 @@ window.SHIRLEY_JOURNAL_ARTICLES = [
     "featured": false,
     "active": true,
     "id": "volume-1-issue-4-attention-and-focus",
-    "keywords": [],
-    "publicationDate": "",
-    "doi": ""
-  },
-  {
-    "journalId": "national-research-journal",
-    "title": "Building Early Critical Literacy: Fact, Opinion, Fantasy, and Reality in Grade 3 Reading",
-    "authors": [
-      "Gee Ann E. Serdeña"
-    ],
-    "articleType": "Review Article",
-    "abstract": "This article examines fact-opinion and fantasy-reality comprehension modules as foundations for early critical literacy.",
-    "volume": "1",
-    "issue": "1",
-    "issueLabel": "Issue No. 1 (2022)",
-    "pages": "116–120",
-    "pdfFile": "assets/uploads/journal-archive/national-research-journal/volume-1-issue-1/gee-ann-serdena-critical-literacy.pdf",
-    "featured": false,
-    "active": true,
-    "id": "nrj-volume-1-issue-1-critical-literacy",
     "keywords": [],
     "publicationDate": "",
     "doi": ""
@@ -100,26 +1375,6 @@ window.SHIRLEY_JOURNAL_ARTICLES = [
     "doi": ""
   },
   {
-    "journalId": "national-research-journal",
-    "title": "Character Formatting as Functional Emphasis: Teaching Bold, Italic, Underline, Color, and Effects in Introductory Word Processing",
-    "authors": [
-      "Felisa T. Ubaldo"
-    ],
-    "articleType": "Institutional Paper",
-    "abstract": "This article derives an instructional framework for teaching character-formatting tools as purposeful forms of functional emphasis.",
-    "volume": "1",
-    "issue": "1",
-    "issueLabel": "Issue No. 1 (2022)",
-    "pages": "158–163",
-    "pdfFile": "assets/uploads/journal-archive/national-research-journal/volume-1-issue-1/felisa-ubaldo-character-formatting.pdf",
-    "featured": false,
-    "active": true,
-    "id": "nrj-volume-1-issue-1-character-formatting",
-    "keywords": [],
-    "publicationDate": "",
-    "doi": ""
-  },
-  {
     "journalId": "multidisciplinary-international-theses-and-articles-journal",
     "title": "Comparative Analysis of Weight Performance Among Fifth Instar Silkworm Hybrids",
     "authors": [
@@ -135,46 +1390,6 @@ window.SHIRLEY_JOURNAL_ARTICLES = [
     "featured": false,
     "active": true,
     "id": "volume-1-issue-2-silkworm-hybrids",
-    "keywords": [],
-    "publicationDate": "",
-    "doi": ""
-  },
-  {
-    "journalId": "national-research-journal",
-    "title": "Computer Technology Competence of IT Faculty in Non-Accredited State Universities and Colleges in Region VI: A Focused Secondary Analysis",
-    "authors": [
-      "Rose May Cora P. Lagon"
-    ],
-    "articleType": "Research Article",
-    "abstract": "This paper presents a focused analysis of computer-technology competence findings involving IT faculty in non-accredited programs of state universities and colleges in Region VI.",
-    "volume": "1",
-    "issue": "1",
-    "issueLabel": "Issue No. 1 (2022)",
-    "pages": "67–72",
-    "pdfFile": "assets/uploads/journal-archive/national-research-journal/volume-1-issue-1/rose-lagon-computer-technology-competence.pdf",
-    "featured": false,
-    "active": true,
-    "id": "nrj-volume-1-issue-1-computer-technology-competence",
-    "keywords": [],
-    "publicationDate": "",
-    "doi": ""
-  },
-  {
-    "journalId": "national-research-journal",
-    "title": "Consumer Protection and Policy Risk in Real Estate Transactions: A Thematic Review of Practitioner-Reported Issues",
-    "authors": [
-      "Geena B. Hipolito"
-    ],
-    "articleType": "Review Article",
-    "abstract": "This article reorganizes policy implications from a doctoral dissertation into a consumer-protection risk framework for real estate transactions.",
-    "volume": "1",
-    "issue": "1",
-    "issueLabel": "Issue No. 1 (2022)",
-    "pages": "43–50",
-    "pdfFile": "assets/uploads/journal-archive/national-research-journal/volume-1-issue-1/geena-hipolito-consumer-protection.pdf",
-    "featured": false,
-    "active": true,
-    "id": "nrj-volume-1-issue-1-consumer-protection",
     "keywords": [],
     "publicationDate": "",
     "doi": ""
@@ -397,107 +1612,6 @@ window.SHIRLEY_JOURNAL_ARTICLES = [
     "doi": ""
   },
   {
-    "journalId": "national-research-journal",
-    "title": "From Classroom Action Research to Responsible Scale-Up: An Assessment and Implementation Framework for Early Handwriting Intervention",
-    "authors": [
-      "Karen Faye L. Soberano"
-    ],
-    "articleType": "Institutional Paper",
-    "abstract": "This article synthesizes recommendations, an action plan, and methodological lessons into a responsible scale-up framework for early handwriting intervention.",
-    "volume": "1",
-    "issue": "1",
-    "issueLabel": "Issue No. 1 (2022)",
-    "pages": "99–104",
-    "pdfFile": "assets/uploads/journal-archive/national-research-journal/volume-1-issue-1/karen-soberano-handwriting-scale-up.pdf",
-    "featured": false,
-    "active": true,
-    "id": "nrj-volume-1-issue-1-handwriting-scale-up",
-    "keywords": [],
-    "publicationDate": "",
-    "doi": ""
-  },
-  {
-    "journalId": "national-research-journal",
-    "title": "From Faculty Profile to Accreditation Capacity: A Faculty-Development and Quality-Assurance Framework for Non-Accredited IT Programs",
-    "authors": [
-      "Rose May Cora P. Lagon"
-    ],
-    "articleType": "Research Article",
-    "abstract": "This article synthesizes faculty competence, commitment, readiness, accreditation requirements, and recommendations into an institutional-development framework.",
-    "volume": "1",
-    "issue": "1",
-    "issueLabel": "Issue No. 1 (2022)",
-    "pages": "83–88",
-    "pdfFile": "assets/uploads/journal-archive/national-research-journal/volume-1-issue-1/rose-lagon-accreditation-capacity.pdf",
-    "featured": false,
-    "active": true,
-    "id": "nrj-volume-1-issue-1-accreditation-capacity",
-    "keywords": [],
-    "publicationDate": "",
-    "doi": ""
-  },
-  {
-    "journalId": "national-research-journal",
-    "title": "From Guided Practice to Reflection: Designing Self-Paced Learning Activity Sheets for Introductory Word-Processing Skills",
-    "authors": [
-      "Felisa T. Ubaldo"
-    ],
-    "articleType": "Institutional Paper",
-    "abstract": "This article analyzes the instructional architecture of self-paced Grade 8 learning activity sheets for introductory word-processing skills.",
-    "volume": "1",
-    "issue": "1",
-    "issueLabel": "Issue No. 1 (2022)",
-    "pages": "175–180",
-    "pdfFile": "assets/uploads/journal-archive/national-research-journal/volume-1-issue-1/felisa-ubaldo-self-paced-learning-sheets.pdf",
-    "featured": false,
-    "active": true,
-    "id": "nrj-volume-1-issue-1-self-paced-learning-sheets",
-    "keywords": [],
-    "publicationDate": "",
-    "doi": ""
-  },
-  {
-    "journalId": "national-research-journal",
-    "title": "From Literal Recall to Evaluative Reading: A Ten-Module Progression of Grade 3 Reading Comprehension Skills",
-    "authors": [
-      "Gee Ann E. Serdeña"
-    ],
-    "articleType": "Review Article",
-    "abstract": "This article analyzes a ten-module progression of Grade 3 reading-comprehension skills from literal retrieval toward evaluative reading.",
-    "volume": "1",
-    "issue": "1",
-    "issueLabel": "Issue No. 1 (2022)",
-    "pages": "105–110",
-    "pdfFile": "assets/uploads/journal-archive/national-research-journal/volume-1-issue-1/gee-ann-serdena-reading-comprehension.pdf",
-    "featured": false,
-    "active": true,
-    "id": "nrj-volume-1-issue-1-reading-comprehension",
-    "keywords": [],
-    "publicationDate": "",
-    "doi": ""
-  },
-  {
-    "journalId": "national-research-journal",
-    "title": "From Research Question to Sample: A Decision Framework for Research Design, Sampling Technique, and Sample Size in Senior High School Studies",
-    "authors": [
-      "Mohamad T. Simpal",
-      "Arjey B. Mangakoy"
-    ],
-    "articleType": "Review Article",
-    "abstract": "This article develops a practical framework integrating research design, sampling techniques, sampling bias, and sample-size estimation for senior high school researchers.",
-    "volume": "1",
-    "issue": "1",
-    "issueLabel": "Issue No. 1 (2022)",
-    "pages": "59–66",
-    "pdfFile": "assets/uploads/journal-archive/national-research-journal/volume-1-issue-1/simpal-mangakoy-research-design.pdf",
-    "featured": false,
-    "active": true,
-    "id": "nrj-volume-1-issue-1-research-design",
-    "keywords": [],
-    "publicationDate": "",
-    "doi": ""
-  },
-  {
     "journalId": "multidisciplinary-international-theses-and-articles-journal",
     "title": "Grade Inflation in Teacher Ratings: When Scores Rise Without Performance Gains",
     "authors": [
@@ -518,26 +1632,6 @@ window.SHIRLEY_JOURNAL_ARTICLES = [
     "doi": ""
   },
   {
-    "journalId": "national-research-journal",
-    "title": "Graphic Organizers as Cognitive Scaffolds in Grade 3 Reading: Sequencing, Cause-Effect, and Compare-Contrast",
-    "authors": [
-      "Gee Ann E. Serdeña"
-    ],
-    "articleType": "Review Article",
-    "abstract": "This article examines visual and spatial organizers used to support sequencing, causal reasoning, conclusions, and comparison in Grade 3 reading.",
-    "volume": "1",
-    "issue": "1",
-    "issueLabel": "Issue No. 1 (2022)",
-    "pages": "111–115",
-    "pdfFile": "assets/uploads/journal-archive/national-research-journal/volume-1-issue-1/gee-ann-serdena-graphic-organizers.pdf",
-    "featured": false,
-    "active": true,
-    "id": "nrj-volume-1-issue-1-graphic-organizers",
-    "keywords": [],
-    "publicationDate": "",
-    "doi": ""
-  },
-  {
     "journalId": "multidisciplinary-international-theses-and-articles-journal",
     "title": "Green Chemistry: Advancing Science Through Sustainability",
     "authors": [
@@ -553,26 +1647,6 @@ window.SHIRLEY_JOURNAL_ARTICLES = [
     "active": true,
     "id": "volume-1-issue-1-green-chemistry",
     "abstract": "",
-    "keywords": [],
-    "publicationDate": "",
-    "doi": ""
-  },
-  {
-    "journalId": "national-research-journal",
-    "title": "Handwriting Performance Before and After a Mobile Intensive Writing Clinic: A Secondary Analysis of a One-Group Kindergarten Intervention",
-    "authors": [
-      "Karen Faye L. Soberano"
-    ],
-    "articleType": "Research Article",
-    "abstract": "This article re-examines quantitative handwriting outcomes from an intervention involving kindergarten pupils at Pallas Elementary School.",
-    "volume": "1",
-    "issue": "1",
-    "issueLabel": "Issue No. 1 (2022)",
-    "pages": "89–93",
-    "pdfFile": "assets/uploads/journal-archive/national-research-journal/volume-1-issue-1/karen-soberano-handwriting-performance.pdf",
-    "featured": false,
-    "active": true,
-    "id": "nrj-volume-1-issue-1-handwriting-performance",
     "keywords": [],
     "publicationDate": "",
     "doi": ""
@@ -613,26 +1687,6 @@ window.SHIRLEY_JOURNAL_ARTICLES = [
     "featured": false,
     "active": true,
     "id": "volume-1-issue-3-heuristic-differentiation",
-    "keywords": [],
-    "publicationDate": "",
-    "doi": ""
-  },
-  {
-    "journalId": "national-research-journal",
-    "title": "Household Linen Sewing as a Home-Based Livelihood: Linking Practical Skills, Creativity, and Family Income",
-    "authors": [
-      "Naty J. Buyuccan"
-    ],
-    "articleType": "Institutional Paper",
-    "abstract": "This article examines household-linen sewing as a practical home-based livelihood pathway connecting basic sewing competence, creativity, product quality, and income augmentation.",
-    "volume": "1",
-    "issue": "1",
-    "issueLabel": "Issue No. 1 (2022)",
-    "pages": "181–185",
-    "pdfFile": "assets/uploads/journal-archive/national-research-journal/volume-1-issue-1/naty-buyuccan-household-linen-sewing.pdf",
-    "featured": false,
-    "active": true,
-    "id": "nrj-volume-1-issue-1-household-linen-sewing",
     "keywords": [],
     "publicationDate": "",
     "doi": ""
@@ -801,27 +1855,6 @@ window.SHIRLEY_JOURNAL_ARTICLES = [
     "doi": ""
   },
   {
-    "journalId": "national-research-journal",
-    "title": "Measurement Scales, Likert Parameters, and Statistical Decision-Making in Senior High School Quantitative Research",
-    "authors": [
-      "Mohamad T. Simpal",
-      "Arjey B. Mangakoy"
-    ],
-    "articleType": "Review Article",
-    "abstract": "This article presents a practical decision framework linking research questions, measurement scales, descriptive summaries, Likert-type response parameters, and hypothesis direction.",
-    "volume": "1",
-    "issue": "1",
-    "issueLabel": "Issue No. 1 (2022)",
-    "pages": "51–58",
-    "pdfFile": "assets/uploads/journal-archive/national-research-journal/volume-1-issue-1/simpal-mangakoy-measurement-scales.pdf",
-    "featured": false,
-    "active": true,
-    "id": "nrj-volume-1-issue-1-measurement-scales",
-    "keywords": [],
-    "publicationDate": "",
-    "doi": ""
-  },
-  {
     "journalId": "multidisciplinary-international-theses-and-articles-journal",
     "title": "Multiple Role Assignments and Work Performance of School Office Staff: Basis for Action Plan",
     "authors": [
@@ -897,46 +1930,6 @@ window.SHIRLEY_JOURNAL_ARTICLES = [
     "active": true,
     "id": "volume-1-issue-1-sustainable-development",
     "abstract": "",
-    "keywords": [],
-    "publicationDate": "",
-    "doi": ""
-  },
-  {
-    "journalId": "national-research-journal",
-    "title": "Organizational Commitment of IT Faculty in Non-Accredited SUCs: Age, Academic Rank, and Institutional Engagement",
-    "authors": [
-      "Rose May Cora P. Lagon"
-    ],
-    "articleType": "Research Article",
-    "abstract": "This article analyzes organizational-commitment findings among IT faculty in non-accredited state-university and college programs in Region VI.",
-    "volume": "1",
-    "issue": "1",
-    "issueLabel": "Issue No. 1 (2022)",
-    "pages": "73–77",
-    "pdfFile": "assets/uploads/journal-archive/national-research-journal/volume-1-issue-1/rose-lagon-organizational-commitment.pdf",
-    "featured": false,
-    "active": true,
-    "id": "nrj-volume-1-issue-1-organizational-commitment",
-    "keywords": [],
-    "publicationDate": "",
-    "doi": ""
-  },
-  {
-    "journalId": "national-research-journal",
-    "title": "Paragraph Formatting and Document Structure in Junior High ICT: From Text Selection to Organized Digital Pages",
-    "authors": [
-      "Felisa T. Ubaldo"
-    ],
-    "articleType": "Institutional Paper",
-    "abstract": "This article examines paragraph formatting as a bridge between character-level editing and full document design in junior high ICT.",
-    "volume": "1",
-    "issue": "1",
-    "issueLabel": "Issue No. 1 (2022)",
-    "pages": "164–169",
-    "pdfFile": "assets/uploads/journal-archive/national-research-journal/volume-1-issue-1/felisa-ubaldo-paragraph-formatting.pdf",
-    "featured": false,
-    "active": true,
-    "id": "nrj-volume-1-issue-1-paragraph-formatting",
     "keywords": [],
     "publicationDate": "",
     "doi": ""
@@ -1142,26 +2135,6 @@ window.SHIRLEY_JOURNAL_ARTICLES = [
     "doi": ""
   },
   {
-    "journalId": "national-research-journal",
-    "title": "Print Preview as a Resource-Conservation and Quality-Control Skill in School-Based Digital Literacy",
-    "authors": [
-      "Felisa T. Ubaldo"
-    ],
-    "articleType": "Institutional Paper",
-    "abstract": "This article develops print preview into a quality-control framework centered on accuracy, economy, and readiness.",
-    "volume": "1",
-    "issue": "1",
-    "issueLabel": "Issue No. 1 (2022)",
-    "pages": "170–174",
-    "pdfFile": "assets/uploads/journal-archive/national-research-journal/volume-1-issue-1/felisa-ubaldo-print-preview.pdf",
-    "featured": false,
-    "active": true,
-    "id": "nrj-volume-1-issue-1-print-preview",
-    "keywords": [],
-    "publicationDate": "",
-    "doi": ""
-  },
-  {
     "journalId": "multidisciplinary-international-theses-and-articles-journal",
     "title": "Professional Development and Teaching Practices of Kindergarten Teachers: Basis for a Teacher Development Program",
     "authors": [
@@ -1177,26 +2150,6 @@ window.SHIRLEY_JOURNAL_ARTICLES = [
     "featured": false,
     "active": true,
     "id": "volume-1-issue-4-professional-development",
-    "keywords": [],
-    "publicationDate": "",
-    "doi": ""
-  },
-  {
-    "journalId": "national-research-journal",
-    "title": "Professional Profile and Organizational Culture of Licensed Real Estate Practitioners in Luzon: A Secondary Analysis of a 2016 Dissertation",
-    "authors": [
-      "Geena B. Hipolito"
-    ],
-    "articleType": "Research Article",
-    "abstract": "This article re-examines practitioner-profile and organizational-culture findings from a dissertation involving licensed real estate practitioners in Luzon.",
-    "volume": "1",
-    "issue": "1",
-    "issueLabel": "Issue No. 1 (2022)",
-    "pages": "27–34",
-    "pdfFile": "assets/uploads/journal-archive/national-research-journal/volume-1-issue-1/geena-hipolito-professional-profile.pdf",
-    "featured": false,
-    "active": true,
-    "id": "nrj-volume-1-issue-1-professional-profile",
     "keywords": [],
     "publicationDate": "",
     "doi": ""
@@ -1277,26 +2230,6 @@ window.SHIRLEY_JOURNAL_ARTICLES = [
     "active": true,
     "id": "volume-1-issue-1-risk-and-responsibility",
     "abstract": "",
-    "keywords": [],
-    "publicationDate": "",
-    "doi": ""
-  },
-  {
-    "journalId": "national-research-journal",
-    "title": "Safety, Tool Management, and Work Discipline in Elementary Sewing Education",
-    "authors": [
-      "Naty J. Buyuccan"
-    ],
-    "articleType": "Institutional Paper",
-    "abstract": "This conceptual paper analyzes safety and work discipline as foundational elements of elementary sewing instruction.",
-    "volume": "1",
-    "issue": "1",
-    "issueLabel": "Issue No. 1 (2022)",
-    "pages": "186–190",
-    "pdfFile": "assets/uploads/journal-archive/national-research-journal/volume-1-issue-1/naty-buyuccan-sewing-safety.pdf",
-    "featured": false,
-    "active": true,
-    "id": "nrj-volume-1-issue-1-sewing-safety",
     "keywords": [],
     "publicationDate": "",
     "doi": ""
@@ -1584,26 +2517,6 @@ window.SHIRLEY_JOURNAL_ARTICLES = [
     "active": true,
     "id": "volume-1-issue-1-transformational-leaders",
     "abstract": "",
-    "keywords": [],
-    "publicationDate": "",
-    "doi": ""
-  },
-  {
-    "journalId": "national-research-journal",
-    "title": "Typography and Visual Hierarchy in Grade 8 Digital Document Production: A Practice-Oriented Framework",
-    "authors": [
-      "Felisa T. Ubaldo"
-    ],
-    "articleType": "Institutional Paper",
-    "abstract": "This article develops a practice-oriented framework for treating typography as purposeful communication in Grade 8 digital document production.",
-    "volume": "1",
-    "issue": "1",
-    "issueLabel": "Issue No. 1 (2022)",
-    "pages": "152–157",
-    "pdfFile": "assets/uploads/journal-archive/national-research-journal/volume-1-issue-1/felisa-ubaldo-typography.pdf",
-    "featured": false,
-    "active": true,
-    "id": "nrj-volume-1-issue-1-typography",
     "keywords": [],
     "publicationDate": "",
     "doi": ""
