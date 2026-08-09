@@ -12,7 +12,7 @@
 <body data-page="journal-profile">
 <a class="skip-link" href="#main-content">Skip to content</a>
 <div class="topbar"><div class="container topbar-inner"><div class="topbar-contact"><a href="mailto:shirleypublishinghouse@gmail.com">shirleypublishinghouse@gmail.com</a><a href="tel:+639533008505">0953-300-8505</a><span class="topbar-welcome">Welcome to Shirley Publishing House</span></div><div class="topbar-links"><a href="authors.html">Author Guidelines</a><a href="submit.html">Submit Manuscript</a><a href="contact.html">Request a Quote</a></div></div></div>
-<header class="site-header" id="top"><div class="container header-inner"><a aria-label="Shirley Publishing House home" class="brand" href="index.html"><img alt="Shirley Publishing House official logo" src="assets/shirley-logo-transparent.png"/></a><button aria-controls="main-nav" aria-expanded="false" aria-label="Open navigation menu" class="menu-toggle" type="button"><span></span><span></span><span></span></button><nav aria-label="Main navigation" class="main-nav" id="main-nav"><a href="index.html">Home</a><a href="about.html">About</a><a href="services.html">Services</a><a aria-current="page" class="nav-active" href="journal.html">Our Journals</a><a href="repository.html">Repository</a><a href="authors.html">For Authors</a><a href="contact.html">Contact</a><a class="nav-cta" href="submit.html">Submit Manuscript</a></nav></div></header>
+<header class="site-header" id="top"><div class="container header-inner"><a aria-label="Shirley Publishing House home" class="brand" href="index.html"><img alt="Shirley Publishing House official logo" src="assets/shirley-logo-transparent.png"/></a><button aria-controls="main-nav" aria-expanded="false" aria-label="Open navigation menu" class="menu-toggle" type="button"><span></span><span></span><span></span></button><nav aria-label="Main navigation" class="main-nav" id="main-nav"><a href="index.html">Home</a><a aria-current="page" class="nav-active" href="journal.html">Journals</a><a href="services.html">Services</a><a href="repository.html">Archives</a><a href="contact.html">Contact Us</a><a class="nav-cta" href="submit.html">Submit Manuscript</a></nav></div></header>
 <main id="main-content">
 <section class="page-hero journal-detail-hero"><div class="container page-hero-inner"><div class="breadcrumbs"><a href="index.html">Home</a> / <a href="journal.html">Our Journals</a> / <span id="journal-breadcrumb">Journal Profile</span></div><p class="eyebrow">Journal profile</p><h1 id="journal-hero-title">Loading journal information…</h1><p id="journal-hero-intro">Please wait while the journal profile is prepared.</p></div></section>
 
@@ -25,18 +25,37 @@
 <p class="lead" id="journal-description"></p>
 <div class="journal-facts" id="journal-facts"></div>
 <div id="journal-disciplines-wrap"><h3>Disciplinary scope</h3><div class="scope-tags" id="journal-disciplines"></div></div>
-<div class="hero-actions"><a class="btn btn-primary" id="journal-submit-link" href="submit.html">Submit an Article</a><a class="btn btn-secondary" id="journal-download-link" href="#" download hidden>Download Full Journal (PDF)</a><a class="btn btn-secondary" id="journal-publications-link" href="repository.html">Browse Published Works</a></div>
+<div class="hero-actions"><a class="btn btn-primary" id="journal-submit-link" href="submit.html">Submit an Article</a><a class="btn btn-secondary" id="journal-download-link" href="#" download hidden>Download Full Journal (PDF)</a><a class="btn btn-secondary" id="journal-publications-link" href="repository.html">Browse Archives</a></div>
 </div>
 </div>
 </section>
 
-<section class="section journal-download-section" id="journal-download-section" hidden><div class="container"><div class="journal-download-card"><div class="journal-download-icon" aria-hidden="true">PDF</div><div class="journal-download-copy"><p class="eyebrow">Digital journal issue</p><h2 id="journal-download-title">Download the journal</h2><p id="journal-download-note">Access the complete journal issue as a downloadable PDF.</p></div><a class="btn btn-primary" id="journal-download-section-link" href="#" download>Download Full Journal (PDF)</a></div></div></section>
-
-<section class="section section-soft" id="journal-accepted-section"><div class="container"><div class="section-heading center"><p class="eyebrow">Suitable submissions</p><h2>Works considered for publication</h2></div><div class="value-grid journal-accepted-grid" id="journal-accepted-works"></div></div></section>
-
-<section class="section" id="journal-guidelines-section"><div class="container two-column"><div class="content-card" id="journal-preparation-card"><h2>Article preparation</h2><ul class="check-list" id="journal-preparation-list"></ul></div><div class="content-card" id="journal-assessment-card"><h2>Editorial assessment</h2><ul class="check-list" id="journal-assessment-list"></ul></div></div></section>
-
-<section class="section section-soft" id="journal-editorial-section"><div class="container"><div class="section-heading center"><p class="eyebrow">Editorial leadership</p><h2>Journal editorial information</h2></div><div class="editorial-media-grid"><figure class="editorial-board-image-card" id="journal-board-image-wrap" hidden><a id="journal-board-image-link" href="#" target="_blank" rel="noopener"><img id="journal-board-image" alt="Journal editorial board and back page" loading="lazy"/></a><figcaption>Editorial Board and journal back page</figcaption></figure><div class="editorial-panel" id="journal-editorial-panel"><div><span class="editorial-label">Editor-in-Chief</span><strong id="journal-editor-chief"></strong></div><div id="journal-board-wrap"><span class="editorial-label">Editorial Board</span><ul class="editorial-board-list" id="journal-editorial-board"></ul></div></div></div></div></section>
+<section class="section journal-tabs-section" id="journal-details">
+<div class="container">
+<div class="journal-tabs" role="tablist" aria-label="Journal information sections">
+<button class="journal-tab is-active" id="journal-tab-description" type="button" role="tab" aria-selected="true" aria-controls="journal-panel-description" data-journal-tab="description">Description</button>
+<button class="journal-tab" id="journal-tab-archive" type="button" role="tab" aria-selected="false" aria-controls="journal-panel-archive" data-journal-tab="archive">Archive</button>
+<button class="journal-tab" id="journal-tab-editorial" type="button" role="tab" aria-selected="false" aria-controls="journal-panel-editorial" data-journal-tab="editorial">Editorial Board</button>
+</div>
+<div class="journal-tab-panel is-active" id="journal-panel-description" role="tabpanel" aria-labelledby="journal-tab-description" data-journal-panel="description">
+<div class="journal-panel-heading"><p class="eyebrow">About the journal</p><h2>Description and Scope</h2></div>
+<p class="lead" id="journal-tab-description-copy"></p>
+<div class="journal-description-grid">
+<div id="journal-disciplines-tab-wrap"><h3>Disciplinary Scope</h3><div class="scope-tags" id="journal-disciplines-tab"></div></div>
+<div id="journal-accepted-section"><h3>Works Considered</h3><ul class="check-list" id="journal-accepted-works"></ul></div>
+</div>
+<div class="two-column journal-guidance-grid" id="journal-guidelines-section"><div class="content-card" id="journal-preparation-card"><h3>Article Preparation</h3><ul class="check-list" id="journal-preparation-list"></ul></div><div class="content-card" id="journal-assessment-card"><h3>Editorial Assessment</h3><ul class="check-list" id="journal-assessment-list"></ul></div></div>
+</div>
+<div class="journal-tab-panel" id="journal-panel-archive" role="tabpanel" aria-labelledby="journal-tab-archive" data-journal-panel="archive" hidden>
+<div class="journal-panel-heading"><p class="eyebrow">Published issues</p><h2>Journal Archive</h2><p>Browse the available journal issue and related publications in the Shirley Publishing House archives.</p></div>
+<div class="journal-archive-grid"><div class="journal-download-card" id="journal-download-section" hidden><div class="journal-download-icon" aria-hidden="true">PDF</div><div class="journal-download-copy"><p class="eyebrow">Available issue</p><h2 id="journal-download-title">Download the journal</h2><p id="journal-download-note">Access the complete journal issue as a downloadable PDF.</p></div><a class="btn btn-primary" id="journal-download-section-link" href="#" download>Download Full Journal (PDF)</a></div><div class="journal-archive-link-card"><span class="journal-archive-symbol">A</span><div><h3>Publication Archives</h3><p>Search articles, books, journals, and other works published or produced with Shirley Publishing House.</p><a class="text-link" id="journal-archive-publications-link" href="repository.html">Browse all archives →</a></div></div></div>
+</div>
+<div class="journal-tab-panel" id="journal-panel-editorial" role="tabpanel" aria-labelledby="journal-tab-editorial" data-journal-panel="editorial" hidden>
+<div class="journal-panel-heading"><p class="eyebrow">Editorial leadership</p><h2>Editorial Board</h2></div>
+<div class="editorial-media-grid"><figure class="editorial-board-image-card" id="journal-board-image-wrap" hidden><a id="journal-board-image-link" href="#" target="_blank" rel="noopener"><img id="journal-board-image" alt="Journal editorial board and back page" loading="lazy"/></a><figcaption>Editorial Board and journal back page</figcaption></figure><div class="editorial-panel" id="journal-editorial-panel"><div><span class="editorial-label">Editor-in-Chief</span><strong id="journal-editor-chief"></strong></div><div id="journal-board-wrap"><span class="editorial-label">Editorial Board</span><ul class="editorial-board-list" id="journal-editorial-board"></ul></div></div></div>
+</div>
+</div>
+</section>
 
 <section class="cta-band"><div class="container cta-inner"><div><h2>Ready to submit your scholarly work?</h2><p>Review the author guidelines, then send your manuscript for initial assessment.</p></div><div class="cta-actions"><a class="btn btn-light" id="journal-cta-submit" href="submit.html">Start Submission</a><a class="btn btn-secondary" href="authors.html">Read Author Guidelines</a></div></div></section>
 
