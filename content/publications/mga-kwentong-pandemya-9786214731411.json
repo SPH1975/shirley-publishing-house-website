@@ -1,0 +1,35 @@
+{
+  "id": "mga-kwentong-pandemya-9786214731411",
+  "title": "Mga Kwentong Pandemya",
+  "author": "Abigail S. Ahmad, MAED,LPT",
+  "publisher": "Shirley Publishing House",
+  "type": "Children's Book",
+  "year": 2023,
+  "publicationDate": "July 4, 2023",
+  "edition": "FIRST EDITION",
+  "language": "FILIPINO",
+  "format": "Softbound/Paperback",
+  "category": "Children's book",
+  "identifierLabel": "ISBN",
+  "identifier": "978-621-473-141-1",
+  "identifiers": [
+    {
+      "format": "Softbound/Paperback",
+      "isbn": "978-621-473-141-1"
+    }
+  ],
+  "suggestedRetailPrice": "150",
+  "cover": "assets/covers/9786214731411-mga-kwentong-pandemya.webp",
+  "abstract": "",
+  "keywords": [
+    "kwentong",
+    "pandemya",
+    "children's book",
+    "filipino",
+    "children's literature & storybooks"
+  ],
+  "accessUrl": "contact.html",
+  "accessLabel": "Inquire About This Publication",
+  "featured": false,
+  "subjectCategory": "Children's Literature & Storybooks"
+}

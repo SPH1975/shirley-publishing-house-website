@@ -1,0 +1,36 @@
+{
+  "id": "bambi-the-naughty-bee-9786214730322",
+  "title": "BAMBI, THE NAUGHTY BEE",
+  "author": "JELYN M. MENCIO-OMAS",
+  "publisher": "Shirley Publishing House",
+  "type": "Children's Book",
+  "year": 2022,
+  "publicationDate": "APRIL 6, 2022",
+  "edition": "FIRST EDITION",
+  "language": "ENGLISH",
+  "format": "Softbound/Paperback",
+  "category": "Children's book",
+  "identifierLabel": "ISBN",
+  "identifier": "978-621-473-032-2",
+  "identifiers": [
+    {
+      "format": "Softbound/Paperback",
+      "isbn": "978-621-473-032-2"
+    }
+  ],
+  "suggestedRetailPrice": "N/A",
+  "cover": "assets/covers/9786214730322-bambi-the-naughty-bee.webp",
+  "abstract": "",
+  "keywords": [
+    "bambi",
+    "naughty",
+    "bee",
+    "children's book",
+    "english",
+    "children's literature & storybooks"
+  ],
+  "accessUrl": "contact.html",
+  "accessLabel": "Inquire About This Publication",
+  "featured": false,
+  "subjectCategory": "Children's Literature & Storybooks"
+}

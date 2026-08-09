@@ -67,12 +67,14 @@ collections:
         options: ["ISBN", "ISSN", "ISMN", "DOI", "Other"]
         default: "ISBN"
       - { label: "ISBN / ISSN / Identifier", name: "identifier", widget: "string" }
+      - { label: "Suggested Retail Price", name: "suggestedRetailPrice", widget: "string", required: false }
       - { label: "Cover Image", name: "cover", widget: "image", required: false }
       - { label: "Short Description", name: "abstract", widget: "text", required: false }
       - { label: "Keywords", name: "keywords", widget: "list", required: false, default: [] }
       - { label: "Inquiry / Access Link", name: "accessUrl", widget: "string", default: "contact.html", required: false }
       - { label: "Button Label", name: "accessLabel", widget: "string", default: "Inquire About This Publication", required: false }
       - { label: "Featured Publication", name: "featured", widget: "boolean", default: false, required: false }
+      - { label: "Show in Publication Archives", name: "active", widget: "boolean", default: true, required: false }
 
 
   - name: "journals"
