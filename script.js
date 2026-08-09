@@ -150,11 +150,107 @@
     if (window.innerWidth > 900) closeNavigation();
   }, { passive: true });
 
+  const serviceExplorer = document.querySelector('[data-service-explorer]');
+  if (serviceExplorer) {
+    const serviceList = serviceExplorer.querySelector('.service-grid');
+    const serviceCards = [...serviceExplorer.querySelectorAll('.service-card')];
+    const servicePanel = serviceExplorer.querySelector('[data-service-panel]');
+    const serviceNumber = servicePanel?.querySelector('[data-service-number]');
+    const servicePosition = servicePanel?.querySelector('[data-service-position]');
+    const serviceTitle = servicePanel?.querySelector('[data-service-title]');
+    const serviceSummary = servicePanel?.querySelector('[data-service-summary]');
+    const serviceItems = servicePanel?.querySelector('[data-service-items]');
+    const hoverCapable = window.matchMedia?.('(hover: hover) and (pointer: fine)').matches;
+
+    if (serviceList && servicePanel && serviceCards.length) {
+      serviceExplorer.classList.add('is-enhanced');
+      serviceList.setAttribute('role', 'tablist');
+      serviceList.setAttribute('aria-label', 'Publishing service categories');
+      serviceList.setAttribute('aria-orientation', 'vertical');
+      servicePanel.id = servicePanel.id || 'service-explorer-panel';
+      servicePanel.hidden = false;
+
+      const activateService = (card, shouldFocus = false) => {
+        const activeIndex = serviceCards.indexOf(card);
+        if (activeIndex < 0) return;
+
+        const title = card.querySelector('h3')?.textContent.trim() || 'Publishing service';
+        const summary = card.querySelector('p')?.textContent.trim() || '';
+        const number = card.querySelector('.number')?.textContent.trim() || String(activeIndex + 1).padStart(2, '0');
+        const items = [...card.querySelectorAll('li')]
+          .map((item) => item.textContent.trim())
+          .filter(Boolean);
+
+        serviceCards.forEach((serviceCard) => {
+          const isActive = serviceCard === card;
+          serviceCard.classList.toggle('is-active', isActive);
+          serviceCard.setAttribute('aria-selected', String(isActive));
+          serviceCard.tabIndex = isActive ? 0 : -1;
+        });
+
+        if (serviceNumber) serviceNumber.textContent = number;
+        if (servicePosition) servicePosition.textContent = `Service ${activeIndex + 1} of ${serviceCards.length}`;
+        if (serviceTitle) serviceTitle.textContent = title;
+        if (serviceSummary) serviceSummary.textContent = summary;
+        if (serviceItems) {
+          const listItems = items.map((itemText) => {
+            const listItem = document.createElement('li');
+            listItem.textContent = itemText;
+            return listItem;
+          });
+          serviceItems.replaceChildren(...listItems);
+        }
+
+        servicePanel.setAttribute('aria-labelledby', card.id);
+        servicePanel.classList.remove('is-switching');
+        void servicePanel.offsetWidth;
+        servicePanel.classList.add('is-switching');
+
+        if (shouldFocus) card.focus({ preventScroll: true });
+      };
+
+      serviceCards.forEach((card, index) => {
+        const cardTitle = card.querySelector('h3')?.textContent.trim() || `Service ${index + 1}`;
+        card.id = `service-explorer-tab-${index + 1}`;
+        card.setAttribute('role', 'tab');
+        card.setAttribute('aria-controls', servicePanel.id);
+        card.setAttribute('aria-label', `Explore ${cardTitle}`);
+        card.setAttribute('aria-selected', 'false');
+        card.tabIndex = -1;
+
+        card.addEventListener('click', () => activateService(card, true));
+        card.addEventListener('focus', () => activateService(card));
+        if (hoverCapable) card.addEventListener('mouseenter', () => activateService(card));
+
+        card.addEventListener('keydown', (event) => {
+          let nextIndex = index;
+          if (event.key === 'ArrowDown' || event.key === 'ArrowRight') nextIndex = (index + 1) % serviceCards.length;
+          if (event.key === 'ArrowUp' || event.key === 'ArrowLeft') nextIndex = (index - 1 + serviceCards.length) % serviceCards.length;
+          if (event.key === 'Home') nextIndex = 0;
+          if (event.key === 'End') nextIndex = serviceCards.length - 1;
+
+          if (nextIndex !== index || ['Home', 'End'].includes(event.key)) {
+            event.preventDefault();
+            activateService(serviceCards[nextIndex], true);
+          }
+
+          if (event.key === 'Enter' || event.key === ' ') {
+            event.preventDefault();
+            activateService(card, true);
+          }
+        });
+      });
+
+      activateService(serviceCards[0]);
+    }
+  }
+
   const reducedMotion = window.matchMedia?.('(prefers-reduced-motion: reduce)').matches;
   const revealSelector = [
     '.section-heading',
     '.feature-item',
     '.service-card',
+    '.service-explorer-panel',
     '.service-detail',
     '.process-step',
     '.preview-card',
