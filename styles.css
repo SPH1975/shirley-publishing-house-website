@@ -1940,3 +1940,11 @@ body.is-scrolled .brand img { width: 218px; height: 64px; }
 .repository-featured { border-top-color: var(--blue-500); }
 .repository-type-badge { color: var(--blue-700); background: var(--blue-100); }
 .service-detail { position: relative; }
+
+/* Final color-alignment refinements */
+.page-hero .eyebrow,
+.repository-page-hero .eyebrow,
+.journals-hero .eyebrow,
+.journal-detail-hero .eyebrow {
+  color: #a8d6ff;
+}
