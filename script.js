@@ -220,7 +220,11 @@
 
         card.addEventListener('click', () => activateService(card, true));
         card.addEventListener('focus', () => activateService(card));
-        if (hoverCapable) card.addEventListener('mouseenter', () => activateService(card));
+        if (hoverCapable) {
+          card.addEventListener('mouseenter', () => {
+            if (!serviceList.contains(document.activeElement)) activateService(card);
+          });
+        }
 
         card.addEventListener('keydown', (event) => {
           let nextIndex = index;
