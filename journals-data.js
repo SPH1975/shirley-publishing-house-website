@@ -21,6 +21,7 @@ window.SHIRLEY_JOURNALS = [
     "publicationFrequency": "As issues are completed",
     "format": "Individual Scholarly Articles",
     "currentVolumeIssue": "Current issue information available upon inquiry",
+    "establishedYear": "2026",
     "editorInChief": "Shirley Publishing House Editorial Office",
     "editorialBoard": [],
     "acceptedWorks": [

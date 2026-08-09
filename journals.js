@@ -106,6 +106,7 @@
     ['Format', journal.format],
     ['Publication Frequency', journal.publicationFrequency],
     ['Current Volume / Issue', journal.currentVolumeIssue],
+    ['Established', journal.establishedYear],
   ].filter(([, value]) => value);
   const facts = document.getElementById('journal-facts');
   if (facts) facts.innerHTML = factValues.map(([label, value]) => `<div class="journal-fact"><span>${escapeHtml(label)}</span><strong>${escapeHtml(value)}</strong></div>`).join('');

@@ -109,6 +109,7 @@ collections:
       - { label: "Publication Frequency", name: "publicationFrequency", widget: "string", required: false, hint: "Example: Biannual, Quarterly, or As issues are completed" }
       - { label: "Publication Format", name: "format", widget: "string", required: false, hint: "Example: Print and Online" }
       - { label: "Current Volume and Issue", name: "currentVolumeIssue", widget: "string", required: false }
+      - { label: "Established Year", name: "establishedYear", widget: "string", required: false, hint: "Example: 2026" }
       - { label: "Editor-in-Chief", name: "editorInChief", widget: "string", required: false }
       - { label: "Editorial Board Members", name: "editorialBoard", widget: "list", required: false, default: [] }
       - { label: "Accepted Types of Work", name: "acceptedWorks", widget: "list", required: false, default: ["Research Articles", "Review Articles"] }
