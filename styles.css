@@ -2038,3 +2038,7 @@ body.is-scrolled .brand img { width: 218px; height: 64px; }
 
 .page-hero p:not(.eyebrow),
 .repository-page-hero p:not(.eyebrow) { color: rgba(246, 250, 255, .88); }
+
+.process-section .section-heading p { color: rgba(246, 250, 255, .88); }
+.process-section .eyebrow { color: #bfe1ff; }
+.process-step:not(:last-child)::after { color: #8ec8ff; }
