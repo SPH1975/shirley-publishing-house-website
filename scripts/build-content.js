@@ -86,9 +86,12 @@ const journals = readFolder(path.join(root, 'content', 'journals'), true)
   .filter((item) => item.active)
   .sort((a, b) => Number(b.featured) - Number(a.featured) || a.title.localeCompare(b.title));
 
+const journalArticleBatches = readBatches(path.join(root, 'content', 'journal-article-batches'));
+const batchedJournalIds = new Set(journalArticleBatches.map((item) => slugify(item.journalId || '')));
 const journalArticles = [
-  ...readFolder(path.join(root, 'content', 'journal-articles'), true),
-  ...readBatches(path.join(root, 'content', 'journal-article-batches')),
+  ...readFolder(path.join(root, 'content', 'journal-articles'), true)
+    .filter((item) => !batchedJournalIds.has(slugify(item.journalId || ''))),
+  ...journalArticleBatches,
 ].map((item) => {
     const title = String(item.title || 'Untitled Article').trim();
     const { __fileSlug, ...articleData } = item;
