@@ -1,5 +1,25 @@
 [
   {
+    "journalId": "national-research-journal",
+    "title": "Accreditation Readiness of Non-Accredited Information Technology Programs in Western Visayas: A Provincial and Faculty-Profile Analysis",
+    "authors": [
+      "Rose May Cora P. Lagon"
+    ],
+    "articleType": "Research Article",
+    "abstract": "This article examines accreditation-readiness results for non-accredited Information Technology programs in Region VI.",
+    "volume": "1",
+    "issue": "1",
+    "issueLabel": "Issue No. 1 (2022)",
+    "pages": "78–82",
+    "pdfFile": "assets/uploads/journal-archive/national-research-journal/volume-1-issue-1/rose-lagon-accreditation-readiness.pdf",
+    "featured": false,
+    "active": true,
+    "id": "nrj-volume-1-issue-1-accreditation-readiness",
+    "keywords": [],
+    "publicationDate": "",
+    "doi": ""
+  },
+  {
     "journalId": "multidisciplinary-international-theses-and-articles-journal",
     "title": "Attention and Focus Issues Among Grade 1 Learners: Basis for a Positive Behavior Interventions and Supports Program",
     "authors": [
@@ -15,6 +35,26 @@
     "featured": false,
     "active": true,
     "id": "volume-1-issue-4-attention-and-focus",
+    "keywords": [],
+    "publicationDate": "",
+    "doi": ""
+  },
+  {
+    "journalId": "national-research-journal",
+    "title": "Building Early Critical Literacy: Fact, Opinion, Fantasy, and Reality in Grade 3 Reading",
+    "authors": [
+      "Gee Ann E. Serdeña"
+    ],
+    "articleType": "Review Article",
+    "abstract": "This article examines fact-opinion and fantasy-reality comprehension modules as foundations for early critical literacy.",
+    "volume": "1",
+    "issue": "1",
+    "issueLabel": "Issue No. 1 (2022)",
+    "pages": "116–120",
+    "pdfFile": "assets/uploads/journal-archive/national-research-journal/volume-1-issue-1/gee-ann-serdena-critical-literacy.pdf",
+    "featured": false,
+    "active": true,
+    "id": "nrj-volume-1-issue-1-critical-literacy",
     "keywords": [],
     "publicationDate": "",
     "doi": ""
@@ -60,6 +100,26 @@
     "doi": ""
   },
   {
+    "journalId": "national-research-journal",
+    "title": "Character Formatting as Functional Emphasis: Teaching Bold, Italic, Underline, Color, and Effects in Introductory Word Processing",
+    "authors": [
+      "Felisa T. Ubaldo"
+    ],
+    "articleType": "Institutional Paper",
+    "abstract": "This article derives an instructional framework for teaching character-formatting tools as purposeful forms of functional emphasis.",
+    "volume": "1",
+    "issue": "1",
+    "issueLabel": "Issue No. 1 (2022)",
+    "pages": "158–163",
+    "pdfFile": "assets/uploads/journal-archive/national-research-journal/volume-1-issue-1/felisa-ubaldo-character-formatting.pdf",
+    "featured": false,
+    "active": true,
+    "id": "nrj-volume-1-issue-1-character-formatting",
+    "keywords": [],
+    "publicationDate": "",
+    "doi": ""
+  },
+  {
     "journalId": "multidisciplinary-international-theses-and-articles-journal",
     "title": "Comparative Analysis of Weight Performance Among Fifth Instar Silkworm Hybrids",
     "authors": [
@@ -75,6 +135,46 @@
     "featured": false,
     "active": true,
     "id": "volume-1-issue-2-silkworm-hybrids",
+    "keywords": [],
+    "publicationDate": "",
+    "doi": ""
+  },
+  {
+    "journalId": "national-research-journal",
+    "title": "Computer Technology Competence of IT Faculty in Non-Accredited State Universities and Colleges in Region VI: A Focused Secondary Analysis",
+    "authors": [
+      "Rose May Cora P. Lagon"
+    ],
+    "articleType": "Research Article",
+    "abstract": "This paper presents a focused analysis of computer-technology competence findings involving IT faculty in non-accredited programs of state universities and colleges in Region VI.",
+    "volume": "1",
+    "issue": "1",
+    "issueLabel": "Issue No. 1 (2022)",
+    "pages": "67–72",
+    "pdfFile": "assets/uploads/journal-archive/national-research-journal/volume-1-issue-1/rose-lagon-computer-technology-competence.pdf",
+    "featured": false,
+    "active": true,
+    "id": "nrj-volume-1-issue-1-computer-technology-competence",
+    "keywords": [],
+    "publicationDate": "",
+    "doi": ""
+  },
+  {
+    "journalId": "national-research-journal",
+    "title": "Consumer Protection and Policy Risk in Real Estate Transactions: A Thematic Review of Practitioner-Reported Issues",
+    "authors": [
+      "Geena B. Hipolito"
+    ],
+    "articleType": "Review Article",
+    "abstract": "This article reorganizes policy implications from a doctoral dissertation into a consumer-protection risk framework for real estate transactions.",
+    "volume": "1",
+    "issue": "1",
+    "issueLabel": "Issue No. 1 (2022)",
+    "pages": "43–50",
+    "pdfFile": "assets/uploads/journal-archive/national-research-journal/volume-1-issue-1/geena-hipolito-consumer-protection.pdf",
+    "featured": false,
+    "active": true,
+    "id": "nrj-volume-1-issue-1-consumer-protection",
     "keywords": [],
     "publicationDate": "",
     "doi": ""
@@ -297,6 +397,107 @@
     "doi": ""
   },
   {
+    "journalId": "national-research-journal",
+    "title": "From Classroom Action Research to Responsible Scale-Up: An Assessment and Implementation Framework for Early Handwriting Intervention",
+    "authors": [
+      "Karen Faye L. Soberano"
+    ],
+    "articleType": "Institutional Paper",
+    "abstract": "This article synthesizes recommendations, an action plan, and methodological lessons into a responsible scale-up framework for early handwriting intervention.",
+    "volume": "1",
+    "issue": "1",
+    "issueLabel": "Issue No. 1 (2022)",
+    "pages": "99–104",
+    "pdfFile": "assets/uploads/journal-archive/national-research-journal/volume-1-issue-1/karen-soberano-handwriting-scale-up.pdf",
+    "featured": false,
+    "active": true,
+    "id": "nrj-volume-1-issue-1-handwriting-scale-up",
+    "keywords": [],
+    "publicationDate": "",
+    "doi": ""
+  },
+  {
+    "journalId": "national-research-journal",
+    "title": "From Faculty Profile to Accreditation Capacity: A Faculty-Development and Quality-Assurance Framework for Non-Accredited IT Programs",
+    "authors": [
+      "Rose May Cora P. Lagon"
+    ],
+    "articleType": "Research Article",
+    "abstract": "This article synthesizes faculty competence, commitment, readiness, accreditation requirements, and recommendations into an institutional-development framework.",
+    "volume": "1",
+    "issue": "1",
+    "issueLabel": "Issue No. 1 (2022)",
+    "pages": "83–88",
+    "pdfFile": "assets/uploads/journal-archive/national-research-journal/volume-1-issue-1/rose-lagon-accreditation-capacity.pdf",
+    "featured": false,
+    "active": true,
+    "id": "nrj-volume-1-issue-1-accreditation-capacity",
+    "keywords": [],
+    "publicationDate": "",
+    "doi": ""
+  },
+  {
+    "journalId": "national-research-journal",
+    "title": "From Guided Practice to Reflection: Designing Self-Paced Learning Activity Sheets for Introductory Word-Processing Skills",
+    "authors": [
+      "Felisa T. Ubaldo"
+    ],
+    "articleType": "Institutional Paper",
+    "abstract": "This article analyzes the instructional architecture of self-paced Grade 8 learning activity sheets for introductory word-processing skills.",
+    "volume": "1",
+    "issue": "1",
+    "issueLabel": "Issue No. 1 (2022)",
+    "pages": "175–180",
+    "pdfFile": "assets/uploads/journal-archive/national-research-journal/volume-1-issue-1/felisa-ubaldo-self-paced-learning-sheets.pdf",
+    "featured": false,
+    "active": true,
+    "id": "nrj-volume-1-issue-1-self-paced-learning-sheets",
+    "keywords": [],
+    "publicationDate": "",
+    "doi": ""
+  },
+  {
+    "journalId": "national-research-journal",
+    "title": "From Literal Recall to Evaluative Reading: A Ten-Module Progression of Grade 3 Reading Comprehension Skills",
+    "authors": [
+      "Gee Ann E. Serdeña"
+    ],
+    "articleType": "Review Article",
+    "abstract": "This article analyzes a ten-module progression of Grade 3 reading-comprehension skills from literal retrieval toward evaluative reading.",
+    "volume": "1",
+    "issue": "1",
+    "issueLabel": "Issue No. 1 (2022)",
+    "pages": "105–110",
+    "pdfFile": "assets/uploads/journal-archive/national-research-journal/volume-1-issue-1/gee-ann-serdena-reading-comprehension.pdf",
+    "featured": false,
+    "active": true,
+    "id": "nrj-volume-1-issue-1-reading-comprehension",
+    "keywords": [],
+    "publicationDate": "",
+    "doi": ""
+  },
+  {
+    "journalId": "national-research-journal",
+    "title": "From Research Question to Sample: A Decision Framework for Research Design, Sampling Technique, and Sample Size in Senior High School Studies",
+    "authors": [
+      "Mohamad T. Simpal",
+      "Arjey B. Mangakoy"
+    ],
+    "articleType": "Review Article",
+    "abstract": "This article develops a practical framework integrating research design, sampling techniques, sampling bias, and sample-size estimation for senior high school researchers.",
+    "volume": "1",
+    "issue": "1",
+    "issueLabel": "Issue No. 1 (2022)",
+    "pages": "59–66",
+    "pdfFile": "assets/uploads/journal-archive/national-research-journal/volume-1-issue-1/simpal-mangakoy-research-design.pdf",
+    "featured": false,
+    "active": true,
+    "id": "nrj-volume-1-issue-1-research-design",
+    "keywords": [],
+    "publicationDate": "",
+    "doi": ""
+  },
+  {
     "journalId": "multidisciplinary-international-theses-and-articles-journal",
     "title": "Grade Inflation in Teacher Ratings: When Scores Rise Without Performance Gains",
     "authors": [
@@ -317,6 +518,26 @@
     "doi": ""
   },
   {
+    "journalId": "national-research-journal",
+    "title": "Graphic Organizers as Cognitive Scaffolds in Grade 3 Reading: Sequencing, Cause-Effect, and Compare-Contrast",
+    "authors": [
+      "Gee Ann E. Serdeña"
+    ],
+    "articleType": "Review Article",
+    "abstract": "This article examines visual and spatial organizers used to support sequencing, causal reasoning, conclusions, and comparison in Grade 3 reading.",
+    "volume": "1",
+    "issue": "1",
+    "issueLabel": "Issue No. 1 (2022)",
+    "pages": "111–115",
+    "pdfFile": "assets/uploads/journal-archive/national-research-journal/volume-1-issue-1/gee-ann-serdena-graphic-organizers.pdf",
+    "featured": false,
+    "active": true,
+    "id": "nrj-volume-1-issue-1-graphic-organizers",
+    "keywords": [],
+    "publicationDate": "",
+    "doi": ""
+  },
+  {
     "journalId": "multidisciplinary-international-theses-and-articles-journal",
     "title": "Green Chemistry: Advancing Science Through Sustainability",
     "authors": [
@@ -332,6 +553,26 @@
     "active": true,
     "id": "volume-1-issue-1-green-chemistry",
     "abstract": "",
+    "keywords": [],
+    "publicationDate": "",
+    "doi": ""
+  },
+  {
+    "journalId": "national-research-journal",
+    "title": "Handwriting Performance Before and After a Mobile Intensive Writing Clinic: A Secondary Analysis of a One-Group Kindergarten Intervention",
+    "authors": [
+      "Karen Faye L. Soberano"
+    ],
+    "articleType": "Research Article",
+    "abstract": "This article re-examines quantitative handwriting outcomes from an intervention involving kindergarten pupils at Pallas Elementary School.",
+    "volume": "1",
+    "issue": "1",
+    "issueLabel": "Issue No. 1 (2022)",
+    "pages": "89–93",
+    "pdfFile": "assets/uploads/journal-archive/national-research-journal/volume-1-issue-1/karen-soberano-handwriting-performance.pdf",
+    "featured": false,
+    "active": true,
+    "id": "nrj-volume-1-issue-1-handwriting-performance",
     "keywords": [],
     "publicationDate": "",
     "doi": ""
@@ -372,6 +613,26 @@
     "featured": false,
     "active": true,
     "id": "volume-1-issue-3-heuristic-differentiation",
+    "keywords": [],
+    "publicationDate": "",
+    "doi": ""
+  },
+  {
+    "journalId": "national-research-journal",
+    "title": "Household Linen Sewing as a Home-Based Livelihood: Linking Practical Skills, Creativity, and Family Income",
+    "authors": [
+      "Naty J. Buyuccan"
+    ],
+    "articleType": "Institutional Paper",
+    "abstract": "This article examines household-linen sewing as a practical home-based livelihood pathway connecting basic sewing competence, creativity, product quality, and income augmentation.",
+    "volume": "1",
+    "issue": "1",
+    "issueLabel": "Issue No. 1 (2022)",
+    "pages": "181–185",
+    "pdfFile": "assets/uploads/journal-archive/national-research-journal/volume-1-issue-1/naty-buyuccan-household-linen-sewing.pdf",
+    "featured": false,
+    "active": true,
+    "id": "nrj-volume-1-issue-1-household-linen-sewing",
     "keywords": [],
     "publicationDate": "",
     "doi": ""
@@ -540,6 +801,27 @@
     "doi": ""
   },
   {
+    "journalId": "national-research-journal",
+    "title": "Measurement Scales, Likert Parameters, and Statistical Decision-Making in Senior High School Quantitative Research",
+    "authors": [
+      "Mohamad T. Simpal",
+      "Arjey B. Mangakoy"
+    ],
+    "articleType": "Review Article",
+    "abstract": "This article presents a practical decision framework linking research questions, measurement scales, descriptive summaries, Likert-type response parameters, and hypothesis direction.",
+    "volume": "1",
+    "issue": "1",
+    "issueLabel": "Issue No. 1 (2022)",
+    "pages": "51–58",
+    "pdfFile": "assets/uploads/journal-archive/national-research-journal/volume-1-issue-1/simpal-mangakoy-measurement-scales.pdf",
+    "featured": false,
+    "active": true,
+    "id": "nrj-volume-1-issue-1-measurement-scales",
+    "keywords": [],
+    "publicationDate": "",
+    "doi": ""
+  },
+  {
     "journalId": "multidisciplinary-international-theses-and-articles-journal",
     "title": "Multiple Role Assignments and Work Performance of School Office Staff: Basis for Action Plan",
     "authors": [
@@ -615,6 +897,46 @@
     "active": true,
     "id": "volume-1-issue-1-sustainable-development",
     "abstract": "",
+    "keywords": [],
+    "publicationDate": "",
+    "doi": ""
+  },
+  {
+    "journalId": "national-research-journal",
+    "title": "Organizational Commitment of IT Faculty in Non-Accredited SUCs: Age, Academic Rank, and Institutional Engagement",
+    "authors": [
+      "Rose May Cora P. Lagon"
+    ],
+    "articleType": "Research Article",
+    "abstract": "This article analyzes organizational-commitment findings among IT faculty in non-accredited state-university and college programs in Region VI.",
+    "volume": "1",
+    "issue": "1",
+    "issueLabel": "Issue No. 1 (2022)",
+    "pages": "73–77",
+    "pdfFile": "assets/uploads/journal-archive/national-research-journal/volume-1-issue-1/rose-lagon-organizational-commitment.pdf",
+    "featured": false,
+    "active": true,
+    "id": "nrj-volume-1-issue-1-organizational-commitment",
+    "keywords": [],
+    "publicationDate": "",
+    "doi": ""
+  },
+  {
+    "journalId": "national-research-journal",
+    "title": "Paragraph Formatting and Document Structure in Junior High ICT: From Text Selection to Organized Digital Pages",
+    "authors": [
+      "Felisa T. Ubaldo"
+    ],
+    "articleType": "Institutional Paper",
+    "abstract": "This article examines paragraph formatting as a bridge between character-level editing and full document design in junior high ICT.",
+    "volume": "1",
+    "issue": "1",
+    "issueLabel": "Issue No. 1 (2022)",
+    "pages": "164–169",
+    "pdfFile": "assets/uploads/journal-archive/national-research-journal/volume-1-issue-1/felisa-ubaldo-paragraph-formatting.pdf",
+    "featured": false,
+    "active": true,
+    "id": "nrj-volume-1-issue-1-paragraph-formatting",
     "keywords": [],
     "publicationDate": "",
     "doi": ""
@@ -820,6 +1142,26 @@
     "doi": ""
   },
   {
+    "journalId": "national-research-journal",
+    "title": "Print Preview as a Resource-Conservation and Quality-Control Skill in School-Based Digital Literacy",
+    "authors": [
+      "Felisa T. Ubaldo"
+    ],
+    "articleType": "Institutional Paper",
+    "abstract": "This article develops print preview into a quality-control framework centered on accuracy, economy, and readiness.",
+    "volume": "1",
+    "issue": "1",
+    "issueLabel": "Issue No. 1 (2022)",
+    "pages": "170–174",
+    "pdfFile": "assets/uploads/journal-archive/national-research-journal/volume-1-issue-1/felisa-ubaldo-print-preview.pdf",
+    "featured": false,
+    "active": true,
+    "id": "nrj-volume-1-issue-1-print-preview",
+    "keywords": [],
+    "publicationDate": "",
+    "doi": ""
+  },
+  {
     "journalId": "multidisciplinary-international-theses-and-articles-journal",
     "title": "Professional Development and Teaching Practices of Kindergarten Teachers: Basis for a Teacher Development Program",
     "authors": [
@@ -835,6 +1177,26 @@
     "featured": false,
     "active": true,
     "id": "volume-1-issue-4-professional-development",
+    "keywords": [],
+    "publicationDate": "",
+    "doi": ""
+  },
+  {
+    "journalId": "national-research-journal",
+    "title": "Professional Profile and Organizational Culture of Licensed Real Estate Practitioners in Luzon: A Secondary Analysis of a 2016 Dissertation",
+    "authors": [
+      "Geena B. Hipolito"
+    ],
+    "articleType": "Research Article",
+    "abstract": "This article re-examines practitioner-profile and organizational-culture findings from a dissertation involving licensed real estate practitioners in Luzon.",
+    "volume": "1",
+    "issue": "1",
+    "issueLabel": "Issue No. 1 (2022)",
+    "pages": "27–34",
+    "pdfFile": "assets/uploads/journal-archive/national-research-journal/volume-1-issue-1/geena-hipolito-professional-profile.pdf",
+    "featured": false,
+    "active": true,
+    "id": "nrj-volume-1-issue-1-professional-profile",
     "keywords": [],
     "publicationDate": "",
     "doi": ""
@@ -915,6 +1277,26 @@
     "active": true,
     "id": "volume-1-issue-1-risk-and-responsibility",
     "abstract": "",
+    "keywords": [],
+    "publicationDate": "",
+    "doi": ""
+  },
+  {
+    "journalId": "national-research-journal",
+    "title": "Safety, Tool Management, and Work Discipline in Elementary Sewing Education",
+    "authors": [
+      "Naty J. Buyuccan"
+    ],
+    "articleType": "Institutional Paper",
+    "abstract": "This conceptual paper analyzes safety and work discipline as foundational elements of elementary sewing instruction.",
+    "volume": "1",
+    "issue": "1",
+    "issueLabel": "Issue No. 1 (2022)",
+    "pages": "186–190",
+    "pdfFile": "assets/uploads/journal-archive/national-research-journal/volume-1-issue-1/naty-buyuccan-sewing-safety.pdf",
+    "featured": false,
+    "active": true,
+    "id": "nrj-volume-1-issue-1-sewing-safety",
     "keywords": [],
     "publicationDate": "",
     "doi": ""
@@ -1202,6 +1584,26 @@
     "active": true,
     "id": "volume-1-issue-1-transformational-leaders",
     "abstract": "",
+    "keywords": [],
+    "publicationDate": "",
+    "doi": ""
+  },
+  {
+    "journalId": "national-research-journal",
+    "title": "Typography and Visual Hierarchy in Grade 8 Digital Document Production: A Practice-Oriented Framework",
+    "authors": [
+      "Felisa T. Ubaldo"
+    ],
+    "articleType": "Institutional Paper",
+    "abstract": "This article develops a practice-oriented framework for treating typography as purposeful communication in Grade 8 digital document production.",
+    "volume": "1",
+    "issue": "1",
+    "issueLabel": "Issue No. 1 (2022)",
+    "pages": "152–157",
+    "pdfFile": "assets/uploads/journal-archive/national-research-journal/volume-1-issue-1/felisa-ubaldo-typography.pdf",
+    "featured": false,
+    "active": true,
+    "id": "nrj-volume-1-issue-1-typography",
     "keywords": [],
     "publicationDate": "",
     "doi": ""
