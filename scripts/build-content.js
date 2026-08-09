@@ -72,6 +72,33 @@ const journals = readFolder(path.join(root, 'content', 'journals'), true)
   .filter((item) => item.active)
   .sort((a, b) => Number(b.featured) - Number(a.featured) || a.title.localeCompare(b.title));
 
+const journalArticles = readFolder(path.join(root, 'content', 'journal-articles'), true)
+  .map((item) => {
+    const title = String(item.title || 'Untitled Article').trim();
+    const { __fileSlug, ...articleData } = item;
+    return {
+      ...articleData,
+      id: slugify(item.id || __fileSlug || title),
+      journalId: slugify(item.journalId || ''),
+      title,
+      authors: Array.isArray(item.authors) ? unique(item.authors.map(String)) : [],
+      abstract: String(item.abstract || '').trim(),
+      keywords: Array.isArray(item.keywords) ? unique(item.keywords.map(String)) : [],
+      volume: String(item.volume || '').trim(),
+      issue: String(item.issue || '').trim(),
+      issueLabel: String(item.issueLabel || '').trim(),
+      publicationDate: String(item.publicationDate || '').trim(),
+      pages: String(item.pages || '').trim(),
+      doi: String(item.doi || '').trim(),
+      articleType: String(item.articleType || 'Research Article').trim(),
+      pdfFile: cleanPath(item.pdfFile || ''),
+      featured: Boolean(item.featured),
+      active: item.active !== false,
+    };
+  })
+  .filter((item) => item.active && item.journalId)
+  .sort((a, b) => String(b.publicationDate).localeCompare(String(a.publicationDate)) || a.title.localeCompare(b.title));
+
 const pages = Object.fromEntries(readFolder(path.join(root, 'content', 'pages')).map((page) => [page.page, page]));
 const services = readFolder(path.join(root, 'content', 'services')).sort((a, b) => (Number(a.order) || 999) - (Number(b.order) || 999));
 const site = readJson(path.join(root, 'content', 'site-settings.json'));
@@ -80,5 +107,7 @@ fs.writeFileSync(path.join(root, 'repository-data.json'), JSON.stringify(publica
 fs.writeFileSync(path.join(root, 'repository-data.js'), `window.SHIRLEY_REPOSITORY = ${JSON.stringify(publications, null, 2)};\n`);
 fs.writeFileSync(path.join(root, 'journals-data.json'), JSON.stringify(journals, null, 2));
 fs.writeFileSync(path.join(root, 'journals-data.js'), `window.SHIRLEY_JOURNALS = ${JSON.stringify(journals, null, 2)};\n`);
+fs.writeFileSync(path.join(root, 'journal-articles-data.json'), JSON.stringify(journalArticles, null, 2));
+fs.writeFileSync(path.join(root, 'journal-articles-data.js'), `window.SHIRLEY_JOURNAL_ARTICLES = ${JSON.stringify(journalArticles, null, 2)};\n`);
 fs.writeFileSync(path.join(root, 'cms-data.js'), `window.SHIRLEY_CMS = ${JSON.stringify({ site, pages, services }, null, 2)};\n`);
-console.log(`Built ${publications.length} publications, ${journals.length} journals, ${services.length} services, and ${Object.keys(pages).length} page records.`);
+console.log(`Built ${publications.length} publications, ${journals.length} journals, ${journalArticles.length} journal articles, ${services.length} services, and ${Object.keys(pages).length} page records.`);

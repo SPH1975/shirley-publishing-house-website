@@ -1,0 +1,1 @@
+window.SHIRLEY_JOURNAL_ARTICLES = [];

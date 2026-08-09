@@ -1,5 +1,6 @@
 (() => {
   const journals = Array.isArray(window.SHIRLEY_JOURNALS) ? window.SHIRLEY_JOURNALS : [];
+  const journalArticles = Array.isArray(window.SHIRLEY_JOURNAL_ARTICLES) ? window.SHIRLEY_JOURNAL_ARTICLES : [];
   const escapeHtml = (value = '') => String(value)
     .replaceAll('&', '&amp;')
     .replaceAll('<', '&lt;')
@@ -128,8 +129,91 @@
   });
   const publicationsLink = document.getElementById('journal-publications-link');
   if (publicationsLink) publicationsLink.href = publicationsUrl;
-  const archivePublicationsLink = document.getElementById('journal-archive-publications-link');
-  if (archivePublicationsLink) archivePublicationsLink.href = publicationsUrl;
+
+  const articleArchive = document.getElementById('journal-issue-archive');
+  const archiveEmpty = document.getElementById('journal-archive-empty');
+  const archiveSearch = document.getElementById('journal-article-search');
+  const archiveCount = document.getElementById('journal-article-count');
+  const articlesForJournal = journalArticles.filter((article) => article.journalId === journal.id && article.active !== false);
+  const formatArticleDate = (value) => {
+    if (!value) return '';
+    const date = new Date(`${value}T00:00:00`);
+    return Number.isNaN(date.getTime()) ? value : date.toLocaleDateString('en-US', { year: 'numeric', month: 'long', day: 'numeric' });
+  };
+  const renderJournalArticles = (query = '') => {
+    if (!articleArchive) return;
+    const needle = query.trim().toLowerCase();
+    const visible = articlesForJournal.filter((article) => {
+      if (!needle) return true;
+      return [
+        article.title,
+        ...(article.authors || []),
+        ...(article.keywords || []),
+        article.abstract,
+        article.volume,
+        article.issue,
+        article.issueLabel,
+        article.articleType,
+      ].join(' ').toLowerCase().includes(needle);
+    });
+    if (archiveCount) archiveCount.textContent = `${visible.length} ${visible.length === 1 ? 'article' : 'articles'}`;
+    if (!visible.length) {
+      articleArchive.innerHTML = '';
+      if (archiveEmpty) {
+        archiveEmpty.hidden = false;
+        const heading = archiveEmpty.querySelector('h3');
+        const copy = archiveEmpty.querySelector('p');
+        if (articlesForJournal.length && needle) {
+          if (heading) heading.textContent = 'No matching articles';
+          if (copy) copy.textContent = 'Try a different article title, author, keyword, volume, or issue.';
+        }
+      }
+      return;
+    }
+    if (archiveEmpty) archiveEmpty.hidden = true;
+    const issueGroups = new Map();
+    visible.forEach((article) => {
+      const key = `${article.volume || 'Unassigned'}::${article.issue || 'Unassigned'}::${article.issueLabel || ''}`;
+      if (!issueGroups.has(key)) issueGroups.set(key, []);
+      issueGroups.get(key).push(article);
+    });
+    articleArchive.innerHTML = [...issueGroups.entries()].map(([key, articles]) => {
+      const [volume, issue, issueLabel] = key.split('::');
+      const issueTitle = volume === 'Unassigned' && issue === 'Unassigned'
+        ? 'Published Articles'
+        : `Volume ${escapeHtml(volume)} · Issue ${escapeHtml(issue)}`;
+      const articleCards = articles.map((article) => {
+        const authors = (article.authors || []).join(', ') || 'Author information forthcoming';
+        const meta = [
+          article.articleType,
+          formatArticleDate(article.publicationDate),
+          article.pages ? `Pages ${article.pages}` : '',
+          article.doi ? `DOI: ${article.doi}` : '',
+        ].filter(Boolean);
+        const keywords = (article.keywords || []).map((keyword) => `<span>${escapeHtml(keyword)}</span>`).join('');
+        const pdf = String(article.pdfFile || '').replace(/^\//, '');
+        return `<article class="journal-article-card${article.featured ? ' is-featured' : ''}">
+          <div class="journal-article-main">
+            <div class="journal-article-type">${escapeHtml(article.articleType || 'Article')}</div>
+            <h4>${escapeHtml(article.title)}</h4>
+            <p class="journal-article-authors">${escapeHtml(authors)}</p>
+            ${meta.length ? `<div class="journal-article-meta">${meta.map((item) => `<span>${escapeHtml(item)}</span>`).join('')}</div>` : ''}
+            ${article.abstract ? `<p class="journal-article-abstract">${escapeHtml(article.abstract)}</p>` : ''}
+            ${keywords ? `<div class="journal-article-keywords">${keywords}</div>` : ''}
+          </div>
+          <div class="journal-article-action">
+            ${pdf ? `<a class="btn btn-primary" href="${escapeHtml(pdf)}" target="_blank" rel="noopener">View / Download PDF</a>` : '<span class="article-pdf-pending">PDF pending</span>'}
+          </div>
+        </article>`;
+      }).join('');
+      return `<section class="journal-issue-group">
+        <header><div><p class="eyebrow">Journal issue</p><h3>${issueTitle}</h3></div>${issueLabel ? `<span>${escapeHtml(issueLabel)}</span>` : ''}</header>
+        <div class="journal-article-list">${articleCards}</div>
+      </section>`;
+    }).join('');
+  };
+  renderJournalArticles();
+  archiveSearch?.addEventListener('input', () => renderJournalArticles(archiveSearch.value));
 
   const journalFile = journalFileSrc(journal);
   const downloadLabel = journal.downloadLabel || 'Download Full Journal (PDF)';
