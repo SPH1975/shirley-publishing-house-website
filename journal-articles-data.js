@@ -1,6 +1,66 @@
 window.SHIRLEY_JOURNAL_ARTICLES = [
   {
     "journalId": "multidisciplinary-international-theses-and-articles-journal",
+    "title": "Attention and Focus Issues Among Grade 1 Learners: Basis for a Positive Behavior Interventions and Supports Program",
+    "authors": [
+      "Daisylyn N. Bruno"
+    ],
+    "articleType": "Research Article",
+    "abstract": "This study investigates attention and focus issues among Grade 1 learners and their impact on academic performance.",
+    "volume": "1",
+    "issue": "4",
+    "issueLabel": "Issue No. 4",
+    "pages": "26–39",
+    "pdfFile": "assets/uploads/journal-archive/volume-1-issue-4/daisylyn-bruno-attention-and-focus.pdf",
+    "featured": false,
+    "active": true,
+    "id": "volume-1-issue-4-attention-and-focus",
+    "keywords": [],
+    "publicationDate": "",
+    "doi": ""
+  },
+  {
+    "journalId": "multidisciplinary-international-theses-and-articles-journal",
+    "title": "Challenges in Crafting Technology-Based Differentiated Instructions: Basis for a Coaching and Mentoring Program",
+    "authors": [
+      "Raniel Catacutan Gerente"
+    ],
+    "articleType": "Research Article",
+    "abstract": "This study explores the challenges Araling Panlipunan teachers face in crafting technology-based differentiated instruction.",
+    "volume": "1",
+    "issue": "3",
+    "issueLabel": "Issue No. 3",
+    "pages": "336–388",
+    "pdfFile": "assets/uploads/journal-archive/volume-1-issue-3/raniel-gerente-differentiated-instruction.pdf",
+    "featured": false,
+    "active": true,
+    "id": "volume-1-issue-3-differentiated-instruction",
+    "keywords": [],
+    "publicationDate": "",
+    "doi": ""
+  },
+  {
+    "journalId": "multidisciplinary-international-theses-and-articles-journal",
+    "title": "Challenges in Teaching Indigenous Learners: Towards a Proposed Development Program",
+    "authors": [
+      "Jessa Mea D. Jackson"
+    ],
+    "articleType": "Research Article",
+    "abstract": "This study assessed challenges faced by non-Indigenous teachers teaching Indigenous learners and proposed a professional development program.",
+    "volume": "1",
+    "issue": "4",
+    "issueLabel": "Issue No. 4",
+    "pages": "143–157",
+    "pdfFile": "assets/uploads/journal-archive/volume-1-issue-4/jessa-jackson-indigenous-learners.pdf",
+    "featured": false,
+    "active": true,
+    "id": "volume-1-issue-4-indigenous-learners",
+    "keywords": [],
+    "publicationDate": "",
+    "doi": ""
+  },
+  {
+    "journalId": "multidisciplinary-international-theses-and-articles-journal",
     "title": "Comparative Analysis of Weight Performance Among Fifth Instar Silkworm Hybrids",
     "authors": [
       "Regino L. Galate, EdD"
@@ -35,6 +95,26 @@ window.SHIRLEY_JOURNAL_ARTICLES = [
     "featured": false,
     "active": true,
     "id": "volume-1-issue-2-english-instruction",
+    "keywords": [],
+    "publicationDate": "",
+    "doi": ""
+  },
+  {
+    "journalId": "multidisciplinary-international-theses-and-articles-journal",
+    "title": "Curriculum Demands on Content Load of Grade 5 Teachers in Instructional Practices: Towards a Strategic Plan",
+    "authors": [
+      "Frelyn C. Gacusan"
+    ],
+    "articleType": "Research Article",
+    "abstract": "This study examines the impact of curriculum demands on Grade 5 teachers’ content load and instructional practices.",
+    "volume": "1",
+    "issue": "3",
+    "issueLabel": "Issue No. 3",
+    "pages": "46–112",
+    "pdfFile": "assets/uploads/journal-archive/volume-1-issue-3/frelyn-gacusan-curriculum-demands.pdf",
+    "featured": false,
+    "active": true,
+    "id": "volume-1-issue-3-curriculum-demands",
     "keywords": [],
     "publicationDate": "",
     "doi": ""
@@ -81,6 +161,66 @@ window.SHIRLEY_JOURNAL_ARTICLES = [
     "featured": false,
     "active": true,
     "id": "volume-1-issue-2-veteran-teacher-engagement",
+    "keywords": [],
+    "publicationDate": "",
+    "doi": ""
+  },
+  {
+    "journalId": "multidisciplinary-international-theses-and-articles-journal",
+    "title": "Digital Learning Optimization Program in SDO Mabalacat City: Enhancing Academic Engagement Among Grade 6 Learners",
+    "authors": [
+      "Maria Elena F. Casuple"
+    ],
+    "articleType": "Research Article",
+    "abstract": "This study examined digital learning engagement, academic-task performance, challenges, and the relationship between engagement and performance among Grade 6 learners.",
+    "volume": "1",
+    "issue": "3",
+    "issueLabel": "Issue No. 3",
+    "pages": "495–570",
+    "pdfFile": "assets/uploads/journal-archive/volume-1-issue-3/maria-casuple-digital-learning.pdf",
+    "featured": false,
+    "active": true,
+    "id": "volume-1-issue-3-digital-learning",
+    "keywords": [],
+    "publicationDate": "",
+    "doi": ""
+  },
+  {
+    "journalId": "multidisciplinary-international-theses-and-articles-journal",
+    "title": "Ecological Literacy Transitioning: A Culturally Responsive Instructional Framework for Bridging Early Decoding and Disciplinary Comprehension",
+    "authors": [
+      "Marivic C. Pioquinto"
+    ],
+    "articleType": "Research Article",
+    "abstract": "This study developed a localized instructional framework to bridge basic decoding skills and disciplinary comprehension among Grade 4 learners.",
+    "volume": "1",
+    "issue": "3",
+    "issueLabel": "Issue No. 3",
+    "pages": "440–494",
+    "pdfFile": "assets/uploads/journal-archive/volume-1-issue-3/marivic-pioquinto-ecological-literacy.pdf",
+    "featured": false,
+    "active": true,
+    "id": "volume-1-issue-3-ecological-literacy",
+    "keywords": [],
+    "publicationDate": "",
+    "doi": ""
+  },
+  {
+    "journalId": "multidisciplinary-international-theses-and-articles-journal",
+    "title": "Effect of Curiosity on Critical Thinking and Achievement in Science Classes",
+    "authors": [
+      "Allyson Joi B. Ranille"
+    ],
+    "articleType": "Research Article",
+    "abstract": "This study investigated relationships among dispositional and situational curiosity, critical thinking, and achievement in secondary Science classes.",
+    "volume": "1",
+    "issue": "4",
+    "issueLabel": "Issue No. 4",
+    "pages": "237–249",
+    "pdfFile": "assets/uploads/journal-archive/volume-1-issue-4/allyson-ranille-curiosity-critical-thinking.pdf",
+    "featured": false,
+    "active": true,
+    "id": "volume-1-issue-4-curiosity-critical-thinking",
     "keywords": [],
     "publicationDate": "",
     "doi": ""
@@ -158,6 +298,26 @@ window.SHIRLEY_JOURNAL_ARTICLES = [
   },
   {
     "journalId": "multidisciplinary-international-theses-and-articles-journal",
+    "title": "Grade Inflation in Teacher Ratings: When Scores Rise Without Performance Gains",
+    "authors": [
+      "Edelaine M. Gabriel"
+    ],
+    "articleType": "Research Article",
+    "abstract": "This study investigated grade inflation in teacher performance ratings and whether rising evaluation scores reflect improvements in teaching effectiveness.",
+    "volume": "1",
+    "issue": "4",
+    "issueLabel": "Issue No. 4",
+    "pages": "182–196",
+    "pdfFile": "assets/uploads/journal-archive/volume-1-issue-4/edelaine-gabriel-grade-inflation.pdf",
+    "featured": false,
+    "active": true,
+    "id": "volume-1-issue-4-grade-inflation",
+    "keywords": [],
+    "publicationDate": "",
+    "doi": ""
+  },
+  {
+    "journalId": "multidisciplinary-international-theses-and-articles-journal",
     "title": "Green Chemistry: Advancing Science Through Sustainability",
     "authors": [
       "Cristopher G. Reyes"
@@ -198,6 +358,26 @@ window.SHIRLEY_JOURNAL_ARTICLES = [
   },
   {
     "journalId": "multidisciplinary-international-theses-and-articles-journal",
+    "title": "Heuristic Differentiation Design: A Multi-Tiered Framework for Responsive Instruction in Heterogeneous Learning Environments",
+    "authors": [
+      "Darwin Jay T. Pare"
+    ],
+    "articleType": "Research Article",
+    "abstract": "This study investigates Heuristic Differentiation Design, an advanced decision-based approach to multi-tiered instruction for heterogeneous classrooms.",
+    "volume": "1",
+    "issue": "3",
+    "issueLabel": "Issue No. 3",
+    "pages": "1–45",
+    "pdfFile": "assets/uploads/journal-archive/volume-1-issue-3/darwin-pare-heuristic-differentiation.pdf",
+    "featured": false,
+    "active": true,
+    "id": "volume-1-issue-3-heuristic-differentiation",
+    "keywords": [],
+    "publicationDate": "",
+    "doi": ""
+  },
+  {
+    "journalId": "multidisciplinary-international-theses-and-articles-journal",
     "title": "How to Manage and Lead by Examples",
     "authors": [
       "Samsudin N. Abdullah"
@@ -212,6 +392,46 @@ window.SHIRLEY_JOURNAL_ARTICLES = [
     "active": true,
     "id": "volume-1-issue-1-lead-by-example",
     "abstract": "",
+    "keywords": [],
+    "publicationDate": "",
+    "doi": ""
+  },
+  {
+    "journalId": "multidisciplinary-international-theses-and-articles-journal",
+    "title": "Implementation and Difficulties in Teaching Music, Arts, Physical Education and Health",
+    "authors": [
+      "Rosechelle C. Gabriel"
+    ],
+    "articleType": "Research Article",
+    "abstract": "This study assessed MAPEH program implementation and difficulties encountered by public elementary school MAPEH teachers.",
+    "volume": "1",
+    "issue": "4",
+    "issueLabel": "Issue No. 4",
+    "pages": "207–216",
+    "pdfFile": "assets/uploads/journal-archive/volume-1-issue-4/rosechelle-gabriel-mapeh-implementation.pdf",
+    "featured": false,
+    "active": true,
+    "id": "volume-1-issue-4-mapeh-implementation",
+    "keywords": [],
+    "publicationDate": "",
+    "doi": ""
+  },
+  {
+    "journalId": "multidisciplinary-international-theses-and-articles-journal",
+    "title": "Implementation of the Technology and Livelihood Education Program: Basis for an Action Plan",
+    "authors": [
+      "Melanie T. Tangtang"
+    ],
+    "articleType": "Research Article",
+    "abstract": "This study assessed implementation of the Technology and Livelihood Education program at Doña Asuncion Lee Integrated School.",
+    "volume": "1",
+    "issue": "4",
+    "issueLabel": "Issue No. 4",
+    "pages": "158–169",
+    "pdfFile": "assets/uploads/journal-archive/volume-1-issue-4/melanie-tangtang-tle-program.pdf",
+    "featured": false,
+    "active": true,
+    "id": "volume-1-issue-4-tle-program",
     "keywords": [],
     "publicationDate": "",
     "doi": ""
@@ -255,6 +475,106 @@ window.SHIRLEY_JOURNAL_ARTICLES = [
     "featured": false,
     "active": true,
     "id": "volume-1-issue-2-leadership-competence",
+    "keywords": [],
+    "publicationDate": "",
+    "doi": ""
+  },
+  {
+    "journalId": "multidisciplinary-international-theses-and-articles-journal",
+    "title": "Leadership Practices of School Heads in Tarlac City: Basis for a Training Assessment Plan",
+    "authors": [
+      "Irene A. Dela Cruz"
+    ],
+    "articleType": "Research Article",
+    "abstract": "This study examined leadership practices of public elementary school administrators in Tarlac City.",
+    "volume": "1",
+    "issue": "4",
+    "issueLabel": "Issue No. 4",
+    "pages": "65–79",
+    "pdfFile": "assets/uploads/journal-archive/volume-1-issue-4/irene-dela-cruz-leadership-practices.pdf",
+    "featured": false,
+    "active": true,
+    "id": "volume-1-issue-4-leadership-practices",
+    "keywords": [],
+    "publicationDate": "",
+    "doi": ""
+  },
+  {
+    "journalId": "multidisciplinary-international-theses-and-articles-journal",
+    "title": "Leadership Styles and Their Impact on Organizational Performance: Towards a Leadership Development Program",
+    "authors": [
+      "Virgilio C. Caballero"
+    ],
+    "articleType": "Research Article",
+    "abstract": "This study examined school heads’ leadership styles and their relationship with organizational performance in Nueva Ecija.",
+    "volume": "1",
+    "issue": "4",
+    "issueLabel": "Issue No. 4",
+    "pages": "225–236",
+    "pdfFile": "assets/uploads/journal-archive/volume-1-issue-4/virgilio-caballero-organizational-performance.pdf",
+    "featured": false,
+    "active": true,
+    "id": "volume-1-issue-4-organizational-performance",
+    "keywords": [],
+    "publicationDate": "",
+    "doi": ""
+  },
+  {
+    "journalId": "multidisciplinary-international-theses-and-articles-journal",
+    "title": "Level of Performance in Science of Grade 5 Learners: Basis for the Development of Worksheets",
+    "authors": [
+      "Elleen Leih Jopine F. Pineda"
+    ],
+    "articleType": "Research Article",
+    "abstract": "This study described Grade 5 learners’ Science performance and used identified learning gaps as the basis for developing worksheets.",
+    "volume": "1",
+    "issue": "4",
+    "issueLabel": "Issue No. 4",
+    "pages": "217–224",
+    "pdfFile": "assets/uploads/journal-archive/volume-1-issue-4/elleen-pineda-science-performance.pdf",
+    "featured": false,
+    "active": true,
+    "id": "volume-1-issue-4-science-performance",
+    "keywords": [],
+    "publicationDate": "",
+    "doi": ""
+  },
+  {
+    "journalId": "multidisciplinary-international-theses-and-articles-journal",
+    "title": "Multiple Role Assignments and Work Performance of School Office Staff: Basis for Action Plan",
+    "authors": [
+      "Leny V. Ringor"
+    ],
+    "articleType": "Research Article",
+    "abstract": "This study assessed the impact of multiple role assignments on the work performance of public elementary school office staff.",
+    "volume": "1",
+    "issue": "3",
+    "issueLabel": "Issue No. 3",
+    "pages": "571–615",
+    "pdfFile": "assets/uploads/journal-archive/volume-1-issue-3/leny-ringor-multiple-role-assignments.pdf",
+    "featured": false,
+    "active": true,
+    "id": "volume-1-issue-3-multiple-role-assignments",
+    "keywords": [],
+    "publicationDate": "",
+    "doi": ""
+  },
+  {
+    "journalId": "multidisciplinary-international-theses-and-articles-journal",
+    "title": "Numeracy Performance Enhancement Program in the Schools Division of Tarlac Province: Strategic Mediation of Instructional Leadership Practices",
+    "authors": [
+      "Akeli Jesse O. Balatbat"
+    ],
+    "articleType": "Research Article",
+    "abstract": "This study examined numeracy performance enhancement through the strategic mediation of instructional leadership practices.",
+    "volume": "1",
+    "issue": "4",
+    "issueLabel": "Issue No. 4",
+    "pages": "118–130",
+    "pdfFile": "assets/uploads/journal-archive/volume-1-issue-4/akeli-balatbat-numeracy-performance.pdf",
+    "featured": false,
+    "active": true,
+    "id": "volume-1-issue-4-numeracy-performance",
     "keywords": [],
     "publicationDate": "",
     "doi": ""
@@ -321,6 +641,26 @@ window.SHIRLEY_JOURNAL_ARTICLES = [
   },
   {
     "journalId": "multidisciplinary-international-theses-and-articles-journal",
+    "title": "Pedagogical Practices and Learner Engagement Among Public Elementary Schools in the Division of Tarlac Province: Basis for a Technology-Enhanced Instructional Program",
+    "authors": [
+      "Roxanne P. Urzame"
+    ],
+    "articleType": "Research Article",
+    "abstract": "This study investigated pedagogical practices and learner engagement in public elementary schools as a basis for a technology-enhanced instructional program.",
+    "volume": "1",
+    "issue": "4",
+    "issueLabel": "Issue No. 4",
+    "pages": "131–142",
+    "pdfFile": "assets/uploads/journal-archive/volume-1-issue-4/roxanne-urzame-learner-engagement.pdf",
+    "featured": false,
+    "active": true,
+    "id": "volume-1-issue-4-learner-engagement",
+    "keywords": [],
+    "publicationDate": "",
+    "doi": ""
+  },
+  {
+    "journalId": "multidisciplinary-international-theses-and-articles-journal",
     "title": "Pedagogy of Absence: Why Classroom Walkthroughs Rarely Change Teaching Practices",
     "authors": [
       "Rosendo N. Labrador"
@@ -341,6 +681,26 @@ window.SHIRLEY_JOURNAL_ARTICLES = [
   },
   {
     "journalId": "multidisciplinary-international-theses-and-articles-journal",
+    "title": "Perceived Self-Worth of Learners: Basis for an Enhanced Guidance Support Program",
+    "authors": [
+      "Jethro P. Tique"
+    ],
+    "articleType": "Research Article",
+    "abstract": "This study examines relationships between social media engagement and learner self-worth, including effects on self-esteem and body image.",
+    "volume": "1",
+    "issue": "4",
+    "issueLabel": "Issue No. 4",
+    "pages": "170–181",
+    "pdfFile": "assets/uploads/journal-archive/volume-1-issue-4/jethro-tique-learner-self-worth.pdf",
+    "featured": false,
+    "active": true,
+    "id": "volume-1-issue-4-learner-self-worth",
+    "keywords": [],
+    "publicationDate": "",
+    "doi": ""
+  },
+  {
+    "journalId": "multidisciplinary-international-theses-and-articles-journal",
     "title": "Performance in Mathematics of Grade 4 Learners: Basis for the Development of Worksheets",
     "authors": [
       "Vilma Rose S. Manuel"
@@ -355,6 +715,66 @@ window.SHIRLEY_JOURNAL_ARTICLES = [
     "featured": false,
     "active": true,
     "id": "volume-1-issue-2-mathematics-performance",
+    "keywords": [],
+    "publicationDate": "",
+    "doi": ""
+  },
+  {
+    "journalId": "multidisciplinary-international-theses-and-articles-journal",
+    "title": "Phonemic Awareness Development Framework in the Division of Nueva Ecija: A Developmental Modeling of Early Reading Acquisition Among Grade 1 Learners",
+    "authors": [
+      "Aileen D. Dismaya"
+    ],
+    "articleType": "Research Article",
+    "abstract": "This study developed and validated a phonemic awareness framework explaining early reading acquisition among Grade 1 learners.",
+    "volume": "1",
+    "issue": "4",
+    "issueLabel": "Issue No. 4",
+    "pages": "250–265",
+    "pdfFile": "assets/uploads/journal-archive/volume-1-issue-4/aileen-dismaya-phonemic-awareness.pdf",
+    "featured": false,
+    "active": true,
+    "id": "volume-1-issue-4-phonemic-awareness",
+    "keywords": [],
+    "publicationDate": "",
+    "doi": ""
+  },
+  {
+    "journalId": "multidisciplinary-international-theses-and-articles-journal",
+    "title": "Physical Education Instruction and Teaching Strategies Among Teachers: Towards a Learner Engagement Program",
+    "authors": [
+      "Kurt Moore Aquino Morales"
+    ],
+    "articleType": "Research Article",
+    "abstract": "This study investigates instructional challenges faced by Physical Education teachers and their relationship to teacher demographics.",
+    "volume": "1",
+    "issue": "4",
+    "issueLabel": "Issue No. 4",
+    "pages": "94–105",
+    "pdfFile": "assets/uploads/journal-archive/volume-1-issue-4/kurt-morales-physical-education.pdf",
+    "featured": false,
+    "active": true,
+    "id": "volume-1-issue-4-physical-education",
+    "keywords": [],
+    "publicationDate": "",
+    "doi": ""
+  },
+  {
+    "journalId": "multidisciplinary-international-theses-and-articles-journal",
+    "title": "Physical Education Program Implementation Framework in the Division of Mabalacat City",
+    "authors": [
+      "Argie Q. Naga"
+    ],
+    "articleType": "Research Article",
+    "abstract": "This study examined Physical Education program implementation in the Division of Mabalacat City and its influence on learner participation and performance.",
+    "volume": "1",
+    "issue": "3",
+    "issueLabel": "Issue No. 3",
+    "pages": "189–275",
+    "pdfFile": "assets/uploads/journal-archive/volume-1-issue-3/argie-naga-physical-education.pdf",
+    "featured": false,
+    "active": true,
+    "id": "volume-1-issue-3-physical-education",
     "keywords": [],
     "publicationDate": "",
     "doi": ""
@@ -401,6 +821,86 @@ window.SHIRLEY_JOURNAL_ARTICLES = [
   },
   {
     "journalId": "multidisciplinary-international-theses-and-articles-journal",
+    "title": "Professional Development and Teaching Practices of Kindergarten Teachers: Basis for a Teacher Development Program",
+    "authors": [
+      "Ruth T. Rivera"
+    ],
+    "articleType": "Research Article",
+    "abstract": "This study examines the professional development, teaching practices, classroom management, and challenges of kindergarten teachers.",
+    "volume": "1",
+    "issue": "4",
+    "issueLabel": "Issue No. 4",
+    "pages": "14–25",
+    "pdfFile": "assets/uploads/journal-archive/volume-1-issue-4/ruth-rivera-professional-development.pdf",
+    "featured": false,
+    "active": true,
+    "id": "volume-1-issue-4-professional-development",
+    "keywords": [],
+    "publicationDate": "",
+    "doi": ""
+  },
+  {
+    "journalId": "multidisciplinary-international-theses-and-articles-journal",
+    "title": "Reading Comprehension Challenges Among Grade 6 Learners: Basis for a Reading Mentorship Program",
+    "authors": [
+      "Mary Cris M. Aguilar"
+    ],
+    "articleType": "Research Article",
+    "abstract": "This study investigated reading comprehension challenges among Grade 6 learners and proposed a reading mentorship program.",
+    "volume": "1",
+    "issue": "4",
+    "issueLabel": "Issue No. 4",
+    "pages": "1–13",
+    "pdfFile": "assets/uploads/journal-archive/volume-1-issue-4/mary-aguilar-reading-comprehension.pdf",
+    "featured": false,
+    "active": true,
+    "id": "volume-1-issue-4-reading-comprehension",
+    "keywords": [],
+    "publicationDate": "",
+    "doi": ""
+  },
+  {
+    "journalId": "multidisciplinary-international-theses-and-articles-journal",
+    "title": "Reading Comprehension Enhancement Program in Tarlac South A District: Enhancing Filipino Literacy Among Grade 4 Learners",
+    "authors": [
+      "Rosalia L. Cunanan"
+    ],
+    "articleType": "Research Article",
+    "abstract": "This study examined Filipino reading comprehension, learner performance, difficulties, and reading strategies among Grade 4 learners in Tarlac South A District.",
+    "volume": "1",
+    "issue": "3",
+    "issueLabel": "Issue No. 3",
+    "pages": "276–335",
+    "pdfFile": "assets/uploads/journal-archive/volume-1-issue-3/rosalia-cunanan-reading-comprehension.pdf",
+    "featured": false,
+    "active": true,
+    "id": "volume-1-issue-3-reading-comprehension",
+    "keywords": [],
+    "publicationDate": "",
+    "doi": ""
+  },
+  {
+    "journalId": "multidisciplinary-international-theses-and-articles-journal",
+    "title": "Reading Motivation and Reading Anxiety Among Readers: Basis for an Informational Literacy Development Program",
+    "authors": [
+      "Elvira T. Guerrero"
+    ],
+    "articleType": "Research Article",
+    "abstract": "This study examines relationships among reading motivation, reading anxiety, and reading outcomes as a basis for an informational literacy development program.",
+    "volume": "1",
+    "issue": "4",
+    "issueLabel": "Issue No. 4",
+    "pages": "40–51",
+    "pdfFile": "assets/uploads/journal-archive/volume-1-issue-4/elvira-guerrero-reading-motivation.pdf",
+    "featured": false,
+    "active": true,
+    "id": "volume-1-issue-4-reading-motivation",
+    "keywords": [],
+    "publicationDate": "",
+    "doi": ""
+  },
+  {
+    "journalId": "multidisciplinary-international-theses-and-articles-journal",
     "title": "Risk and Responsibility in Leading by Example",
     "authors": [
       "Rachelle F. Buncad"
@@ -415,6 +915,46 @@ window.SHIRLEY_JOURNAL_ARTICLES = [
     "active": true,
     "id": "volume-1-issue-1-risk-and-responsibility",
     "abstract": "",
+    "keywords": [],
+    "publicationDate": "",
+    "doi": ""
+  },
+  {
+    "journalId": "multidisciplinary-international-theses-and-articles-journal",
+    "title": "School Heads’ Management Roles and Teachers’ Performance",
+    "authors": [
+      "Ma. Linda N. Balmores"
+    ],
+    "articleType": "Research Article",
+    "abstract": "This study examined the relationship between school heads’ management roles and teachers’ performance in public elementary schools.",
+    "volume": "1",
+    "issue": "4",
+    "issueLabel": "Issue No. 4",
+    "pages": "197–206",
+    "pdfFile": "assets/uploads/journal-archive/volume-1-issue-4/linda-balmores-management-roles.pdf",
+    "featured": false,
+    "active": true,
+    "id": "volume-1-issue-4-management-roles",
+    "keywords": [],
+    "publicationDate": "",
+    "doi": ""
+  },
+  {
+    "journalId": "multidisciplinary-international-theses-and-articles-journal",
+    "title": "School Leaders’ Digital Leadership and Teachers’ Digital Competence: Basis for a Digital Leadership Skill Program",
+    "authors": [
+      "Dulce Grace T. Goree"
+    ],
+    "articleType": "Research Article",
+    "abstract": "This study examines school leaders’ digital leadership and teachers’ digital competence, focusing on transformative skills and professional development.",
+    "volume": "1",
+    "issue": "3",
+    "issueLabel": "Issue No. 3",
+    "pages": "113–188",
+    "pdfFile": "assets/uploads/journal-archive/volume-1-issue-3/dulce-goree-digital-leadership.pdf",
+    "featured": false,
+    "active": true,
+    "id": "volume-1-issue-3-digital-leadership",
     "keywords": [],
     "publicationDate": "",
     "doi": ""
@@ -461,6 +1001,26 @@ window.SHIRLEY_JOURNAL_ARTICLES = [
   },
   {
     "journalId": "multidisciplinary-international-theses-and-articles-journal",
+    "title": "Stakeholder Engagement: Basis for a Collaborative Partnerships Program",
+    "authors": [
+      "Sunder L. Gapuz"
+    ],
+    "articleType": "Research Article",
+    "abstract": "This study assessed stakeholder engagement in educational initiatives in the Schools Division of Nueva Ecija and used the findings as the basis for a collaborative partnerships program.",
+    "volume": "1",
+    "issue": "3",
+    "issueLabel": "Issue No. 3",
+    "pages": "616–638",
+    "pdfFile": "assets/uploads/journal-archive/volume-1-issue-3/sunder-gapuz-stakeholder-engagement.pdf",
+    "featured": false,
+    "active": true,
+    "id": "volume-1-issue-3-stakeholder-engagement",
+    "keywords": [],
+    "publicationDate": "",
+    "doi": ""
+  },
+  {
+    "journalId": "multidisciplinary-international-theses-and-articles-journal",
     "title": "Strategic Performance Management Plan in Guimba East District: Advancing School Efficiency Through Balanced Scorecard Practices",
     "authors": [
       "Bobstil T. Onosa"
@@ -501,6 +1061,46 @@ window.SHIRLEY_JOURNAL_ARTICLES = [
   },
   {
     "journalId": "multidisciplinary-international-theses-and-articles-journal",
+    "title": "Synchronized Grade-Level Governance: A Collaborative Management Protocol for Mitigating Instructional Dissonance and Behavioral Fragmentation in Multi-Sectional Schools",
+    "authors": [
+      "Mary Kristel S. Castro"
+    ],
+    "articleType": "Research Article",
+    "abstract": "This study developed a collaborative management protocol to mitigate instructional dissonance and behavioral fragmentation in multi-sectional schools.",
+    "volume": "1",
+    "issue": "3",
+    "issueLabel": "Issue No. 3",
+    "pages": "389–439",
+    "pdfFile": "assets/uploads/journal-archive/volume-1-issue-3/mary-castro-grade-level-governance.pdf",
+    "featured": false,
+    "active": true,
+    "id": "volume-1-issue-3-grade-level-governance",
+    "keywords": [],
+    "publicationDate": "",
+    "doi": ""
+  },
+  {
+    "journalId": "multidisciplinary-international-theses-and-articles-journal",
+    "title": "Teacher Perceptions and Experiences with the MATATAG Curriculum: A Basis for Professional Development Programs",
+    "authors": [
+      "Rachelle E. Alfonso"
+    ],
+    "articleType": "Research Article",
+    "abstract": "This study assessed teachers’ perceptions and experiences of the MATATAG Curriculum, focusing on its effectiveness and implementation challenges.",
+    "volume": "1",
+    "issue": "4",
+    "issueLabel": "Issue No. 4",
+    "pages": "106–117",
+    "pdfFile": "assets/uploads/journal-archive/volume-1-issue-4/rachelle-alfonso-matatag-curriculum.pdf",
+    "featured": false,
+    "active": true,
+    "id": "volume-1-issue-4-matatag-curriculum",
+    "keywords": [],
+    "publicationDate": "",
+    "doi": ""
+  },
+  {
+    "journalId": "multidisciplinary-international-theses-and-articles-journal",
     "title": "Teachers and Parents: A Dynamic Partnership",
     "authors": [
       "Catherine T. Galaoey"
@@ -515,6 +1115,26 @@ window.SHIRLEY_JOURNAL_ARTICLES = [
     "featured": false,
     "active": true,
     "id": "volume-1-issue-1-teachers-and-parents",
+    "keywords": [],
+    "publicationDate": "",
+    "doi": ""
+  },
+  {
+    "journalId": "multidisciplinary-international-theses-and-articles-journal",
+    "title": "Teachers’ Demotivation and Burnout in Selected Schools in Quezon City: Basis for Developing Preventive Strategies",
+    "authors": [
+      "Lea L. Guevarra"
+    ],
+    "articleType": "Research Article",
+    "abstract": "This study investigated factors contributing to demotivation and burnout among high school teachers in Quezon City.",
+    "volume": "1",
+    "issue": "4",
+    "issueLabel": "Issue No. 4",
+    "pages": "52–64",
+    "pdfFile": "assets/uploads/journal-archive/volume-1-issue-4/lea-guevarra-teacher-burnout.pdf",
+    "featured": false,
+    "active": true,
+    "id": "volume-1-issue-4-teacher-burnout",
     "keywords": [],
     "publicationDate": "",
     "doi": ""
