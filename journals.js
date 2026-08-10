@@ -192,7 +192,9 @@
       const [volume, issue, issueLabel] = key.split('::');
       const issueTitle = volume === 'Unassigned' && issue === 'Unassigned'
         ? 'Published Articles'
-        : `Volume ${escapeHtml(volume)} · Issue ${escapeHtml(issue)}`;
+        : journal.id === 'national-research-journal'
+          ? `Volume ${escapeHtml(volume)} Issue No. ${escapeHtml(issue)}`
+          : `Volume ${escapeHtml(volume)} · Issue ${escapeHtml(issue)}`;
       const articleCards = articles.map((article) => {
         const authors = (article.authors || []).join(', ') || 'Author information forthcoming';
         const meta = [
