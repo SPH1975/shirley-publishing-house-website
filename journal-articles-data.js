@@ -15,7 +15,7 @@ window.SHIRLEY_JOURNAL_ARTICLES = [
       "modeling",
       "mathematical verification"
     ],
-    "volume": "2",
+    "volume": "4",
     "issue": "2",
     "issueLabel": "July–December 2023",
     "publicationDate": "2026-08-10",
@@ -42,7 +42,7 @@ window.SHIRLEY_JOURNAL_ARTICLES = [
       "orthographic mapping",
       "sentence comprehension"
     ],
-    "volume": "4",
+    "volume": "6",
     "issue": "2",
     "issueLabel": "July–December 2025",
     "publicationDate": "2026-08-10",
@@ -129,7 +129,7 @@ window.SHIRLEY_JOURNAL_ARTICLES = [
       "team processes",
       "adaptive teams"
     ],
-    "volume": "3",
+    "volume": "5",
     "issue": "1",
     "issueLabel": "January–June 2024",
     "publicationDate": "2026-08-10",
@@ -155,7 +155,7 @@ window.SHIRLEY_JOURNAL_ARTICLES = [
       "competency-based training",
       "constructive alignment"
     ],
-    "volume": "4",
+    "volume": "6",
     "issue": "2",
     "issueLabel": "July–December 2025",
     "publicationDate": "2026-08-10",
@@ -182,7 +182,7 @@ window.SHIRLEY_JOURNAL_ARTICLES = [
       "moral decision-making",
       "ethics pedagogy"
     ],
-    "volume": "2",
+    "volume": "4",
     "issue": "2",
     "issueLabel": "July–December 2023",
     "publicationDate": "2026-08-10",
@@ -209,7 +209,7 @@ window.SHIRLEY_JOURNAL_ARTICLES = [
       "document analysis",
       "instructional material evaluation"
     ],
-    "volume": "2",
+    "volume": "4",
     "issue": "2",
     "issueLabel": "July–December 2023",
     "publicationDate": "2026-08-10",
@@ -236,7 +236,7 @@ window.SHIRLEY_JOURNAL_ARTICLES = [
       "reading comprehension",
       "summary writing"
     ],
-    "volume": "2",
+    "volume": "4",
     "issue": "1",
     "issueLabel": "January–June 2023",
     "publicationDate": "2026-08-10",
@@ -280,7 +280,7 @@ window.SHIRLEY_JOURNAL_ARTICLES = [
       "challenges in action research",
       "research capacity building"
     ],
-    "volume": "3",
+    "volume": "5",
     "issue": "2",
     "issueLabel": "July–December 2024",
     "publicationDate": "2026-08-10",
@@ -308,7 +308,7 @@ window.SHIRLEY_JOURNAL_ARTICLES = [
       "opportunity recognition",
       "community development"
     ],
-    "volume": "4",
+    "volume": "6",
     "issue": "2",
     "issueLabel": "July–December 2025",
     "publicationDate": "2026-08-10",
@@ -335,7 +335,7 @@ window.SHIRLEY_JOURNAL_ARTICLES = [
       "table setting",
       "food and beverage service"
     ],
-    "volume": "3",
+    "volume": "5",
     "issue": "2",
     "issueLabel": "July–December 2024",
     "publicationDate": "2026-08-10",
@@ -382,7 +382,7 @@ window.SHIRLEY_JOURNAL_ARTICLES = [
       "political economy",
       "pluralism"
     ],
-    "volume": "2",
+    "volume": "4",
     "issue": "2",
     "issueLabel": "July–December 2023",
     "publicationDate": "2026-08-10",
@@ -409,7 +409,7 @@ window.SHIRLEY_JOURNAL_ARTICLES = [
       "publication ethics",
       "ethics education"
     ],
-    "volume": "4",
+    "volume": "6",
     "issue": "2",
     "issueLabel": "July–December 2025",
     "publicationDate": "2026-08-10",
@@ -436,7 +436,7 @@ window.SHIRLEY_JOURNAL_ARTICLES = [
       "decision rule",
       "evidence-based management"
     ],
-    "volume": "3",
+    "volume": "5",
     "issue": "1",
     "issueLabel": "January–June 2024",
     "publicationDate": "2026-08-10",
@@ -463,7 +463,7 @@ window.SHIRLEY_JOURNAL_ARTICLES = [
       "algorithmic hiring",
       "organizational legitimacy"
     ],
-    "volume": "3",
+    "volume": "5",
     "issue": "1",
     "issueLabel": "January–June 2024",
     "publicationDate": "2026-08-10",
@@ -490,7 +490,7 @@ window.SHIRLEY_JOURNAL_ARTICLES = [
       "performance checklist",
       "vocational education"
     ],
-    "volume": "3",
+    "volume": "5",
     "issue": "2",
     "issueLabel": "July–December 2024",
     "publicationDate": "2026-08-10",
@@ -517,7 +517,7 @@ window.SHIRLEY_JOURNAL_ARTICLES = [
       "microenterprise",
       "venture screening"
     ],
-    "volume": "4",
+    "volume": "6",
     "issue": "2",
     "issueLabel": "July–December 2025",
     "publicationDate": "2026-08-10",
@@ -544,7 +544,7 @@ window.SHIRLEY_JOURNAL_ARTICLES = [
       "labor relations education",
       "document analysis"
     ],
-    "volume": "2",
+    "volume": "4",
     "issue": "1",
     "issueLabel": "January–June 2023",
     "publicationDate": "2026-08-10",
@@ -571,7 +571,7 @@ window.SHIRLEY_JOURNAL_ARTICLES = [
       "experiential learning",
       "Grade 6 TLE"
     ],
-    "volume": "1",
+    "volume": "3",
     "issue": "1",
     "issueLabel": "January–June 2022",
     "publicationDate": "2026-08-10",
@@ -598,7 +598,7 @@ window.SHIRLEY_JOURNAL_ARTICLES = [
       "appetizers",
       "document analysis"
     ],
-    "volume": "3",
+    "volume": "5",
     "issue": "2",
     "issueLabel": "July–December 2024",
     "publicationDate": "2026-08-10",
@@ -625,7 +625,7 @@ window.SHIRLEY_JOURNAL_ARTICLES = [
       "historical source criticism",
       "political education"
     ],
-    "volume": "1",
+    "volume": "3",
     "issue": "1",
     "issueLabel": "January–June 2022",
     "publicationDate": "2026-08-10",
@@ -652,7 +652,7 @@ window.SHIRLEY_JOURNAL_ARTICLES = [
       "diagnostic feedback",
       "strategic intervention material"
     ],
-    "volume": "4",
+    "volume": "6",
     "issue": "1",
     "issueLabel": "January–June 2025",
     "publicationDate": "2026-08-10",
@@ -679,7 +679,7 @@ window.SHIRLEY_JOURNAL_ARTICLES = [
       "alignment",
       "research questions"
     ],
-    "volume": "4",
+    "volume": "6",
     "issue": "1",
     "issueLabel": "January–June 2025",
     "publicationDate": "2026-08-10",
@@ -706,7 +706,7 @@ window.SHIRLEY_JOURNAL_ARTICLES = [
       "ethical leadership",
       "learning systems"
     ],
-    "volume": "3",
+    "volume": "5",
     "issue": "1",
     "issueLabel": "January–June 2024",
     "publicationDate": "2026-08-10",
@@ -733,7 +733,7 @@ window.SHIRLEY_JOURNAL_ARTICLES = [
       "resource-based view",
       "organizational learning"
     ],
-    "volume": "1",
+    "volume": "3",
     "issue": "1",
     "issueLabel": "January–June 2022",
     "publicationDate": "2026-08-10",
@@ -760,7 +760,7 @@ window.SHIRLEY_JOURNAL_ARTICLES = [
       "school garden",
       "competency-based education"
     ],
-    "volume": "1",
+    "volume": "3",
     "issue": "1",
     "issueLabel": "January–June 2022",
     "publicationDate": "2026-08-10",
@@ -787,7 +787,7 @@ window.SHIRLEY_JOURNAL_ARTICLES = [
       "document analysis",
       "Grade 6 mathematics"
     ],
-    "volume": "1",
+    "volume": "3",
     "issue": "1",
     "issueLabel": "January–June 2022",
     "publicationDate": "2026-08-10",
@@ -814,7 +814,7 @@ window.SHIRLEY_JOURNAL_ARTICLES = [
       "Python",
       "reproducible benchmarking"
     ],
-    "volume": "3",
+    "volume": "5",
     "issue": "1",
     "issueLabel": "January–June 2024",
     "publicationDate": "2026-08-10",
@@ -941,7 +941,7 @@ window.SHIRLEY_JOURNAL_ARTICLES = [
       "multiple representations",
       "Grade 3"
     ],
-    "volume": "4",
+    "volume": "6",
     "issue": "1",
     "issueLabel": "January–June 2025",
     "publicationDate": "2026-08-10",
@@ -968,7 +968,7 @@ window.SHIRLEY_JOURNAL_ARTICLES = [
       "constructive alignment",
       "teacher education"
     ],
-    "volume": "4",
+    "volume": "6",
     "issue": "2",
     "issueLabel": "July–December 2025",
     "publicationDate": "2026-08-10",
@@ -1255,7 +1255,7 @@ window.SHIRLEY_JOURNAL_ARTICLES = [
       "research questions",
       "academic writing"
     ],
-    "volume": "4",
+    "volume": "6",
     "issue": "2",
     "issueLabel": "July–December 2025",
     "publicationDate": "2026-08-10",
@@ -1282,7 +1282,7 @@ window.SHIRLEY_JOURNAL_ARTICLES = [
       "computational thinking",
       "computing education"
     ],
-    "volume": "3",
+    "volume": "5",
     "issue": "2",
     "issueLabel": "July–December 2024",
     "publicationDate": "2026-08-10",
@@ -1329,7 +1329,7 @@ window.SHIRLEY_JOURNAL_ARTICLES = [
       "statistical analysis",
       "educational research"
     ],
-    "volume": "4",
+    "volume": "6",
     "issue": "1",
     "issueLabel": "January–June 2025",
     "publicationDate": "2026-08-10",
@@ -1376,7 +1376,7 @@ window.SHIRLEY_JOURNAL_ARTICLES = [
       "research methods education",
       "evidence-based claims"
     ],
-    "volume": "2",
+    "volume": "4",
     "issue": "1",
     "issueLabel": "January–June 2023",
     "publicationDate": "2026-08-10",
@@ -1403,7 +1403,7 @@ window.SHIRLEY_JOURNAL_ARTICLES = [
       "lesson design",
       "formative assessment"
     ],
-    "volume": "2",
+    "volume": "4",
     "issue": "1",
     "issueLabel": "January–June 2023",
     "publicationDate": "2026-08-10",
@@ -1430,7 +1430,7 @@ window.SHIRLEY_JOURNAL_ARTICLES = [
       "cookery workbook",
       "document analysis"
     ],
-    "volume": "3",
+    "volume": "5",
     "issue": "2",
     "issueLabel": "July–December 2024",
     "publicationDate": "2026-08-10",
@@ -1457,7 +1457,7 @@ window.SHIRLEY_JOURNAL_ARTICLES = [
       "technical accuracy",
       "document analysis"
     ],
-    "volume": "4",
+    "volume": "6",
     "issue": "2",
     "issueLabel": "July–December 2025",
     "publicationDate": "2026-08-10",
@@ -1484,7 +1484,7 @@ window.SHIRLEY_JOURNAL_ARTICLES = [
       "labor relations education",
       "instructional design"
     ],
-    "volume": "2",
+    "volume": "4",
     "issue": "1",
     "issueLabel": "January–June 2023",
     "publicationDate": "2026-08-10",
@@ -1511,7 +1511,7 @@ window.SHIRLEY_JOURNAL_ARTICLES = [
       "ethical inquiry",
       "reading-to-writing"
     ],
-    "volume": "2",
+    "volume": "4",
     "issue": "1",
     "issueLabel": "January–June 2023",
     "publicationDate": "2026-08-10",
@@ -1538,7 +1538,7 @@ window.SHIRLEY_JOURNAL_ARTICLES = [
       "design alignment",
       "research pedagogy"
     ],
-    "volume": "4",
+    "volume": "6",
     "issue": "2",
     "issueLabel": "July–December 2025",
     "publicationDate": "2026-08-10",
@@ -1605,7 +1605,7 @@ window.SHIRLEY_JOURNAL_ARTICLES = [
       "reproducibility",
       "human oversight"
     ],
-    "volume": "1",
+    "volume": "3",
     "issue": "1",
     "issueLabel": "January–June 2022",
     "publicationDate": "2026-08-10",
@@ -1651,7 +1651,7 @@ window.SHIRLEY_JOURNAL_ARTICLES = [
       "professional learning community",
       "Infanta District"
     ],
-    "volume": "4",
+    "volume": "6",
     "issue": "1",
     "issueLabel": "January–June 2025",
     "publicationDate": "2026-08-10",
@@ -1677,7 +1677,7 @@ window.SHIRLEY_JOURNAL_ARTICLES = [
       "professional development",
       "Infanta District"
     ],
-    "volume": "4",
+    "volume": "6",
     "issue": "1",
     "issueLabel": "January–June 2025",
     "publicationDate": "2026-08-10",
@@ -1706,7 +1706,7 @@ window.SHIRLEY_JOURNAL_ARTICLES = [
       "advertising",
       "microventure"
     ],
-    "volume": "4",
+    "volume": "6",
     "issue": "2",
     "issueLabel": "July–December 2025",
     "publicationDate": "2026-08-10",
@@ -2515,7 +2515,7 @@ window.SHIRLEY_JOURNAL_ARTICLES = [
       "analysis of variance",
       "secondary education"
     ],
-    "volume": "1",
+    "volume": "3",
     "issue": "2",
     "issueLabel": "July–December 2022",
     "publicationDate": "2022-12-31",
@@ -2542,7 +2542,7 @@ window.SHIRLEY_JOURNAL_ARTICLES = [
       "quality assurance",
       "state universities and colleges"
     ],
-    "volume": "1",
+    "volume": "3",
     "issue": "2",
     "issueLabel": "July–December 2022",
     "publicationDate": "2022-12-31",
@@ -2569,7 +2569,7 @@ window.SHIRLEY_JOURNAL_ARTICLES = [
       "academic integrity",
       "human-centred AI"
     ],
-    "volume": "1",
+    "volume": "3",
     "issue": "2",
     "issueLabel": "July–December 2022",
     "publicationDate": "2022-12-31",
@@ -2596,7 +2596,7 @@ window.SHIRLEY_JOURNAL_ARTICLES = [
       "universal design for learning",
       "low-resource education"
     ],
-    "volume": "1",
+    "volume": "3",
     "issue": "2",
     "issueLabel": "July–December 2022",
     "publicationDate": "2022-12-31",
@@ -2623,7 +2623,7 @@ window.SHIRLEY_JOURNAL_ARTICLES = [
       "reading comprehension",
       "self-learning module"
     ],
-    "volume": "1",
+    "volume": "3",
     "issue": "2",
     "issueLabel": "July–December 2022",
     "publicationDate": "2022-12-31",
@@ -2650,7 +2650,7 @@ window.SHIRLEY_JOURNAL_ARTICLES = [
       "document analysis",
       "Philippines"
     ],
-    "volume": "1",
+    "volume": "3",
     "issue": "2",
     "issueLabel": "July–December 2022",
     "publicationDate": "2022-12-31",
