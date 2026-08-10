@@ -11,7 +11,7 @@
   "featured": true,
   "publicationFrequency": "Quarterly",
   "journalFile": "/assets/uploads/body_merged-1-1-.pdf",
-  "editorInChief": "LETICIA D. GUINSIMAN PhD",
+  "editorInChief": "LETICIA D. GUINSIMAN",
   "scope": "Literature and Creative Arts",
   "cover": "/assets/uploads/chatgpt-image-jul-23-2026-02_57_12-pm.png",
   "format": "Print & Online",
@@ -29,5 +29,23 @@
     "DONNAVEE VALMORES B. CABASAL",
     "SORICK B. DE LEON",
     "CHRISTOPHER NALDA"
+  ],
+  "editorialBoardGroups": [
+    { "role": "Chairman", "members": [{ "name": "Shirley D. Vicente", "credentials": "MAEd" }] },
+    { "role": "Members", "members": [
+      { "name": "Alma Bella G. Cabilinan", "credentials": "PhD" },
+      { "name": "Christine Marie M. Walog", "credentials": "MAEd" },
+      { "name": "Joy A. Caronilla", "credentials": "MT II" }
+    ] },
+    { "role": "Editor-in-Chief", "members": [{ "name": "Leticia D. Guinsiman" }] },
+    { "role": "Associate Editors", "members": [
+      { "name": "Joseph C. Eco, Jr.", "credentials": "EdD" },
+      { "name": "Engr. Jossanth D. Vicente" },
+      { "name": "Engr. Mark Lester Ventura" }
+    ] },
+    { "role": "Art and Layout Editors", "members": [
+      { "name": "Chris Nalda" },
+      { "name": "Donnavee B. Cabasal", "credentials": "MT I" }
+    ] }
   ]
 }
