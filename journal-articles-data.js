@@ -1,13 +1,6 @@
 window.SHIRLEY_JOURNAL_ARTICLES = [
   {
-    "id": "national-research-journal-volume-2-issue-2-alyssa-marie-manalo-cashless-payments-online-selling",
     "journalId": "national-research-journal",
-    "title": "Adoption of Cashless Payments and Online Selling by Microbusinesses",
-    "authors": [
-      "Alyssa Marie Manalo"
-    ],
-    "articleType": "Conceptual Technology-Adoption Review",
-    "abstract": "This conceptual technology-adoption review examines adoption of cashless payments and online selling by microbusinesses using literature and institutional documents published no later than 2021. It argues that microbusiness adoption of digital commerce depends on perceived usefulness, ease of use, trust, transaction cost, connectivity, customer readiness, and platform capability. Evidence was organized around four themes: adoption incentives, skills and infrastructure, trust, fraud, and data protection, omnichannel business practice. The synthesis shows that pandemic outcomes were rarely determined by a single factor; instead, they reflected interacting material, organizational, social, and informational conditions. The article proposes a layered response combining universal minimum provision, targeted support, continuous feedback, and locally adaptable implementation. Because this is a literature-based analysis rather than original field research, it does not report participants, newly collected data, or causal estimates. Its contribution lies in integrating early pandemic evidence into a practical framework for Philippine schools and communities, especially rural and resource-constrained settings.",
     "keywords": [
       "COVID-19",
       "Philippines",
@@ -17,672 +10,24 @@ window.SHIRLEY_JOURNAL_ARTICLES = [
       "resilience"
     ],
     "volume": "2",
-    "issue": "2",
-    "issueLabel": "Issue No. 2",
-    "publicationDate": "2026-08-10",
-    "pages": "1–10",
-    "doi": "",
-    "pdfFile": "assets/uploads/journal-archive/national-research-journal/volume-2-issue-2-2021/alyssa-marie-manalo-cashless-payments-online-selling.pdf",
-    "featured": false,
-    "active": true
-  },
-  {
-    "id": "national-research-journal-volume-2-issue-2-bianca-louise-ferrer-student-motivation-engagement",
-    "journalId": "national-research-journal",
-    "title": "Student Motivation and Engagement in Remote Education",
-    "authors": [
-      "Bianca Louise Ferrer"
-    ],
-    "articleType": "Conceptual Integrative Review",
-    "abstract": "This conceptual integrative review examines student motivation and engagement in remote education using literature and institutional documents published no later than 2021. It argues that remote engagement is a multidimensional product of autonomy, competence, relatedness, task value, routine, and feasible participation rather than simple attendance or login counts. Evidence was organized around four themes: behavioral participation, emotional engagement, cognitive engagement, belonging, feedback, and agency. The synthesis shows that pandemic outcomes were rarely determined by a single factor; instead, they reflected interacting material, organizational, social, and informational conditions. The article proposes a layered response combining universal minimum provision, targeted support, continuous feedback, and locally adaptable implementation. Because this is a literature-based analysis rather than original field research, it does not report participants, newly collected data, or causal estimates. Its contribution lies in integrating early pandemic evidence into a practical framework for Philippine schools and communities, especially rural and resource-constrained settings.",
-    "keywords": [
-      "COVID-19",
-      "Philippines",
-      "rural communities",
-      "equity",
-      "policy",
-      "resilience"
-    ],
-    "volume": "2",
-    "issue": "2",
-    "issueLabel": "Issue No. 2",
-    "publicationDate": "2026-08-10",
-    "pages": "11–20",
-    "doi": "",
-    "pdfFile": "assets/uploads/journal-archive/national-research-journal/volume-2-issue-2-2021/bianca-louise-ferrer-student-motivation-engagement.pdf",
-    "featured": false,
-    "active": true
-  },
-  {
-    "id": "national-research-journal-volume-2-issue-2-daniel-joseph-cabrera-restaurant-small-enterprise-recovery",
-    "journalId": "national-research-journal",
-    "title": "Recovery Strategies of Restaurants and Other Small Enterprises",
-    "authors": [
-      "Daniel Joseph Cabrera"
-    ],
-    "articleType": "Integrative Enterprise-Recovery Review",
-    "abstract": "This integrative enterprise-recovery review examines recovery strategies of restaurants and other small enterprises using literature and institutional documents published no later than 2021. It argues that small-enterprise recovery requires coordinated changes in liquidity, operations, health protection, demand generation, supply relationships, and owner well-being. Evidence was organized around four themes: liquidity and cost control, safe operations, market and channel adaptation, networks and public support. The synthesis shows that pandemic outcomes were rarely determined by a single factor; instead, they reflected interacting material, organizational, social, and informational conditions. The article proposes a layered response combining universal minimum provision, targeted support, continuous feedback, and locally adaptable implementation. Because this is a literature-based analysis rather than original field research, it does not report participants, newly collected data, or causal estimates. Its contribution lies in integrating early pandemic evidence into a practical framework for Philippine schools and communities, especially rural and resource-constrained settings.",
-    "keywords": [
-      "COVID-19",
-      "Philippines",
-      "rural communities",
-      "equity",
-      "policy",
-      "resilience"
-    ],
-    "volume": "2",
-    "issue": "2",
-    "issueLabel": "Issue No. 2",
-    "publicationDate": "2026-08-10",
-    "pages": "21–30",
-    "doi": "",
-    "pdfFile": "assets/uploads/journal-archive/national-research-journal/volume-2-issue-2-2021/daniel-joseph-cabrera-restaurant-small-enterprise-recovery.pdf",
-    "featured": false,
-    "active": true
-  },
-  {
-    "id": "national-research-journal-volume-2-issue-2-elaine-patricia-mendoza-school-reopening-preparedness",
-    "journalId": "national-research-journal",
-    "title": "Preparedness of Schools for the Gradual Return to Face-to-Face Classes",
-    "authors": [
-      "Elaine Patricia Mendoza"
-    ],
-    "articleType": "School-Reopening Policy Review",
-    "abstract": "This school-reopening policy review examines preparedness of schools for the gradual return to face-to-face classes using literature and institutional documents published no later than 2021. It argues that safe school reopening requires layered health measures, water and sanitation, ventilation, surveillance, continuity planning, communication, and psychosocial support. Evidence was organized around four themes: health and facility readiness, operations and continuity, communication and consent, learning recovery and well-being. The synthesis shows that pandemic outcomes were rarely determined by a single factor; instead, they reflected interacting material, organizational, social, and informational conditions. The article proposes a layered response combining universal minimum provision, targeted support, continuous feedback, and locally adaptable implementation. Because this is a literature-based analysis rather than original field research, it does not report participants, newly collected data, or causal estimates. Its contribution lies in integrating early pandemic evidence into a practical framework for Philippine schools and communities, especially rural and resource-constrained settings.",
-    "keywords": [
-      "COVID-19",
-      "Philippines",
-      "rural communities",
-      "equity",
-      "policy",
-      "resilience"
-    ],
-    "volume": "2",
-    "issue": "2",
-    "issueLabel": "Issue No. 2",
-    "publicationDate": "2026-08-10",
-    "pages": "31–40",
-    "doi": "",
-    "pdfFile": "assets/uploads/journal-archive/national-research-journal/volume-2-issue-2-2021/elaine-patricia-mendoza-school-reopening-preparedness.pdf",
-    "featured": false,
-    "active": true
-  },
-  {
-    "id": "national-research-journal-volume-2-issue-2-frances-camille-robles-teacher-made-video-lessons",
-    "journalId": "national-research-journal",
-    "title": "Effectiveness of Teacher-Made Video Lessons and Digital Materials",
-    "authors": [
-      "Frances Camille Robles"
-    ],
-    "articleType": "Scoping-Style Technology Review",
-    "abstract": "This scoping-style technology review examines effectiveness of teacher-made video lessons and digital materials using literature and institutional documents published no later than 2021. It argues that teacher-made digital materials are most useful when concise, accessible, curriculum-aligned, cognitively manageable, and integrated with practice and feedback. Evidence was organized around four themes: multimedia design, curriculum alignment, accessibility and bandwidth, practice, interaction, and feedback. The synthesis shows that pandemic outcomes were rarely determined by a single factor; instead, they reflected interacting material, organizational, social, and informational conditions. The article proposes a layered response combining universal minimum provision, targeted support, continuous feedback, and locally adaptable implementation. Because this is a literature-based analysis rather than original field research, it does not report participants, newly collected data, or causal estimates. Its contribution lies in integrating early pandemic evidence into a practical framework for Philippine schools and communities, especially rural and resource-constrained settings.",
-    "keywords": [
-      "COVID-19",
-      "Philippines",
-      "rural communities",
-      "equity",
-      "policy",
-      "resilience"
-    ],
-    "volume": "2",
-    "issue": "2",
-    "issueLabel": "Issue No. 2",
-    "publicationDate": "2026-08-10",
-    "pages": "41–50",
-    "doi": "",
-    "pdfFile": "assets/uploads/journal-archive/national-research-journal/volume-2-issue-2-2021/frances-camille-robles-teacher-made-video-lessons.pdf",
-    "featured": false,
-    "active": true
-  },
-  {
-    "id": "national-research-journal-volume-2-issue-2-gabriel-enrico-pascual-agricultural-supply-chain-disruptions",
-    "journalId": "national-research-journal",
-    "title": "Agricultural Production and Supply-Chain Disruptions During the Pandemic",
-    "authors": [
-      "Gabriel Enrico Pascual"
-    ],
-    "articleType": "Food-Systems Policy Review",
-    "abstract": "This food-systems policy review examines agricultural production and supply-chain disruptions during the pandemic using literature and institutional documents published no later than 2021. It argues that pandemic agricultural disruption operated through labor, inputs, transport, market access, storage, and price transmission, requiring continuity policies across the chain. Evidence was organized around four themes: production inputs and labor, transport and logistics, markets, prices, and perishability, resilient local food systems. The synthesis shows that pandemic outcomes were rarely determined by a single factor; instead, they reflected interacting material, organizational, social, and informational conditions. The article proposes a layered response combining universal minimum provision, targeted support, continuous feedback, and locally adaptable implementation. Because this is a literature-based analysis rather than original field research, it does not report participants, newly collected data, or causal estimates. Its contribution lies in integrating early pandemic evidence into a practical framework for Philippine schools and communities, especially rural and resource-constrained settings.",
-    "keywords": [
-      "COVID-19",
-      "Philippines",
-      "rural communities",
-      "equity",
-      "policy",
-      "resilience"
-    ],
-    "volume": "2",
-    "issue": "2",
-    "issueLabel": "Issue No. 2",
-    "publicationDate": "2026-08-10",
-    "pages": "51–60",
-    "doi": "",
-    "pdfFile": "assets/uploads/journal-archive/national-research-journal/volume-2-issue-2-2021/gabriel-enrico-pascual-agricultural-supply-chain-disruptions.pdf",
-    "featured": false,
-    "active": true
-  },
-  {
-    "id": "national-research-journal-volume-2-issue-2-isabella-grace-villanueva-womens-community-resilience",
-    "journalId": "national-research-journal",
-    "title": "Women’s Role in Household and Community Resilience During the Pandemic",
-    "authors": [
-      "Isabella Grace Villanueva"
-    ],
-    "articleType": "Critical Integrative Review",
-    "abstract": "This critical integrative review examines women’s role in household and community resilience during the pandemic using literature and institutional documents published no later than 2021. It argues that women’s resilience work combined care, livelihood adaptation, health communication, food management, and community organizing but often carried unequal unpaid burdens and exposure to risk. Evidence was organized around four themes: unpaid care and household management, livelihood adaptation, community leadership and mutual aid, gendered risk, rights, and support. The synthesis shows that pandemic outcomes were rarely determined by a single factor; instead, they reflected interacting material, organizational, social, and informational conditions. The article proposes a layered response combining universal minimum provision, targeted support, continuous feedback, and locally adaptable implementation. Because this is a literature-based analysis rather than original field research, it does not report participants, newly collected data, or causal estimates. Its contribution lies in integrating early pandemic evidence into a practical framework for Philippine schools and communities, especially rural and resource-constrained settings.",
-    "keywords": [
-      "COVID-19",
-      "Philippines",
-      "rural communities",
-      "equity",
-      "policy",
-      "resilience"
-    ],
-    "volume": "2",
-    "issue": "2",
-    "issueLabel": "Issue No. 2",
-    "publicationDate": "2026-08-10",
-    "pages": "61–70",
-    "doi": "",
-    "pdfFile": "assets/uploads/journal-archive/national-research-journal/volume-2-issue-2-2021/isabella-grace-villanueva-womens-community-resilience.pdf",
-    "featured": false,
-    "active": true
-  },
-  {
-    "id": "national-research-journal-volume-2-issue-2-joshua-vincent-navarro-flexible-work-productivity",
-    "journalId": "national-research-journal",
-    "title": "Flexible Work Arrangements and Employee Productivity",
-    "authors": [
-      "Joshua Vincent Navarro"
-    ],
-    "articleType": "Organizational Integrative Review",
-    "abstract": "This organizational integrative review examines flexible work arrangements and employee productivity using literature and institutional documents published no later than 2021. It argues that productivity under flexible work is contingent on job design, autonomy, communication, technology, caregiving conditions, managerial trust, and appropriate outcome measures. Evidence was organized around four themes: job suitability and autonomy, digital coordination, home conditions and well-being, performance management and trust. The synthesis shows that pandemic outcomes were rarely determined by a single factor; instead, they reflected interacting material, organizational, social, and informational conditions. The article proposes a layered response combining universal minimum provision, targeted support, continuous feedback, and locally adaptable implementation. Because this is a literature-based analysis rather than original field research, it does not report participants, newly collected data, or causal estimates. Its contribution lies in integrating early pandemic evidence into a practical framework for Philippine schools and communities, especially rural and resource-constrained settings.",
-    "keywords": [
-      "COVID-19",
-      "Philippines",
-      "rural communities",
-      "equity",
-      "policy",
-      "resilience"
-    ],
-    "volume": "2",
-    "issue": "2",
-    "issueLabel": "Issue No. 2",
-    "publicationDate": "2026-08-10",
-    "pages": "71–80",
-    "doi": "",
-    "pdfFile": "assets/uploads/journal-archive/national-research-journal/volume-2-issue-2-2021/joshua-vincent-navarro-flexible-work-productivity.pdf",
-    "featured": false,
-    "active": true
-  },
-  {
-    "id": "national-research-journal-volume-2-issue-2-miguel-andres-valdez-adolescent-mental-health",
-    "journalId": "national-research-journal",
-    "title": "Mental Health and Social Isolation Among Adolescents",
-    "authors": [
-      "Miguel Andres Valdez"
-    ],
-    "articleType": "Integrative Mental-Health Review",
-    "abstract": "This integrative mental-health review examines mental health and social isolation among adolescents using literature and institutional documents published no later than 2021. It argues that adolescent mental-health effects during the pandemic arose from interacting isolation, uncertainty, family stress, disrupted routines, online exposure, and reduced access to protective relationships. Evidence was organized around four themes: loneliness and isolation, anxiety, mood, and uncertainty, family and digital environments, protective relationships and services. The synthesis shows that pandemic outcomes were rarely determined by a single factor; instead, they reflected interacting material, organizational, social, and informational conditions. The article proposes a layered response combining universal minimum provision, targeted support, continuous feedback, and locally adaptable implementation. Because this is a literature-based analysis rather than original field research, it does not report participants, newly collected data, or causal estimates. Its contribution lies in integrating early pandemic evidence into a practical framework for Philippine schools and communities, especially rural and resource-constrained settings.",
-    "keywords": [
-      "COVID-19",
-      "Philippines",
-      "rural communities",
-      "equity",
-      "policy",
-      "resilience"
-    ],
-    "volume": "2",
-    "issue": "2",
-    "issueLabel": "Issue No. 2",
-    "publicationDate": "2026-08-10",
-    "pages": "81–90",
-    "doi": "",
-    "pdfFile": "assets/uploads/journal-archive/national-research-journal/volume-2-issue-2-2021/miguel-andres-valdez-adolescent-mental-health.pdf",
-    "featured": false,
-    "active": true
-  },
-  {
-    "id": "national-research-journal-volume-2-issue-2-monica-isabel-reyes-community-livelihood-programs",
-    "journalId": "national-research-journal",
-    "title": "Community-Based Livelihood Programs for Families Affected by COVID-19",
-    "authors": [
-      "Monica Isabel Reyes"
-    ],
-    "articleType": "Program and Policy Review",
-    "abstract": "This program and policy review examines community-based livelihood programs for families affected by covid-19 using literature and institutional documents published no later than 2021. It argues that community livelihood programs are strongest when they match local demand, protect participants from excessive risk, combine assets with skills and market links, and monitor inclusion and durability. Evidence was organized around four themes: targeting and participation, skills, assets, and finance, market linkage and mentoring, inclusion, monitoring, and sustainability. The synthesis shows that pandemic outcomes were rarely determined by a single factor; instead, they reflected interacting material, organizational, social, and informational conditions. The article proposes a layered response combining universal minimum provision, targeted support, continuous feedback, and locally adaptable implementation. Because this is a literature-based analysis rather than original field research, it does not report participants, newly collected data, or causal estimates. Its contribution lies in integrating early pandemic evidence into a practical framework for Philippine schools and communities, especially rural and resource-constrained settings.",
-    "keywords": [
-      "COVID-19",
-      "Philippines",
-      "rural communities",
-      "equity",
-      "policy",
-      "resilience"
-    ],
-    "volume": "2",
-    "issue": "2",
-    "issueLabel": "Issue No. 2",
-    "publicationDate": "2026-08-10",
-    "pages": "91–100",
-    "doi": "",
-    "pdfFile": "assets/uploads/journal-archive/national-research-journal/volume-2-issue-2-2021/monica-isabel-reyes-community-livelihood-programs.pdf",
-    "featured": false,
-    "active": true
-  },
-  {
-    "id": "national-research-journal-volume-2-issue-2-adrian-paolo-lim-assessment-integrity",
-    "journalId": "national-research-journal",
-    "title": "Assessment Integrity in Online and Modular Classes",
-    "authors": [
-      "Adrian Paolo Lim"
-    ],
-    "articleType": "Methodological Review",
-    "abstract": "This methodological review examines assessment integrity in online and modular classes using literature and institutional documents published no later than 2021. It argues that assessment integrity is best protected through valid task design, transparent expectations, varied evidence, proportional verification, and supportive conditions rather than surveillance alone. Evidence was organized around four themes: validity and alignment, authentic task design, identity and unauthorized assistance, equity, privacy, and feedback. The synthesis shows that pandemic outcomes were rarely determined by a single factor; instead, they reflected interacting material, organizational, social, and informational conditions. The article proposes a layered response combining universal minimum provision, targeted support, continuous feedback, and locally adaptable implementation. Because this is a literature-based analysis rather than original field research, it does not report participants, newly collected data, or causal estimates. Its contribution lies in integrating early pandemic evidence into a practical framework for Philippine schools and communities, especially rural and resource-constrained settings.",
-    "keywords": [
-      "COVID-19",
-      "Philippines",
-      "rural communities",
-      "equity",
-      "policy",
-      "resilience"
-    ],
-    "volume": "2",
-    "issue": "2",
-    "issueLabel": "Issue No. 2",
-    "publicationDate": "2026-08-10",
-    "pages": "101–110",
-    "doi": "",
-    "pdfFile": "assets/uploads/journal-archive/national-research-journal/volume-2-issue-2-2021/adrian-paolo-lim-assessment-integrity.pdf",
-    "featured": false,
-    "active": true
-  },
-  {
-    "journalId": "national-research-journal",
-    "keywords": [
-      "COVID-19",
-      "Philippines",
-      "rural communities",
-      "equity",
-      "policy",
-      "resilience"
-    ],
-    "volume": "1",
-    "issue": "2",
-    "issueLabel": "Issue No. 2",
-    "publicationDate": "2026-08-10",
-    "doi": "",
-    "featured": false,
-    "active": true,
-    "id": "national-research-journal-volume-1-issue-2-nathaniel-p-garcia",
-    "title": "School Leadership and Crisis Management During the COVID-19 Outbreak",
-    "authors": [
-      "Nathaniel P. Garcia"
-    ],
-    "articleType": "Policy and Leadership Review",
-    "abstract": "This policy and leadership review examines school leadership and crisis management during the COVID-19 outbreak using literature and institutional documents published no later than 2021. It argues that effective crisis leadership is a cycle of sensemaking, transparent communication, distributed action, care, and adaptive learning. Evidence was organized around four themes: rapid sensemaking and planning, communication and trust, distributed leadership, and staff and learner well-being. The synthesis shows that pandemic outcomes were rarely determined by a single factor; instead, they reflected interacting material, organizational, social, and informational conditions. The article proposes a layered response combining universal minimum provision, targeted support, continuous feedback, and locally adaptable implementation. Because this is a literature-based analysis rather than original field research, it does not report participants, newly collected data, or causal estimates. Its contribution lies in integrating early pandemic evidence into a practical framework for Philippine schools and communities, especially rural and resource-constrained settings.",
-    "pages": "1–10",
-    "pdfFile": "assets/uploads/journal-archive/national-research-journal/volume-1-issue-2-2021/nathaniel-p-garcia-school-leadership-crisis-management.pdf"
-  },
-  {
-    "journalId": "national-research-journal",
-    "keywords": [
-      "COVID-19",
-      "Philippines",
-      "rural communities",
-      "equity",
-      "policy",
-      "resilience"
-    ],
-    "volume": "1",
-    "issue": "2",
-    "issueLabel": "Issue No. 2",
-    "publicationDate": "2026-08-10",
-    "doi": "",
-    "featured": false,
-    "active": true,
-    "id": "national-research-journal-volume-1-issue-2-patricia-mae-soriano",
-    "title": "Effects of Market Closures on Local Farmers and Vendors",
-    "authors": [
-      "Patricia Mae Soriano"
-    ],
-    "articleType": "Food-Systems Policy Review",
-    "abstract": "This food-systems policy review examines effects of market closures on local farmers and vendors using literature and institutional documents published no later than 2021. It argues that market closure is a disruption to perishable supply chains, farmgate prices, vendor incomes, and household food access. Evidence was organized around four themes: perishability and logistics, price and bargaining effects, vendor and farm livelihoods, and safe-market continuity and alternative channels. The synthesis shows that pandemic outcomes were rarely determined by a single factor; instead, they reflected interacting material, organizational, social, and informational conditions. The article proposes a layered response combining universal minimum provision, targeted support, continuous feedback, and locally adaptable implementation. Because this is a literature-based analysis rather than original field research, it does not report participants, newly collected data, or causal estimates. Its contribution lies in integrating early pandemic evidence into a practical framework for Philippine schools and communities, especially rural and resource-constrained settings.",
-    "pages": "11–20",
-    "pdfFile": "assets/uploads/journal-archive/national-research-journal/volume-1-issue-2-2021/patricia-mae-soriano-market-closures.pdf"
-  },
-  {
-    "journalId": "national-research-journal",
-    "keywords": [
-      "COVID-19",
-      "Philippines",
-      "rural communities",
-      "equity",
-      "policy",
-      "resilience"
-    ],
-    "volume": "1",
-    "issue": "2",
-    "issueLabel": "Issue No. 2",
-    "publicationDate": "2026-08-10",
-    "doi": "",
-    "featured": false,
-    "active": true,
-    "id": "national-research-journal-volume-1-issue-2-rafael-m-villanueva",
-    "title": "Challenges Encountered by Parents During Home-Based Learning",
-    "authors": [
-      "Rafael M. Villanueva"
-    ],
-    "articleType": "Integrative Literature Review",
-    "abstract": "This integrative literature review examines challenges encountered by parents during home-based learning using literature and institutional documents published no later than 2021. It argues that parental support is unpaid educational labor shaped by time, income, confidence, household space, and school communication. Evidence was organized around four themes: role strain and time poverty, instructional confidence, economic and technological barriers, and school-family communication. The synthesis shows that pandemic outcomes were rarely determined by a single factor; instead, they reflected interacting material, organizational, social, and informational conditions. The article proposes a layered response combining universal minimum provision, targeted support, continuous feedback, and locally adaptable implementation. Because this is a literature-based analysis rather than original field research, it does not report participants, newly collected data, or causal estimates. Its contribution lies in integrating early pandemic evidence into a practical framework for Philippine schools and communities, especially rural and resource-constrained settings.",
-    "pages": "21–30",
-    "pdfFile": "assets/uploads/journal-archive/national-research-journal/volume-1-issue-2-2021/rafael-m-villanueva-home-based-learning.pdf"
-  },
-  {
-    "journalId": "national-research-journal",
-    "keywords": [
-      "COVID-19",
-      "Philippines",
-      "rural communities",
-      "equity",
-      "policy",
-      "resilience"
-    ],
-    "volume": "1",
-    "issue": "2",
-    "issueLabel": "Issue No. 2",
-    "publicationDate": "2026-08-10",
-    "doi": "",
-    "featured": false,
-    "active": true,
-    "id": "national-research-journal-volume-1-issue-2-vincent-carlo-navarro",
-    "title": "Food Security Among Low-Income Households During Lockdowns",
-    "authors": [
-      "Vincent Carlo Navarro"
-    ],
-    "articleType": "Policy-Oriented Integrative Review",
-    "abstract": "This policy-oriented integrative review examines food security among low-income households during lockdowns using literature and institutional documents published no later than 2021. It argues that food insecurity during lockdown is an interaction among income loss, mobility restrictions, price pressures, and constrained safety nets. Evidence was organized around four themes: income and livelihood shocks, food access and affordability, nutrition and coping strategies, and social protection and local food systems. The synthesis shows that pandemic outcomes were rarely determined by a single factor; instead, they reflected interacting material, organizational, social, and informational conditions. The article proposes a layered response combining universal minimum provision, targeted support, continuous feedback, and locally adaptable implementation. Because this is a literature-based analysis rather than original field research, it does not report participants, newly collected data, or causal estimates. Its contribution lies in integrating early pandemic evidence into a practical framework for Philippine schools and communities, especially rural and resource-constrained settings.",
-    "pages": "31–40",
-    "pdfFile": "assets/uploads/journal-archive/national-research-journal/volume-1-issue-2-2021/vincent-carlo-navarro-food-security.pdf"
-  },
-  {
-    "journalId": "national-research-journal",
-    "keywords": [
-      "COVID-19",
-      "Philippines",
-      "rural communities",
-      "equity",
-      "policy",
-      "resilience"
-    ],
-    "volume": "1",
-    "issue": "2",
-    "issueLabel": "Issue No. 2",
-    "publicationDate": "2026-08-10",
-    "doi": "",
-    "featured": false,
-    "active": true,
-    "id": "national-research-journal-volume-1-issue-2-hannah-grace-aquino",
-    "title": "Experiences of Small Businesses During the Initial Community Quarantine",
-    "authors": [
-      "Hannah Grace Aquino"
-    ],
-    "articleType": "Integrative Business Review",
-    "abstract": "This integrative business review examines experiences of small businesses during the initial community quarantine using literature and institutional documents published no later than 2021. It argues that micro and small enterprise vulnerability is a function of thin cash reserves, disrupted demand and supply, mobility rules, and limited digital capacity. Evidence was organized around four themes: liquidity and demand shock, supply and mobility disruption, labor and owner well-being, and adaptation and public support. The synthesis shows that pandemic outcomes were rarely determined by a single factor; instead, they reflected interacting material, organizational, social, and informational conditions. The article proposes a layered response combining universal minimum provision, targeted support, continuous feedback, and locally adaptable implementation. Because this is a literature-based analysis rather than original field research, it does not report participants, newly collected data, or causal estimates. Its contribution lies in integrating early pandemic evidence into a practical framework for Philippine schools and communities, especially rural and resource-constrained settings.",
-    "pages": "41–50",
-    "pdfFile": "assets/uploads/journal-archive/national-research-journal/volume-1-issue-2-2021/hannah-grace-aquino-small-businesses.pdf"
-  },
-  {
-    "journalId": "national-research-journal",
-    "keywords": [
-      "COVID-19",
-      "Philippines",
-      "rural communities",
-      "equity",
-      "policy",
-      "resilience"
-    ],
-    "volume": "1",
-    "issue": "2",
-    "issueLabel": "Issue No. 2",
-    "publicationDate": "2026-08-10",
-    "doi": "",
-    "featured": false,
-    "active": true,
-    "id": "national-research-journal-volume-1-issue-2-jerome-s-santiago",
-    "title": "Community Compliance with COVID-19 Health and Safety Protocols",
-    "authors": [
-      "Jerome S. Santiago"
-    ],
-    "articleType": "Behavioral Policy Review",
-    "abstract": "This behavioral policy review examines community compliance with COVID-19 health and safety protocols using literature and institutional documents published no later than 2021. It argues that compliance is a social and institutional outcome influenced by risk perception, feasibility, trust, norms, and consistent enforcement. Evidence was organized around four themes: risk knowledge and perception, trust and message consistency, material feasibility, and social norms and proportionate enforcement. The synthesis shows that pandemic outcomes were rarely determined by a single factor; instead, they reflected interacting material, organizational, social, and informational conditions. The article proposes a layered response combining universal minimum provision, targeted support, continuous feedback, and locally adaptable implementation. Because this is a literature-based analysis rather than original field research, it does not report participants, newly collected data, or causal estimates. Its contribution lies in integrating early pandemic evidence into a practical framework for Philippine schools and communities, especially rural and resource-constrained settings.",
-    "pages": "51–60",
-    "pdfFile": "assets/uploads/journal-archive/national-research-journal/volume-1-issue-2-2021/jerome-s-santiago-community-compliance.pdf"
-  },
-  {
-    "journalId": "national-research-journal",
-    "keywords": [
-      "COVID-19",
-      "Philippines",
-      "rural communities",
-      "equity",
-      "policy",
-      "resilience"
-    ],
-    "volume": "1",
-    "issue": "2",
-    "issueLabel": "Issue No. 2",
-    "publicationDate": "2026-08-10",
-    "doi": "",
-    "featured": false,
-    "active": true,
-    "id": "national-research-journal-volume-1-issue-2-katrina-anne-flores",
-    "title": "Teachers’ Digital Competence During the Transition to Online Education",
-    "authors": [
-      "Katrina Anne Flores"
-    ],
-    "articleType": "Conceptual Integrative Review",
-    "abstract": "This conceptual integrative review examines teachers’ digital competence during the transition to online education using literature and institutional documents published no later than 2021. It argues that digital competence is the purposeful integration of technology, pedagogy, content, assessment, safety, and professional judgment. Evidence was organized around four themes: operational digital skills, digital pedagogy and content, assessment and learner engagement, and ethics, safety, and continuing development. The synthesis shows that pandemic outcomes were rarely determined by a single factor; instead, they reflected interacting material, organizational, social, and informational conditions. The article proposes a layered response combining universal minimum provision, targeted support, continuous feedback, and locally adaptable implementation. Because this is a literature-based analysis rather than original field research, it does not report participants, newly collected data, or causal estimates. Its contribution lies in integrating early pandemic evidence into a practical framework for Philippine schools and communities, especially rural and resource-constrained settings.",
-    "pages": "61–70",
-    "pdfFile": "assets/uploads/journal-archive/national-research-journal/volume-1-issue-2-2021/katrina-anne-flores-digital-competence.pdf"
-  },
-  {
-    "journalId": "national-research-journal",
-    "keywords": [
-      "COVID-19",
-      "Philippines",
-      "rural communities",
-      "equity",
-      "policy",
-      "resilience"
-    ],
-    "volume": "1",
-    "issue": "2",
-    "issueLabel": "Issue No. 2",
-    "publicationDate": "2026-08-10",
-    "doi": "",
-    "featured": false,
-    "active": true,
-    "id": "national-research-journal-volume-1-issue-2-maria-lourdes-castillo",
-    "title": "Psychological Effects of Community Quarantine on Teachers and Students",
-    "authors": [
-      "Maria Lourdes Castillo"
-    ],
-    "articleType": "Integrative Mental-Health Review",
-    "abstract": "This integrative mental-health review examines psychological effects of community quarantine on teachers and students using literature and institutional documents published no later than 2021. It argues that quarantine-related distress is the product of isolation, uncertainty, workload, disrupted routines, and unequal access to support. Evidence was organized around four themes: stress, anxiety, and uncertainty, isolation and disrupted routines, workload and role conflict, and protective relationships and referral systems. The synthesis shows that pandemic outcomes were rarely determined by a single factor; instead, they reflected interacting material, organizational, social, and informational conditions. The article proposes a layered response combining universal minimum provision, targeted support, continuous feedback, and locally adaptable implementation. Because this is a literature-based analysis rather than original field research, it does not report participants, newly collected data, or causal estimates. Its contribution lies in integrating early pandemic evidence into a practical framework for Philippine schools and communities, especially rural and resource-constrained settings.",
-    "pages": "71–80",
-    "pdfFile": "assets/uploads/journal-archive/national-research-journal/volume-1-issue-2-2021/maria-lourdes-castillo-psychological-effects.pdf"
-  },
-  {
-    "id": "national-research-journal-volume-1-issue-1-abigail-therese-mercado",
-    "journalId": "national-research-journal",
-    "title": "Disaster Preparedness and Public-Health Awareness in Rural Barangays",
-    "authors": [
-      "Abigail Therese Mercado"
-    ],
-    "articleType": "Policy and Conceptual Review",
-    "abstract": "This policy and conceptual review examines disaster preparedness and public-health awareness in rural barangays using literature and institutional documents published no later than 2021. It argues that local preparedness is an all-hazards capability linking risk knowledge, trusted communication, surveillance, logistics, and inclusive drills. Evidence was organized around four themes: risk mapping and local knowledge, public-health literacy, coordination and logistics, and inclusion, drills, and learning. The synthesis shows that pandemic outcomes were rarely determined by a single factor; instead, they reflected interacting material, organizational, social, and informational conditions. The article proposes a layered response combining universal minimum provision, targeted support, continuous feedback, and locally adaptable implementation. Because this is a literature-based analysis rather than original field research, it does not report participants, newly collected data, or causal estimates. Its contribution lies in integrating early pandemic evidence into a practical framework for Philippine schools and communities, especially rural and resource-constrained settings.",
-    "keywords": [
-      "COVID-19",
-      "Philippines",
-      "rural communities",
-      "equity",
-      "policy",
-      "resilience"
-    ],
-    "volume": "1",
     "issue": "1",
     "issueLabel": "Issue No. 1",
-    "publicationDate": "2026-08-10",
-    "pages": "1–10",
+    "publicationDate": "2026-08-11",
     "doi": "",
-    "pdfFile": "assets/uploads/journal-archive/national-research-journal/volume-1-issue-1-2021/abigail-therese-mercado-disaster-preparedness.pdf",
     "featured": false,
-    "active": true
-  },
-  {
-    "id": "national-research-journal-volume-1-issue-1-camille-denise-fernandez",
-    "journalId": "national-research-journal",
-    "title": "Indigenous and Local Practices for Maintaining Community Resilience",
+    "active": true,
+    "id": "national-research-journal-volume-2-issue-1-paolo-miguel-soriano",
+    "title": "Academic Performance and Learning Gaps During Distance Education",
     "authors": [
-      "Camille Denise Fernandez"
-    ],
-    "articleType": "Critical Integrative Review",
-    "abstract": "This critical integrative review examines indigenous and local practices for maintaining community resilience using literature and institutional documents published no later than 2021. It argues that community resilience is strengthened when local knowledge, mutual aid, customary institutions, and ecological practices are respected and connected to formal support. Evidence was organized around four themes: local knowledge and place-based risk reading, mutual aid and customary institutions, livelihood and ecological practices, and rights, participation, and knowledge co-production. The synthesis shows that pandemic outcomes were rarely determined by a single factor; instead, they reflected interacting material, organizational, social, and informational conditions. The article proposes a layered response combining universal minimum provision, targeted support, continuous feedback, and locally adaptable implementation. Because this is a literature-based analysis rather than original field research, it does not report participants, newly collected data, or causal estimates. Its contribution lies in integrating early pandemic evidence into a practical framework for Philippine schools and communities, especially rural and resource-constrained settings.",
-    "keywords": [
-      "COVID-19",
-      "Philippines",
-      "rural communities",
-      "equity",
-      "policy",
-      "resilience"
-    ],
-    "volume": "1",
-    "issue": "1",
-    "issueLabel": "Issue No. 1",
-    "publicationDate": "2026-08-10",
-    "pages": "11–21",
-    "doi": "",
-    "pdfFile": "assets/uploads/journal-archive/national-research-journal/volume-1-issue-1-2021/camille-denise-fernandez-community-resilience.pdf",
-    "featured": false,
-    "active": true
-  },
-  {
-    "id": "national-research-journal-volume-1-issue-1-christian-paul-reyes",
-    "journalId": "national-research-journal",
-    "title": "Alternative Marketing Strategies Used by Microenterprises During Lockdowns",
-    "authors": [
-      "Christian Paul Reyes"
-    ],
-    "articleType": "Conceptual Practice Review",
-    "abstract": "This conceptual practice review examines alternative marketing strategies used by microenterprises during lockdowns using literature and institutional documents published no later than 2021. It argues that resilient marketing is the rapid reconfiguration of channels, offers, fulfillment, payment, and customer communication. Evidence was organized around four themes: social commerce and messaging, delivery and pickup models, product and pricing adaptation, and trust, payment, and customer retention. The synthesis shows that pandemic outcomes were rarely determined by a single factor; instead, they reflected interacting material, organizational, social, and informational conditions. The article proposes a layered response combining universal minimum provision, targeted support, continuous feedback, and locally adaptable implementation. Because this is a literature-based analysis rather than original field research, it does not report participants, newly collected data, or causal estimates. Its contribution lies in integrating early pandemic evidence into a practical framework for Philippine schools and communities, especially rural and resource-constrained settings.",
-    "keywords": [
-      "COVID-19",
-      "Philippines",
-      "rural communities",
-      "equity",
-      "policy",
-      "resilience"
-    ],
-    "volume": "1",
-    "issue": "1",
-    "issueLabel": "Issue No. 1",
-    "publicationDate": "2026-08-10",
-    "pages": "22–31",
-    "doi": "",
-    "pdfFile": "assets/uploads/journal-archive/national-research-journal/volume-1-issue-1-2021/christian-paul-reyes-alternative-marketing-strategies.pdf",
-    "featured": false,
-    "active": true
-  },
-  {
-    "id": "national-research-journal-volume-1-issue-1-lorenzo-miguel-cruz",
-    "journalId": "national-research-journal",
-    "title": "Use of Social Media for Government and School Information Dissemination",
-    "authors": [
-      "Lorenzo Miguel Cruz"
-    ],
-    "articleType": "Communication Policy Review",
-    "abstract": "This communication policy review examines use of social media for government and school information dissemination using literature and institutional documents published no later than 2021. It argues that social media is a fast but incomplete public-information layer requiring verification, accessibility, redundancy, and feedback. Evidence was organized around four themes: speed and reach, credibility and misinformation, accessibility and the digital divide, and two-way communication and governance. The synthesis shows that pandemic outcomes were rarely determined by a single factor; instead, they reflected interacting material, organizational, social, and informational conditions. The article proposes a layered response combining universal minimum provision, targeted support, continuous feedback, and locally adaptable implementation. Because this is a literature-based analysis rather than original field research, it does not report participants, newly collected data, or causal estimates. Its contribution lies in integrating early pandemic evidence into a practical framework for Philippine schools and communities, especially rural and resource-constrained settings.",
-    "keywords": [
-      "COVID-19",
-      "Philippines",
-      "rural communities",
-      "equity",
-      "policy",
-      "resilience"
-    ],
-    "volume": "1",
-    "issue": "1",
-    "issueLabel": "Issue No. 1",
-    "publicationDate": "2026-08-10",
-    "pages": "32–41",
-    "doi": "",
-    "pdfFile": "assets/uploads/journal-archive/national-research-journal/volume-1-issue-1-2021/lorenzo-miguel-cruz-social-media-information-dissemination.pdf",
-    "featured": false,
-    "active": true
-  },
-  {
-    "id": "national-research-journal-volume-1-issue-1-andrea-mae-ramos",
-    "journalId": "national-research-journal",
-    "title": "Readiness of Public-School Teachers for Emergency Remote Teaching",
-    "authors": [
-      "Andrea Mae Ramos"
-    ],
-    "articleType": "Integrative Literature Review",
-    "abstract": "This integrative literature review examines readiness of public-school teachers for emergency remote teaching using literature and institutional documents published no later than 2021. It argues that teacher readiness is a multidimensional condition involving access, pedagogy, assessment, communication, and institutional support. Evidence was organized around four themes: digital access and infrastructure, pedagogical adaptation, assessment and feedback, and professional learning and organizational support. The synthesis shows that pandemic outcomes were rarely determined by a single factor; instead, they reflected interacting material, organizational, social, and informational conditions. The article proposes a layered response combining universal minimum provision, targeted support, continuous feedback, and locally adaptable implementation. Because this is a literature-based analysis rather than original field research, it does not report participants, newly collected data, or causal estimates. Its contribution lies in integrating early pandemic evidence into a practical framework for Philippine schools and communities, especially rural and resource-constrained settings.",
-    "keywords": [
-      "COVID-19",
-      "Philippines",
-      "rural communities",
-      "equity",
-      "policy",
-      "resilience"
-    ],
-    "volume": "1",
-    "issue": "1",
-    "issueLabel": "Issue No. 1",
-    "publicationDate": "2026-08-10",
-    "pages": "42–51",
-    "doi": "",
-    "pdfFile": "assets/uploads/journal-archive/national-research-journal/volume-1-issue-1-2021/andrea-mae-ramos-teacher-readiness.pdf",
-    "featured": false,
-    "active": true
-  },
-  {
-    "id": "national-research-journal-volume-1-issue-1-clarisse-joy-mendoza",
-    "journalId": "national-research-journal",
-    "title": "Students’ Access to Devices and Internet Connectivity in Rural Communities",
-    "authors": [
-      "Clarisse Joy Mendoza"
+      "Paolo Miguel Soriano"
     ],
     "articleType": "Scoping-Style Evidence Review",
-    "abstract": "This scoping-style evidence review examines students’ access to devices and internet connectivity in rural communities using literature and institutional documents published no later than 2021. It argues that rural connectivity is an educational equity issue requiring multichannel rather than online-only delivery. Evidence was organized around four themes: device availability and sharing, coverage, speed, and affordability, geographic and socioeconomic inequality, and inclusive multichannel delivery. The synthesis shows that pandemic outcomes were rarely determined by a single factor; instead, they reflected interacting material, organizational, social, and informational conditions. The article proposes a layered response combining universal minimum provision, targeted support, continuous feedback, and locally adaptable implementation. Because this is a literature-based analysis rather than original field research, it does not report participants, newly collected data, or causal estimates. Its contribution lies in integrating early pandemic evidence into a practical framework for Philippine schools and communities, especially rural and resource-constrained settings.",
-    "keywords": [
-      "COVID-19",
-      "Philippines",
-      "rural communities",
-      "equity",
-      "policy",
-      "resilience"
-    ],
-    "volume": "1",
-    "issue": "1",
-    "issueLabel": "Issue No. 1",
-    "publicationDate": "2026-08-10",
-    "pages": "52–61",
-    "doi": "",
-    "pdfFile": "assets/uploads/journal-archive/national-research-journal/volume-1-issue-1-2021/clarisse-joy-mendoza-device-internet-access.pdf",
-    "featured": false,
-    "active": true
+    "abstract": "This scoping-style evidence review examines academic performance and learning gaps during distance education using literature and institutional documents published no later than 2021. It argues that academic performance during distance education reflects unequal opportunities to learn, making learning gaps an interaction of prior achievement, access, instructional time, and support. Evidence was organized around four themes: measurement of performance, opportunity to learn, unequal learning loss, and diagnosis and recovery. The synthesis shows that pandemic outcomes were rarely determined by a single factor; instead, they reflected interacting material, organizational, social, and informational conditions. The article proposes a layered response combining universal minimum provision, targeted support, continuous feedback, and locally adaptable implementation. Because this is a literature-based analysis rather than original field research, it does not report participants, newly collected data, or causal estimates. Its contribution lies in integrating early pandemic evidence into a practical framework for Philippine schools and communities, especially rural and resource-constrained settings.",
+    "pages": "21–30",
+    "pdfFile": "assets/uploads/journal-archive/national-research-journal/volume-2-issue-1-2021/paolo-miguel-soriano-learning-gaps.pdf"
   },
   {
-    "id": "national-research-journal-volume-1-issue-1-emmanuel-d-bautista",
     "journalId": "national-research-journal",
-    "title": "Development and Validation of Printed Self-Learning Materials",
-    "authors": [
-      "Emmanuel D. Bautista"
-    ],
-    "articleType": "Methodological and Practice Review",
-    "abstract": "This methodological and practice review examines development and validation of printed self-learning materials using literature and institutional documents published no later than 2021. It argues that printed modules are designed instructional systems that require staged expert review, learner testing, revision, and accessibility checks. Evidence was organized around four themes: constructive alignment, content and language review, usability and learner testing, and revision, production, and monitoring. The synthesis shows that pandemic outcomes were rarely determined by a single factor; instead, they reflected interacting material, organizational, social, and informational conditions. The article proposes a layered response combining universal minimum provision, targeted support, continuous feedback, and locally adaptable implementation. Because this is a literature-based analysis rather than original field research, it does not report participants, newly collected data, or causal estimates. Its contribution lies in integrating early pandemic evidence into a practical framework for Philippine schools and communities, especially rural and resource-constrained settings.",
     "keywords": [
       "COVID-19",
       "Philippines",
@@ -691,15 +36,211 @@ window.SHIRLEY_JOURNAL_ARTICLES = [
       "policy",
       "resilience"
     ],
-    "volume": "1",
+    "volume": "2",
     "issue": "1",
     "issueLabel": "Issue No. 1",
-    "publicationDate": "2026-08-10",
-    "pages": "62–71",
+    "publicationDate": "2026-08-11",
     "doi": "",
-    "pdfFile": "assets/uploads/journal-archive/national-research-journal/volume-1-issue-1-2021/emmanuel-d-bautista-printed-self-learning-materials.pdf",
     "featured": false,
-    "active": true
+    "active": true,
+    "id": "national-research-journal-volume-2-issue-1-sofia-beatrice-santiago",
+    "title": "COVID-19 Vaccine Awareness and Acceptance in Local Communities",
+    "authors": [
+      "Sofia Beatrice Santiago"
+    ],
+    "articleType": "Risk-Communication and Policy Review",
+    "abstract": "This risk-communication and policy review examines COVID-19 vaccine awareness and acceptance in local communities using literature and institutional documents published no later than 2021. It argues that vaccine acceptance is influenced by confidence, perceived risk, convenience, social norms, trusted messengers, and transparent communication about benefits and uncertainty. Evidence was organized around four themes: knowledge and risk perception, confidence and misinformation, access and convenience, and trusted local engagement. The synthesis shows that pandemic outcomes were rarely determined by a single factor; instead, they reflected interacting material, organizational, social, and informational conditions. The article proposes a layered response combining universal minimum provision, targeted support, continuous feedback, and locally adaptable implementation. Because this is a literature-based analysis rather than original field research, it does not report participants, newly collected data, or causal estimates. Its contribution lies in integrating early pandemic evidence into a practical framework for Philippine schools and communities, especially rural and resource-constrained settings.",
+    "pages": "71–80",
+    "pdfFile": "assets/uploads/journal-archive/national-research-journal/volume-2-issue-1-2021/sofia-beatrice-santiago-vaccine-awareness.pdf"
+  },
+  {
+    "journalId": "national-research-journal",
+    "keywords": [
+      "COVID-19",
+      "Philippines",
+      "rural communities",
+      "equity",
+      "policy",
+      "resilience"
+    ],
+    "volume": "2",
+    "issue": "1",
+    "issueLabel": "Issue No. 1",
+    "publicationDate": "2026-08-11",
+    "doi": "",
+    "featured": false,
+    "active": true,
+    "id": "national-research-journal-volume-2-issue-1-noel-christian-aquino",
+    "title": "Digital Literacy of Teachers, Parents, and Learners",
+    "authors": [
+      "Noel Christian Aquino"
+    ],
+    "articleType": "Scoping-Style Digital-Literacy Review",
+    "abstract": "This scoping-style digital-literacy review examines digital literacy of teachers, parents, and learners using literature and institutional documents published no later than 2021. It argues that digital literacy is a relational capability involving access, operational skill, information judgment, safety, communication, content creation, and supported participation. Evidence was organized around four themes: access and operational skills, information and media literacy, online safety and privacy, and pedagogical and family support. The synthesis shows that pandemic outcomes were rarely determined by a single factor; instead, they reflected interacting material, organizational, social, and informational conditions. The article proposes a layered response combining universal minimum provision, targeted support, continuous feedback, and locally adaptable implementation. Because this is a literature-based analysis rather than original field research, it does not report participants, newly collected data, or causal estimates. Its contribution lies in integrating early pandemic evidence into a practical framework for Philippine schools and communities, especially rural and resource-constrained settings.",
+    "pages": "51–60",
+    "pdfFile": "assets/uploads/journal-archive/national-research-journal/volume-2-issue-1-2021/noel-christian-aquino-digital-literacy.pdf"
+  },
+  {
+    "journalId": "national-research-journal",
+    "keywords": [
+      "COVID-19",
+      "Philippines",
+      "rural communities",
+      "equity",
+      "policy",
+      "resilience"
+    ],
+    "volume": "2",
+    "issue": "1",
+    "issueLabel": "Issue No. 1",
+    "publicationDate": "2026-08-11",
+    "doi": "",
+    "featured": false,
+    "active": true,
+    "id": "national-research-journal-volume-2-issue-1-rochelle-mae-bautista",
+    "title": "Effectiveness of Barangay-Level Pandemic Response Programs",
+    "authors": [
+      "Rochelle Mae Bautista"
+    ],
+    "articleType": "Local-Governance Policy and Program Review",
+    "abstract": "This local-governance policy and program review examines effectiveness of barangay-level pandemic response programs using literature and institutional documents published no later than 2021. It argues that barangay-level response effectiveness depends on clear mandates, credible information, inclusive surveillance and assistance, logistical capacity, coordination, and accountable feedback. Evidence was organized around four themes: local coordination, risk communication, surveillance, referral, and assistance, and equity and accountability. The synthesis shows that pandemic outcomes were rarely determined by a single factor; instead, they reflected interacting material, organizational, social, and informational conditions. The article proposes a layered response combining universal minimum provision, targeted support, continuous feedback, and locally adaptable implementation. Because this is a literature-based analysis rather than original field research, it does not report participants, newly collected data, or causal estimates. Its contribution lies in integrating early pandemic evidence into a practical framework for Philippine schools and communities, especially rural and resource-constrained settings.",
+    "pages": "61–70",
+    "pdfFile": "assets/uploads/journal-archive/national-research-journal/volume-2-issue-1-2021/rochelle-mae-bautista-barangay-response.pdf"
+  },
+  {
+    "journalId": "national-research-journal",
+    "keywords": [
+      "COVID-19",
+      "Philippines",
+      "rural communities",
+      "equity",
+      "policy",
+      "resilience"
+    ],
+    "volume": "2",
+    "issue": "1",
+    "issueLabel": "Issue No. 1",
+    "publicationDate": "2026-08-11",
+    "doi": "",
+    "featured": false,
+    "active": true,
+    "id": "national-research-journal-volume-2-issue-1-marielle-anne-de-guzman",
+    "title": "Effectiveness of Modular Distance Learning Among Elementary Learners",
+    "authors": [
+      "Marielle Anne de Guzman"
+    ],
+    "articleType": "Integrative Effectiveness Review",
+    "abstract": "This integrative effectiveness review examines effectiveness of modular distance learning among elementary learners using literature and institutional documents published no later than 2021. It argues that the effectiveness of modular distance learning depends on instructional quality, feedback, adult support, learner independence, and equitable access rather than the distribution of printed packets alone. Evidence was organized around four themes: access and continuity, instructional design and clarity, feedback and adult support, and learning outcomes and equity. The synthesis shows that pandemic outcomes were rarely determined by a single factor; instead, they reflected interacting material, organizational, social, and informational conditions. The article proposes a layered response combining universal minimum provision, targeted support, continuous feedback, and locally adaptable implementation. Because this is a literature-based analysis rather than original field research, it does not report participants, newly collected data, or causal estimates. Its contribution lies in integrating early pandemic evidence into a practical framework for Philippine schools and communities, especially rural and resource-constrained settings.",
+    "pages": "11–20",
+    "pdfFile": "assets/uploads/journal-archive/national-research-journal/volume-2-issue-1-2021/marielle-anne-de-guzman-modular-distance-learning.pdf"
+  },
+  {
+    "journalId": "national-research-journal",
+    "keywords": [
+      "COVID-19",
+      "Philippines",
+      "rural communities",
+      "equity",
+      "policy",
+      "resilience"
+    ],
+    "volume": "2",
+    "issue": "1",
+    "issueLabel": "Issue No. 1",
+    "publicationDate": "2026-08-11",
+    "doi": "",
+    "featured": false,
+    "active": true,
+    "id": "national-research-journal-volume-2-issue-1-carlo-emmanuel-mercado",
+    "title": "Mathematics Achievement in a Modular Learning Environment",
+    "authors": [
+      "Carlo Emmanuel Mercado"
+    ],
+    "articleType": "Integrative Mathematics-Education Review",
+    "abstract": "This integrative mathematics-education review examines mathematics achievement in a modular learning environment using literature and institutional documents published no later than 2021. It argues that mathematics achievement in modular environments depends on conceptual explanations, worked examples, feedback, practice quality, language accessibility, and opportunities to address misconceptions. Evidence was organized around four themes: conceptual understanding, worked examples and practice, feedback and misconception repair, and access and family support. The synthesis shows that pandemic outcomes were rarely determined by a single factor; instead, they reflected interacting material, organizational, social, and informational conditions. The article proposes a layered response combining universal minimum provision, targeted support, continuous feedback, and locally adaptable implementation. Because this is a literature-based analysis rather than original field research, it does not report participants, newly collected data, or causal estimates. Its contribution lies in integrating early pandemic evidence into a practical framework for Philippine schools and communities, especially rural and resource-constrained settings.",
+    "pages": "81–90",
+    "pdfFile": "assets/uploads/journal-archive/national-research-journal/volume-2-issue-1-2021/carlo-emmanuel-mercado-mathematics-achievement.pdf"
+  },
+  {
+    "journalId": "national-research-journal",
+    "keywords": [
+      "COVID-19",
+      "Philippines",
+      "rural communities",
+      "equity",
+      "policy",
+      "resilience"
+    ],
+    "volume": "2",
+    "issue": "1",
+    "issueLabel": "Issue No. 1",
+    "publicationDate": "2026-08-11",
+    "doi": "",
+    "featured": false,
+    "active": true,
+    "id": "national-research-journal-volume-2-issue-1-renato-luis-domingo",
+    "title": "Parental Involvement in Modular and Online Learning",
+    "authors": [
+      "Renato Luis Domingo"
+    ],
+    "articleType": "Integrative Family-Engagement Review",
+    "abstract": "This integrative family-engagement review examines parental involvement in modular and online learning using literature and institutional documents published no later than 2021. It argues that parental involvement in remote learning is shaped by time, confidence, communication, resources, and role clarity and should not be treated as unlimited substitute teaching. Evidence was organized around four themes: home learning roles, time and economic constraints, instructional confidence, and school-family partnerships. The synthesis shows that pandemic outcomes were rarely determined by a single factor; instead, they reflected interacting material, organizational, social, and informational conditions. The article proposes a layered response combining universal minimum provision, targeted support, continuous feedback, and locally adaptable implementation. Because this is a literature-based analysis rather than original field research, it does not report participants, newly collected data, or causal estimates. Its contribution lies in integrating early pandemic evidence into a practical framework for Philippine schools and communities, especially rural and resource-constrained settings.",
+    "pages": "31–40",
+    "pdfFile": "assets/uploads/journal-archive/national-research-journal/volume-2-issue-1-2021/renato-luis-domingo-parental-involvement.pdf"
+  },
+  {
+    "journalId": "national-research-journal",
+    "keywords": [
+      "COVID-19",
+      "Philippines",
+      "rural communities",
+      "equity",
+      "policy",
+      "resilience"
+    ],
+    "volume": "2",
+    "issue": "1",
+    "issueLabel": "Issue No. 1",
+    "publicationDate": "2026-08-11",
+    "doi": "",
+    "featured": false,
+    "active": true,
+    "id": "national-research-journal-volume-2-issue-1-therese-nicole-agustin",
+    "title": "Reading Difficulties Among Learners During Prolonged School Closures",
+    "authors": [
+      "Therese Nicole Agustin"
+    ],
+    "articleType": "Scoping-Style Literacy Review",
+    "abstract": "This scoping-style literacy review examines reading difficulties among learners during prolonged school closures using literature and institutional documents published no later than 2021. It argues that prolonged school closures can deepen reading difficulties by reducing explicit instruction, guided practice, oral interaction, access to texts, and timely diagnosis. Evidence was organized around four themes: foundational reading disruption, comprehension and vocabulary, home literacy inequality, and screening and targeted support. The synthesis shows that pandemic outcomes were rarely determined by a single factor; instead, they reflected interacting material, organizational, social, and informational conditions. The article proposes a layered response combining universal minimum provision, targeted support, continuous feedback, and locally adaptable implementation. Because this is a literature-based analysis rather than original field research, it does not report participants, newly collected data, or causal estimates. Its contribution lies in integrating early pandemic evidence into a practical framework for Philippine schools and communities, especially rural and resource-constrained settings.",
+    "pages": "41–50",
+    "pdfFile": "assets/uploads/journal-archive/national-research-journal/volume-2-issue-1-2021/therese-nicole-agustin-reading-difficulties.pdf"
+  },
+  {
+    "journalId": "national-research-journal",
+    "keywords": [
+      "COVID-19",
+      "Philippines",
+      "rural communities",
+      "equity",
+      "policy",
+      "resilience"
+    ],
+    "volume": "2",
+    "issue": "1",
+    "issueLabel": "Issue No. 1",
+    "publicationDate": "2026-08-11",
+    "doi": "",
+    "featured": false,
+    "active": true,
+    "id": "national-research-journal-volume-2-issue-1-jasmine-claire-velasco",
+    "title": "Teachers’ Workload, Stress, and Coping Strategies Under the New Normal",
+    "authors": [
+      "Jasmine Claire Velasco"
+    ],
+    "articleType": "Integrative Occupational-Health Review",
+    "abstract": "This integrative occupational-health review examines teachers’ workload, stress, and coping strategies under the new normal using literature and institutional documents published no later than 2021. It argues that teacher stress under emergency education arose from intensified workload, role expansion, digital demands, and emotional labor, while sustainable coping required organizational as well as individual support. Evidence was organized around four themes: workload intensification, technostress and role conflict, emotional labor and well-being, and coping and organizational support. The synthesis shows that pandemic outcomes were rarely determined by a single factor; instead, they reflected interacting material, organizational, social, and informational conditions. The article proposes a layered response combining universal minimum provision, targeted support, continuous feedback, and locally adaptable implementation. Because this is a literature-based analysis rather than original field research, it does not report participants, newly collected data, or causal estimates. Its contribution lies in integrating early pandemic evidence into a practical framework for Philippine schools and communities, especially rural and resource-constrained settings.",
+    "pages": "1–10",
+    "pdfFile": "assets/uploads/journal-archive/national-research-journal/volume-2-issue-1-2021/jasmine-claire-velasco-teacher-workload-stress.pdf"
   },
   {
     "journalId": "national-research-journal",
@@ -756,6 +297,60 @@ window.SHIRLEY_JOURNAL_ARTICLES = [
     "id": "national-research-journal-volume-4-issue-2-5"
   },
   {
+    "id": "national-research-journal-volume-2-issue-2-alyssa-marie-manalo-cashless-payments-online-selling",
+    "journalId": "national-research-journal",
+    "title": "Adoption of Cashless Payments and Online Selling by Microbusinesses",
+    "authors": [
+      "Alyssa Marie Manalo"
+    ],
+    "articleType": "Conceptual Technology-Adoption Review",
+    "abstract": "This conceptual technology-adoption review examines adoption of cashless payments and online selling by microbusinesses using literature and institutional documents published no later than 2021. It argues that microbusiness adoption of digital commerce depends on perceived usefulness, ease of use, trust, transaction cost, connectivity, customer readiness, and platform capability. Evidence was organized around four themes: adoption incentives, skills and infrastructure, trust, fraud, and data protection, omnichannel business practice. The synthesis shows that pandemic outcomes were rarely determined by a single factor; instead, they reflected interacting material, organizational, social, and informational conditions. The article proposes a layered response combining universal minimum provision, targeted support, continuous feedback, and locally adaptable implementation. Because this is a literature-based analysis rather than original field research, it does not report participants, newly collected data, or causal estimates. Its contribution lies in integrating early pandemic evidence into a practical framework for Philippine schools and communities, especially rural and resource-constrained settings.",
+    "keywords": [
+      "COVID-19",
+      "Philippines",
+      "rural communities",
+      "equity",
+      "policy",
+      "resilience"
+    ],
+    "volume": "2",
+    "issue": "2",
+    "issueLabel": "Issue No. 2",
+    "publicationDate": "2026-08-10",
+    "pages": "1–10",
+    "doi": "",
+    "pdfFile": "assets/uploads/journal-archive/national-research-journal/volume-2-issue-2-2021/alyssa-marie-manalo-cashless-payments-online-selling.pdf",
+    "featured": false,
+    "active": true
+  },
+  {
+    "id": "national-research-journal-volume-2-issue-2-gabriel-enrico-pascual-agricultural-supply-chain-disruptions",
+    "journalId": "national-research-journal",
+    "title": "Agricultural Production and Supply-Chain Disruptions During the Pandemic",
+    "authors": [
+      "Gabriel Enrico Pascual"
+    ],
+    "articleType": "Food-Systems Policy Review",
+    "abstract": "This food-systems policy review examines agricultural production and supply-chain disruptions during the pandemic using literature and institutional documents published no later than 2021. It argues that pandemic agricultural disruption operated through labor, inputs, transport, market access, storage, and price transmission, requiring continuity policies across the chain. Evidence was organized around four themes: production inputs and labor, transport and logistics, markets, prices, and perishability, resilient local food systems. The synthesis shows that pandemic outcomes were rarely determined by a single factor; instead, they reflected interacting material, organizational, social, and informational conditions. The article proposes a layered response combining universal minimum provision, targeted support, continuous feedback, and locally adaptable implementation. Because this is a literature-based analysis rather than original field research, it does not report participants, newly collected data, or causal estimates. Its contribution lies in integrating early pandemic evidence into a practical framework for Philippine schools and communities, especially rural and resource-constrained settings.",
+    "keywords": [
+      "COVID-19",
+      "Philippines",
+      "rural communities",
+      "equity",
+      "policy",
+      "resilience"
+    ],
+    "volume": "2",
+    "issue": "2",
+    "issueLabel": "Issue No. 2",
+    "publicationDate": "2026-08-10",
+    "pages": "51–60",
+    "doi": "",
+    "pdfFile": "assets/uploads/journal-archive/national-research-journal/volume-2-issue-2-2021/gabriel-enrico-pascual-agricultural-supply-chain-disruptions.pdf",
+    "featured": false,
+    "active": true
+  },
+  {
     "id": "likhang-lahi-v1-i2-ahhuk-i-balit",
     "journalId": "likhang-lahi-a-philippine-journal-of-literature-and-culture-arts",
     "title": "Âhhuk I Balit",
@@ -774,6 +369,114 @@ window.SHIRLEY_JOURNAL_ARTICLES = [
     "keywords": [],
     "doi": "",
     "featured": false
+  },
+  {
+    "id": "national-research-journal-volume-1-issue-1-christian-paul-reyes",
+    "journalId": "national-research-journal",
+    "title": "Alternative Marketing Strategies Used by Microenterprises During Lockdowns",
+    "authors": [
+      "Christian Paul Reyes"
+    ],
+    "articleType": "Conceptual Practice Review",
+    "abstract": "This conceptual practice review examines alternative marketing strategies used by microenterprises during lockdowns using literature and institutional documents published no later than 2021. It argues that resilient marketing is the rapid reconfiguration of channels, offers, fulfillment, payment, and customer communication. Evidence was organized around four themes: social commerce and messaging, delivery and pickup models, product and pricing adaptation, and trust, payment, and customer retention. The synthesis shows that pandemic outcomes were rarely determined by a single factor; instead, they reflected interacting material, organizational, social, and informational conditions. The article proposes a layered response combining universal minimum provision, targeted support, continuous feedback, and locally adaptable implementation. Because this is a literature-based analysis rather than original field research, it does not report participants, newly collected data, or causal estimates. Its contribution lies in integrating early pandemic evidence into a practical framework for Philippine schools and communities, especially rural and resource-constrained settings.",
+    "keywords": [
+      "COVID-19",
+      "Philippines",
+      "rural communities",
+      "equity",
+      "policy",
+      "resilience"
+    ],
+    "volume": "1",
+    "issue": "1",
+    "issueLabel": "Issue No. 1",
+    "publicationDate": "2026-08-10",
+    "pages": "22–31",
+    "doi": "",
+    "pdfFile": "assets/uploads/journal-archive/national-research-journal/volume-1-issue-1-2021/christian-paul-reyes-alternative-marketing-strategies.pdf",
+    "featured": false,
+    "active": true
+  },
+  {
+    "journalId": "national-research-journal",
+    "title": "Appetizer Skills Beyond Recall: A Competency-Evidence Audit for Grade 9 Cookery",
+    "authors": [
+      "Rhomer Gonzales"
+    ],
+    "articleType": "Research Article",
+    "abstract": "This study examined whether a 20-page Grade 9 cookery workbook on appetizers provides evidence of the competencies it intends to develop. A structured document analysis mapped stated outcomes, lesson content, practice tasks, answer keys, and the culminating performance task against principles of constructive alignment, authentic assessment, and competency-based training. The workbook contains four lessons on kitchen tools and equipment, cleaning compounds, appetizer classification, and storage techniques. Its visual tool guides, short practice sets, localized appetizer prompt, and requirement to document work can support independent review. However, the assessed evidence is dominated by 77 selected-response, matching, identification, labeling, and word-reconstruction items, compared with one practical task. Several outcomes use performance verbs, yet most lesson checks verify recognition or recall. The culminating task is internally inconsistent: it asks learners to prepare appetizers but one target specifies a simple sandwich; its five stated percentage weights total 130%; the performance bands omit portions of the 0-100 range; and broad terms such as relevance and presentation are not anchored in directly observable product or process evidence. The activity also relies heavily on photographs, which cannot by themselves verify sanitation, sequencing, temperature control, knife technique, or independent performance. No field-test data, scorer agreement, learner outcomes, or validation records were supplied, so effectiveness cannot be inferred. The article proposes an evidence chain that links each competency to a task, observable performance conditions, product and process criteria, feedback, and reassessment. It also presents a three-stage assessment package consisting of a mise-en-place check, monitored production, and a short oral or written justification. The workbook offers a practical foundation, but publication and classroom adoption require re-aligned outcomes, authentic practice within every lesson, a defensible analytic rubric, model responses, accessibility improvements, and staged content and user validation.",
+    "keywords": [
+      "cookery education",
+      "competency-based assessment",
+      "authentic assessment",
+      "constructive alignment",
+      "appetizers",
+      "document analysis"
+    ],
+    "volume": "5",
+    "issue": "2",
+    "issueLabel": "July–December 2024",
+    "publicationDate": "2026-08-10",
+    "pages": "46–55",
+    "doi": "",
+    "pdfFile": "assets/uploads/journal-archive/national-research-journal/volume-3-issue-2/rhomer-gonzales-cookery-competency-assessment.pdf",
+    "featured": false,
+    "active": true,
+    "id": "national-research-journal-volume-3-issue-2-5"
+  },
+  {
+    "journalId": "national-research-journal",
+    "title": "Assessing Service as Integrated Practice: An Evidence-Centered Model for Food and Beverage Competence",
+    "authors": [
+      "Sally Vicente"
+    ],
+    "articleType": "Review Article",
+    "abstract": "Competency-based training in food and beverage service must determine whether a learner can integrate knowledge, technical skill, communication, timing, hygiene, and judgment in a live service sequence. Written self-checks and performance checklists are useful, but neither automatically produces a valid judgment of occupational competence. This conceptual-design article analyzes a 2023 competency-based learning module for Food and Beverage Services NC II as an instructional artifact. The module organizes preparation for dining-room service through information sheets, self-checks, task sheets, performance criteria, recognition of prior learning, and facilitator-supported practice. Building on that architecture, the article proposes an evidence-centered assessment system that connects competency outcomes to authentic service tasks, observable quality criteria, assessor prompts, feedback, and decisions about readiness. It distinguishes component practice from integrated performance and replaces single-snapshot judgment with a small portfolio of evidence collected across reservations, station preparation, table setup, and ambiance management. Two design tools are offered: an assessment blueprint aligning claims, tasks, evidence, and threats to validity; and an observation protocol that separates nonnegotiable safety or service conditions from dimensions that require professional judgment. The framework emphasizes repeated sampling, assessor calibration, learner self-evaluation, and recognition of prior learning supported by current evidence. It does not report trainees, scores, or intervention effects. Its contribution is a transparent and testable design for moving from checklist completion toward defensible judgments about workplace readiness.",
+    "keywords": [
+      "competency-based training",
+      "authentic assessment",
+      "food and beverage service",
+      "workplace competence",
+      "performance checklist",
+      "vocational education"
+    ],
+    "volume": "5",
+    "issue": "2",
+    "issueLabel": "July–December 2024",
+    "publicationDate": "2026-08-10",
+    "pages": "1–7",
+    "doi": "",
+    "pdfFile": "assets/uploads/journal-archive/national-research-journal/volume-3-issue-2/sally-vicente-authentic-assessment-food-beverage-service.pdf",
+    "featured": false,
+    "active": true,
+    "id": "national-research-journal-volume-3-issue-2-1"
+  },
+  {
+    "id": "national-research-journal-volume-2-issue-2-adrian-paolo-lim-assessment-integrity",
+    "journalId": "national-research-journal",
+    "title": "Assessment Integrity in Online and Modular Classes",
+    "authors": [
+      "Adrian Paolo Lim"
+    ],
+    "articleType": "Methodological Review",
+    "abstract": "This methodological review examines assessment integrity in online and modular classes using literature and institutional documents published no later than 2021. It argues that assessment integrity is best protected through valid task design, transparent expectations, varied evidence, proportional verification, and supportive conditions rather than surveillance alone. Evidence was organized around four themes: validity and alignment, authentic task design, identity and unauthorized assistance, equity, privacy, and feedback. The synthesis shows that pandemic outcomes were rarely determined by a single factor; instead, they reflected interacting material, organizational, social, and informational conditions. The article proposes a layered response combining universal minimum provision, targeted support, continuous feedback, and locally adaptable implementation. Because this is a literature-based analysis rather than original field research, it does not report participants, newly collected data, or causal estimates. Its contribution lies in integrating early pandemic evidence into a practical framework for Philippine schools and communities, especially rural and resource-constrained settings.",
+    "keywords": [
+      "COVID-19",
+      "Philippines",
+      "rural communities",
+      "equity",
+      "policy",
+      "resilience"
+    ],
+    "volume": "2",
+    "issue": "2",
+    "issueLabel": "Issue No. 2",
+    "publicationDate": "2026-08-10",
+    "pages": "101–110",
+    "doi": "",
+    "pdfFile": "assets/uploads/journal-archive/national-research-journal/volume-2-issue-2-2021/adrian-paolo-lim-assessment-integrity.pdf",
+    "featured": false,
+    "active": true
   },
   {
     "id": "likhang-lahi-v1-i2-atak-kuy-hinhinalung",
@@ -971,6 +674,114 @@ window.SHIRLEY_JOURNAL_ARTICLES = [
   },
   {
     "journalId": "national-research-journal",
+    "keywords": [
+      "COVID-19",
+      "Philippines",
+      "rural communities",
+      "equity",
+      "policy",
+      "resilience"
+    ],
+    "volume": "1",
+    "issue": "2",
+    "issueLabel": "Issue No. 2",
+    "publicationDate": "2026-08-10",
+    "doi": "",
+    "featured": false,
+    "active": true,
+    "id": "national-research-journal-volume-1-issue-2-rafael-m-villanueva",
+    "title": "Challenges Encountered by Parents During Home-Based Learning",
+    "authors": [
+      "Rafael M. Villanueva"
+    ],
+    "articleType": "Integrative Literature Review",
+    "abstract": "This integrative literature review examines challenges encountered by parents during home-based learning using literature and institutional documents published no later than 2021. It argues that parental support is unpaid educational labor shaped by time, income, confidence, household space, and school communication. Evidence was organized around four themes: role strain and time poverty, instructional confidence, economic and technological barriers, and school-family communication. The synthesis shows that pandemic outcomes were rarely determined by a single factor; instead, they reflected interacting material, organizational, social, and informational conditions. The article proposes a layered response combining universal minimum provision, targeted support, continuous feedback, and locally adaptable implementation. Because this is a literature-based analysis rather than original field research, it does not report participants, newly collected data, or causal estimates. Its contribution lies in integrating early pandemic evidence into a practical framework for Philippine schools and communities, especially rural and resource-constrained settings.",
+    "pages": "21–30",
+    "pdfFile": "assets/uploads/journal-archive/national-research-journal/volume-1-issue-2-2021/rafael-m-villanueva-home-based-learning.pdf"
+  },
+  {
+    "journalId": "national-research-journal",
+    "title": "Claim First, Method Second: A Six-Link Audit for Defensible Quantitative Education Research",
+    "authors": [
+      "Sherlene Cabradilla"
+    ],
+    "articleType": "Review Article",
+    "abstract": "Weak quantitative studies frequently originate before data collection, when research questions, variables, design, sampling, analysis, and conclusions are selected as separate tasks rather than as an aligned system. This conceptual article synthesizes a practical quantitative-research guide into an alignment framework for school-based inquiry. The framework begins with a claim target—description, association, prediction, group difference, or causation—and traces the evidence requirements of each target through variable specification, design choice, sampling, measurement, statistical analysis, and reporting. A claim-design matrix and a six-link alignment audit are proposed to prevent causal overreach, population overgeneralization, and statistical procedures that do not answer the stated question. The article clarifies that numerical data do not automatically guarantee objectivity, reliability, or generalizability; these qualities depend on design decisions and the quality of implementation. The framework is intended for planning, proposal review, and research instruction, while empirical evaluation is reserved for subsequent studies.",
+    "keywords": [
+      "quantitative research",
+      "educational inquiry",
+      "research design",
+      "causal inference",
+      "alignment",
+      "research questions"
+    ],
+    "volume": "6",
+    "issue": "1",
+    "issueLabel": "January–June 2025",
+    "publicationDate": "2026-08-10",
+    "pages": "28–31",
+    "doi": "",
+    "pdfFile": "assets/uploads/journal-archive/national-research-journal/volume-4-issue-1/sherlene-cabradilla-defensible-quantitative-designs.pdf",
+    "featured": false,
+    "active": true,
+    "id": "national-research-journal-volume-4-issue-1-5"
+  },
+  {
+    "journalId": "national-research-journal",
+    "keywords": [
+      "COVID-19",
+      "Philippines",
+      "rural communities",
+      "equity",
+      "policy",
+      "resilience"
+    ],
+    "volume": "1",
+    "issue": "2",
+    "issueLabel": "Issue No. 2",
+    "publicationDate": "2026-08-10",
+    "doi": "",
+    "featured": false,
+    "active": true,
+    "id": "national-research-journal-volume-1-issue-2-jerome-s-santiago",
+    "title": "Community Compliance with COVID-19 Health and Safety Protocols",
+    "authors": [
+      "Jerome S. Santiago"
+    ],
+    "articleType": "Behavioral Policy Review",
+    "abstract": "This behavioral policy review examines community compliance with COVID-19 health and safety protocols using literature and institutional documents published no later than 2021. It argues that compliance is a social and institutional outcome influenced by risk perception, feasibility, trust, norms, and consistent enforcement. Evidence was organized around four themes: risk knowledge and perception, trust and message consistency, material feasibility, and social norms and proportionate enforcement. The synthesis shows that pandemic outcomes were rarely determined by a single factor; instead, they reflected interacting material, organizational, social, and informational conditions. The article proposes a layered response combining universal minimum provision, targeted support, continuous feedback, and locally adaptable implementation. Because this is a literature-based analysis rather than original field research, it does not report participants, newly collected data, or causal estimates. Its contribution lies in integrating early pandemic evidence into a practical framework for Philippine schools and communities, especially rural and resource-constrained settings.",
+    "pages": "51–60",
+    "pdfFile": "assets/uploads/journal-archive/national-research-journal/volume-1-issue-2-2021/jerome-s-santiago-community-compliance.pdf"
+  },
+  {
+    "id": "national-research-journal-volume-2-issue-2-monica-isabel-reyes-community-livelihood-programs",
+    "journalId": "national-research-journal",
+    "title": "Community-Based Livelihood Programs for Families Affected by COVID-19",
+    "authors": [
+      "Monica Isabel Reyes"
+    ],
+    "articleType": "Program and Policy Review",
+    "abstract": "This program and policy review examines community-based livelihood programs for families affected by covid-19 using literature and institutional documents published no later than 2021. It argues that community livelihood programs are strongest when they match local demand, protect participants from excessive risk, combine assets with skills and market links, and monitor inclusion and durability. Evidence was organized around four themes: targeting and participation, skills, assets, and finance, market linkage and mentoring, inclusion, monitoring, and sustainability. The synthesis shows that pandemic outcomes were rarely determined by a single factor; instead, they reflected interacting material, organizational, social, and informational conditions. The article proposes a layered response combining universal minimum provision, targeted support, continuous feedback, and locally adaptable implementation. Because this is a literature-based analysis rather than original field research, it does not report participants, newly collected data, or causal estimates. Its contribution lies in integrating early pandemic evidence into a practical framework for Philippine schools and communities, especially rural and resource-constrained settings.",
+    "keywords": [
+      "COVID-19",
+      "Philippines",
+      "rural communities",
+      "equity",
+      "policy",
+      "resilience"
+    ],
+    "volume": "2",
+    "issue": "2",
+    "issueLabel": "Issue No. 2",
+    "publicationDate": "2026-08-10",
+    "pages": "91–100",
+    "doi": "",
+    "pdfFile": "assets/uploads/journal-archive/national-research-journal/volume-2-issue-2-2021/monica-isabel-reyes-community-livelihood-programs.pdf",
+    "featured": false,
+    "active": true
+  },
+  {
+    "journalId": "national-research-journal",
     "title": "Competence and Challenges Encountered by Research Enthusiasts in Infanta District: Basis for Research Capacity Building",
     "authors": [
       "Ramil Borreo"
@@ -1023,6 +834,33 @@ window.SHIRLEY_JOURNAL_ARTICLES = [
   },
   {
     "journalId": "national-research-journal",
+    "title": "Data to Decisions in School Agriculture: The RECORD Pathway for Animal and Fish Production",
+    "authors": [
+      "Arjellyn Maddawat"
+    ],
+    "articleType": "Review Article",
+    "abstract": "Keeping records is commonly presented in elementary agricultural education as the act of writing down dates, animal counts, feed use, growth, mortality, treatments, expenses, and sales. Although these entries are important, copying them into a form does not by itself constitute record literacy. Learners also need to understand why a field is recorded, how observations become comparable, how missing or inconsistent entries weaken interpretation, and how a record supports an accountable decision. This conceptual-pedagogical article analyzes Keeping Updated Records of Growth/Progress on Animal/Fish Raising as an instructional source and develops the Recognize-Establish-Capture-Organize-Review-Decide (RECORD) framework for Grade 6 Technology and Livelihood Education. The framework connects authentic animal and fish production contexts with data literacy, experiential learning, formative assessment, animal welfare, and basic enterprise reasoning. It distinguishes eight record domains: identification, growth and production, feeding, health and treatment, breeding, inventory and movement, mortality and loss, and finance. For each domain, the article specifies a decision purpose and a minimum set of fields. It further proposes a six-stage learning sequence in which pupils recognize the decision a record must inform, establish the animal or group being observed, capture dated and standardized observations, organize entries for retrieval, review patterns and exceptions, and decide on a justified next action. The framework treats paper records as legitimate learning technologies and reserves digital tools for situations in which they improve retrieval, calculation, or feedback. Assessment evidence therefore includes not only completeness but also identity consistency, measurement quality, traceable corrections, interpretation, and decision justification. The article contributes an instructional design method rather than empirical estimates of learner achievement. It offers teachers a disciplined way to transform a record-keeping module into inquiry that integrates agriculture, numeracy, literacy, ethics, and evidence-based decision-making without requiring a commercial farm or advanced software.",
+    "keywords": [
+      "agricultural education",
+      "animal and fish raising",
+      "record keeping",
+      "data literacy",
+      "experiential learning",
+      "Grade 6 TLE"
+    ],
+    "volume": "3",
+    "issue": "1",
+    "issueLabel": "January–June 2022",
+    "publicationDate": "2026-08-10",
+    "pages": "35–43",
+    "doi": "",
+    "pdfFile": "assets/uploads/journal-archive/national-research-journal/volume-1-issue-1/arjellyn-maddawat-farm-record-literacy.pdf",
+    "featured": false,
+    "active": true,
+    "id": "national-research-journal-volumes-1-4-15"
+  },
+  {
+    "journalId": "national-research-journal",
     "title": "Designing the Inclusive Dining Servicescape: A Framework for Ambiance, Accessibility, and Guest Comfort",
     "authors": [
       "Lilly Carillo"
@@ -1047,6 +885,87 @@ window.SHIRLEY_JOURNAL_ARTICLES = [
     "featured": false,
     "active": true,
     "id": "national-research-journal-volume-3-issue-2-6"
+  },
+  {
+    "id": "national-research-journal-volume-1-issue-1-emmanuel-d-bautista",
+    "journalId": "national-research-journal",
+    "title": "Development and Validation of Printed Self-Learning Materials",
+    "authors": [
+      "Emmanuel D. Bautista"
+    ],
+    "articleType": "Methodological and Practice Review",
+    "abstract": "This methodological and practice review examines development and validation of printed self-learning materials using literature and institutional documents published no later than 2021. It argues that printed modules are designed instructional systems that require staged expert review, learner testing, revision, and accessibility checks. Evidence was organized around four themes: constructive alignment, content and language review, usability and learner testing, and revision, production, and monitoring. The synthesis shows that pandemic outcomes were rarely determined by a single factor; instead, they reflected interacting material, organizational, social, and informational conditions. The article proposes a layered response combining universal minimum provision, targeted support, continuous feedback, and locally adaptable implementation. Because this is a literature-based analysis rather than original field research, it does not report participants, newly collected data, or causal estimates. Its contribution lies in integrating early pandemic evidence into a practical framework for Philippine schools and communities, especially rural and resource-constrained settings.",
+    "keywords": [
+      "COVID-19",
+      "Philippines",
+      "rural communities",
+      "equity",
+      "policy",
+      "resilience"
+    ],
+    "volume": "1",
+    "issue": "1",
+    "issueLabel": "Issue No. 1",
+    "publicationDate": "2026-08-10",
+    "pages": "62–71",
+    "doi": "",
+    "pdfFile": "assets/uploads/journal-archive/national-research-journal/volume-1-issue-1-2021/emmanuel-d-bautista-printed-self-learning-materials.pdf",
+    "featured": false,
+    "active": true
+  },
+  {
+    "journalId": "national-research-journal",
+    "title": "Diagnosing How Children Compare Numbers: An Evidence-Centered Grade 3 Learning Progression",
+    "authors": [
+      "Sunny Bando"
+    ],
+    "articleType": "Review Article",
+    "abstract": "Strategic intervention materials are most useful when instructional tasks and assessment evidence are aligned to a clear learning progression. This article conducts a design analysis of a Grade 3 mathematics intervention on comparing whole numbers up to 10,000. Rather than treating correct symbol selection as the sole outcome, the proposed progression distinguishes prerequisite place-value knowledge, comparison strategy, symbolic fluency, number-line interpretation, contextual transfer, and error correction. Assessment cards from the source are reorganized into an evidence-centered cycle of elicitation, interpretation, feedback, and enrichment. A diagnostic error taxonomy is presented for digit-count errors, misaligned-place errors, first-difference errors, symbol-reversal errors, equality errors, and contextual-reasoning errors. The article also identifies inconsistencies in the source that demonstrate why answer-key moderation and item validation are essential. The resulting framework supports formative use of intervention materials while making no unsupported claim about measured achievement effects.",
+    "keywords": [
+      "formative assessment",
+      "learning progression",
+      "place value",
+      "relational reasoning",
+      "diagnostic feedback",
+      "strategic intervention material"
+    ],
+    "volume": "6",
+    "issue": "1",
+    "issueLabel": "January–June 2025",
+    "publicationDate": "2026-08-10",
+    "pages": "20–23",
+    "doi": "",
+    "pdfFile": "assets/uploads/journal-archive/national-research-journal/volume-4-issue-1/sunny-bando-assessment-driven-number-comparison.pdf",
+    "featured": false,
+    "active": true,
+    "id": "national-research-journal-volume-4-issue-1-3"
+  },
+  {
+    "id": "national-research-journal-volume-1-issue-1-abigail-therese-mercado",
+    "journalId": "national-research-journal",
+    "title": "Disaster Preparedness and Public-Health Awareness in Rural Barangays",
+    "authors": [
+      "Abigail Therese Mercado"
+    ],
+    "articleType": "Policy and Conceptual Review",
+    "abstract": "This policy and conceptual review examines disaster preparedness and public-health awareness in rural barangays using literature and institutional documents published no later than 2021. It argues that local preparedness is an all-hazards capability linking risk knowledge, trusted communication, surveillance, logistics, and inclusive drills. Evidence was organized around four themes: risk mapping and local knowledge, public-health literacy, coordination and logistics, and inclusion, drills, and learning. The synthesis shows that pandemic outcomes were rarely determined by a single factor; instead, they reflected interacting material, organizational, social, and informational conditions. The article proposes a layered response combining universal minimum provision, targeted support, continuous feedback, and locally adaptable implementation. Because this is a literature-based analysis rather than original field research, it does not report participants, newly collected data, or causal estimates. Its contribution lies in integrating early pandemic evidence into a practical framework for Philippine schools and communities, especially rural and resource-constrained settings.",
+    "keywords": [
+      "COVID-19",
+      "Philippines",
+      "rural communities",
+      "equity",
+      "policy",
+      "resilience"
+    ],
+    "volume": "1",
+    "issue": "1",
+    "issueLabel": "Issue No. 1",
+    "publicationDate": "2026-08-10",
+    "pages": "1–10",
+    "doi": "",
+    "pdfFile": "assets/uploads/journal-archive/national-research-journal/volume-1-issue-1-2021/abigail-therese-mercado-disaster-preparedness.pdf",
+    "featured": false,
+    "active": true
   },
   {
     "id": "likhang-lahi-v1-i2-dudduli",
@@ -1094,6 +1013,60 @@ window.SHIRLEY_JOURNAL_ARTICLES = [
     "featured": false,
     "active": true,
     "id": "national-research-journal-volumes-1-4-2"
+  },
+  {
+    "id": "national-research-journal-volume-2-issue-2-frances-camille-robles-teacher-made-video-lessons",
+    "journalId": "national-research-journal",
+    "title": "Effectiveness of Teacher-Made Video Lessons and Digital Materials",
+    "authors": [
+      "Frances Camille Robles"
+    ],
+    "articleType": "Scoping-Style Technology Review",
+    "abstract": "This scoping-style technology review examines effectiveness of teacher-made video lessons and digital materials using literature and institutional documents published no later than 2021. It argues that teacher-made digital materials are most useful when concise, accessible, curriculum-aligned, cognitively manageable, and integrated with practice and feedback. Evidence was organized around four themes: multimedia design, curriculum alignment, accessibility and bandwidth, practice, interaction, and feedback. The synthesis shows that pandemic outcomes were rarely determined by a single factor; instead, they reflected interacting material, organizational, social, and informational conditions. The article proposes a layered response combining universal minimum provision, targeted support, continuous feedback, and locally adaptable implementation. Because this is a literature-based analysis rather than original field research, it does not report participants, newly collected data, or causal estimates. Its contribution lies in integrating early pandemic evidence into a practical framework for Philippine schools and communities, especially rural and resource-constrained settings.",
+    "keywords": [
+      "COVID-19",
+      "Philippines",
+      "rural communities",
+      "equity",
+      "policy",
+      "resilience"
+    ],
+    "volume": "2",
+    "issue": "2",
+    "issueLabel": "Issue No. 2",
+    "publicationDate": "2026-08-10",
+    "pages": "41–50",
+    "doi": "",
+    "pdfFile": "assets/uploads/journal-archive/national-research-journal/volume-2-issue-2-2021/frances-camille-robles-teacher-made-video-lessons.pdf",
+    "featured": false,
+    "active": true
+  },
+  {
+    "journalId": "national-research-journal",
+    "keywords": [
+      "COVID-19",
+      "Philippines",
+      "rural communities",
+      "equity",
+      "policy",
+      "resilience"
+    ],
+    "volume": "1",
+    "issue": "2",
+    "issueLabel": "Issue No. 2",
+    "publicationDate": "2026-08-10",
+    "doi": "",
+    "featured": false,
+    "active": true,
+    "id": "national-research-journal-volume-1-issue-2-patricia-mae-soriano",
+    "title": "Effects of Market Closures on Local Farmers and Vendors",
+    "authors": [
+      "Patricia Mae Soriano"
+    ],
+    "articleType": "Food-Systems Policy Review",
+    "abstract": "This food-systems policy review examines effects of market closures on local farmers and vendors using literature and institutional documents published no later than 2021. It argues that market closure is a disruption to perishable supply chains, farmgate prices, vendor incomes, and household food access. Evidence was organized around four themes: perishability and logistics, price and bargaining effects, vendor and farm livelihoods, and safe-market continuity and alternative channels. The synthesis shows that pandemic outcomes were rarely determined by a single factor; instead, they reflected interacting material, organizational, social, and informational conditions. The article proposes a layered response combining universal minimum provision, targeted support, continuous feedback, and locally adaptable implementation. Because this is a literature-based analysis rather than original field research, it does not report participants, newly collected data, or causal estimates. Its contribution lies in integrating early pandemic evidence into a practical framework for Philippine schools and communities, especially rural and resource-constrained settings.",
+    "pages": "11–20",
+    "pdfFile": "assets/uploads/journal-archive/national-research-journal/volume-1-issue-2-2021/patricia-mae-soriano-market-closures.pdf"
   },
   {
     "journalId": "national-research-journal",
@@ -1151,6 +1124,33 @@ window.SHIRLEY_JOURNAL_ARTICLES = [
   },
   {
     "journalId": "national-research-journal",
+    "keywords": [
+      "COVID-19",
+      "Philippines",
+      "rural communities",
+      "equity",
+      "policy",
+      "resilience"
+    ],
+    "volume": "1",
+    "issue": "2",
+    "issueLabel": "Issue No. 2",
+    "publicationDate": "2026-08-10",
+    "doi": "",
+    "featured": false,
+    "active": true,
+    "id": "national-research-journal-volume-1-issue-2-hannah-grace-aquino",
+    "title": "Experiences of Small Businesses During the Initial Community Quarantine",
+    "authors": [
+      "Hannah Grace Aquino"
+    ],
+    "articleType": "Integrative Business Review",
+    "abstract": "This integrative business review examines experiences of small businesses during the initial community quarantine using literature and institutional documents published no later than 2021. It argues that micro and small enterprise vulnerability is a function of thin cash reserves, disrupted demand and supply, mobility rules, and limited digital capacity. Evidence was organized around four themes: liquidity and demand shock, supply and mobility disruption, labor and owner well-being, and adaptation and public support. The synthesis shows that pandemic outcomes were rarely determined by a single factor; instead, they reflected interacting material, organizational, social, and informational conditions. The article proposes a layered response combining universal minimum provision, targeted support, continuous feedback, and locally adaptable implementation. Because this is a literature-based analysis rather than original field research, it does not report participants, newly collected data, or causal estimates. Its contribution lies in integrating early pandemic evidence into a practical framework for Philippine schools and communities, especially rural and resource-constrained settings.",
+    "pages": "41–50",
+    "pdfFile": "assets/uploads/journal-archive/national-research-journal/volume-1-issue-2-2021/hannah-grace-aquino-small-businesses.pdf"
+  },
+  {
+    "journalId": "national-research-journal",
     "title": "Fair Hiring as Organizational Legitimacy: Applicant Voice, Inclusive Access, and Accountable Technology",
     "authors": [
       "Claire Osias"
@@ -1177,301 +1177,58 @@ window.SHIRLEY_JOURNAL_ARTICLES = [
     "id": "national-research-journal-volume-3-issue-1-1"
   },
   {
+    "id": "national-research-journal-volume-2-issue-2-joshua-vincent-navarro-flexible-work-productivity",
     "journalId": "national-research-journal",
-    "title": "Assessing Service as Integrated Practice: An Evidence-Centered Model for Food and Beverage Competence",
+    "title": "Flexible Work Arrangements and Employee Productivity",
     "authors": [
-      "Sally Vicente"
+      "Joshua Vincent Navarro"
     ],
-    "articleType": "Review Article",
-    "abstract": "Competency-based training in food and beverage service must determine whether a learner can integrate knowledge, technical skill, communication, timing, hygiene, and judgment in a live service sequence. Written self-checks and performance checklists are useful, but neither automatically produces a valid judgment of occupational competence. This conceptual-design article analyzes a 2023 competency-based learning module for Food and Beverage Services NC II as an instructional artifact. The module organizes preparation for dining-room service through information sheets, self-checks, task sheets, performance criteria, recognition of prior learning, and facilitator-supported practice. Building on that architecture, the article proposes an evidence-centered assessment system that connects competency outcomes to authentic service tasks, observable quality criteria, assessor prompts, feedback, and decisions about readiness. It distinguishes component practice from integrated performance and replaces single-snapshot judgment with a small portfolio of evidence collected across reservations, station preparation, table setup, and ambiance management. Two design tools are offered: an assessment blueprint aligning claims, tasks, evidence, and threats to validity; and an observation protocol that separates nonnegotiable safety or service conditions from dimensions that require professional judgment. The framework emphasizes repeated sampling, assessor calibration, learner self-evaluation, and recognition of prior learning supported by current evidence. It does not report trainees, scores, or intervention effects. Its contribution is a transparent and testable design for moving from checklist completion toward defensible judgments about workplace readiness.",
+    "articleType": "Organizational Integrative Review",
+    "abstract": "This organizational integrative review examines flexible work arrangements and employee productivity using literature and institutional documents published no later than 2021. It argues that productivity under flexible work is contingent on job design, autonomy, communication, technology, caregiving conditions, managerial trust, and appropriate outcome measures. Evidence was organized around four themes: job suitability and autonomy, digital coordination, home conditions and well-being, performance management and trust. The synthesis shows that pandemic outcomes were rarely determined by a single factor; instead, they reflected interacting material, organizational, social, and informational conditions. The article proposes a layered response combining universal minimum provision, targeted support, continuous feedback, and locally adaptable implementation. Because this is a literature-based analysis rather than original field research, it does not report participants, newly collected data, or causal estimates. Its contribution lies in integrating early pandemic evidence into a practical framework for Philippine schools and communities, especially rural and resource-constrained settings.",
     "keywords": [
-      "competency-based training",
-      "authentic assessment",
-      "food and beverage service",
-      "workplace competence",
-      "performance checklist",
-      "vocational education"
+      "COVID-19",
+      "Philippines",
+      "rural communities",
+      "equity",
+      "policy",
+      "resilience"
     ],
-    "volume": "5",
+    "volume": "2",
     "issue": "2",
-    "issueLabel": "July–December 2024",
+    "issueLabel": "Issue No. 2",
     "publicationDate": "2026-08-10",
-    "pages": "1–7",
+    "pages": "71–80",
     "doi": "",
-    "pdfFile": "assets/uploads/journal-archive/national-research-journal/volume-3-issue-2/sally-vicente-authentic-assessment-food-beverage-service.pdf",
+    "pdfFile": "assets/uploads/journal-archive/national-research-journal/volume-2-issue-2-2021/joshua-vincent-navarro-flexible-work-productivity.pdf",
     "featured": false,
-    "active": true,
-    "id": "national-research-journal-volume-3-issue-2-1"
+    "active": true
   },
   {
     "journalId": "national-research-journal",
-    "title": "Screening Local Venture Ideas: A Five-Gate Model for Community Entrepreneurship",
-    "authors": [
-      "Marjorie Puguon"
-    ],
-    "articleType": "Review Article",
-    "abstract": "Community entrepreneurship is frequently taught as the search for a promising idea, yet a viable opportunity requires evidence of a customer problem, an implementable solution, a sustainable operating model, and acceptable social consequences. This conceptual article develops a structured opportunity-screening framework integrating community-needs inquiry, capability review, external analysis, resource fit, value-proposition testing, and small-scale validation. A five-gate screening matrix and field-interview protocol are proposed.",
     "keywords": [
-      "opportunity recognition",
-      "community entrepreneurship",
-      "SWOT analysis",
-      "value proposition",
-      "microenterprise",
-      "venture screening"
+      "COVID-19",
+      "Philippines",
+      "rural communities",
+      "equity",
+      "policy",
+      "resilience"
     ],
-    "volume": "6",
+    "volume": "1",
     "issue": "2",
-    "issueLabel": "July–December 2025",
+    "issueLabel": "Issue No. 2",
     "publicationDate": "2026-08-10",
-    "pages": "26–29",
     "doi": "",
-    "pdfFile": "assets/uploads/journal-archive/national-research-journal/volume-4-issue-2/marjorie-puguon-community-opportunity-screening.pdf",
     "featured": false,
     "active": true,
-    "id": "national-research-journal-volume-4-issue-2-4"
-  },
-  {
-    "journalId": "national-research-journal",
-    "title": "Navigating Workplace Grievances: A Procedural and Legal Readiness Audit for Philippine Labor Education",
+    "id": "national-research-journal-volume-1-issue-2-vincent-carlo-navarro",
+    "title": "Food Security Among Low-Income Households During Lockdowns",
     "authors": [
-      "Ervin Lumidao"
+      "Vincent Carlo Navarro"
     ],
-    "articleType": "Research Article",
-    "abstract": "This study evaluated how a Philippine labor relations textbook prepares learners to distinguish, process, and resolve workplace grievances. A structured qualitative document analysis examined the 104-page Labor Relations and Negotiation manuscript, with close coding of Chapter IV on grievances and Chapter VII on remedies. The audit considered conceptual precision, procedural completeness, jurisdictional routing, authentic practice, assessment evidence, legal currency, and publication readiness. The source differentiates dissatisfaction, complaint, and grievance; identifies economic, working-condition, supervisory, policy, and interpersonal triggers; proposes an eight-step managerial response; and introduces human-resources intervention, mediation, counseling, arbitration, and Katarungang Pambarangay. These features create an accessible prevention-to-resolution narrative and appropriately emphasize recognition, investigation, documentation, consistency, appeal, training, and root-cause review. However, the text does not consistently distinguish a grievance in the broad human-resources sense from the technical grievance machinery used for disputes over a collective bargaining agreement or company personnel policies. The sequence omits the shop steward or bargaining representative, contractual steps and time limits, automatic referral of unresolved technical grievances to voluntary arbitration, and the Single Entry Approach for labor and employment issues. Mediation and conciliation are treated as interchangeable without qualification; arbitration is described too generally; and the barangay pathway is presented without adequate jurisdictional limits or exceptions. Chapter IV ends with only three recall questions, while Chapter VII contains no applied case, form, process map, model settlement, or analytic rubric. The manuscript also requires correction of terminology, statutory references, grammar, and source documentation. No expert legal validation, learner-performance data, or classroom field test was supplied, so instructional effectiveness cannot be inferred. The article proposes a five-route decision model, evidence-centered learning tasks, and staged legal, editorial, accessibility, and user validation. The chapters provide a useful introductory foundation, but publication requires sharper legal distinctions, current institutional pathways, authentic case practice, and assessment criteria.",
-    "keywords": [
-      "employee grievance",
-      "grievance machinery",
-      "voluntary arbitration",
-      "alternative dispute resolution",
-      "labor relations education",
-      "document analysis"
-    ],
-    "volume": "4",
-    "issue": "1",
-    "issueLabel": "January–June 2023",
-    "publicationDate": "2026-08-10",
-    "pages": "20–31",
-    "doi": "",
-    "pdfFile": "assets/uploads/journal-archive/national-research-journal/volume-2-issue-1/ervin-lumidao-grievance-dispute-resolution.pdf",
-    "featured": false,
-    "active": true,
-    "id": "national-research-journal-volume-2-issue-1-3"
-  },
-  {
-    "journalId": "national-research-journal",
-    "title": "Data to Decisions in School Agriculture: The RECORD Pathway for Animal and Fish Production",
-    "authors": [
-      "Arjellyn Maddawat"
-    ],
-    "articleType": "Review Article",
-    "abstract": "Keeping records is commonly presented in elementary agricultural education as the act of writing down dates, animal counts, feed use, growth, mortality, treatments, expenses, and sales. Although these entries are important, copying them into a form does not by itself constitute record literacy. Learners also need to understand why a field is recorded, how observations become comparable, how missing or inconsistent entries weaken interpretation, and how a record supports an accountable decision. This conceptual-pedagogical article analyzes Keeping Updated Records of Growth/Progress on Animal/Fish Raising as an instructional source and develops the Recognize-Establish-Capture-Organize-Review-Decide (RECORD) framework for Grade 6 Technology and Livelihood Education. The framework connects authentic animal and fish production contexts with data literacy, experiential learning, formative assessment, animal welfare, and basic enterprise reasoning. It distinguishes eight record domains: identification, growth and production, feeding, health and treatment, breeding, inventory and movement, mortality and loss, and finance. For each domain, the article specifies a decision purpose and a minimum set of fields. It further proposes a six-stage learning sequence in which pupils recognize the decision a record must inform, establish the animal or group being observed, capture dated and standardized observations, organize entries for retrieval, review patterns and exceptions, and decide on a justified next action. The framework treats paper records as legitimate learning technologies and reserves digital tools for situations in which they improve retrieval, calculation, or feedback. Assessment evidence therefore includes not only completeness but also identity consistency, measurement quality, traceable corrections, interpretation, and decision justification. The article contributes an instructional design method rather than empirical estimates of learner achievement. It offers teachers a disciplined way to transform a record-keeping module into inquiry that integrates agriculture, numeracy, literacy, ethics, and evidence-based decision-making without requiring a commercial farm or advanced software.",
-    "keywords": [
-      "agricultural education",
-      "animal and fish raising",
-      "record keeping",
-      "data literacy",
-      "experiential learning",
-      "Grade 6 TLE"
-    ],
-    "volume": "3",
-    "issue": "1",
-    "issueLabel": "January–June 2022",
-    "publicationDate": "2026-08-10",
-    "pages": "35–43",
-    "doi": "",
-    "pdfFile": "assets/uploads/journal-archive/national-research-journal/volume-1-issue-1/arjellyn-maddawat-farm-record-literacy.pdf",
-    "featured": false,
-    "active": true,
-    "id": "national-research-journal-volumes-1-4-15"
-  },
-  {
-    "journalId": "national-research-journal",
-    "title": "Appetizer Skills Beyond Recall: A Competency-Evidence Audit for Grade 9 Cookery",
-    "authors": [
-      "Rhomer Gonzales"
-    ],
-    "articleType": "Research Article",
-    "abstract": "This study examined whether a 20-page Grade 9 cookery workbook on appetizers provides evidence of the competencies it intends to develop. A structured document analysis mapped stated outcomes, lesson content, practice tasks, answer keys, and the culminating performance task against principles of constructive alignment, authentic assessment, and competency-based training. The workbook contains four lessons on kitchen tools and equipment, cleaning compounds, appetizer classification, and storage techniques. Its visual tool guides, short practice sets, localized appetizer prompt, and requirement to document work can support independent review. However, the assessed evidence is dominated by 77 selected-response, matching, identification, labeling, and word-reconstruction items, compared with one practical task. Several outcomes use performance verbs, yet most lesson checks verify recognition or recall. The culminating task is internally inconsistent: it asks learners to prepare appetizers but one target specifies a simple sandwich; its five stated percentage weights total 130%; the performance bands omit portions of the 0-100 range; and broad terms such as relevance and presentation are not anchored in directly observable product or process evidence. The activity also relies heavily on photographs, which cannot by themselves verify sanitation, sequencing, temperature control, knife technique, or independent performance. No field-test data, scorer agreement, learner outcomes, or validation records were supplied, so effectiveness cannot be inferred. The article proposes an evidence chain that links each competency to a task, observable performance conditions, product and process criteria, feedback, and reassessment. It also presents a three-stage assessment package consisting of a mise-en-place check, monitored production, and a short oral or written justification. The workbook offers a practical foundation, but publication and classroom adoption require re-aligned outcomes, authentic practice within every lesson, a defensible analytic rubric, model responses, accessibility improvements, and staged content and user validation.",
-    "keywords": [
-      "cookery education",
-      "competency-based assessment",
-      "authentic assessment",
-      "constructive alignment",
-      "appetizers",
-      "document analysis"
-    ],
-    "volume": "5",
-    "issue": "2",
-    "issueLabel": "July–December 2024",
-    "publicationDate": "2026-08-10",
-    "pages": "46–55",
-    "doi": "",
-    "pdfFile": "assets/uploads/journal-archive/national-research-journal/volume-3-issue-2/rhomer-gonzales-cookery-competency-assessment.pdf",
-    "featured": false,
-    "active": true,
-    "id": "national-research-journal-volume-3-issue-2-5"
-  },
-  {
-    "journalId": "national-research-journal",
-    "title": "Institutions Behind the Presidency: The SCOPE Lens on Philippine Executive Power",
-    "authors": [
-      "Victoria Baguilat"
-    ],
-    "articleType": "Review Article",
-    "abstract": "Accounts of Philippine presidents often proceed as a succession of biographies, elections, and accomplishments. Such narratives are accessible but can obscure the institutional question that gives executive history its analytical value: what made an officeholder authoritative, what constrained that authority, and how did executive power reach and answer to society? This conceptual-historical article analyzes The Evolution of Philippine Politics and Governance as an instructional source and develops the Source-Constraints-Organization-Public Accountability-Executive Succession (SCOPE) framework. The framework compares executive authority across precolonial polities, Spanish and American colonial administration, the First Republic, the Commonwealth, the Japanese-sponsored Second Republic, the constitutional and authoritarian transformations associated with the 1973 order, the 1986 transition, and the 1987 constitutional republic. The analysis argues that Philippine executive development was neither a linear transfer from datu to president nor a simple progression toward democracy. It involved institutional layering: local leadership, imperial command, colonial bureaucracy, revolutionary sovereignty, electoral legitimacy, emergency authority, and constitutional checks accumulated, competed, and were repeatedly reorganized. SCOPE distinguishes five dimensions: the source of executive authority; legal and political constraints; organizational reach; mechanisms of public accountability; and rules governing succession, incapacity, and emergency. It also supplies a source-criticism protocol for teaching politically sensitive history. This protocol is necessary because repeated instructional claims may rest on disputed evidence, as demonstrated by the officially delisted Code of Kalantiaw narrative. The article contributes an analytical method rather than new archival findings or measured classroom outcomes. It enables students and researchers to compare institutions across regimes without reducing political history to praise or condemnation of individual leaders.",
-    "keywords": [
-      "Philippine presidency",
-      "executive power",
-      "constitutional history",
-      "political institutions",
-      "historical source criticism",
-      "political education"
-    ],
-    "volume": "3",
-    "issue": "1",
-    "issueLabel": "January–June 2022",
-    "publicationDate": "2026-08-10",
-    "pages": "1–9",
-    "doi": "",
-    "pdfFile": "assets/uploads/journal-archive/national-research-journal/volume-1-issue-1/victoria-baguilat-philippine-executive-power.pdf",
-    "featured": false,
-    "active": true,
-    "id": "national-research-journal-volumes-1-4-11"
-  },
-  {
-    "journalId": "national-research-journal",
-    "title": "Diagnosing How Children Compare Numbers: An Evidence-Centered Grade 3 Learning Progression",
-    "authors": [
-      "Sunny Bando"
-    ],
-    "articleType": "Review Article",
-    "abstract": "Strategic intervention materials are most useful when instructional tasks and assessment evidence are aligned to a clear learning progression. This article conducts a design analysis of a Grade 3 mathematics intervention on comparing whole numbers up to 10,000. Rather than treating correct symbol selection as the sole outcome, the proposed progression distinguishes prerequisite place-value knowledge, comparison strategy, symbolic fluency, number-line interpretation, contextual transfer, and error correction. Assessment cards from the source are reorganized into an evidence-centered cycle of elicitation, interpretation, feedback, and enrichment. A diagnostic error taxonomy is presented for digit-count errors, misaligned-place errors, first-difference errors, symbol-reversal errors, equality errors, and contextual-reasoning errors. The article also identifies inconsistencies in the source that demonstrate why answer-key moderation and item validation are essential. The resulting framework supports formative use of intervention materials while making no unsupported claim about measured achievement effects.",
-    "keywords": [
-      "formative assessment",
-      "learning progression",
-      "place value",
-      "relational reasoning",
-      "diagnostic feedback",
-      "strategic intervention material"
-    ],
-    "volume": "6",
-    "issue": "1",
-    "issueLabel": "January–June 2025",
-    "publicationDate": "2026-08-10",
-    "pages": "20–23",
-    "doi": "",
-    "pdfFile": "assets/uploads/journal-archive/national-research-journal/volume-4-issue-1/sunny-bando-assessment-driven-number-comparison.pdf",
-    "featured": false,
-    "active": true,
-    "id": "national-research-journal-volume-4-issue-1-3"
-  },
-  {
-    "journalId": "national-research-journal",
-    "title": "Claim First, Method Second: A Six-Link Audit for Defensible Quantitative Education Research",
-    "authors": [
-      "Sherlene Cabradilla"
-    ],
-    "articleType": "Review Article",
-    "abstract": "Weak quantitative studies frequently originate before data collection, when research questions, variables, design, sampling, analysis, and conclusions are selected as separate tasks rather than as an aligned system. This conceptual article synthesizes a practical quantitative-research guide into an alignment framework for school-based inquiry. The framework begins with a claim target—description, association, prediction, group difference, or causation—and traces the evidence requirements of each target through variable specification, design choice, sampling, measurement, statistical analysis, and reporting. A claim-design matrix and a six-link alignment audit are proposed to prevent causal overreach, population overgeneralization, and statistical procedures that do not answer the stated question. The article clarifies that numerical data do not automatically guarantee objectivity, reliability, or generalizability; these qualities depend on design decisions and the quality of implementation. The framework is intended for planning, proposal review, and research instruction, while empirical evaluation is reserved for subsequent studies.",
-    "keywords": [
-      "quantitative research",
-      "educational inquiry",
-      "research design",
-      "causal inference",
-      "alignment",
-      "research questions"
-    ],
-    "volume": "6",
-    "issue": "1",
-    "issueLabel": "January–June 2025",
-    "publicationDate": "2026-08-10",
-    "pages": "28–31",
-    "doi": "",
-    "pdfFile": "assets/uploads/journal-archive/national-research-journal/volume-4-issue-1/sherlene-cabradilla-defensible-quantitative-designs.pdf",
-    "featured": false,
-    "active": true,
-    "id": "national-research-journal-volume-4-issue-1-5"
-  },
-  {
-    "journalId": "national-research-journal",
-    "title": "Making Employee Voice Actionable: The SPEAK System for Psychological Safety and Organizational Learning",
-    "authors": [
-      "Rowel Binalgan"
-    ],
-    "articleType": "Review Article",
-    "abstract": "Organizations often possess more operational knowledge than their formal reports reveal. Employees notice weak procedures, emerging risks, customer frustrations, and possibilities for improvement, yet hierarchy and interpersonal risk can keep those observations unspoken. This conceptual review develops the SPEAK framework to explain how organizations can convert upward communication into a dependable learning process. Drawing on the uploaded Human Behavior in Organizations manuscript as a thematic foundation and integrating established research on psychological safety, employee voice, silence, inclusive leadership, and ethical leadership, the framework specifies five linked practices: Signal access and leader openness; Protect interpersonal safety; Enable promotive and prohibitive voice; Act on issues visibly; and Keep feedback and learning loops. The argument is that invitations to speak are insufficient when employees cannot predict how leaders will receive, evaluate, and respond to their input. A credible voice system therefore requires both a relational climate and an operating process. The article distinguishes psychological safety from comfort, voice from routine communication, and responsiveness from agreement. It also identifies ethical boundaries: anonymity cannot substitute for accountable leadership, confidentiality should be limited and explained, and harmful or unlawful conduct requires protected escalation beyond ordinary team dialogue. The SPEAK framework offers managers a practical architecture for meetings, reporting channels, decision records, and follow-through while providing researchers with propositions that can be tested across hierarchical, professional, and hybrid work settings.",
-    "keywords": [
-      "employee voice",
-      "psychological safety",
-      "organizational silence",
-      "upward communication",
-      "ethical leadership",
-      "learning systems"
-    ],
-    "volume": "5",
-    "issue": "1",
-    "issueLabel": "January–June 2024",
-    "publicationDate": "2026-08-10",
-    "pages": "36–47",
-    "doi": "",
-    "pdfFile": "assets/uploads/journal-archive/national-research-journal/volume-3-issue-1/rowel-binalgan-employee-voice.pdf",
-    "featured": false,
-    "active": true,
-    "id": "national-research-journal-volume-3-issue-1-5"
-  },
-  {
-    "journalId": "national-research-journal",
-    "title": "Strategy Under Constraint: The DAEL Cycle for Learning-Oriented Execution",
-    "authors": [
-      "Jesigen Lunag"
-    ],
-    "articleType": "Review Article",
-    "abstract": "Organizations frequently possess strategic plans but lack a reliable mechanism for converting analysis into coordinated action and corrective learning. The difficulty is especially pronounced in resource-constrained organizations, where a small leadership group, limited information systems, and competing operational demands can separate planning from execution. This conceptual article develops the Diagnose-Align-Execute-Learn (DAEL) framework by integrating established ideas from industry analysis, the resource-based view, mission and objective alignment, strategy implementation, the balanced scorecard, strategic control, and contingency planning. The source instructional manuscript, Fundamentals of Strategic Management: An Introductory Course, supplied the initial process architecture; canonical strategy literature was used to refine its theoretical logic. DAEL treats strategy as a closed management cycle rather than a periodic planning document. Diagnosis tests external conditions and internal capabilities. Alignment converts strategic intent into a limited portfolio of objectives and resource commitments. Execution assigns ownership, milestones, decision rights, and operating routines. Learning compares results with assumptions, activates corrective or contingent action, and renews the next diagnosis. Two design features distinguish the framework: explicit handoff gates between stages and a traceability chain linking every initiative to an objective, indicator, owner, and review decision. The article explains the framework, identifies predictable breakdowns, and proposes a minimum viable governance system suitable for small firms, cooperatives, educational institutions, local public organizations, and nonprofits. DAEL is offered as a testable conceptual model, not as evidence of performance effects.",
-    "keywords": [
-      "strategic management",
-      "strategy implementation",
-      "adaptive execution",
-      "balanced scorecard",
-      "resource-based view",
-      "organizational learning"
-    ],
-    "volume": "3",
-    "issue": "1",
-    "issueLabel": "January–June 2022",
-    "publicationDate": "2026-08-10",
-    "pages": "28–34",
-    "doi": "",
-    "pdfFile": "assets/uploads/journal-archive/national-research-journal/volume-1-issue-1/jesigen-lunag-adaptive-strategy-execution.pdf",
-    "featured": false,
-    "active": true,
-    "id": "national-research-journal-volumes-1-4-14"
-  },
-  {
-    "journalId": "national-research-journal",
-    "title": "Rooted in Place, Built Through Practice: The FARM Learning Cycle for Crop Production",
-    "authors": [
-      "Lanzer Aquino"
-    ],
-    "articleType": "Review Article",
-    "abstract": "Agricultural crops production is learned most meaningfully when students connect technical knowledge with soil, tools, plants, markets, and community practice. A workbook can support this connection, but a sequence of activities does not automatically produce coherent experiential learning. This conceptual article analyzes Agricultural Crops Production: Student Workbook for Grades 10 and 11 as an instructional source and develops the Frame-Act-Record-Make Meaning (FARM) cycle for place-based agricultural education. The source workbook contains 21 activities involving garden-site analysis, mapping, hand tools, container gardening, indirect planting, soil, personal protective equipment, the Philippine agricultural economy, farmers, marketing, insects, community entrepreneurs, crop maturity, planting distance, harvesting, farm-production surveys, economic analysis, and insecticide-label inquiry. These tasks are reorganized into four instructional domains: agroecological observation; safe crop-production practice; agricultural enterprise and community knowledge; and evidence-based production inquiry. FARM supplies the missing process that links them. Students frame a local problem and criteria for success, act through supervised performance or community investigation, record observable evidence, and make meaning through analysis, feedback, recommendation, and transfer. The article proposes a task-to-evidence assessment chain, safety and ethics gates for fieldwork, and a minimum implementation architecture for schools with different levels of land, equipment, and community access. Its contribution is a design framework, not a claim of measured learning effects. The framework positions the workbook as a bridge among competency standards, school-garden practice, community knowledge, and reflective judgment while preserving teacher responsibility for localization, safety, consent, and assessment quality.",
-    "keywords": [
-      "agricultural education",
-      "place-based learning",
-      "experiential learning",
-      "authentic assessment",
-      "school garden",
-      "competency-based education"
-    ],
-    "volume": "3",
-    "issue": "1",
-    "issueLabel": "January–June 2022",
-    "publicationDate": "2026-08-10",
-    "pages": "10–18",
-    "doi": "",
-    "pdfFile": "assets/uploads/journal-archive/national-research-journal/volume-1-issue-1/lanzer-aquino-place-based-agricultural-learning.pdf",
-    "featured": false,
-    "active": true,
-    "id": "national-research-journal-volumes-1-4-12"
+    "articleType": "Policy-Oriented Integrative Review",
+    "abstract": "This policy-oriented integrative review examines food security among low-income households during lockdowns using literature and institutional documents published no later than 2021. It argues that food insecurity during lockdown is an interaction among income loss, mobility restrictions, price pressures, and constrained safety nets. Evidence was organized around four themes: income and livelihood shocks, food access and affordability, nutrition and coping strategies, and social protection and local food systems. The synthesis shows that pandemic outcomes were rarely determined by a single factor; instead, they reflected interacting material, organizational, social, and informational conditions. The article proposes a layered response combining universal minimum provision, targeted support, continuous feedback, and locally adaptable implementation. Because this is a literature-based analysis rather than original field research, it does not report participants, newly collected data, or causal estimates. Its contribution lies in integrating early pandemic evidence into a practical framework for Philippine schools and communities, especially rural and resource-constrained settings.",
+    "pages": "31–40",
+    "pdfFile": "assets/uploads/journal-archive/national-research-journal/volume-1-issue-2-2021/vincent-carlo-navarro-food-security.pdf"
   },
   {
     "journalId": "national-research-journal",
@@ -1499,33 +1256,6 @@ window.SHIRLEY_JOURNAL_ARTICLES = [
     "featured": false,
     "active": true,
     "id": "national-research-journal-volumes-1-4-16"
-  },
-  {
-    "journalId": "national-research-journal",
-    "title": "Verifying Python Algorithms: A Three-Layer Model of Contracts, Tests, and Complexity Evidence",
-    "authors": [
-      "Helen Jacinto"
-    ],
-    "articleType": "Review Article",
-    "abstract": "A runnable implementation is not yet a trustworthy algorithm. Trust requires explicit claims about behavior, evidence that challenges those claims, and performance measurements whose design supports the conclusion drawn from them. This conceptual-methodological article uses A Practical Python Approach to Data Structures and Algorithms as a curricular foundation for a verification-oriented approach to Python implementations of arrays, linked lists, stacks, queues, sorting routines, and trees. The source is examined as an instructional artifact; no learner data or benchmark results are inferred. The proposed framework joins three forms of evidence: correctness contracts, systematic tests, and empirical complexity checks. Contracts state preconditions, postconditions, and representation rules. Example-based tests target boundaries and failure modes, while property-based and metamorphic relations provide reusable oracles when exact expected outputs are costly to enumerate. Complexity claims are examined through input families, scale, repeated measurements, environment control, and plots interpreted alongside asymptotic analysis. Two practical tools are presented: a test-oracle matrix for core DSA components and a protocol for producing defensible timing evidence. The article distinguishes functional correctness from structural validity, deterministic results from measurement variability, and observed growth from proof of asymptotic complexity. It argues that students and practitioners should be taught to report what was claimed, how it was challenged, what remains uncertain, and which evidence would change the conclusion. The framework is intended for laboratory instruction, code review, and future empirical study; it makes no unsupported claim that a particular implementation or teaching intervention is effective.",
-    "keywords": [
-      "algorithm testing",
-      "property-based testing",
-      "metamorphic testing",
-      "empirical complexity",
-      "Python",
-      "reproducible benchmarking"
-    ],
-    "volume": "5",
-    "issue": "1",
-    "issueLabel": "January–June 2024",
-    "publicationDate": "2026-08-10",
-    "pages": "17–23",
-    "doi": "",
-    "pdfFile": "assets/uploads/journal-archive/national-research-journal/volume-3-issue-1/helen-jacinto-trustworthy-algorithms-python.pdf",
-    "featured": false,
-    "active": true,
-    "id": "national-research-journal-volume-3-issue-1-3"
   },
   {
     "id": "likhang-lahi-v1-i2-gagawang-gagahukli",
@@ -1568,6 +1298,33 @@ window.SHIRLEY_JOURNAL_ARTICLES = [
     "featured": false
   },
   {
+    "id": "national-research-journal-volume-1-issue-1-camille-denise-fernandez",
+    "journalId": "national-research-journal",
+    "title": "Indigenous and Local Practices for Maintaining Community Resilience",
+    "authors": [
+      "Camille Denise Fernandez"
+    ],
+    "articleType": "Critical Integrative Review",
+    "abstract": "This critical integrative review examines indigenous and local practices for maintaining community resilience using literature and institutional documents published no later than 2021. It argues that community resilience is strengthened when local knowledge, mutual aid, customary institutions, and ecological practices are respected and connected to formal support. Evidence was organized around four themes: local knowledge and place-based risk reading, mutual aid and customary institutions, livelihood and ecological practices, and rights, participation, and knowledge co-production. The synthesis shows that pandemic outcomes were rarely determined by a single factor; instead, they reflected interacting material, organizational, social, and informational conditions. The article proposes a layered response combining universal minimum provision, targeted support, continuous feedback, and locally adaptable implementation. Because this is a literature-based analysis rather than original field research, it does not report participants, newly collected data, or causal estimates. Its contribution lies in integrating early pandemic evidence into a practical framework for Philippine schools and communities, especially rural and resource-constrained settings.",
+    "keywords": [
+      "COVID-19",
+      "Philippines",
+      "rural communities",
+      "equity",
+      "policy",
+      "resilience"
+    ],
+    "volume": "1",
+    "issue": "1",
+    "issueLabel": "Issue No. 1",
+    "publicationDate": "2026-08-10",
+    "pages": "11–21",
+    "doi": "",
+    "pdfFile": "assets/uploads/journal-archive/national-research-journal/volume-1-issue-1-2021/camille-denise-fernandez-community-resilience.pdf",
+    "featured": false,
+    "active": true
+  },
+  {
     "id": "likhang-lahi-v1-i2-indungdung",
     "journalId": "likhang-lahi-a-philippine-journal-of-literature-and-culture-arts",
     "title": "Indungdung",
@@ -1586,6 +1343,33 @@ window.SHIRLEY_JOURNAL_ARTICLES = [
     "keywords": [],
     "doi": "",
     "featured": false
+  },
+  {
+    "journalId": "national-research-journal",
+    "title": "Institutions Behind the Presidency: The SCOPE Lens on Philippine Executive Power",
+    "authors": [
+      "Victoria Baguilat"
+    ],
+    "articleType": "Review Article",
+    "abstract": "Accounts of Philippine presidents often proceed as a succession of biographies, elections, and accomplishments. Such narratives are accessible but can obscure the institutional question that gives executive history its analytical value: what made an officeholder authoritative, what constrained that authority, and how did executive power reach and answer to society? This conceptual-historical article analyzes The Evolution of Philippine Politics and Governance as an instructional source and develops the Source-Constraints-Organization-Public Accountability-Executive Succession (SCOPE) framework. The framework compares executive authority across precolonial polities, Spanish and American colonial administration, the First Republic, the Commonwealth, the Japanese-sponsored Second Republic, the constitutional and authoritarian transformations associated with the 1973 order, the 1986 transition, and the 1987 constitutional republic. The analysis argues that Philippine executive development was neither a linear transfer from datu to president nor a simple progression toward democracy. It involved institutional layering: local leadership, imperial command, colonial bureaucracy, revolutionary sovereignty, electoral legitimacy, emergency authority, and constitutional checks accumulated, competed, and were repeatedly reorganized. SCOPE distinguishes five dimensions: the source of executive authority; legal and political constraints; organizational reach; mechanisms of public accountability; and rules governing succession, incapacity, and emergency. It also supplies a source-criticism protocol for teaching politically sensitive history. This protocol is necessary because repeated instructional claims may rest on disputed evidence, as demonstrated by the officially delisted Code of Kalantiaw narrative. The article contributes an analytical method rather than new archival findings or measured classroom outcomes. It enables students and researchers to compare institutions across regimes without reducing political history to praise or condemnation of individual leaders.",
+    "keywords": [
+      "Philippine presidency",
+      "executive power",
+      "constitutional history",
+      "political institutions",
+      "historical source criticism",
+      "political education"
+    ],
+    "volume": "3",
+    "issue": "1",
+    "issueLabel": "January–June 2022",
+    "publicationDate": "2026-08-10",
+    "pages": "1–9",
+    "doi": "",
+    "pdfFile": "assets/uploads/journal-archive/national-research-journal/volume-1-issue-1/victoria-baguilat-philippine-executive-power.pdf",
+    "featured": false,
+    "active": true,
+    "id": "national-research-journal-volumes-1-4-11"
   },
   {
     "id": "likhang-lahi-v1-i2-kamkamti-liyaliya",
@@ -1996,6 +1780,33 @@ window.SHIRLEY_JOURNAL_ARTICLES = [
     "id": "national-research-journal-volume-3-issue-2-3"
   },
   {
+    "journalId": "national-research-journal",
+    "title": "Making Employee Voice Actionable: The SPEAK System for Psychological Safety and Organizational Learning",
+    "authors": [
+      "Rowel Binalgan"
+    ],
+    "articleType": "Review Article",
+    "abstract": "Organizations often possess more operational knowledge than their formal reports reveal. Employees notice weak procedures, emerging risks, customer frustrations, and possibilities for improvement, yet hierarchy and interpersonal risk can keep those observations unspoken. This conceptual review develops the SPEAK framework to explain how organizations can convert upward communication into a dependable learning process. Drawing on the uploaded Human Behavior in Organizations manuscript as a thematic foundation and integrating established research on psychological safety, employee voice, silence, inclusive leadership, and ethical leadership, the framework specifies five linked practices: Signal access and leader openness; Protect interpersonal safety; Enable promotive and prohibitive voice; Act on issues visibly; and Keep feedback and learning loops. The argument is that invitations to speak are insufficient when employees cannot predict how leaders will receive, evaluate, and respond to their input. A credible voice system therefore requires both a relational climate and an operating process. The article distinguishes psychological safety from comfort, voice from routine communication, and responsiveness from agreement. It also identifies ethical boundaries: anonymity cannot substitute for accountable leadership, confidentiality should be limited and explained, and harmful or unlawful conduct requires protected escalation beyond ordinary team dialogue. The SPEAK framework offers managers a practical architecture for meetings, reporting channels, decision records, and follow-through while providing researchers with propositions that can be tested across hierarchical, professional, and hybrid work settings.",
+    "keywords": [
+      "employee voice",
+      "psychological safety",
+      "organizational silence",
+      "upward communication",
+      "ethical leadership",
+      "learning systems"
+    ],
+    "volume": "5",
+    "issue": "1",
+    "issueLabel": "January–June 2024",
+    "publicationDate": "2026-08-10",
+    "pages": "36–47",
+    "doi": "",
+    "pdfFile": "assets/uploads/journal-archive/national-research-journal/volume-3-issue-1/rowel-binalgan-employee-voice.pdf",
+    "featured": false,
+    "active": true,
+    "id": "national-research-journal-volume-3-issue-1-5"
+  },
+  {
     "id": "likhang-lahi-v1-i2-manuk-kuy-pukapukaw",
     "journalId": "likhang-lahi-a-philippine-journal-of-literature-and-culture-arts",
     "title": "Manuk Ku’y Pukapukaw",
@@ -2041,6 +1852,60 @@ window.SHIRLEY_JOURNAL_ARTICLES = [
     "featured": false,
     "active": true,
     "id": "national-research-journal-volume-4-issue-1-4"
+  },
+  {
+    "id": "national-research-journal-volume-2-issue-2-miguel-andres-valdez-adolescent-mental-health",
+    "journalId": "national-research-journal",
+    "title": "Mental Health and Social Isolation Among Adolescents",
+    "authors": [
+      "Miguel Andres Valdez"
+    ],
+    "articleType": "Integrative Mental-Health Review",
+    "abstract": "This integrative mental-health review examines mental health and social isolation among adolescents using literature and institutional documents published no later than 2021. It argues that adolescent mental-health effects during the pandemic arose from interacting isolation, uncertainty, family stress, disrupted routines, online exposure, and reduced access to protective relationships. Evidence was organized around four themes: loneliness and isolation, anxiety, mood, and uncertainty, family and digital environments, protective relationships and services. The synthesis shows that pandemic outcomes were rarely determined by a single factor; instead, they reflected interacting material, organizational, social, and informational conditions. The article proposes a layered response combining universal minimum provision, targeted support, continuous feedback, and locally adaptable implementation. Because this is a literature-based analysis rather than original field research, it does not report participants, newly collected data, or causal estimates. Its contribution lies in integrating early pandemic evidence into a practical framework for Philippine schools and communities, especially rural and resource-constrained settings.",
+    "keywords": [
+      "COVID-19",
+      "Philippines",
+      "rural communities",
+      "equity",
+      "policy",
+      "resilience"
+    ],
+    "volume": "2",
+    "issue": "2",
+    "issueLabel": "Issue No. 2",
+    "publicationDate": "2026-08-10",
+    "pages": "81–90",
+    "doi": "",
+    "pdfFile": "assets/uploads/journal-archive/national-research-journal/volume-2-issue-2-2021/miguel-andres-valdez-adolescent-mental-health.pdf",
+    "featured": false,
+    "active": true
+  },
+  {
+    "journalId": "national-research-journal",
+    "title": "Navigating Workplace Grievances: A Procedural and Legal Readiness Audit for Philippine Labor Education",
+    "authors": [
+      "Ervin Lumidao"
+    ],
+    "articleType": "Research Article",
+    "abstract": "This study evaluated how a Philippine labor relations textbook prepares learners to distinguish, process, and resolve workplace grievances. A structured qualitative document analysis examined the 104-page Labor Relations and Negotiation manuscript, with close coding of Chapter IV on grievances and Chapter VII on remedies. The audit considered conceptual precision, procedural completeness, jurisdictional routing, authentic practice, assessment evidence, legal currency, and publication readiness. The source differentiates dissatisfaction, complaint, and grievance; identifies economic, working-condition, supervisory, policy, and interpersonal triggers; proposes an eight-step managerial response; and introduces human-resources intervention, mediation, counseling, arbitration, and Katarungang Pambarangay. These features create an accessible prevention-to-resolution narrative and appropriately emphasize recognition, investigation, documentation, consistency, appeal, training, and root-cause review. However, the text does not consistently distinguish a grievance in the broad human-resources sense from the technical grievance machinery used for disputes over a collective bargaining agreement or company personnel policies. The sequence omits the shop steward or bargaining representative, contractual steps and time limits, automatic referral of unresolved technical grievances to voluntary arbitration, and the Single Entry Approach for labor and employment issues. Mediation and conciliation are treated as interchangeable without qualification; arbitration is described too generally; and the barangay pathway is presented without adequate jurisdictional limits or exceptions. Chapter IV ends with only three recall questions, while Chapter VII contains no applied case, form, process map, model settlement, or analytic rubric. The manuscript also requires correction of terminology, statutory references, grammar, and source documentation. No expert legal validation, learner-performance data, or classroom field test was supplied, so instructional effectiveness cannot be inferred. The article proposes a five-route decision model, evidence-centered learning tasks, and staged legal, editorial, accessibility, and user validation. The chapters provide a useful introductory foundation, but publication requires sharper legal distinctions, current institutional pathways, authentic case practice, and assessment criteria.",
+    "keywords": [
+      "employee grievance",
+      "grievance machinery",
+      "voluntary arbitration",
+      "alternative dispute resolution",
+      "labor relations education",
+      "document analysis"
+    ],
+    "volume": "4",
+    "issue": "1",
+    "issueLabel": "January–June 2023",
+    "publicationDate": "2026-08-10",
+    "pages": "20–31",
+    "doi": "",
+    "pdfFile": "assets/uploads/journal-archive/national-research-journal/volume-2-issue-1/ervin-lumidao-grievance-dispute-resolution.pdf",
+    "featured": false,
+    "active": true,
+    "id": "national-research-journal-volume-2-issue-1-3"
   },
   {
     "id": "likhang-lahi-v1-i2-pipingew-dangew-dangew",
@@ -2090,6 +1955,87 @@ window.SHIRLEY_JOURNAL_ARTICLES = [
     "id": "national-research-journal-volume-2-issue-1-4"
   },
   {
+    "id": "national-research-journal-volume-2-issue-2-elaine-patricia-mendoza-school-reopening-preparedness",
+    "journalId": "national-research-journal",
+    "title": "Preparedness of Schools for the Gradual Return to Face-to-Face Classes",
+    "authors": [
+      "Elaine Patricia Mendoza"
+    ],
+    "articleType": "School-Reopening Policy Review",
+    "abstract": "This school-reopening policy review examines preparedness of schools for the gradual return to face-to-face classes using literature and institutional documents published no later than 2021. It argues that safe school reopening requires layered health measures, water and sanitation, ventilation, surveillance, continuity planning, communication, and psychosocial support. Evidence was organized around four themes: health and facility readiness, operations and continuity, communication and consent, learning recovery and well-being. The synthesis shows that pandemic outcomes were rarely determined by a single factor; instead, they reflected interacting material, organizational, social, and informational conditions. The article proposes a layered response combining universal minimum provision, targeted support, continuous feedback, and locally adaptable implementation. Because this is a literature-based analysis rather than original field research, it does not report participants, newly collected data, or causal estimates. Its contribution lies in integrating early pandemic evidence into a practical framework for Philippine schools and communities, especially rural and resource-constrained settings.",
+    "keywords": [
+      "COVID-19",
+      "Philippines",
+      "rural communities",
+      "equity",
+      "policy",
+      "resilience"
+    ],
+    "volume": "2",
+    "issue": "2",
+    "issueLabel": "Issue No. 2",
+    "publicationDate": "2026-08-10",
+    "pages": "31–40",
+    "doi": "",
+    "pdfFile": "assets/uploads/journal-archive/national-research-journal/volume-2-issue-2-2021/elaine-patricia-mendoza-school-reopening-preparedness.pdf",
+    "featured": false,
+    "active": true
+  },
+  {
+    "journalId": "national-research-journal",
+    "keywords": [
+      "COVID-19",
+      "Philippines",
+      "rural communities",
+      "equity",
+      "policy",
+      "resilience"
+    ],
+    "volume": "1",
+    "issue": "2",
+    "issueLabel": "Issue No. 2",
+    "publicationDate": "2026-08-10",
+    "doi": "",
+    "featured": false,
+    "active": true,
+    "id": "national-research-journal-volume-1-issue-2-maria-lourdes-castillo",
+    "title": "Psychological Effects of Community Quarantine on Teachers and Students",
+    "authors": [
+      "Maria Lourdes Castillo"
+    ],
+    "articleType": "Integrative Mental-Health Review",
+    "abstract": "This integrative mental-health review examines psychological effects of community quarantine on teachers and students using literature and institutional documents published no later than 2021. It argues that quarantine-related distress is the product of isolation, uncertainty, workload, disrupted routines, and unequal access to support. Evidence was organized around four themes: stress, anxiety, and uncertainty, isolation and disrupted routines, workload and role conflict, and protective relationships and referral systems. The synthesis shows that pandemic outcomes were rarely determined by a single factor; instead, they reflected interacting material, organizational, social, and informational conditions. The article proposes a layered response combining universal minimum provision, targeted support, continuous feedback, and locally adaptable implementation. Because this is a literature-based analysis rather than original field research, it does not report participants, newly collected data, or causal estimates. Its contribution lies in integrating early pandemic evidence into a practical framework for Philippine schools and communities, especially rural and resource-constrained settings.",
+    "pages": "71–80",
+    "pdfFile": "assets/uploads/journal-archive/national-research-journal/volume-1-issue-2-2021/maria-lourdes-castillo-psychological-effects.pdf"
+  },
+  {
+    "id": "national-research-journal-volume-1-issue-1-andrea-mae-ramos",
+    "journalId": "national-research-journal",
+    "title": "Readiness of Public-School Teachers for Emergency Remote Teaching",
+    "authors": [
+      "Andrea Mae Ramos"
+    ],
+    "articleType": "Integrative Literature Review",
+    "abstract": "This integrative literature review examines readiness of public-school teachers for emergency remote teaching using literature and institutional documents published no later than 2021. It argues that teacher readiness is a multidimensional condition involving access, pedagogy, assessment, communication, and institutional support. Evidence was organized around four themes: digital access and infrastructure, pedagogical adaptation, assessment and feedback, and professional learning and organizational support. The synthesis shows that pandemic outcomes were rarely determined by a single factor; instead, they reflected interacting material, organizational, social, and informational conditions. The article proposes a layered response combining universal minimum provision, targeted support, continuous feedback, and locally adaptable implementation. Because this is a literature-based analysis rather than original field research, it does not report participants, newly collected data, or causal estimates. Its contribution lies in integrating early pandemic evidence into a practical framework for Philippine schools and communities, especially rural and resource-constrained settings.",
+    "keywords": [
+      "COVID-19",
+      "Philippines",
+      "rural communities",
+      "equity",
+      "policy",
+      "resilience"
+    ],
+    "volume": "1",
+    "issue": "1",
+    "issueLabel": "Issue No. 1",
+    "publicationDate": "2026-08-10",
+    "pages": "42–51",
+    "doi": "",
+    "pdfFile": "assets/uploads/journal-archive/national-research-journal/volume-1-issue-1-2021/andrea-mae-ramos-teacher-readiness.pdf",
+    "featured": false,
+    "active": true
+  },
+  {
     "journalId": "national-research-journal",
     "title": "Reasoning-Rich Mathematics Tasks for the Intermediate Grades",
     "authors": [
@@ -2115,6 +2061,60 @@ window.SHIRLEY_JOURNAL_ARTICLES = [
     "featured": false,
     "active": true,
     "id": "national-research-journal-volume-2-issue-1-5"
+  },
+  {
+    "id": "national-research-journal-volume-2-issue-2-daniel-joseph-cabrera-restaurant-small-enterprise-recovery",
+    "journalId": "national-research-journal",
+    "title": "Recovery Strategies of Restaurants and Other Small Enterprises",
+    "authors": [
+      "Daniel Joseph Cabrera"
+    ],
+    "articleType": "Integrative Enterprise-Recovery Review",
+    "abstract": "This integrative enterprise-recovery review examines recovery strategies of restaurants and other small enterprises using literature and institutional documents published no later than 2021. It argues that small-enterprise recovery requires coordinated changes in liquidity, operations, health protection, demand generation, supply relationships, and owner well-being. Evidence was organized around four themes: liquidity and cost control, safe operations, market and channel adaptation, networks and public support. The synthesis shows that pandemic outcomes were rarely determined by a single factor; instead, they reflected interacting material, organizational, social, and informational conditions. The article proposes a layered response combining universal minimum provision, targeted support, continuous feedback, and locally adaptable implementation. Because this is a literature-based analysis rather than original field research, it does not report participants, newly collected data, or causal estimates. Its contribution lies in integrating early pandemic evidence into a practical framework for Philippine schools and communities, especially rural and resource-constrained settings.",
+    "keywords": [
+      "COVID-19",
+      "Philippines",
+      "rural communities",
+      "equity",
+      "policy",
+      "resilience"
+    ],
+    "volume": "2",
+    "issue": "2",
+    "issueLabel": "Issue No. 2",
+    "publicationDate": "2026-08-10",
+    "pages": "21–30",
+    "doi": "",
+    "pdfFile": "assets/uploads/journal-archive/national-research-journal/volume-2-issue-2-2021/daniel-joseph-cabrera-restaurant-small-enterprise-recovery.pdf",
+    "featured": false,
+    "active": true
+  },
+  {
+    "journalId": "national-research-journal",
+    "title": "Rooted in Place, Built Through Practice: The FARM Learning Cycle for Crop Production",
+    "authors": [
+      "Lanzer Aquino"
+    ],
+    "articleType": "Review Article",
+    "abstract": "Agricultural crops production is learned most meaningfully when students connect technical knowledge with soil, tools, plants, markets, and community practice. A workbook can support this connection, but a sequence of activities does not automatically produce coherent experiential learning. This conceptual article analyzes Agricultural Crops Production: Student Workbook for Grades 10 and 11 as an instructional source and develops the Frame-Act-Record-Make Meaning (FARM) cycle for place-based agricultural education. The source workbook contains 21 activities involving garden-site analysis, mapping, hand tools, container gardening, indirect planting, soil, personal protective equipment, the Philippine agricultural economy, farmers, marketing, insects, community entrepreneurs, crop maturity, planting distance, harvesting, farm-production surveys, economic analysis, and insecticide-label inquiry. These tasks are reorganized into four instructional domains: agroecological observation; safe crop-production practice; agricultural enterprise and community knowledge; and evidence-based production inquiry. FARM supplies the missing process that links them. Students frame a local problem and criteria for success, act through supervised performance or community investigation, record observable evidence, and make meaning through analysis, feedback, recommendation, and transfer. The article proposes a task-to-evidence assessment chain, safety and ethics gates for fieldwork, and a minimum implementation architecture for schools with different levels of land, equipment, and community access. Its contribution is a design framework, not a claim of measured learning effects. The framework positions the workbook as a bridge among competency standards, school-garden practice, community knowledge, and reflective judgment while preserving teacher responsibility for localization, safety, consent, and assessment quality.",
+    "keywords": [
+      "agricultural education",
+      "place-based learning",
+      "experiential learning",
+      "authentic assessment",
+      "school garden",
+      "competency-based education"
+    ],
+    "volume": "3",
+    "issue": "1",
+    "issueLabel": "January–June 2022",
+    "publicationDate": "2026-08-10",
+    "pages": "10–18",
+    "doi": "",
+    "pdfFile": "assets/uploads/journal-archive/national-research-journal/volume-1-issue-1/lanzer-aquino-place-based-agricultural-learning.pdf",
+    "featured": false,
+    "active": true,
+    "id": "national-research-journal-volumes-1-4-12"
   },
   {
     "journalId": "national-research-journal",
@@ -2169,6 +2169,168 @@ window.SHIRLEY_JOURNAL_ARTICLES = [
     "featured": false,
     "active": true,
     "id": "national-research-journal-volume-4-issue-2-1"
+  },
+  {
+    "journalId": "national-research-journal",
+    "keywords": [
+      "COVID-19",
+      "Philippines",
+      "rural communities",
+      "equity",
+      "policy",
+      "resilience"
+    ],
+    "volume": "1",
+    "issue": "2",
+    "issueLabel": "Issue No. 2",
+    "publicationDate": "2026-08-10",
+    "doi": "",
+    "featured": false,
+    "active": true,
+    "id": "national-research-journal-volume-1-issue-2-nathaniel-p-garcia",
+    "title": "School Leadership and Crisis Management During the COVID-19 Outbreak",
+    "authors": [
+      "Nathaniel P. Garcia"
+    ],
+    "articleType": "Policy and Leadership Review",
+    "abstract": "This policy and leadership review examines school leadership and crisis management during the COVID-19 outbreak using literature and institutional documents published no later than 2021. It argues that effective crisis leadership is a cycle of sensemaking, transparent communication, distributed action, care, and adaptive learning. Evidence was organized around four themes: rapid sensemaking and planning, communication and trust, distributed leadership, and staff and learner well-being. The synthesis shows that pandemic outcomes were rarely determined by a single factor; instead, they reflected interacting material, organizational, social, and informational conditions. The article proposes a layered response combining universal minimum provision, targeted support, continuous feedback, and locally adaptable implementation. Because this is a literature-based analysis rather than original field research, it does not report participants, newly collected data, or causal estimates. Its contribution lies in integrating early pandemic evidence into a practical framework for Philippine schools and communities, especially rural and resource-constrained settings.",
+    "pages": "1–10",
+    "pdfFile": "assets/uploads/journal-archive/national-research-journal/volume-1-issue-2-2021/nathaniel-p-garcia-school-leadership-crisis-management.pdf"
+  },
+  {
+    "journalId": "national-research-journal",
+    "title": "Screening Local Venture Ideas: A Five-Gate Model for Community Entrepreneurship",
+    "authors": [
+      "Marjorie Puguon"
+    ],
+    "articleType": "Review Article",
+    "abstract": "Community entrepreneurship is frequently taught as the search for a promising idea, yet a viable opportunity requires evidence of a customer problem, an implementable solution, a sustainable operating model, and acceptable social consequences. This conceptual article develops a structured opportunity-screening framework integrating community-needs inquiry, capability review, external analysis, resource fit, value-proposition testing, and small-scale validation. A five-gate screening matrix and field-interview protocol are proposed.",
+    "keywords": [
+      "opportunity recognition",
+      "community entrepreneurship",
+      "SWOT analysis",
+      "value proposition",
+      "microenterprise",
+      "venture screening"
+    ],
+    "volume": "6",
+    "issue": "2",
+    "issueLabel": "July–December 2025",
+    "publicationDate": "2026-08-10",
+    "pages": "26–29",
+    "doi": "",
+    "pdfFile": "assets/uploads/journal-archive/national-research-journal/volume-4-issue-2/marjorie-puguon-community-opportunity-screening.pdf",
+    "featured": false,
+    "active": true,
+    "id": "national-research-journal-volume-4-issue-2-4"
+  },
+  {
+    "journalId": "national-research-journal",
+    "title": "Strategy Under Constraint: The DAEL Cycle for Learning-Oriented Execution",
+    "authors": [
+      "Jesigen Lunag"
+    ],
+    "articleType": "Review Article",
+    "abstract": "Organizations frequently possess strategic plans but lack a reliable mechanism for converting analysis into coordinated action and corrective learning. The difficulty is especially pronounced in resource-constrained organizations, where a small leadership group, limited information systems, and competing operational demands can separate planning from execution. This conceptual article develops the Diagnose-Align-Execute-Learn (DAEL) framework by integrating established ideas from industry analysis, the resource-based view, mission and objective alignment, strategy implementation, the balanced scorecard, strategic control, and contingency planning. The source instructional manuscript, Fundamentals of Strategic Management: An Introductory Course, supplied the initial process architecture; canonical strategy literature was used to refine its theoretical logic. DAEL treats strategy as a closed management cycle rather than a periodic planning document. Diagnosis tests external conditions and internal capabilities. Alignment converts strategic intent into a limited portfolio of objectives and resource commitments. Execution assigns ownership, milestones, decision rights, and operating routines. Learning compares results with assumptions, activates corrective or contingent action, and renews the next diagnosis. Two design features distinguish the framework: explicit handoff gates between stages and a traceability chain linking every initiative to an objective, indicator, owner, and review decision. The article explains the framework, identifies predictable breakdowns, and proposes a minimum viable governance system suitable for small firms, cooperatives, educational institutions, local public organizations, and nonprofits. DAEL is offered as a testable conceptual model, not as evidence of performance effects.",
+    "keywords": [
+      "strategic management",
+      "strategy implementation",
+      "adaptive execution",
+      "balanced scorecard",
+      "resource-based view",
+      "organizational learning"
+    ],
+    "volume": "3",
+    "issue": "1",
+    "issueLabel": "January–June 2022",
+    "publicationDate": "2026-08-10",
+    "pages": "28–34",
+    "doi": "",
+    "pdfFile": "assets/uploads/journal-archive/national-research-journal/volume-1-issue-1/jesigen-lunag-adaptive-strategy-execution.pdf",
+    "featured": false,
+    "active": true,
+    "id": "national-research-journal-volumes-1-4-14"
+  },
+  {
+    "id": "national-research-journal-volume-2-issue-2-bianca-louise-ferrer-student-motivation-engagement",
+    "journalId": "national-research-journal",
+    "title": "Student Motivation and Engagement in Remote Education",
+    "authors": [
+      "Bianca Louise Ferrer"
+    ],
+    "articleType": "Conceptual Integrative Review",
+    "abstract": "This conceptual integrative review examines student motivation and engagement in remote education using literature and institutional documents published no later than 2021. It argues that remote engagement is a multidimensional product of autonomy, competence, relatedness, task value, routine, and feasible participation rather than simple attendance or login counts. Evidence was organized around four themes: behavioral participation, emotional engagement, cognitive engagement, belonging, feedback, and agency. The synthesis shows that pandemic outcomes were rarely determined by a single factor; instead, they reflected interacting material, organizational, social, and informational conditions. The article proposes a layered response combining universal minimum provision, targeted support, continuous feedback, and locally adaptable implementation. Because this is a literature-based analysis rather than original field research, it does not report participants, newly collected data, or causal estimates. Its contribution lies in integrating early pandemic evidence into a practical framework for Philippine schools and communities, especially rural and resource-constrained settings.",
+    "keywords": [
+      "COVID-19",
+      "Philippines",
+      "rural communities",
+      "equity",
+      "policy",
+      "resilience"
+    ],
+    "volume": "2",
+    "issue": "2",
+    "issueLabel": "Issue No. 2",
+    "publicationDate": "2026-08-10",
+    "pages": "11–20",
+    "doi": "",
+    "pdfFile": "assets/uploads/journal-archive/national-research-journal/volume-2-issue-2-2021/bianca-louise-ferrer-student-motivation-engagement.pdf",
+    "featured": false,
+    "active": true
+  },
+  {
+    "id": "national-research-journal-volume-1-issue-1-clarisse-joy-mendoza",
+    "journalId": "national-research-journal",
+    "title": "Students’ Access to Devices and Internet Connectivity in Rural Communities",
+    "authors": [
+      "Clarisse Joy Mendoza"
+    ],
+    "articleType": "Scoping-Style Evidence Review",
+    "abstract": "This scoping-style evidence review examines students’ access to devices and internet connectivity in rural communities using literature and institutional documents published no later than 2021. It argues that rural connectivity is an educational equity issue requiring multichannel rather than online-only delivery. Evidence was organized around four themes: device availability and sharing, coverage, speed, and affordability, geographic and socioeconomic inequality, and inclusive multichannel delivery. The synthesis shows that pandemic outcomes were rarely determined by a single factor; instead, they reflected interacting material, organizational, social, and informational conditions. The article proposes a layered response combining universal minimum provision, targeted support, continuous feedback, and locally adaptable implementation. Because this is a literature-based analysis rather than original field research, it does not report participants, newly collected data, or causal estimates. Its contribution lies in integrating early pandemic evidence into a practical framework for Philippine schools and communities, especially rural and resource-constrained settings.",
+    "keywords": [
+      "COVID-19",
+      "Philippines",
+      "rural communities",
+      "equity",
+      "policy",
+      "resilience"
+    ],
+    "volume": "1",
+    "issue": "1",
+    "issueLabel": "Issue No. 1",
+    "publicationDate": "2026-08-10",
+    "pages": "52–61",
+    "doi": "",
+    "pdfFile": "assets/uploads/journal-archive/national-research-journal/volume-1-issue-1-2021/clarisse-joy-mendoza-device-internet-access.pdf",
+    "featured": false,
+    "active": true
+  },
+  {
+    "journalId": "national-research-journal",
+    "keywords": [
+      "COVID-19",
+      "Philippines",
+      "rural communities",
+      "equity",
+      "policy",
+      "resilience"
+    ],
+    "volume": "1",
+    "issue": "2",
+    "issueLabel": "Issue No. 2",
+    "publicationDate": "2026-08-10",
+    "doi": "",
+    "featured": false,
+    "active": true,
+    "id": "national-research-journal-volume-1-issue-2-katrina-anne-flores",
+    "title": "Teachers’ Digital Competence During the Transition to Online Education",
+    "authors": [
+      "Katrina Anne Flores"
+    ],
+    "articleType": "Conceptual Integrative Review",
+    "abstract": "This conceptual integrative review examines teachers’ digital competence during the transition to online education using literature and institutional documents published no later than 2021. It argues that digital competence is the purposeful integration of technology, pedagogy, content, assessment, safety, and professional judgment. Evidence was organized around four themes: operational digital skills, digital pedagogy and content, assessment and learner engagement, and ethics, safety, and continuing development. The synthesis shows that pandemic outcomes were rarely determined by a single factor; instead, they reflected interacting material, organizational, social, and informational conditions. The article proposes a layered response combining universal minimum provision, targeted support, continuous feedback, and locally adaptable implementation. Because this is a literature-based analysis rather than original field research, it does not report participants, newly collected data, or causal estimates. Its contribution lies in integrating early pandemic evidence into a practical framework for Philippine schools and communities, especially rural and resource-constrained settings.",
+    "pages": "61–70",
+    "pdfFile": "assets/uploads/journal-archive/national-research-journal/volume-1-issue-2-2021/katrina-anne-flores-digital-competence.pdf"
   },
   {
     "journalId": "national-research-journal",
@@ -2391,6 +2553,33 @@ window.SHIRLEY_JOURNAL_ARTICLES = [
     "id": "national-research-journal-volume-4-issue-1-1"
   },
   {
+    "id": "national-research-journal-volume-1-issue-1-lorenzo-miguel-cruz",
+    "journalId": "national-research-journal",
+    "title": "Use of Social Media for Government and School Information Dissemination",
+    "authors": [
+      "Lorenzo Miguel Cruz"
+    ],
+    "articleType": "Communication Policy Review",
+    "abstract": "This communication policy review examines use of social media for government and school information dissemination using literature and institutional documents published no later than 2021. It argues that social media is a fast but incomplete public-information layer requiring verification, accessibility, redundancy, and feedback. Evidence was organized around four themes: speed and reach, credibility and misinformation, accessibility and the digital divide, and two-way communication and governance. The synthesis shows that pandemic outcomes were rarely determined by a single factor; instead, they reflected interacting material, organizational, social, and informational conditions. The article proposes a layered response combining universal minimum provision, targeted support, continuous feedback, and locally adaptable implementation. Because this is a literature-based analysis rather than original field research, it does not report participants, newly collected data, or causal estimates. Its contribution lies in integrating early pandemic evidence into a practical framework for Philippine schools and communities, especially rural and resource-constrained settings.",
+    "keywords": [
+      "COVID-19",
+      "Philippines",
+      "rural communities",
+      "equity",
+      "policy",
+      "resilience"
+    ],
+    "volume": "1",
+    "issue": "1",
+    "issueLabel": "Issue No. 1",
+    "publicationDate": "2026-08-10",
+    "pages": "32–41",
+    "doi": "",
+    "pdfFile": "assets/uploads/journal-archive/national-research-journal/volume-1-issue-1-2021/lorenzo-miguel-cruz-social-media-information-dissemination.pdf",
+    "featured": false,
+    "active": true
+  },
+  {
     "journalId": "national-research-journal",
     "title": "Validating Student Microventures: An Evidence-Based Model for Product Positioning and Market Communication",
     "authors": [
@@ -2418,6 +2607,60 @@ window.SHIRLEY_JOURNAL_ARTICLES = [
     "featured": false,
     "active": true,
     "id": "national-research-journal-volume-4-issue-2-6"
+  },
+  {
+    "journalId": "national-research-journal",
+    "title": "Verifying Python Algorithms: A Three-Layer Model of Contracts, Tests, and Complexity Evidence",
+    "authors": [
+      "Helen Jacinto"
+    ],
+    "articleType": "Review Article",
+    "abstract": "A runnable implementation is not yet a trustworthy algorithm. Trust requires explicit claims about behavior, evidence that challenges those claims, and performance measurements whose design supports the conclusion drawn from them. This conceptual-methodological article uses A Practical Python Approach to Data Structures and Algorithms as a curricular foundation for a verification-oriented approach to Python implementations of arrays, linked lists, stacks, queues, sorting routines, and trees. The source is examined as an instructional artifact; no learner data or benchmark results are inferred. The proposed framework joins three forms of evidence: correctness contracts, systematic tests, and empirical complexity checks. Contracts state preconditions, postconditions, and representation rules. Example-based tests target boundaries and failure modes, while property-based and metamorphic relations provide reusable oracles when exact expected outputs are costly to enumerate. Complexity claims are examined through input families, scale, repeated measurements, environment control, and plots interpreted alongside asymptotic analysis. Two practical tools are presented: a test-oracle matrix for core DSA components and a protocol for producing defensible timing evidence. The article distinguishes functional correctness from structural validity, deterministic results from measurement variability, and observed growth from proof of asymptotic complexity. It argues that students and practitioners should be taught to report what was claimed, how it was challenged, what remains uncertain, and which evidence would change the conclusion. The framework is intended for laboratory instruction, code review, and future empirical study; it makes no unsupported claim that a particular implementation or teaching intervention is effective.",
+    "keywords": [
+      "algorithm testing",
+      "property-based testing",
+      "metamorphic testing",
+      "empirical complexity",
+      "Python",
+      "reproducible benchmarking"
+    ],
+    "volume": "5",
+    "issue": "1",
+    "issueLabel": "January–June 2024",
+    "publicationDate": "2026-08-10",
+    "pages": "17–23",
+    "doi": "",
+    "pdfFile": "assets/uploads/journal-archive/national-research-journal/volume-3-issue-1/helen-jacinto-trustworthy-algorithms-python.pdf",
+    "featured": false,
+    "active": true,
+    "id": "national-research-journal-volume-3-issue-1-3"
+  },
+  {
+    "id": "national-research-journal-volume-2-issue-2-isabella-grace-villanueva-womens-community-resilience",
+    "journalId": "national-research-journal",
+    "title": "Women’s Role in Household and Community Resilience During the Pandemic",
+    "authors": [
+      "Isabella Grace Villanueva"
+    ],
+    "articleType": "Critical Integrative Review",
+    "abstract": "This critical integrative review examines women’s role in household and community resilience during the pandemic using literature and institutional documents published no later than 2021. It argues that women’s resilience work combined care, livelihood adaptation, health communication, food management, and community organizing but often carried unequal unpaid burdens and exposure to risk. Evidence was organized around four themes: unpaid care and household management, livelihood adaptation, community leadership and mutual aid, gendered risk, rights, and support. The synthesis shows that pandemic outcomes were rarely determined by a single factor; instead, they reflected interacting material, organizational, social, and informational conditions. The article proposes a layered response combining universal minimum provision, targeted support, continuous feedback, and locally adaptable implementation. Because this is a literature-based analysis rather than original field research, it does not report participants, newly collected data, or causal estimates. Its contribution lies in integrating early pandemic evidence into a practical framework for Philippine schools and communities, especially rural and resource-constrained settings.",
+    "keywords": [
+      "COVID-19",
+      "Philippines",
+      "rural communities",
+      "equity",
+      "policy",
+      "resilience"
+    ],
+    "volume": "2",
+    "issue": "2",
+    "issueLabel": "Issue No. 2",
+    "publicationDate": "2026-08-10",
+    "pages": "61–70",
+    "doi": "",
+    "pdfFile": "assets/uploads/journal-archive/national-research-journal/volume-2-issue-2-2021/isabella-grace-villanueva-womens-community-resilience.pdf",
+    "featured": false,
+    "active": true
   },
   {
     "id": "likhang-lahi-volume-1-issue-1-9",
@@ -3257,6 +3500,33 @@ window.SHIRLEY_JOURNAL_ARTICLES = [
   },
   {
     "journalId": "national-research-journal",
+    "title": "From Strategy Explanation to Independent Application: A Document Analysis of a Grade 3 Reading-Comprehension Module",
+    "authors": [
+      "Gee Ann E. Serdena"
+    ],
+    "articleType": "Research Article",
+    "abstract": "This study examined the instructional design of Increasing Reading Power 3, a 102-page self-learning resource containing ten Grade 3 reading-comprehension modules. A structured document analysis coded each module for curriculum alignment, strategy explanation, vocabulary and background support, guided and independent practice, formative feedback, transfer tasks, accessibility, and editorial quality. All ten modules included explicit objectives, a brief comprehension-strategy explanation, activation of prior knowledge, vocabulary preparation, a reading selection, learner reflection, three stages of practice, an answer key, and an open-ended application task. The skill sequence covered noting details, sequencing, main idea, cause and effect, prediction, conclusion, inference, comparison, fact and opinion, and fantasy and reality. These competencies substantially correspond to the Philippine Grade 3 English curriculum and progress from text retrieval toward inferential and critical classification. Strengths included a predictable learner-friendly routine, contextualized stories, graphic organizers, self-monitoring prompts, and frequent written transfer. Limitations included the absence of readability evidence, expert validation, classroom field testing, rubrics for open responses, differentiated or accessible alternatives, and action-oriented feedback. Recurrent mechanical and labeling errors and inconsistent selection-level attribution also require correction. The module is best viewed as a promising instructional-design case, not evidence of effectiveness. A revised edition should undergo professional copyediting, copyright and source verification, expert review, readability assessment, accessibility revision, and pilot testing with Grade 3 learners.",
+    "keywords": [
+      "document analysis",
+      "formative assessment",
+      "Grade 3",
+      "instructional materials",
+      "reading comprehension",
+      "self-learning module"
+    ],
+    "volume": "3",
+    "issue": "2",
+    "issueLabel": "July–December 2022",
+    "publicationDate": "2022-12-31",
+    "pages": "18–28",
+    "doi": "",
+    "pdfFile": "assets/uploads/journal-archive/national-research-journal/volume-1-issue-2/gee-ann-serdena-grade-3-reading-comprehension.pdf",
+    "featured": false,
+    "active": true,
+    "id": "national-research-journal-volumes-1-4-8"
+  },
+  {
+    "journalId": "national-research-journal",
     "title": "Human Judgment Before Machine Output: The VERIFY Protocol for AI-Assisted Statistical Research",
     "authors": [
       "Jossanth Vicente"
@@ -3308,33 +3578,6 @@ window.SHIRLEY_JOURNAL_ARTICLES = [
     "featured": false,
     "active": true,
     "id": "national-research-journal-volumes-1-4-10"
-  },
-  {
-    "journalId": "national-research-journal",
-    "title": "From Strategy Explanation to Independent Application: A Document Analysis of a Grade 3 Reading-Comprehension Module",
-    "authors": [
-      "Gee Ann E. Serdena"
-    ],
-    "articleType": "Research Article",
-    "abstract": "This study examined the instructional design of Increasing Reading Power 3, a 102-page self-learning resource containing ten Grade 3 reading-comprehension modules. A structured document analysis coded each module for curriculum alignment, strategy explanation, vocabulary and background support, guided and independent practice, formative feedback, transfer tasks, accessibility, and editorial quality. All ten modules included explicit objectives, a brief comprehension-strategy explanation, activation of prior knowledge, vocabulary preparation, a reading selection, learner reflection, three stages of practice, an answer key, and an open-ended application task. The skill sequence covered noting details, sequencing, main idea, cause and effect, prediction, conclusion, inference, comparison, fact and opinion, and fantasy and reality. These competencies substantially correspond to the Philippine Grade 3 English curriculum and progress from text retrieval toward inferential and critical classification. Strengths included a predictable learner-friendly routine, contextualized stories, graphic organizers, self-monitoring prompts, and frequent written transfer. Limitations included the absence of readability evidence, expert validation, classroom field testing, rubrics for open responses, differentiated or accessible alternatives, and action-oriented feedback. Recurrent mechanical and labeling errors and inconsistent selection-level attribution also require correction. The module is best viewed as a promising instructional-design case, not evidence of effectiveness. A revised edition should undergo professional copyediting, copyright and source verification, expert review, readability assessment, accessibility revision, and pilot testing with Grade 3 learners.",
-    "keywords": [
-      "document analysis",
-      "formative assessment",
-      "Grade 3",
-      "instructional materials",
-      "reading comprehension",
-      "self-learning module"
-    ],
-    "volume": "3",
-    "issue": "2",
-    "issueLabel": "July–December 2022",
-    "publicationDate": "2022-12-31",
-    "pages": "18–28",
-    "doi": "",
-    "pdfFile": "assets/uploads/journal-archive/national-research-journal/volume-1-issue-2/gee-ann-serdena-grade-3-reading-comprehension.pdf",
-    "featured": false,
-    "active": true,
-    "id": "national-research-journal-volumes-1-4-8"
   },
   {
     "journalId": "national-research-journal",
