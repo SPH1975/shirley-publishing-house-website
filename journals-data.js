@@ -2,10 +2,22 @@ window.SHIRLEY_JOURNALS = [
   {
     "submissionUrl": "submit.html",
     "disciplines": [
-      "Literature"
+      "Philippine Literature",
+      "Creative Writing",
+      "Language and Translation",
+      "Culture and Heritage Studies",
+      "Drama and Performance",
+      "Visual Arts"
     ],
     "issn": "3155-6191",
-    "editorialCriteria": [],
+    "editorialCriteria": [
+      "Relevance to the journal’s literary, cultural, and artistic scope",
+      "Originality, creativity, and strength of artistic voice",
+      "Clarity, coherence, structure, and technical execution",
+      "Cultural sensitivity and responsible representation",
+      "Ethical use of sources, translations, images, and referenced material",
+      "Readiness for editorial review and publication"
+    ],
     "currentVolumeIssue": "Volume 1 Issue No. 2",
     "active": true,
     "publicationsUrl": "repository.html",
@@ -17,12 +29,22 @@ window.SHIRLEY_JOURNALS = [
     "cover": "assets/uploads/chatgpt-image-jul-23-2026-02_57_12-pm.png",
     "format": "Print & Online",
     "title": "Likhang Lahi: A Philippine Journal of Literature and Culture Arts",
-    "preparationGuidelines": [],
+    "preparationGuidelines": [
+      "Use a clear and distinctive title appropriate to the work",
+      "Include complete author information and institutional affiliation, when applicable",
+      "Submit an original, unpublished work",
+      "Use consistent formatting, spelling, and language conventions",
+      "Provide an English title or brief synopsis for works written in a Philippine language, when requested",
+      "Secure permission for copyrighted images, translations, quotations, and other third-party material"
+    ],
     "acceptedWorks": [
       "Poetry",
-      "ShortStories",
-      "Folksongs",
-      "Legends"
+      "Short Stories",
+      "Creative Nonfiction",
+      "Drama and Scripts",
+      "Literary Essays and Book Reviews",
+      "Translations and Children’s Literature",
+      "Visual Arts"
     ],
     "editorialBoardImage": "assets/uploads/screenshot-2026-07-21-141205.png",
     "description": "A peer-reviewed quarterly publication that showcases original literary and artistic works celebrating Philippine languages, cultures, traditions, and creative expression. It welcomes poetry, fiction, creative nonfiction, drama, literary essays, translations, children’s literature, book reviews, and visual arts from both emerging and established writers and artists.",
