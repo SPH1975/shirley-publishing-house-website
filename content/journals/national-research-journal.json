@@ -1,11 +1,5 @@
 {
-  "title": "National Research Journal",
-  "shortTitle": "National Research Journal",
-  "urlSlug": "national-research-journal",
-  "issn": "2960-3625",
-  "cover": "assets/uploads/journal-covers/national-research-journal-cover-2026.svg",
-  "description": "National Research Journal is a semi-annual English-language scholarly publication of Shirley Publishing House. It provides a venue for original research, academic studies, and evidence-based contributions addressing educational, institutional, scientific, social, and national development concerns.",
-  "scope": "National and Multidisciplinary Research",
+  "submissionUrl": "submit.html",
   "disciplines": [
     "Education and Teaching",
     "Social Sciences",
@@ -16,45 +10,7 @@
     "Health and Community Studies",
     "Other Research Disciplines"
   ],
-  "publicationFrequency": "Semi-annual",
-  "format": "Print",
-  "currentVolumeIssue": "Volume 4 Issue No. 2",
-  "establishedYear": "2022",
-  "editorInChief": "LETICIA D. GUINSIMAN",
-  "editorialBoard": [],
-  "editorialBoardGroups": [
-    { "role": "Chairman", "members": [{ "name": "Shirley D. Vicente", "credentials": "MAEd" }] },
-    { "role": "Members", "members": [
-      { "name": "Alma Bella G. Cabilinan", "credentials": "PhD", "affiliation": "Assistant Professor IV, Nueva Vizcaya State University – Bayombong Campus" },
-      { "name": "Christine Marie M. Walog", "credentials": "MAEd", "affiliation": "Certified National Book Development Board Book Editor; Member, International Association of Scholarly Publishers, Editors and Reviewers" },
-      { "name": "Joy A. Caronilla", "credentials": "MT II", "affiliation": "Schools Division Office of Nueva Vizcaya" }
-    ] },
-    { "role": "Editor-in-Chief", "members": [{ "name": "Leticia D. Guinsiman", "credentials": "PhD", "affiliation": "Professor IV, Ifugao State University – Tinoc Campus" }] },
-    { "role": "Associate Editors", "members": [
-      { "name": "Joseph C. Eco, Jr.", "credentials": "EdD", "affiliation": "Teacher III / Division Research Focal Person, Schools Division Office of Cauayan City" },
-      { "name": "Jossanth D. Vicente", "credentials": "RCE", "affiliation": "Associate Editor / Technical Editor, Shirley Publishing House" },
-      { "name": "Mark Lester Ventura", "credentials": "RCE", "affiliation": "Associate Editor / Technical Editor, Shirley Publishing House" }
-    ] },
-    { "role": "Art and Layout Editors", "members": [
-      { "name": "Chris Nalda", "affiliation": "Layout Artist & Graphic Designer, Shirley Publishing House" },
-      { "name": "Donnavee B. Cabasal", "credentials": "MT I", "affiliation": "Schools Division Office of Nueva Vizcaya" }
-    ] }
-  ],
-  "acceptedWorks": [
-    "Research Articles",
-    "Review Articles",
-    "Case Studies",
-    "Institutional Research",
-    "Policy and Development Studies"
-  ],
-  "preparationGuidelines": [
-    "Use a clear and specific research title",
-    "Include complete author information and institutional affiliation",
-    "Provide an abstract and relevant keywords",
-    "Use IMRAD format when appropriate",
-    "Apply a consistent citation and reference style",
-    "Submit original work that has not been published elsewhere"
-  ],
+  "issn": "2960-3625",
   "editorialCriteria": [
     "Relevance to the journal's national and multidisciplinary scope",
     "Originality and research contribution",
@@ -63,8 +19,109 @@
     "Accuracy and completeness of citations and references",
     "Readiness for editorial review and publication"
   ],
-  "submissionUrl": "submit.html",
+  "currentVolumeIssue": "Volume 4 Issue No. 2",
+  "active": true,
   "publicationsUrl": "repository.html",
   "featured": true,
-  "active": true
+  "publicationFrequency": "Semi-annual",
+  "editorialBoardGroups": [
+    {
+      "role": "Chairman",
+      "members": [
+        {
+          "name": "Shirley D. Vicente",
+          "credentials": "MAEd"
+        }
+      ]
+    },
+    {
+      "role": "Members",
+      "members": [
+        {
+          "name": "Alma Bella G. Cabilinan",
+          "credentials": "PhD",
+          "affiliation": "Assistant Professor IV, Nueva Vizcaya State University – Bayombong Campus"
+        },
+        {
+          "name": "Christine Marie M. Walog",
+          "credentials": "MAEd",
+          "affiliation": "Certified National Book Development Board Book Editor; Member, International Association of Scholarly Publishers, Editors and Reviewers"
+        },
+        {
+          "name": "Joy A. Caronilla",
+          "credentials": "MT II",
+          "affiliation": "Schools Division Office of Nueva Vizcaya"
+        }
+      ]
+    },
+    {
+      "role": "Editor-in-Chief",
+      "members": [
+        {
+          "name": "Leticia D. Guinsiman",
+          "credentials": "PhD",
+          "affiliation": "Professor IV, Ifugao State University – Tinoc Campus"
+        }
+      ]
+    },
+    {
+      "role": "Associate Editors",
+      "members": [
+        {
+          "name": "Joseph C. Eco, Jr.",
+          "credentials": "EdD",
+          "affiliation": "Teacher III / Division Research Focal Person, Schools Division Office of Cauayan City"
+        },
+        {
+          "name": "Jossanth D. Vicente",
+          "credentials": "RCE",
+          "affiliation": "Associate Editor / Technical Editor, Shirley Publishing House"
+        },
+        {
+          "name": "Mark Lester Ventura",
+          "credentials": "RCE",
+          "affiliation": "Associate Editor / Technical Editor, Shirley Publishing House"
+        }
+      ]
+    },
+    {
+      "role": "Art and Layout Editors",
+      "members": [
+        {
+          "name": "Chris Nalda",
+          "affiliation": "Layout Artist & Graphic Designer, Shirley Publishing House"
+        },
+        {
+          "name": "Donnavee B. Cabasal",
+          "credentials": "MT I",
+          "affiliation": "Schools Division Office of Nueva Vizcaya"
+        }
+      ]
+    }
+  ],
+  "editorInChief": "LETICIA D. GUINSIMAN",
+  "scope": "National and Multidisciplinary Research",
+  "establishedYear": "2020",
+  "cover": "assets/uploads/journal-covers/national-research-journal-cover-2026.svg",
+  "format": "Print",
+  "title": "National Research Journal",
+  "urlSlug": "national-research-journal",
+  "preparationGuidelines": [
+    "Use a clear and specific research title",
+    "Include complete author information and institutional affiliation",
+    "Provide an abstract and relevant keywords",
+    "Use IMRAD format when appropriate",
+    "Apply a consistent citation and reference style",
+    "Submit original work that has not been published elsewhere"
+  ],
+  "acceptedWorks": [
+    "Research Articles",
+    "Review Articles",
+    "Case Studies",
+    "Institutional Research",
+    "Policy and Development Studies"
+  ],
+  "shortTitle": "National Research Journal",
+  "description": "National Research Journal is a semi-annual English-language scholarly publication of Shirley Publishing House. It provides a venue for original research, academic studies, and evidence-based contributions addressing educational, institutional, scientific, social, and national development concerns.",
+  "editorialBoard": []
 }
