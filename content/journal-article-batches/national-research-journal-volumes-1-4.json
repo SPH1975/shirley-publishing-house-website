@@ -134,5 +134,161 @@
     "pdfFile": "assets/uploads/journal-archive/national-research-journal/volume-1-issue-2/felisa-ubaldo-inclusive-word-processing-instruction.pdf",
     "featured": false,
     "active": true
+  },
+  {
+    "journalId": "national-research-journal",
+    "title": "From Personal Rule to Constitutional Presidency: The SCOPE Framework for Tracing Philippine Executive Power",
+    "authors": [
+      "Victoria Baguilat"
+    ],
+    "articleType": "Review Article",
+    "abstract": "Accounts of Philippine presidents often proceed as a succession of biographies, elections, and accomplishments. Such narratives are accessible but can obscure the institutional question that gives executive history its analytical value: what made an officeholder authoritative, what constrained that authority, and how did executive power reach and answer to society? This conceptual-historical article analyzes The Evolution of Philippine Politics and Governance as an instructional source and develops the Source-Constraints-Organization-Public Accountability-Executive Succession (SCOPE) framework. The framework compares executive authority across precolonial polities, Spanish and American colonial administration, the First Republic, the Commonwealth, the Japanese-sponsored Second Republic, the constitutional and authoritarian transformations associated with the 1973 order, the 1986 transition, and the 1987 constitutional republic. The analysis argues that Philippine executive development was neither a linear transfer from datu to president nor a simple progression toward democracy. It involved institutional layering: local leadership, imperial command, colonial bureaucracy, revolutionary sovereignty, electoral legitimacy, emergency authority, and constitutional checks accumulated, competed, and were repeatedly reorganized. SCOPE distinguishes five dimensions: the source of executive authority; legal and political constraints; organizational reach; mechanisms of public accountability; and rules governing succession, incapacity, and emergency. It also supplies a source-criticism protocol for teaching politically sensitive history. This protocol is necessary because repeated instructional claims may rest on disputed evidence, as demonstrated by the officially delisted Code of Kalantiaw narrative. The article contributes an analytical method rather than new archival findings or measured classroom outcomes. It enables students and researchers to compare institutions across regimes without reducing political history to praise or condemnation of individual leaders.",
+    "keywords": [
+      "Philippine presidency",
+      "executive power",
+      "constitutional history",
+      "political institutions",
+      "historical source criticism",
+      "political education"
+    ],
+    "volume": "1",
+    "issue": "1",
+    "issueLabel": "January–June 2022",
+    "publicationDate": "2026-08-10",
+    "pages": "1–9",
+    "doi": "",
+    "pdfFile": "assets/uploads/journal-archive/national-research-journal/volume-1-issue-1/victoria-baguilat-philippine-executive-power.pdf",
+    "featured": false,
+    "active": true
+  },
+  {
+    "journalId": "national-research-journal",
+    "title": "From Workbook Tasks to Place-Based Agricultural Learning: The FARM Cycle for Secondary Agricultural Crops Production",
+    "authors": [
+      "Lanzer Aquino"
+    ],
+    "articleType": "Review Article",
+    "abstract": "Agricultural crops production is learned most meaningfully when students connect technical knowledge with soil, tools, plants, markets, and community practice. A workbook can support this connection, but a sequence of activities does not automatically produce coherent experiential learning. This conceptual article analyzes Agricultural Crops Production: Student Workbook for Grades 10 and 11 as an instructional source and develops the Frame-Act-Record-Make Meaning (FARM) cycle for place-based agricultural education. The source workbook contains 21 activities involving garden-site analysis, mapping, hand tools, container gardening, indirect planting, soil, personal protective equipment, the Philippine agricultural economy, farmers, marketing, insects, community entrepreneurs, crop maturity, planting distance, harvesting, farm-production surveys, economic analysis, and insecticide-label inquiry. These tasks are reorganized into four instructional domains: agroecological observation; safe crop-production practice; agricultural enterprise and community knowledge; and evidence-based production inquiry. FARM supplies the missing process that links them. Students frame a local problem and criteria for success, act through supervised performance or community investigation, record observable evidence, and make meaning through analysis, feedback, recommendation, and transfer. The article proposes a task-to-evidence assessment chain, safety and ethics gates for fieldwork, and a minimum implementation architecture for schools with different levels of land, equipment, and community access. Its contribution is a design framework, not a claim of measured learning effects. The framework positions the workbook as a bridge among competency standards, school-garden practice, community knowledge, and reflective judgment while preserving teacher responsibility for localization, safety, consent, and assessment quality.",
+    "keywords": [
+      "agricultural education",
+      "place-based learning",
+      "experiential learning",
+      "authentic assessment",
+      "school garden",
+      "competency-based education"
+    ],
+    "volume": "1",
+    "issue": "1",
+    "issueLabel": "January–June 2022",
+    "publicationDate": "2026-08-10",
+    "pages": "10–18",
+    "doi": "",
+    "pdfFile": "assets/uploads/journal-archive/national-research-journal/volume-1-issue-1/lanzer-aquino-place-based-agricultural-learning.pdf",
+    "featured": false,
+    "active": true
+  },
+  {
+    "journalId": "national-research-journal",
+    "title": "The Usefulness of Artificial Intelligence Across the Research Cycle: A VISTA Framework for Responsible Scholarly Work",
+    "authors": [
+      "Daves Baltazar"
+    ],
+    "articleType": "Review Article",
+    "abstract": "Artificial intelligence (AI) can accelerate research, but speed alone does not establish scholarly usefulness. A tool is useful only when its contribution to quality, efficiency, reproducibility, or accessibility exceeds the costs of verification and the risks introduced into the research record. This conceptual article examines AI use across problem formulation, literature discovery, research design, data preparation, analysis, interpretation, and scholarly communication. It distinguishes specialized analytical systems from general-purpose generative AI and argues that their value is task-dependent. AI is well suited to expanding search vocabulary, organizing candidate literature, drafting code, detecting patterns, proposing alternative explanations, and improving language. It is unreliable when treated as an authority for citations, methods, numerical results, or final interpretations. To convert this distinction into an operational process, the article develops the VISTA framework: Validate the task and permissible use; Investigate evidence through authoritative sources; Structure the method and analysis under human control; Test every consequential output; and Account for material AI use and human responsibility. Two tools accompany the framework: a research-cycle risk map and a minimum verification record. The analysis integrates literature on AI-assisted scientific discovery, language-model hallucination, research transparency, publication ethics, and fairness. It concludes that AI's most defensible role is augmentation rather than epistemic delegation. Researchers may delegate bounded operations, but they cannot delegate responsibility for the question, evidence, method, interpretation, or published claim. The framework offers researchers, reviewers, and institutions a proportionate basis for evaluating AI-supported work without assuming that all uses are either harmless or unacceptable.",
+    "keywords": [
+      "artificial intelligence",
+      "generative AI",
+      "research integrity",
+      "scholarly communication",
+      "reproducibility",
+      "human oversight"
+    ],
+    "volume": "1",
+    "issue": "1",
+    "issueLabel": "January–June 2022",
+    "publicationDate": "2026-08-10",
+    "pages": "19–27",
+    "doi": "",
+    "pdfFile": "assets/uploads/journal-archive/national-research-journal/volume-1-issue-1/daves-baltazar-ai-research-usefulness.pdf",
+    "featured": false,
+    "active": true
+  },
+  {
+    "journalId": "national-research-journal",
+    "title": "From Strategic Plan to Adaptive Execution: The DAEL Framework for Resource-Constrained Organizations",
+    "authors": [
+      "Jesigen Lunag"
+    ],
+    "articleType": "Review Article",
+    "abstract": "Organizations frequently possess strategic plans but lack a reliable mechanism for converting analysis into coordinated action and corrective learning. The difficulty is especially pronounced in resource-constrained organizations, where a small leadership group, limited information systems, and competing operational demands can separate planning from execution. This conceptual article develops the Diagnose-Align-Execute-Learn (DAEL) framework by integrating established ideas from industry analysis, the resource-based view, mission and objective alignment, strategy implementation, the balanced scorecard, strategic control, and contingency planning. The source instructional manuscript, Fundamentals of Strategic Management: An Introductory Course, supplied the initial process architecture; canonical strategy literature was used to refine its theoretical logic. DAEL treats strategy as a closed management cycle rather than a periodic planning document. Diagnosis tests external conditions and internal capabilities. Alignment converts strategic intent into a limited portfolio of objectives and resource commitments. Execution assigns ownership, milestones, decision rights, and operating routines. Learning compares results with assumptions, activates corrective or contingent action, and renews the next diagnosis. Two design features distinguish the framework: explicit handoff gates between stages and a traceability chain linking every initiative to an objective, indicator, owner, and review decision. The article explains the framework, identifies predictable breakdowns, and proposes a minimum viable governance system suitable for small firms, cooperatives, educational institutions, local public organizations, and nonprofits. DAEL is offered as a testable conceptual model, not as evidence of performance effects.",
+    "keywords": [
+      "strategic management",
+      "strategy implementation",
+      "adaptive execution",
+      "balanced scorecard",
+      "resource-based view",
+      "organizational learning"
+    ],
+    "volume": "1",
+    "issue": "1",
+    "issueLabel": "January–June 2022",
+    "publicationDate": "2026-08-10",
+    "pages": "28–34",
+    "doi": "",
+    "pdfFile": "assets/uploads/journal-archive/national-research-journal/volume-1-issue-1/jesigen-lunag-adaptive-strategy-execution.pdf",
+    "featured": false,
+    "active": true
+  },
+  {
+    "journalId": "national-research-journal",
+    "title": "From Farm Notes to Evidence-Based Decisions: The RECORD Framework for Teaching Animal and Fish Production Record Literacy",
+    "authors": [
+      "Arjellyn Maddawat"
+    ],
+    "articleType": "Review Article",
+    "abstract": "Keeping records is commonly presented in elementary agricultural education as the act of writing down dates, animal counts, feed use, growth, mortality, treatments, expenses, and sales. Although these entries are important, copying them into a form does not by itself constitute record literacy. Learners also need to understand why a field is recorded, how observations become comparable, how missing or inconsistent entries weaken interpretation, and how a record supports an accountable decision. This conceptual-pedagogical article analyzes Keeping Updated Records of Growth/Progress on Animal/Fish Raising as an instructional source and develops the Recognize-Establish-Capture-Organize-Review-Decide (RECORD) framework for Grade 6 Technology and Livelihood Education. The framework connects authentic animal and fish production contexts with data literacy, experiential learning, formative assessment, animal welfare, and basic enterprise reasoning. It distinguishes eight record domains: identification, growth and production, feeding, health and treatment, breeding, inventory and movement, mortality and loss, and finance. For each domain, the article specifies a decision purpose and a minimum set of fields. It further proposes a six-stage learning sequence in which pupils recognize the decision a record must inform, establish the animal or group being observed, capture dated and standardized observations, organize entries for retrieval, review patterns and exceptions, and decide on a justified next action. The framework treats paper records as legitimate learning technologies and reserves digital tools for situations in which they improve retrieval, calculation, or feedback. Assessment evidence therefore includes not only completeness but also identity consistency, measurement quality, traceable corrections, interpretation, and decision justification. The article contributes an instructional design method rather than empirical estimates of learner achievement. It offers teachers a disciplined way to transform a record-keeping module into inquiry that integrates agriculture, numeracy, literacy, ethics, and evidence-based decision-making without requiring a commercial farm or advanced software.",
+    "keywords": [
+      "agricultural education",
+      "animal and fish raising",
+      "record keeping",
+      "data literacy",
+      "experiential learning",
+      "Grade 6 TLE"
+    ],
+    "volume": "1",
+    "issue": "1",
+    "issueLabel": "January–June 2022",
+    "publicationDate": "2026-08-10",
+    "pages": "35–43",
+    "doi": "",
+    "pdfFile": "assets/uploads/journal-archive/national-research-journal/volume-1-issue-1/arjellyn-maddawat-farm-record-literacy.pdf",
+    "featured": false,
+    "active": true
+  },
+  {
+    "journalId": "national-research-journal",
+    "title": "From Worked Examples to Independent Reasoning: A Document Analysis of a Grade 6 Strategic Intervention Material for Decimal Multiplication",
+    "authors": [
+      "Risalinda Coloma"
+    ],
+    "articleType": "Research Article",
+    "abstract": "This study examined the instructional design of Find and Analyze to Get Me, a 13-page Strategic Intervention Material (SIM) intended to support Grade 6 learners in solving routine and non-routine problems involving multiplication of decimals and mixed decimals, including money. A structured qualitative document analysis coded the material for curriculum alignment, problem-solving structure, worked-example design, task breadth, cognitive demand, assessment and feedback, mathematical accuracy, editorial quality, and accessibility. The corpus contained one strategy overview, four fully worked examples, two assessment cards, two enrichment cards, a 20-response answer key, and a brief reference card. The material's principal strength is its stable five-part routine: identify what is asked, identify the given facts, select an operation, write a number sentence, and state the answer. Four contextualized worked examples make this routine visible and may reduce unnecessary processing for learners who need explicit guidance. However, all eight mathematical tasks are single-step and routine, seven use money contexts, and every product pairs a decimal or money amount with a whole-number multiplier. The assessment and enrichment cards retain the same five multiple-choice prompts, so they measure recognition of the scaffold more strongly than independent construction of a solution. The audit also identified one incorrect answer-key entry, imprecise use of the term decimal points, inconsistent units and notation, language errors, and incomplete source documentation. No learner data, expert-validation report, readability evidence, or field-test results were supplied; consequently, effectiveness cannot be inferred. The SIM is best regarded as a promising worked-example resource that requires mathematical and editorial correction, broader task variation, gradual fading of support, explanatory feedback, accessibility improvements, and staged validation before outcome claims or large-scale use.",
+    "keywords": [
+      "decimal multiplication",
+      "strategic intervention material",
+      "worked examples",
+      "word problems",
+      "document analysis",
+      "Grade 6 mathematics"
+    ],
+    "volume": "1",
+    "issue": "1",
+    "issueLabel": "January–June 2022",
+    "publicationDate": "2026-08-10",
+    "pages": "44–55",
+    "doi": "",
+    "pdfFile": "assets/uploads/journal-archive/national-research-journal/volume-1-issue-1/risalinda-coloma-decimal-multiplication-sim.pdf",
+    "featured": false,
+    "active": true
   }
 ]
