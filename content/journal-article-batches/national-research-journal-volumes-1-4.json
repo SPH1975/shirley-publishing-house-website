@@ -104,7 +104,7 @@
   },
   {
     "journalId": "national-research-journal",
-    "title": "From Answer Generation to Evidence Evaluation: A Human-Centred Framework for Using Generative AI in Senior High School Statistical Research",
+    "title": "Human Judgment Before Machine Output: The VERIFY Protocol for AI-Assisted Statistical Research",
     "authors": ["Jossanth Vicente"],
     "articleType": "Review Article",
     "abstract": "Generative artificial intelligence (GenAI) can explain statistical concepts, propose analyses, generate code, and draft interpretations, but fluent outputs can conceal fabricated references, invalid assumptions, privacy risks, and reasoning that learners cannot defend. This conceptual review develops the VERIFY framework for responsible GenAI use in senior high school quantitative research. Drawing on human-centred AI guidance, K-12 AI education research, statistical reporting principles, and scholarship on large language models, the framework assigns GenAI a bounded role across six actions: Verify the question and data provenance; Examine measurement and design; Review assumptions and alternatives; Independently reproduce computations; Fact-check claims and citations; and Yield a transparent human-authored interpretation. The framework maps appropriate assistance across the research cycle and proposes process portfolios, oral defenses, prompt-and-output logs, and reproducible files as assessment evidence. It treats AI literacy and statistical literacy as mutually reinforcing: learners need statistical knowledge to audit AI output, while supervised AI dialogue can expose misconceptions and support explanation. Responsible integration therefore requires neither uncritical adoption nor blanket prohibition, but designs in which verification is observable and consequential.",
@@ -172,7 +172,7 @@
   },
   {
     "journalId": "national-research-journal",
-    "title": "From Procedural Worksheet to Inclusive Digital Literacy: A Design Framework for Teaching Word Processing in Low-Resource Settings",
+    "title": "Inclusive Word Processing Without Equal Device Access: A Low-Resource Instructional Design",
     "authors": ["Felisa T. Ubaldo"],
     "articleType": "Research Article",
     "abstract": "A learning activity sheet on formatting text and paragraphs in Microsoft Word provides a useful starting point for basic digital-skills instruction, particularly where learners rely on printed modules, shared computers, mobile office applications, or intermittent teacher support. Procedural directions alone, however, do not ensure transferable digital literacy. This conceptual case analysis examines the supplied Grade 8 activity sheet for coherence, outcome-task alignment, platform dependence, accessibility, feedback, and authentic performance. The analysis identifies five design tensions: an Excel-related activity embedded in a Word lesson; recall-heavy assessment that only partially measures document-production skill; instructions tied to one desktop interface; unequal access to devices and printing; and language or item ambiguities that weaken validity. In response, the article proposes the TRACE framework: Target an observable performance, Represent the process through accessible alternatives, Activate learning through modeled and guided practice, Check performance with usable feedback, and Extend competence across platforms and authentic tasks. A redesigned instructional sequence shows how the original content can be retained while shifting from command recognition toward purposeful document creation. The framework supports teachers, learning-resource evaluators, and publishers who adapt digital-skills materials for low-resource and device-diverse settings.",
@@ -189,7 +189,7 @@
   },
   {
     "journalId": "national-research-journal",
-    "title": "From Personal Rule to Constitutional Presidency: The SCOPE Framework for Tracing Philippine Executive Power",
+    "title": "Institutions Behind the Presidency: The SCOPE Lens on Philippine Executive Power",
     "authors": [
       "Victoria Baguilat"
     ],
@@ -215,7 +215,7 @@
   },
   {
     "journalId": "national-research-journal",
-    "title": "From Workbook Tasks to Place-Based Agricultural Learning: The FARM Cycle for Secondary Agricultural Crops Production",
+    "title": "Rooted in Place, Built Through Practice: The FARM Learning Cycle for Crop Production",
     "authors": [
       "Lanzer Aquino"
     ],
@@ -267,7 +267,7 @@
   },
   {
     "journalId": "national-research-journal",
-    "title": "From Strategic Plan to Adaptive Execution: The DAEL Framework for Resource-Constrained Organizations",
+    "title": "Strategy Under Constraint: The DAEL Cycle for Learning-Oriented Execution",
     "authors": [
       "Jesigen Lunag"
     ],
@@ -293,7 +293,7 @@
   },
   {
     "journalId": "national-research-journal",
-    "title": "From Farm Notes to Evidence-Based Decisions: The RECORD Framework for Teaching Animal and Fish Production Record Literacy",
+    "title": "Data to Decisions in School Agriculture: The RECORD Pathway for Animal and Fish Production",
     "authors": [
       "Arjellyn Maddawat"
     ],
