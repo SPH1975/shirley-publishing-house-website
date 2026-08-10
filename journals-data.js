@@ -12,7 +12,7 @@ window.SHIRLEY_JOURNALS = [
     "featured": true,
     "publicationFrequency": "Quarterly",
     "journalFile": "assets/uploads/body_merged-1-1-.pdf",
-    "editorInChief": "LETICIA D. GUINSIMAN PhD",
+    "editorInChief": "LETICIA D. GUINSIMAN",
     "scope": "Literature and Creative Arts",
     "cover": "assets/uploads/chatgpt-image-jul-23-2026-02_57_12-pm.png",
     "format": "Print & Online",
@@ -30,6 +30,69 @@ window.SHIRLEY_JOURNALS = [
       "DONNAVEE VALMORES B. CABASAL",
       "SORICK B. DE LEON",
       "CHRISTOPHER NALDA"
+    ],
+    "editorialBoardGroups": [
+      {
+        "role": "Chairman",
+        "members": [
+          {
+            "name": "Shirley D. Vicente",
+            "credentials": "MAEd"
+          }
+        ]
+      },
+      {
+        "role": "Members",
+        "members": [
+          {
+            "name": "Alma Bella G. Cabilinan",
+            "credentials": "PhD"
+          },
+          {
+            "name": "Christine Marie M. Walog",
+            "credentials": "MAEd"
+          },
+          {
+            "name": "Joy A. Caronilla",
+            "credentials": "MT II"
+          }
+        ]
+      },
+      {
+        "role": "Editor-in-Chief",
+        "members": [
+          {
+            "name": "Leticia D. Guinsiman"
+          }
+        ]
+      },
+      {
+        "role": "Associate Editors",
+        "members": [
+          {
+            "name": "Joseph C. Eco, Jr.",
+            "credentials": "EdD"
+          },
+          {
+            "name": "Engr. Jossanth D. Vicente"
+          },
+          {
+            "name": "Engr. Mark Lester Ventura"
+          }
+        ]
+      },
+      {
+        "role": "Art and Layout Editors",
+        "members": [
+          {
+            "name": "Chris Nalda"
+          },
+          {
+            "name": "Donnavee B. Cabasal",
+            "credentials": "MT I"
+          }
+        ]
+      }
     ],
     "id": "likhang-lahi-a-philippine-journal-of-literature-and-culture-arts",
     "shortTitle": "Likhang Lahi: A Philippine Journal of Literature and Culture Arts",
@@ -65,7 +128,7 @@ window.SHIRLEY_JOURNALS = [
     "featured": true,
     "publicationFrequency": "Quarterly",
     "journalFile": "assets/uploads/multidisciplinary-international-theses-and-articles-journal-graduate-studies.pdf",
-    "editorInChief": "LETICIA D. GUINSIMAN PhD",
+    "editorInChief": "LETICIA D. GUINSIMAN",
     "scope": "Multidisciplinary Graduate Studies",
     "cover": "assets/uploads/chatgpt-image-jul-23-2026-02_48_04-pm.png",
     "format": "Print & Online",
@@ -91,6 +154,69 @@ window.SHIRLEY_JOURNALS = [
     "editorialBoardImage": "assets/uploads/screenshot-2026-07-21-154734.png",
     "description": "The journal presents independently published scholarly works across different academic disciplines, including thesis- and dissertation-derived articles prepared as standalone publications.",
     "editorialBoard": [],
+    "editorialBoardGroups": [
+      {
+        "role": "Chairman",
+        "members": [
+          {
+            "name": "Shirley D. Vicente",
+            "credentials": "MAEd"
+          }
+        ]
+      },
+      {
+        "role": "Members",
+        "members": [
+          {
+            "name": "Alma Bella G. Cabilinan",
+            "credentials": "PhD"
+          },
+          {
+            "name": "Christine Marie M. Walog",
+            "credentials": "MAEd"
+          },
+          {
+            "name": "Joy A. Caronilla",
+            "credentials": "MT II"
+          }
+        ]
+      },
+      {
+        "role": "Editor-in-Chief",
+        "members": [
+          {
+            "name": "Leticia D. Guinsiman"
+          }
+        ]
+      },
+      {
+        "role": "Associate Editors",
+        "members": [
+          {
+            "name": "Joseph C. Eco, Jr.",
+            "credentials": "EdD"
+          },
+          {
+            "name": "Engr. Jossanth D. Vicente"
+          },
+          {
+            "name": "Engr. Mark Lester Ventura"
+          }
+        ]
+      },
+      {
+        "role": "Art and Layout Editors",
+        "members": [
+          {
+            "name": "Chris Nalda"
+          },
+          {
+            "name": "Donnavee B. Cabasal",
+            "credentials": "MT I"
+          }
+        ]
+      }
+    ],
     "id": "multidisciplinary-international-theses-and-articles-journal",
     "downloadLabel": "Download Full Journal (PDF)"
   },
@@ -116,8 +242,71 @@ window.SHIRLEY_JOURNALS = [
     "format": "Print",
     "currentVolumeIssue": "Volume 4 Issue No. 2",
     "establishedYear": "2022",
-    "editorInChief": "",
+    "editorInChief": "LETICIA D. GUINSIMAN",
     "editorialBoard": [],
+    "editorialBoardGroups": [
+      {
+        "role": "Chairman",
+        "members": [
+          {
+            "name": "Shirley D. Vicente",
+            "credentials": "MAEd"
+          }
+        ]
+      },
+      {
+        "role": "Members",
+        "members": [
+          {
+            "name": "Alma Bella G. Cabilinan",
+            "credentials": "PhD"
+          },
+          {
+            "name": "Christine Marie M. Walog",
+            "credentials": "MAEd"
+          },
+          {
+            "name": "Joy A. Caronilla",
+            "credentials": "MT II"
+          }
+        ]
+      },
+      {
+        "role": "Editor-in-Chief",
+        "members": [
+          {
+            "name": "Leticia D. Guinsiman"
+          }
+        ]
+      },
+      {
+        "role": "Associate Editors",
+        "members": [
+          {
+            "name": "Joseph C. Eco, Jr.",
+            "credentials": "EdD"
+          },
+          {
+            "name": "Engr. Jossanth D. Vicente"
+          },
+          {
+            "name": "Engr. Mark Lester Ventura"
+          }
+        ]
+      },
+      {
+        "role": "Art and Layout Editors",
+        "members": [
+          {
+            "name": "Chris Nalda"
+          },
+          {
+            "name": "Donnavee B. Cabasal",
+            "credentials": "MT I"
+          }
+        ]
+      }
+    ],
     "acceptedWorks": [
       "Research Articles",
       "Review Articles",

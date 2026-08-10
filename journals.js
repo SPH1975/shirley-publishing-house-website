@@ -271,29 +271,47 @@
   }
 
   const editorialPanel = document.getElementById('journal-editorial-panel');
-  const boardWrap = document.getElementById('journal-board-wrap');
-  const board = document.getElementById('journal-editorial-board');
-  const boardImageWrap = document.getElementById('journal-board-image-wrap');
-  const boardImage = document.getElementById('journal-board-image');
-  const boardImageLink = document.getElementById('journal-board-image-link');
-  const boardImageSource = editorialBoardImageSrc(journal);
+  const editorialToolbar = document.getElementById('journal-board-toolbar');
+  const editorialToggleAll = document.getElementById('journal-board-toggle-all');
+  const structuredGroups = Array.isArray(journal.editorialBoardGroups) ? journal.editorialBoardGroups : [];
+  const legacyMembers = Array.isArray(journal.editorialBoard) ? journal.editorialBoard : [];
+  const editorialGroups = structuredGroups.length ? structuredGroups : [
+    ...(journal.editorInChief ? [{ role: 'Editor-in-Chief', members: [{ name: journal.editorInChief }] }] : []),
+    ...(legacyMembers.length ? [{ role: 'Editorial Board', members: legacyMembers.map((name) => ({ name })) }] : []),
+  ];
 
-  if (boardImageSource && boardImage && boardImageWrap) {
-    boardImage.src = boardImageSource;
-    boardImage.alt = `${journal.title} editorial board and journal back page`;
-    if (boardImageLink) boardImageLink.href = boardImageSource;
-    boardImageWrap.hidden = false;
-  } else if (boardImageWrap) {
-    boardImageWrap.hidden = true;
-  }
+  if (editorialGroups.length && editorialPanel) {
+    editorialPanel.innerHTML = editorialGroups.map((group, groupIndex) => {
+      const members = Array.isArray(group.members) ? group.members : [];
+      const panelId = `editorial-role-${groupIndex}`;
+      const isOpen = groupIndex === 0;
+      return `<section class="editorial-role-card${isOpen ? ' is-open' : ''}">
+        <button class="editorial-role-toggle" type="button" aria-expanded="${String(isOpen)}" aria-controls="${panelId}">
+          <span><span class="editorial-role-name">${escapeHtml(group.role || 'Editorial Board')}</span><span class="editorial-role-count">${members.length} ${members.length === 1 ? 'member' : 'members'}</span></span>
+          <span class="editorial-role-icon" aria-hidden="true">+</span>
+        </button>
+        <div class="editorial-role-members" id="${panelId}"${isOpen ? '' : ' hidden'}>
+          ${members.map((member) => `<article class="editorial-member-card" tabindex="0"><span class="editorial-member-monogram" aria-hidden="true">${escapeHtml(String(member.name || '').trim().charAt(0) || 'E')}</span><span><strong>${escapeHtml(member.name || '')}</strong>${member.credentials ? `<small>${escapeHtml(member.credentials)}</small>` : ''}</span></article>`).join('')}
+        </div>
+      </section>`;
+    }).join('');
+    if (editorialToolbar) editorialToolbar.hidden = false;
 
-  if ((journal.editorialBoard || []).length && board) {
-    board.innerHTML = journal.editorialBoard.map((member) => `<li>${escapeHtml(member)}</li>`).join('');
-  } else if (boardWrap) boardWrap.hidden = true;
-
-  const hasEditorialText = Boolean(journal.editorInChief || (journal.editorialBoard || []).length);
-  if (!hasEditorialText && editorialPanel) editorialPanel.hidden = true;
-  if (!hasEditorialText && !boardImageSource) {
+    const roleToggles = [...editorialPanel.querySelectorAll('.editorial-role-toggle')];
+    const setRoleState = (toggle, open) => {
+      const members = document.getElementById(toggle.getAttribute('aria-controls'));
+      toggle.setAttribute('aria-expanded', String(open));
+      toggle.closest('.editorial-role-card')?.classList.toggle('is-open', open);
+      if (members) members.hidden = !open;
+    };
+    roleToggles.forEach((toggle) => toggle.addEventListener('click', () => setRoleState(toggle, toggle.getAttribute('aria-expanded') !== 'true')));
+    editorialToggleAll?.addEventListener('click', () => {
+      const expand = roleToggles.some((toggle) => toggle.getAttribute('aria-expanded') !== 'true');
+      roleToggles.forEach((toggle) => setRoleState(toggle, expand));
+      editorialToggleAll.textContent = expand ? 'Collapse all roles' : 'Expand all roles';
+    });
+  } else {
+    if (editorialPanel) editorialPanel.hidden = true;
     document.getElementById('journal-panel-editorial')?.classList.add('is-empty');
   }
 
