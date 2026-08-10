@@ -2526,3 +2526,62 @@ body.is-scrolled .brand img { width: 218px; height: 64px; }
     overflow-wrap: anywhere;
   }
 }
+
+/* Mobile journal-directory hardening — August 10, 2026 */
+@media (max-width: 720px) {
+  .journal-directory-card {
+    grid-template-columns: minmax(0, 1fr);
+    width: 100%;
+    min-width: 0;
+  }
+
+  .journal-card-cover,
+  .journal-card-body {
+    width: 100%;
+    min-width: 0;
+  }
+
+  .journal-card-cover {
+    min-height: auto;
+    padding: 24px;
+  }
+
+  .journal-card-cover img {
+    width: auto;
+    max-width: min(100%, 285px);
+    height: auto;
+    margin-inline: auto;
+  }
+
+  .journal-card-body,
+  .journal-card-body > *,
+  .journal-card-facts,
+  .journal-card-facts > * {
+    min-width: 0;
+  }
+
+  .journal-card-body h2,
+  .journal-card-body p,
+  .journal-card-facts strong {
+    overflow-wrap: anywhere;
+    word-break: normal;
+  }
+
+  .journal-card-facts {
+    grid-template-columns: minmax(0, 1fr);
+  }
+}
+
+@media (max-width: 480px) {
+  .journal-card-cover {
+    padding: 20px;
+  }
+
+  .journal-card-body {
+    padding: 24px 18px 28px;
+  }
+
+  .journal-card-body h2 {
+    font-size: clamp(1.7rem, 9vw, 2.2rem);
+  }
+}
