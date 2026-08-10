@@ -2,111 +2,263 @@
   {
     "journalId": "national-research-journal",
     "title": "Safety Before Style: A Risk-and-Accuracy Audit of Tools, Knife Skills, Equipment, and Hygiene in a Foundational Cookery Manuscript",
-    "authors": ["Marina Binay-an"],
+    "authors": [
+      "Marina Binay-an"
+    ],
     "articleType": "Research Article",
     "abstract": "This study evaluated the safety, technical accuracy, and risk communication of a 59-page illustrated foundational cookery manuscript. A structured document audit examined cooking terms, knives and tools, cookware, appliances, cutting techniques, napkin-folding instructions, and the final hygiene unit. The manuscript introduces several useful safety concepts, but safety is often separated from practice rather than embedded at the point of hazard. The article proposes a hazard-at-point-of-use model, critical stop rules, measurable controls, and a staged technical, safety, accessibility, and classroom validation protocol.",
-    "keywords": ["cookery education", "food safety", "knife safety", "risk communication", "technical accuracy", "document analysis"],
-    "volume": "4", "issue": "2", "issueLabel": "July–December 2025", "publicationDate": "2026-08-10", "pages": "1–11", "doi": "",
+    "keywords": [
+      "cookery education",
+      "food safety",
+      "knife safety",
+      "risk communication",
+      "technical accuracy",
+      "document analysis"
+    ],
+    "volume": "6",
+    "issue": "2",
+    "issueLabel": "July–December 2025",
+    "publicationDate": "2026-08-10",
+    "pages": "1–11",
+    "doi": "",
     "pdfFile": "assets/uploads/journal-archive/national-research-journal/volume-4-issue-2/marina-binay-an-cookery-safety-accuracy.pdf",
-    "featured": false, "active": true
+    "featured": false,
+    "active": true
   },
   {
     "journalId": "national-research-journal",
     "title": "Beyond Picture Naming: An Evidence-Centered Assessment Redesign for a Foundational Cookery Manuscript",
-    "authors": ["Marina Binay-an"],
+    "authors": [
+      "Marina Binay-an"
+    ],
     "articleType": "Research Article",
     "abstract": "This study examined the assessment architecture of a 59-page illustrated foundational cookery manuscript. Structured document analysis mapped seven content units, their printed explanations, 153 scorable prompts, and the forms of learner evidence they solicit. Most assessment evidence is limited to recognition and recall, with insufficient demonstration, performance criteria, feedback, or reassessment. The article proposes a seven-unit evidence map and a four-part performance portfolio covering planning, monitored execution, product evidence, and reflective justification.",
-    "keywords": ["cookery education", "authentic assessment", "evidence-centered design", "competency-based training", "constructive alignment"],
-    "volume": "4", "issue": "2", "issueLabel": "July–December 2025", "publicationDate": "2026-08-10", "pages": "12–21", "doi": "",
+    "keywords": [
+      "cookery education",
+      "authentic assessment",
+      "evidence-centered design",
+      "competency-based training",
+      "constructive alignment"
+    ],
+    "volume": "6",
+    "issue": "2",
+    "issueLabel": "July–December 2025",
+    "publicationDate": "2026-08-10",
+    "pages": "12–21",
+    "doi": "",
     "pdfFile": "assets/uploads/journal-archive/national-research-journal/volume-4-issue-2/marina-binay-an-cookery-assessment-redesign.pdf",
-    "featured": false, "active": true
+    "featured": false,
+    "active": true
   },
   {
     "journalId": "national-research-journal",
     "title": "Learning Entrepreneurship by Doing: A Case-Based and Performance-Assessment Design for Teacher Education",
-    "authors": ["Manny Bulahao"],
+    "authors": [
+      "Manny Bulahao"
+    ],
     "articleType": "Review Article",
     "abstract": "Entrepreneurship education can become overly declarative when learners memorize traits, ownership forms, planning steps, and advertising types without making decisions under uncertainty. This conceptual article develops a case-based, performance-assessment design organized around noticing opportunities, mobilizing resources, testing value, and communicating a defensible venture decision. It proposes a progressive venture portfolio, authentic evidence, and analytic rubrics while separating entrepreneurial learning from business success.",
-    "keywords": ["entrepreneurship education", "experiential learning", "case-based learning", "authentic assessment", "constructive alignment", "teacher education"],
-    "volume": "4", "issue": "2", "issueLabel": "July–December 2025", "publicationDate": "2026-08-10", "pages": "22–25", "doi": "",
+    "keywords": [
+      "entrepreneurship education",
+      "experiential learning",
+      "case-based learning",
+      "authentic assessment",
+      "constructive alignment",
+      "teacher education"
+    ],
+    "volume": "6",
+    "issue": "2",
+    "issueLabel": "July–December 2025",
+    "publicationDate": "2026-08-10",
+    "pages": "22–25",
+    "doi": "",
     "pdfFile": "assets/uploads/journal-archive/national-research-journal/volume-4-issue-2/manny-bulahao-experiential-entrepreneurship-assessment.pdf",
-    "featured": false, "active": true
+    "featured": false,
+    "active": true
   },
   {
     "journalId": "national-research-journal",
     "title": "Screening Local Venture Ideas: A Five-Gate Model for Community Entrepreneurship",
-    "authors": ["Marjorie Puguon"],
+    "authors": [
+      "Marjorie Puguon"
+    ],
     "articleType": "Review Article",
     "abstract": "Community entrepreneurship is frequently taught as the search for a promising idea, yet a viable opportunity requires evidence of a customer problem, an implementable solution, a sustainable operating model, and acceptable social consequences. This conceptual article develops a structured opportunity-screening framework integrating community-needs inquiry, capability review, external analysis, resource fit, value-proposition testing, and small-scale validation. A five-gate screening matrix and field-interview protocol are proposed.",
-    "keywords": ["opportunity recognition", "community entrepreneurship", "SWOT analysis", "value proposition", "microenterprise", "venture screening"],
-    "volume": "4", "issue": "2", "issueLabel": "July–December 2025", "publicationDate": "2026-08-10", "pages": "26–29", "doi": "",
+    "keywords": [
+      "opportunity recognition",
+      "community entrepreneurship",
+      "SWOT analysis",
+      "value proposition",
+      "microenterprise",
+      "venture screening"
+    ],
+    "volume": "6",
+    "issue": "2",
+    "issueLabel": "July–December 2025",
+    "publicationDate": "2026-08-10",
+    "pages": "26–29",
+    "doi": "",
     "pdfFile": "assets/uploads/journal-archive/national-research-journal/volume-4-issue-2/marjorie-puguon-community-opportunity-screening.pdf",
-    "featured": false, "active": true
+    "featured": false,
+    "active": true
   },
   {
     "journalId": "national-research-journal",
     "title": "Adapting Marungko Sound Blending to English: A Cumulative Path from Decoding to Sentence Comprehension",
-    "authors": ["Jenny Castro"],
+    "authors": [
+      "Jenny Castro"
+    ],
     "articleType": "Review Article",
     "abstract": "Marungko-inspired materials introduce sounds in a purposeful sequence and move learners from letters to syllables, words, phrases, and sentences. This conceptual-design article proposes an orthographic-alignment framework for adapting that logic to English phonology, word meaning, grammar, and connected-text comprehension. It offers an audit matrix and a six-phase lesson cycle moving through oral sound analysis, grapheme mapping, blending, sentence reading, meaning construction, and encoding.",
-    "keywords": ["beginning reading", "Marungko approach", "English phonics", "decodable text", "orthographic mapping", "sentence comprehension"],
-    "volume": "4", "issue": "2", "issueLabel": "July–December 2025", "publicationDate": "2026-08-10", "pages": "30–37", "doi": "",
+    "keywords": [
+      "beginning reading",
+      "Marungko approach",
+      "English phonics",
+      "decodable text",
+      "orthographic mapping",
+      "sentence comprehension"
+    ],
+    "volume": "6",
+    "issue": "2",
+    "issueLabel": "July–December 2025",
+    "publicationDate": "2026-08-10",
+    "pages": "30–37",
+    "doi": "",
     "pdfFile": "assets/uploads/journal-archive/national-research-journal/volume-4-issue-2/jenny-castro-cumulative-english-decoding.pdf",
-    "featured": false, "active": true
+    "featured": false,
+    "active": true
   },
   {
     "journalId": "national-research-journal",
     "title": "Validating Student Microventures: An Evidence-Based Model for Product Positioning and Market Communication",
-    "authors": ["Marjorie Arroyo", "Fernando Pacio"],
+    "authors": [
+      "Marjorie Arroyo",
+      "Fernando Pacio"
+    ],
     "articleType": "Review Article",
     "abstract": "Student entrepreneurship projects often culminate in attractive promotions before learners establish whether a product solves a meaningful problem. This conceptual practice article develops an evidence-driven market-to-message framework connecting customer problem, value proposition, minimum product evidence, selling conversation, and channel-appropriate message. It proposes a traceable claim system, classroom implementation sequence, and rubric focused on evidence, coherence, ethics, and iteration.",
-    "keywords": ["product concept", "value proposition", "student enterprise", "customer development", "selling", "advertising", "microventure"],
-    "volume": "4", "issue": "2", "issueLabel": "July–December 2025", "publicationDate": "2026-08-10", "pages": "38–42", "doi": "",
+    "keywords": [
+      "product concept",
+      "value proposition",
+      "student enterprise",
+      "customer development",
+      "selling",
+      "advertising",
+      "microventure"
+    ],
+    "volume": "6",
+    "issue": "2",
+    "issueLabel": "July–December 2025",
+    "publicationDate": "2026-08-10",
+    "pages": "38–42",
+    "doi": "",
     "pdfFile": "assets/uploads/journal-archive/national-research-journal/volume-4-issue-2/marjorie-arroyo-fernando-pacio-validating-student-microventures.pdf",
-    "featured": false, "active": true
+    "featured": false,
+    "active": true
   },
   {
     "journalId": "national-research-journal",
     "title": "Cultivating Enterprising Educators: A Community-Value Competency Framework for Teacher Preparation",
-    "authors": ["Marjorie Arroyo", "Fernando Pacio"],
+    "authors": [
+      "Marjorie Arroyo",
+      "Fernando Pacio"
+    ],
     "articleType": "Review Article",
     "abstract": "Entrepreneurship education is frequently reduced to business-plan writing or lists of desirable traits. This conceptual practice article offers a competency-based sequence moving students from self-awareness to opportunity recognition, disciplined experimentation, market engagement, and reflection on community value. It proposes a five-stage learning architecture, an aligned assessment strategy, and safeguards against trait essentialism and unsupported economic-impact claims.",
-    "keywords": ["entrepreneurship education", "teacher education", "competency-based learning", "experiential learning", "opportunity recognition", "community development"],
-    "volume": "4", "issue": "2", "issueLabel": "July–December 2025", "publicationDate": "2026-08-10", "pages": "43–46", "doi": "",
+    "keywords": [
+      "entrepreneurship education",
+      "teacher education",
+      "competency-based learning",
+      "experiential learning",
+      "opportunity recognition",
+      "community development"
+    ],
+    "volume": "6",
+    "issue": "2",
+    "issueLabel": "July–December 2025",
+    "publicationDate": "2026-08-10",
+    "pages": "43–46",
+    "doi": "",
     "pdfFile": "assets/uploads/journal-archive/national-research-journal/volume-4-issue-2/marjorie-arroyo-fernando-pacio-enterprising-educators.pdf",
-    "featured": false, "active": true
+    "featured": false,
+    "active": true
   },
   {
     "journalId": "national-research-journal",
     "title": "Embedding Research Integrity From Proposal to Publication",
-    "authors": ["Leticia Guinsiman"],
+    "authors": [
+      "Leticia Guinsiman"
+    ],
     "articleType": "Review Article",
     "abstract": "Research ethics is frequently confined to informed consent forms or a final lecture on plagiarism. This conceptual article argues that integrity must be embedded across the complete research lifecycle. It presents a six-stage model covering problem selection, design, participant engagement, data stewardship, analysis and reporting, and publication, translating ethical duties into practical questions and classroom supports.",
-    "keywords": ["research integrity", "informed consent", "data stewardship", "responsible conduct", "publication ethics", "ethics education"],
-    "volume": "4", "issue": "2", "issueLabel": "July–December 2025", "publicationDate": "2026-08-10", "pages": "47–50", "doi": "",
+    "keywords": [
+      "research integrity",
+      "informed consent",
+      "data stewardship",
+      "responsible conduct",
+      "publication ethics",
+      "ethics education"
+    ],
+    "volume": "6",
+    "issue": "2",
+    "issueLabel": "July–December 2025",
+    "publicationDate": "2026-08-10",
+    "pages": "47–50",
+    "doi": "",
     "pdfFile": "assets/uploads/journal-archive/national-research-journal/volume-4-issue-2/leticia-guinsiman-research-integrity.pdf",
-    "featured": false, "active": true
+    "featured": false,
+    "active": true
   },
   {
     "journalId": "national-research-journal",
     "title": "Literature Reviewing as an Architecture of Researchable Problems",
-    "authors": ["Leticia Guinsiman"],
+    "authors": [
+      "Leticia Guinsiman"
+    ],
     "articleType": "Review Article",
     "abstract": "A literature review is often taught as a preliminary collection of sources, yet its more important function is to construct a defensible research problem. This conceptual article reframes reviewing as an architecture of claims, relationships, and unresolved questions. It distinguishes six review purposes and proposes a workflow for delimiting the problem space, retrieving and evaluating evidence, coding claims, synthesizing relationships, and converting tensions into research questions.",
-    "keywords": ["literature review", "research problem", "evidence synthesis", "source evaluation", "research questions", "academic writing"],
-    "volume": "4", "issue": "2", "issueLabel": "July–December 2025", "publicationDate": "2026-08-10", "pages": "51–54", "doi": "",
+    "keywords": [
+      "literature review",
+      "research problem",
+      "evidence synthesis",
+      "source evaluation",
+      "research questions",
+      "academic writing"
+    ],
+    "volume": "6",
+    "issue": "2",
+    "issueLabel": "July–December 2025",
+    "publicationDate": "2026-08-10",
+    "pages": "51–54",
+    "doi": "",
     "pdfFile": "assets/uploads/journal-archive/national-research-journal/volume-4-issue-2/leticia-guinsiman-literature-reviewing.pdf",
-    "featured": false, "active": true
+    "featured": false,
+    "active": true
   },
   {
     "journalId": "national-research-journal",
     "title": "Teaching Research Frameworks Through Purposeful Design Alignment",
-    "authors": ["Leticia Guinsiman"],
+    "authors": [
+      "Leticia Guinsiman"
+    ],
     "articleType": "Review Article",
     "abstract": "Research methods courses often present qualitative and quantitative inquiry as competing traditions or lists of procedures to memorize. This conceptual article proposes design alignment as a more productive organizing principle. It connects five decisions—the problem, research questions, evidence, analytic procedures, and warranted claims—and offers a classroom sequence, practical alignment audit, and assessments for proposal development and formative feedback.",
-    "keywords": ["research methods education", "qualitative inquiry", "quantitative inquiry", "mixed methods", "design alignment", "research pedagogy"],
-    "volume": "4", "issue": "2", "issueLabel": "July–December 2025", "publicationDate": "2026-08-10", "pages": "55–57", "doi": "",
+    "keywords": [
+      "research methods education",
+      "qualitative inquiry",
+      "quantitative inquiry",
+      "mixed methods",
+      "design alignment",
+      "research pedagogy"
+    ],
+    "volume": "6",
+    "issue": "2",
+    "issueLabel": "July–December 2025",
+    "publicationDate": "2026-08-10",
+    "pages": "55–57",
+    "doi": "",
     "pdfFile": "assets/uploads/journal-archive/national-research-journal/volume-4-issue-2/leticia-guinsiman-research-frameworks.pdf",
-    "featured": false, "active": true
+    "featured": false,
+    "active": true
   }
 ]
