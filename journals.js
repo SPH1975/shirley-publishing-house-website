@@ -291,7 +291,7 @@
           <span class="editorial-role-icon" aria-hidden="true">+</span>
         </button>
         <div class="editorial-role-members" id="${panelId}"${isOpen ? '' : ' hidden'}>
-          ${members.map((member) => `<article class="editorial-member-card" tabindex="0"><span class="editorial-member-monogram" aria-hidden="true">${escapeHtml(String(member.name || '').trim().charAt(0) || 'E')}</span><span><strong>${escapeHtml(member.name || '')}</strong>${member.credentials ? `<small>${escapeHtml(member.credentials)}</small>` : ''}</span></article>`).join('')}
+          ${members.map((member) => `<article class="editorial-member-card" tabindex="0"><span class="editorial-member-monogram" aria-hidden="true">${escapeHtml(String(member.name || '').trim().charAt(0) || 'E')}</span><span><strong>${escapeHtml(member.name || '')}</strong>${member.credentials ? `<small>${escapeHtml(member.credentials)}</small>` : ''}${member.affiliation ? `<span class="editorial-member-affiliation">${escapeHtml(member.affiliation)}</span>` : ''}</span></article>`).join('')}
         </div>
       </section>`;
     }).join('');
