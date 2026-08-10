@@ -9,7 +9,7 @@
     "volume": "2",
     "issue": "2",
     "issueLabel": "July–December 2023",
-    "publicationDate": "2023-12-31",
+    "publicationDate": "2026-08-10",
     "pages": "1–5",
     "doi": "",
     "pdfFile": "assets/uploads/journal-archive/national-research-journal/volume-2-issue-2/alan-nebrida-differential-equations.pdf",
@@ -26,10 +26,62 @@
     "volume": "2",
     "issue": "2",
     "issueLabel": "July–December 2023",
-    "publicationDate": "2023-12-31",
+    "publicationDate": "2026-08-10",
     "pages": "6–13",
     "doi": "",
     "pdfFile": "assets/uploads/journal-archive/national-research-journal/volume-2-issue-2/jesigen-lunag-economic-ideas-in-context.pdf",
+    "featured": false,
+    "active": true
+  },
+  {
+    "journalId": "national-research-journal",
+    "title": "Bridging Mathematical Content and Teaching Practice: A Document Analysis of a Primary-Grade Mathematics Learning Module",
+    "authors": [
+      "Eleanor Bullong"
+    ],
+    "articleType": "Research Article",
+    "abstract": "This study examined the instructional architecture, mathematical integrity, and publication readiness of Teaching Math in the Primary Grades (E-Math-1), a learning module for prospective elementary teachers. A structured qualitative document analysis was conducted on the 68-page manuscript embedded in the supplied similarity-report PDF. The analysis inventoried lesson components and coded content coverage, mathematical knowledge for teaching, task demand, assessment and feedback, accuracy, editorial consistency, accessibility, and validation evidence. The module contains ten lessons: one institutional orientation, seven mathematics-content units, and two pedagogy-focused units on lesson planning and teaching approaches. All ten lessons state outcomes and use a pre-assessment-to-assessment sequence; nine explicitly include a culminating activity. Its strongest feature is the deliberate connection of content review with professional application. Learners analyze lesson plans, design materials, construct learning packages, reflect on inclusive practice, and prepare demonstrations alongside work on place value, rounding, money, whole-number operations, fractions, decimals, and geometry. The recurring sequence gives the resource coherence and supports active production rather than reading alone. However, most mathematical exposition privileges rules and procedures over representations of learner thinking. Several assessment prompts are broad, lack scoring criteria or explanatory feedback, and sometimes ask prospective teachers to perform primary-level procedures without analyzing misconceptions or alternative strategies. The audit also found consequential content and production defects: an incorrect rounding rule, a decimal place-value example with mismatched digits, an incomplete ascending-order example, ambiguous decimal-comparison prompts, inconsistent lesson numbering, omission of geometry from the table of contents, extensive language and notation errors, and no complete reference list. No expert validation, readability study, accessibility audit, field-test data, or learner outcomes were supplied; effectiveness therefore cannot be inferred. The module is a substantial practice-oriented draft with clear teacher-education value, but it requires mathematical review, curriculum mapping, representational enrichment, analytic rubrics, editorial correction, accessible digital production, and staged validation before formal publication or outcome claims.",
+    "keywords": [
+      "mathematics teacher education",
+      "primary-grade mathematics",
+      "learning module",
+      "mathematical knowledge for teaching",
+      "document analysis",
+      "instructional material evaluation"
+    ],
+    "volume": "2",
+    "issue": "2",
+    "issueLabel": "July–December 2023",
+    "publicationDate": "2026-08-10",
+    "pages": "14–26",
+    "doi": "",
+    "pdfFile": "assets/uploads/journal-archive/national-research-journal/volume-2-issue-2/eleanor-bullong-primary-mathematics-teaching.pdf",
+    "featured": false,
+    "active": true
+  },
+  {
+    "journalId": "national-research-journal",
+    "title": "Beyond the Right Answer: The REASON Framework for Teaching Ethical Deliberation in General Education",
+    "authors": [
+      "Stephanie Pudiquet"
+    ],
+    "articleType": "Review Article",
+    "abstract": "Ethics courses often introduce moral theories and then ask students to apply a fixed sequence to dilemmas. A sequence can make reasoning visible, but it may also encourage the mistaken belief that ethical judgment is an algorithm that converts facts and principles into one uncontested answer. This conceptual-pedagogical article analyzes a college Ethics worktext as an instructional source and develops the Reconstruct-Enumerate-Articulate-Search-Own-Notice (REASON) framework for ethical deliberation in general education. The framework retains the worktext's emphasis on facts, issues, principles, alternatives, consequences, and decisions while adding stakeholder mapping, role responsibility, uncertainty, safeguards, implementation, and post-decision review. REASON asks learners to reconstruct the situation and distinguish evidence from assumption; enumerate affected parties, claims, relationships, and authority; articulate values and test the case through consequences, duties and rights, justice, virtue, care, and the common good; search for alternatives that reduce avoidable harm and preserve legitimate claims; own a publicly defensible decision and implementation plan; and notice outcomes, objections, and reasons for revision. Two analytical tools accompany the framework: a comparison of ethical lenses and an assessment map that connects each stage with an observable student product and a characteristic reasoning error. The article argues that case-based ethics should assess the quality of deliberation rather than agreement with an instructor's preferred conclusion. Strong work identifies morally relevant facts, represents perspectives fairly, applies more than one lens without merely listing theories, responds to counterarguments, respects legal and professional constraints without equating legality with morality, and specifies who should act, when, and under what safeguards. The contribution is an instructional design framework rather than an empirical claim about learning gains. It offers a transparent way to connect moral theory, cultural context, professional roles, moral courage, and accountable action across multidisciplinary college programs.",
+    "keywords": [
+      "ethical reasoning",
+      "moral deliberation",
+      "case-based learning",
+      "general education",
+      "moral decision-making",
+      "ethics pedagogy"
+    ],
+    "volume": "2",
+    "issue": "2",
+    "issueLabel": "July–December 2023",
+    "publicationDate": "2026-08-10",
+    "pages": "27–35",
+    "doi": "",
+    "pdfFile": "assets/uploads/journal-archive/national-research-journal/volume-2-issue-2/stephanie-pudiquet-ethical-deliberation-reason.pdf",
     "featured": false,
     "active": true
   },
