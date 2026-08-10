@@ -56,19 +56,19 @@
   "editorialBoardGroups": [
     { "role": "Chairman", "members": [{ "name": "Shirley D. Vicente", "credentials": "MAEd" }] },
     { "role": "Members", "members": [
-      { "name": "Alma Bella G. Cabilinan", "credentials": "PhD" },
-      { "name": "Christine Marie M. Walog", "credentials": "MAEd" },
-      { "name": "Joy A. Caronilla", "credentials": "MT II" }
+      { "name": "Alma Bella G. Cabilinan", "credentials": "PhD", "affiliation": "Assistant Professor IV, Nueva Vizcaya State University – Bayombong Campus" },
+      { "name": "Christine Marie M. Walog", "credentials": "MAEd", "affiliation": "Certified National Book Development Board Book Editor; Member, International Association of Scholarly Publishers, Editors and Reviewers" },
+      { "name": "Joy A. Caronilla", "credentials": "MT II", "affiliation": "Schools Division Office of Nueva Vizcaya" }
     ] },
-    { "role": "Editor-in-Chief", "members": [{ "name": "Leticia D. Guinsiman" }] },
+    { "role": "Editor-in-Chief", "members": [{ "name": "Leticia D. Guinsiman", "credentials": "PhD", "affiliation": "Professor IV, Ifugao State University – Tinoc Campus" }] },
     { "role": "Associate Editors", "members": [
-      { "name": "Joseph C. Eco, Jr.", "credentials": "EdD" },
-      { "name": "Engr. Jossanth D. Vicente" },
-      { "name": "Engr. Mark Lester Ventura" }
+      { "name": "Joseph C. Eco, Jr.", "credentials": "EdD", "affiliation": "Teacher III, Schools Division Office of Cauayan City" },
+      { "name": "Jossanth D. Vicente", "credentials": "RCE", "affiliation": "Associate Editor / Technical Editor, Shirley Publishing House" },
+      { "name": "Mark Lester Ventura", "credentials": "RCE", "affiliation": "Associate Editor / Technical Editor, Shirley Publishing House" }
     ] },
     { "role": "Art and Layout Editors", "members": [
       { "name": "Chris Nalda" },
-      { "name": "Donnavee B. Cabasal", "credentials": "MT I" }
+      { "name": "Donnavee B. Cabasal", "credentials": "MT I", "affiliation": "Schools Division Office of Nueva Vizcaya" }
     ] }
   ]
 }
