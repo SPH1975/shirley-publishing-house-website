@@ -46,15 +46,18 @@
         "members": [
           {
             "name": "Alma Bella G. Cabilinan",
-            "credentials": "PhD"
+            "credentials": "PhD",
+            "affiliation": "Assistant Professor IV, Nueva Vizcaya State University – Bayombong Campus"
           },
           {
             "name": "Christine Marie M. Walog",
-            "credentials": "MAEd"
+            "credentials": "MAEd",
+            "affiliation": "Certified National Book Development Board Book Editor; Member, International Association of Scholarly Publishers, Editors and Reviewers"
           },
           {
             "name": "Joy A. Caronilla",
-            "credentials": "MT II"
+            "credentials": "MT II",
+            "affiliation": "Schools Division Office of Nueva Vizcaya"
           }
         ]
       },
@@ -62,7 +65,9 @@
         "role": "Editor-in-Chief",
         "members": [
           {
-            "name": "Leticia D. Guinsiman"
+            "name": "Leticia D. Guinsiman",
+            "credentials": "PhD",
+            "affiliation": "Professor IV, Ifugao State University – Tinoc Campus"
           }
         ]
       },
@@ -71,13 +76,18 @@
         "members": [
           {
             "name": "Joseph C. Eco, Jr.",
-            "credentials": "EdD"
+            "credentials": "EdD",
+            "affiliation": "Teacher III, Schools Division Office of Cauayan City"
           },
           {
-            "name": "Engr. Jossanth D. Vicente"
+            "name": "Jossanth D. Vicente",
+            "credentials": "RCE",
+            "affiliation": "Associate Editor / Technical Editor, Shirley Publishing House"
           },
           {
-            "name": "Engr. Mark Lester Ventura"
+            "name": "Mark Lester Ventura",
+            "credentials": "RCE",
+            "affiliation": "Associate Editor / Technical Editor, Shirley Publishing House"
           }
         ]
       },
@@ -89,7 +99,8 @@
           },
           {
             "name": "Donnavee B. Cabasal",
-            "credentials": "MT I"
+            "credentials": "MT I",
+            "affiliation": "Schools Division Office of Nueva Vizcaya"
           }
         ]
       }
@@ -169,15 +180,18 @@
         "members": [
           {
             "name": "Alma Bella G. Cabilinan",
-            "credentials": "PhD"
+            "credentials": "PhD",
+            "affiliation": "Assistant Professor IV, Nueva Vizcaya State University – Bayombong Campus"
           },
           {
             "name": "Christine Marie M. Walog",
-            "credentials": "MAEd"
+            "credentials": "MAEd",
+            "affiliation": "Certified National Book Development Board Book Editor; Member, International Association of Scholarly Publishers, Editors and Reviewers"
           },
           {
             "name": "Joy A. Caronilla",
-            "credentials": "MT II"
+            "credentials": "MT II",
+            "affiliation": "Schools Division Office of Nueva Vizcaya"
           }
         ]
       },
@@ -185,7 +199,9 @@
         "role": "Editor-in-Chief",
         "members": [
           {
-            "name": "Leticia D. Guinsiman"
+            "name": "Leticia D. Guinsiman",
+            "credentials": "PhD",
+            "affiliation": "Professor IV, Ifugao State University – Tinoc Campus"
           }
         ]
       },
@@ -194,13 +210,18 @@
         "members": [
           {
             "name": "Joseph C. Eco, Jr.",
-            "credentials": "EdD"
+            "credentials": "EdD",
+            "affiliation": "Teacher III, Schools Division Office of Cauayan City"
           },
           {
-            "name": "Engr. Jossanth D. Vicente"
+            "name": "Jossanth D. Vicente",
+            "credentials": "RCE",
+            "affiliation": "Associate Editor / Technical Editor, Shirley Publishing House"
           },
           {
-            "name": "Engr. Mark Lester Ventura"
+            "name": "Mark Lester Ventura",
+            "credentials": "RCE",
+            "affiliation": "Associate Editor / Technical Editor, Shirley Publishing House"
           }
         ]
       },
@@ -212,7 +233,8 @@
           },
           {
             "name": "Donnavee B. Cabasal",
-            "credentials": "MT I"
+            "credentials": "MT I",
+            "affiliation": "Schools Division Office of Nueva Vizcaya"
           }
         ]
       }
@@ -259,15 +281,18 @@
         "members": [
           {
             "name": "Alma Bella G. Cabilinan",
-            "credentials": "PhD"
+            "credentials": "PhD",
+            "affiliation": "Assistant Professor IV, Nueva Vizcaya State University – Bayombong Campus"
           },
           {
             "name": "Christine Marie M. Walog",
-            "credentials": "MAEd"
+            "credentials": "MAEd",
+            "affiliation": "Certified National Book Development Board Book Editor; Member, International Association of Scholarly Publishers, Editors and Reviewers"
           },
           {
             "name": "Joy A. Caronilla",
-            "credentials": "MT II"
+            "credentials": "MT II",
+            "affiliation": "Schools Division Office of Nueva Vizcaya"
           }
         ]
       },
@@ -275,7 +300,9 @@
         "role": "Editor-in-Chief",
         "members": [
           {
-            "name": "Leticia D. Guinsiman"
+            "name": "Leticia D. Guinsiman",
+            "credentials": "PhD",
+            "affiliation": "Professor IV, Ifugao State University – Tinoc Campus"
           }
         ]
       },
@@ -284,13 +311,18 @@
         "members": [
           {
             "name": "Joseph C. Eco, Jr.",
-            "credentials": "EdD"
+            "credentials": "EdD",
+            "affiliation": "Teacher III, Schools Division Office of Cauayan City"
           },
           {
-            "name": "Engr. Jossanth D. Vicente"
+            "name": "Jossanth D. Vicente",
+            "credentials": "RCE",
+            "affiliation": "Associate Editor / Technical Editor, Shirley Publishing House"
           },
           {
-            "name": "Engr. Mark Lester Ventura"
+            "name": "Mark Lester Ventura",
+            "credentials": "RCE",
+            "affiliation": "Associate Editor / Technical Editor, Shirley Publishing House"
           }
         ]
       },
@@ -302,7 +334,8 @@
           },
           {
             "name": "Donnavee B. Cabasal",
-            "credentials": "MT I"
+            "credentials": "MT I",
+            "affiliation": "Schools Division Office of Nueva Vizcaya"
           }
         ]
       }
