@@ -18,23 +18,6 @@
   },
   {
     "journalId": "national-research-journal",
-    "title": "Adapting Marungko Sound Blending to English: A Cumulative Path from Decoding to Sentence Comprehension",
-    "authors": ["Jenny Castro"],
-    "articleType": "Review Article",
-    "abstract": "Marungko-inspired materials are attractive for beginning reading because they introduce sounds in a purposeful sequence and quickly move learners from letters to syllables, words, phrases, and sentences. Adapting that logic to English requires care: English spelling represents sound less consistently than Filipino, and a visually simple consonant-vowel-consonant word may still contain a sound-spelling pattern not yet taught. This conceptual-design article analyzes Reading English Marungko Approach: Book 1, a 2024 beginning-reading booklet that pairs segmented letter strings with blended words, pictures, short descriptive sentences, and comprehension questions. The booklet is treated as an instructional artifact; no learner outcomes are inferred. The article proposes an orthographic-alignment framework for preserving the source's cumulative, practice-oriented strengths while accounting for English phonology, word meaning, grammar, and connected-text comprehension. Four design principles organize the framework: teach phonemes and graphemes explicitly, control cumulative decodability, connect every decoded word to oral language and meaning, and use learner errors to determine the next instructional move. Two tools are offered: an audit matrix for checking sound-spelling alignment, image support, sentence naturalness, and question quality; and a six-phase lesson cycle that moves through oral sound analysis, grapheme mapping, blending, phrase and sentence reading, meaning construction, and encoding. The framework distinguishes instructional decodability from textual authenticity and recommends planned introduction of high-frequency irregular words rather than accidental exposure. Its contribution is a transparent design proposition for English adaptation, editing, classroom use, and future empirical testing, not a claim that the booklet or framework has already produced measurable reading gains.",
-    "keywords": ["beginning reading", "Marungko approach", "English phonics", "decodable text", "orthographic mapping", "sentence comprehension"],
-    "volume": "4",
-    "issue": "1",
-    "issueLabel": "January–June 2025",
-    "publicationDate": "2026-08-10",
-    "pages": "8–15",
-    "doi": "",
-    "pdfFile": "assets/uploads/journal-archive/national-research-journal/volume-4-issue-1/jenny-castro-cumulative-english-decoding.pdf",
-    "featured": false,
-    "active": true
-  },
-  {
-    "journalId": "national-research-journal",
     "title": "Language-Responsive Scaffolding for Comparing Multi-Digit Numbers in Grade 3",
     "authors": ["Elijah Samsudin"],
     "articleType": "Review Article",

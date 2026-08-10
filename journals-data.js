@@ -114,7 +114,7 @@ window.SHIRLEY_JOURNALS = [
     ],
     "publicationFrequency": "Semi-annual",
     "format": "Print",
-    "currentVolumeIssue": "",
+    "currentVolumeIssue": "Volume 4 Issue No. 2",
     "establishedYear": "2022",
     "editorInChief": "",
     "editorialBoard": [],
