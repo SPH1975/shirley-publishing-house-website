@@ -77,7 +77,7 @@ window.SHIRLEY_JOURNALS = [
           {
             "name": "Joseph C. Eco, Jr.",
             "credentials": "EdD",
-            "affiliation": "Teacher III, Schools Division Office of Cauayan City"
+            "affiliation": "Teacher III / Division Research Focal Person, Schools Division Office of Cauayan City"
           },
           {
             "name": "Jossanth D. Vicente",
@@ -211,7 +211,7 @@ window.SHIRLEY_JOURNALS = [
           {
             "name": "Joseph C. Eco, Jr.",
             "credentials": "EdD",
-            "affiliation": "Teacher III, Schools Division Office of Cauayan City"
+            "affiliation": "Teacher III / Division Research Focal Person, Schools Division Office of Cauayan City"
           },
           {
             "name": "Jossanth D. Vicente",
@@ -312,7 +312,7 @@ window.SHIRLEY_JOURNALS = [
           {
             "name": "Joseph C. Eco, Jr.",
             "credentials": "EdD",
-            "affiliation": "Teacher III, Schools Division Office of Cauayan City"
+            "affiliation": "Teacher III / Division Research Focal Person, Schools Division Office of Cauayan City"
           },
           {
             "name": "Jossanth D. Vicente",
