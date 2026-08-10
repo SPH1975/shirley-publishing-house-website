@@ -2480,3 +2480,49 @@ body.is-scrolled .brand img { width: 218px; height: 64px; }
     text-align: center;
   }
 }
+
+/* Mobile journal-profile hardening — August 10, 2026 */
+@media (max-width: 800px) {
+  .journal-profile,
+  .journal-profile-dynamic {
+    grid-template-columns: minmax(0, 1fr);
+    gap: 28px;
+    padding: 24px;
+  }
+
+  .journal-profile-cover {
+    width: 100%;
+    max-width: 420px;
+    margin-inline: auto;
+  }
+
+  .journal-profile-content {
+    width: 100%;
+    min-width: 0;
+    overflow-wrap: anywhere;
+  }
+
+  .journal-profile-content .section-heading,
+  .journal-profile-content .lead {
+    max-width: 100%;
+  }
+}
+
+@media (max-width: 480px) {
+  .journal-profile,
+  .journal-profile-dynamic {
+    gap: 22px;
+    padding: 18px;
+    border-radius: 18px;
+  }
+
+  .journal-profile-cover {
+    max-width: 100%;
+    padding: 12px;
+  }
+
+  .journal-profile-content h2 {
+    font-size: clamp(1.75rem, 9vw, 2.35rem);
+    overflow-wrap: anywhere;
+  }
+}
