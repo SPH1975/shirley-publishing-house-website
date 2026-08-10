@@ -1,0 +1,27 @@
+{
+  "journalId": "national-research-journal",
+  "title": "The Usefulness of Artificial Intelligence Across the Research Cycle: A VISTA Framework for Responsible Scholarly Work",
+  "authors": [
+    "Daves Baltazar"
+  ],
+  "articleType": "Review Article",
+  "abstract": "Artificial intelligence (AI) can accelerate research, but speed alone does not establish scholarly usefulness. A tool is useful only when its contribution to quality, efficiency, reproducibility, or accessibility exceeds the costs of verification and the risks introduced into the research record. This conceptual article examines AI use across problem formulation, literature discovery, research design, data preparation, analysis, interpretation, and scholarly communication. It distinguishes specialized analytical systems from general-purpose generative AI and argues that their value is task-dependent. AI is well suited to expanding search vocabulary, organizing candidate literature, drafting code, detecting patterns, proposing alternative explanations, and improving language. It is unreliable when treated as an authority for citations, methods, numerical results, or final interpretations. To convert this distinction into an operational process, the article develops the VISTA framework: Validate the task and permissible use; Investigate evidence through authoritative sources; Structure the method and analysis under human control; Test every consequential output; and Account for material AI use and human responsibility. Two tools accompany the framework: a research-cycle risk map and a minimum verification record. The analysis integrates literature on AI-assisted scientific discovery, language-model hallucination, research transparency, publication ethics, and fairness. It concludes that AI's most defensible role is augmentation rather than epistemic delegation. Researchers may delegate bounded operations, but they cannot delegate responsibility for the question, evidence, method, interpretation, or published claim. The framework offers researchers, reviewers, and institutions a proportionate basis for evaluating AI-supported work without assuming that all uses are either harmless or unacceptable.",
+  "keywords": [
+    "artificial intelligence",
+    "generative AI",
+    "research integrity",
+    "scholarly communication",
+    "reproducibility",
+    "human oversight"
+  ],
+  "volume": "3",
+  "issue": "1",
+  "issueLabel": "January–June 2022",
+  "publicationDate": "2026-08-10",
+  "pages": "19–27",
+  "doi": "",
+  "pdfFile": "assets/uploads/journal-archive/national-research-journal/volume-1-issue-1/daves-baltazar-ai-research-usefulness.pdf",
+  "featured": false,
+  "active": true,
+  "id": "national-research-journal-volumes-1-4-13"
+}

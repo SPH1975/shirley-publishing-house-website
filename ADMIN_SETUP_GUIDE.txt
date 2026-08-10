@@ -1,42 +1,65 @@
-SHIRLEY PUBLISHING HOUSE — PUBLIC WEBSITE WITH PRIVATE CONTENT MANAGER
+SHIRLEY PUBLISHING HOUSE — PRIVATE CONTENT MANAGER
 
-IMPORTANT
-This version must be deployed from a GitHub repository connected to Netlify. Do not use only Netlify drag-and-drop if you want the online admin to save and publish changes.
+ADMIN ADDRESS
+https://shirleypublishinghouse.com/admin/
 
-WHAT THE PRIVATE CONTENT MANAGER CAN EDIT
-1. Add, edit, delete, search, and feature publications.
-2. Upload book covers and other publication images.
-3. Edit homepage and page hero headings/introduction text.
-4. Edit the publishing services shown on the homepage and Services page.
-5. Update email, phone number, location, tagline, Facebook details, and footer text.
+SIGN IN
+The content manager uses Netlify Identity and Git Gateway. Registration must remain
+Invite only. Use the administrative email invited in Netlify. If the password is
+forgotten, use the Forgot password link in the sign-in window.
 
-SETUP
-1. Create a private GitHub repository.
-2. Upload everything inside this website folder to the root of the GitHub repository. The root must contain index.html, package.json, netlify.toml, admin, content, assets, and scripts.
-3. In Netlify, choose Add new project > Import an existing project > GitHub, then select the repository.
-4. Netlify will detect netlify.toml and run npm run build automatically.
-5. In Netlify, enable Identity for the site.
-6. Under Identity registration preferences, choose Invite only.
-7. Enable Git Gateway.
-8. Invite only your own administrative email address.
-9. Accept the invitation and create your password.
-10. Open https://YOUR-SITE.netlify.app/admin/ and log in.
+WHAT THE ADMIN CAN MANAGE
+1. Publications and cover images.
+2. Journals, journal covers, and full-issue PDFs.
+3. Every individual journal article and its PDF.
+4. Website page headings and introductions.
+5. Publishing services.
+6. Contact, brand, and footer information.
+7. Uploaded media through the Media area.
 
-USING THE CONTENT MANAGER
-- Publications: click New Publication, complete the fields, upload a cover, and click Publish.
-- Website Page Headings: edit the headline and introductory paragraph of each page.
-- Publishing Services: add, edit, remove, or reorder service entries.
-- Business Settings: update contact and brand information.
+UPLOAD A JOURNAL ARTICLE
+1. Open Journal Article Archive.
+2. Select New Journal Article.
+3. Choose the journal and enter the article metadata.
+4. Enter the volume, issue, date range, publication date, and page range.
+5. Upload the final PDF in Article PDF.
+6. Select Publish.
+
+The publish action commits the new JSON record and PDF to GitHub. Netlify then runs
+the content build and deploys the updated archive.
+
+REMOVE A JOURNAL ARTICLE AND PDF
+1. Open Journal Article Archive and select the article.
+2. Use Delete entry and confirm the deletion.
+3. Open Media, locate the matching PDF, and delete it if the file should also be
+   removed from the repository.
+
+Deleting an article entry removes it from the public archive. The PDF is deliberately
+managed separately so a file is not destroyed accidentally.
+
+UPLOAD OR REMOVE OTHER FILES
+Use Media for images and PDFs that are not attached while editing an entry. Files are
+stored in assets/uploads. Remove only files that are no longer used by a publication,
+journal, article, or page.
+
+PUBLICATIONS, JOURNALS, PAGES, SERVICES, AND SETTINGS
+Open the matching section, create or edit an entry, and select Publish. Delete entry is
+available for folder-based content such as publications, journals, articles, and
+services.
 
 HOW CHANGES GO LIVE
-Each Publish action commits the content to GitHub. Netlify automatically rebuilds repository-data.js, repository-data.json, and cms-data.js and deploys the revised website. This normally takes a short time.
+Each admin action creates a GitHub commit on main. Netlify automatically rebuilds the
+generated website data files and deploys them. HTML, generated data, and uploaded files
+are configured to revalidate so visitors receive the current version without manual
+cache-version edits.
 
 SECURITY
-- The public website contains no visible dashboard link.
-- /admin/ is excluded from search-engine indexing and requires authentication.
-- Keep Identity registration set to Invite only.
+- Keep Netlify Identity registration set to Invite only.
+- Keep Git Gateway enabled for the connected GitHub repository.
 - Invite only trusted administrators.
-- Do not share your GitHub, Netlify, email, password, or OTP credentials.
+- Never place GitHub or Netlify tokens in admin files or browser storage.
+- Do not share passwords, one-time codes, or recovery links.
 
-LOCAL PREVIEW
-Run npm run build after manually changing JSON files. You can then open index.html or use a local static server. The online admin login itself requires the configured Netlify site.
+LOCAL VALIDATION
+Run npm run build after manually changing content. The build must complete before the
+change is published.

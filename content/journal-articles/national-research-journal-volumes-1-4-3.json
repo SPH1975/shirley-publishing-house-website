@@ -1,0 +1,27 @@
+{
+  "journalId": "national-research-journal",
+  "title": "Bridging Mathematical Content and Teaching Practice: A Document Analysis of a Primary-Grade Mathematics Learning Module",
+  "authors": [
+    "Eleanor Bullong"
+  ],
+  "articleType": "Research Article",
+  "abstract": "This study examined the instructional architecture, mathematical integrity, and publication readiness of Teaching Math in the Primary Grades (E-Math-1), a learning module for prospective elementary teachers. A structured qualitative document analysis was conducted on the 68-page manuscript embedded in the supplied similarity-report PDF. The analysis inventoried lesson components and coded content coverage, mathematical knowledge for teaching, task demand, assessment and feedback, accuracy, editorial consistency, accessibility, and validation evidence. The module contains ten lessons: one institutional orientation, seven mathematics-content units, and two pedagogy-focused units on lesson planning and teaching approaches. All ten lessons state outcomes and use a pre-assessment-to-assessment sequence; nine explicitly include a culminating activity. Its strongest feature is the deliberate connection of content review with professional application. Learners analyze lesson plans, design materials, construct learning packages, reflect on inclusive practice, and prepare demonstrations alongside work on place value, rounding, money, whole-number operations, fractions, decimals, and geometry. The recurring sequence gives the resource coherence and supports active production rather than reading alone. However, most mathematical exposition privileges rules and procedures over representations of learner thinking. Several assessment prompts are broad, lack scoring criteria or explanatory feedback, and sometimes ask prospective teachers to perform primary-level procedures without analyzing misconceptions or alternative strategies. The audit also found consequential content and production defects: an incorrect rounding rule, a decimal place-value example with mismatched digits, an incomplete ascending-order example, ambiguous decimal-comparison prompts, inconsistent lesson numbering, omission of geometry from the table of contents, extensive language and notation errors, and no complete reference list. No expert validation, readability study, accessibility audit, field-test data, or learner outcomes were supplied; effectiveness therefore cannot be inferred. The module is a substantial practice-oriented draft with clear teacher-education value, but it requires mathematical review, curriculum mapping, representational enrichment, analytic rubrics, editorial correction, accessible digital production, and staged validation before formal publication or outcome claims.",
+  "keywords": [
+    "mathematics teacher education",
+    "primary-grade mathematics",
+    "learning module",
+    "mathematical knowledge for teaching",
+    "document analysis",
+    "instructional material evaluation"
+  ],
+  "volume": "4",
+  "issue": "2",
+  "issueLabel": "July–December 2023",
+  "publicationDate": "2026-08-10",
+  "pages": "14–26",
+  "doi": "",
+  "pdfFile": "assets/uploads/journal-archive/national-research-journal/volume-2-issue-2/eleanor-bullong-primary-mathematics-teaching.pdf",
+  "featured": false,
+  "active": true,
+  "id": "national-research-journal-volumes-1-4-3"
+}

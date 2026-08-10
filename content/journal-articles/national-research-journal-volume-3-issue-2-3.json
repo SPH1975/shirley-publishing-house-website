@@ -1,0 +1,27 @@
+{
+  "journalId": "national-research-journal",
+  "title": "Making Algorithmic Invariants Visible: A Python-Based Pedagogy for Data Structures and Algorithms",
+  "authors": [
+    "Regina Mendoza"
+  ],
+  "articleType": "Review Article",
+  "abstract": "Data structures and algorithms courses frequently assess whether a program runs while leaving the reasoning that makes the program correct largely implicit. This conceptual-design article develops an invariant-centered pedagogy from A Practical Python Approach to Data Structures and Algorithms, an instructional guide that introduces Python, algorithm analysis, arrays, linked lists, stacks, queues, sorting, and trees. The source is analyzed as a curriculum artifact rather than as evidence of learning outcomes. The article argues that an invariant—a condition that must remain true at a defined point in an operation—can connect concrete traces, structural diagrams, Python code, and correctness explanations. It proposes a four-phase learning cycle: trace a state transition, explain the preserved relation, implement the operation, and test attempts to violate the relation. The cycle is applied to indexed sequences, linked structures, stacks, queues, binary search, sorting, and tree traversal. Two design tools are provided: an invariant map that specifies observable learner evidence and common diagnostic errors, and a lesson protocol that distinguishes prediction, execution, explanation, and revision. The framework treats visualization as a reasoning aid rather than as a display and uses Python's readable syntax to reduce incidental notation while retaining explicit attention to representation, mutation, aliasing, and computational cost. The central claim is theoretical and pedagogical: implementation becomes more transferable when learners can state what must remain true, locate where code preserves it, and use counterexamples to repair their model. Classroom effectiveness remains a question for future empirical evaluation.",
+  "keywords": [
+    "data structures and algorithms",
+    "algorithmic invariants",
+    "Python pedagogy",
+    "program tracing",
+    "computational thinking",
+    "computing education"
+  ],
+  "volume": "5",
+  "issue": "2",
+  "issueLabel": "July–December 2024",
+  "publicationDate": "2026-08-10",
+  "pages": "28–34",
+  "doi": "",
+  "pdfFile": "assets/uploads/journal-archive/national-research-journal/volume-3-issue-2/regina-mendoza-algorithmic-invariants-python.pdf",
+  "featured": false,
+  "active": true,
+  "id": "national-research-journal-volume-3-issue-2-3"
+}

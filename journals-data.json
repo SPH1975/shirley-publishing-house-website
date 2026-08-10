@@ -229,7 +229,8 @@
         "role": "Art and Layout Editors",
         "members": [
           {
-            "name": "Chris Nalda"
+            "name": "Chris Nalda",
+            "affiliation": "Layout Artist & Graphic Designer, Shirley Publishing House"
           },
           {
             "name": "Donnavee B. Cabasal",
@@ -243,13 +244,7 @@
     "downloadLabel": "Download Full Journal (PDF)"
   },
   {
-    "title": "National Research Journal",
-    "shortTitle": "National Research Journal",
-    "urlSlug": "national-research-journal",
-    "issn": "2960-3625",
-    "cover": "assets/uploads/journal-covers/national-research-journal-cover-2026.svg",
-    "description": "National Research Journal is a semi-annual English-language scholarly publication of Shirley Publishing House. It provides a venue for original research, academic studies, and evidence-based contributions addressing educational, institutional, scientific, social, and national development concerns.",
-    "scope": "National and Multidisciplinary Research",
+    "submissionUrl": "submit.html",
     "disciplines": [
       "Education and Teaching",
       "Social Sciences",
@@ -260,12 +255,20 @@
       "Health and Community Studies",
       "Other Research Disciplines"
     ],
+    "issn": "2960-3625",
+    "editorialCriteria": [
+      "Relevance to the journal's national and multidisciplinary scope",
+      "Originality and research contribution",
+      "Clarity, organization, and methodological soundness",
+      "Ethical handling of data, sources, and authorship",
+      "Accuracy and completeness of citations and references",
+      "Readiness for editorial review and publication"
+    ],
+    "currentVolumeIssue": "Volume 6 Issue No. 2",
+    "active": true,
+    "publicationsUrl": "repository.html",
+    "featured": true,
     "publicationFrequency": "Semi-annual",
-    "format": "Print",
-    "currentVolumeIssue": "Volume 4 Issue No. 2",
-    "establishedYear": "2022",
-    "editorInChief": "LETICIA D. GUINSIMAN",
-    "editorialBoard": [],
     "editorialBoardGroups": [
       {
         "role": "Chairman",
@@ -330,7 +333,8 @@
         "role": "Art and Layout Editors",
         "members": [
           {
-            "name": "Chris Nalda"
+            "name": "Chris Nalda",
+            "affiliation": "Layout Artist & Graphic Designer, Shirley Publishing House"
           },
           {
             "name": "Donnavee B. Cabasal",
@@ -340,13 +344,13 @@
         ]
       }
     ],
-    "acceptedWorks": [
-      "Research Articles",
-      "Review Articles",
-      "Case Studies",
-      "Institutional Research",
-      "Policy and Development Studies"
-    ],
+    "editorInChief": "LETICIA D. GUINSIMAN",
+    "scope": "National and Multidisciplinary Research",
+    "establishedYear": "2020",
+    "cover": "assets/uploads/journal-covers/national-research-journal-cover-2026.svg",
+    "format": "Print",
+    "title": "National Research Journal",
+    "urlSlug": "national-research-journal",
     "preparationGuidelines": [
       "Use a clear and specific research title",
       "Include complete author information and institutional affiliation",
@@ -355,18 +359,16 @@
       "Apply a consistent citation and reference style",
       "Submit original work that has not been published elsewhere"
     ],
-    "editorialCriteria": [
-      "Relevance to the journal's national and multidisciplinary scope",
-      "Originality and research contribution",
-      "Clarity, organization, and methodological soundness",
-      "Ethical handling of data, sources, and authorship",
-      "Accuracy and completeness of citations and references",
-      "Readiness for editorial review and publication"
+    "acceptedWorks": [
+      "Research Articles",
+      "Review Articles",
+      "Case Studies",
+      "Institutional Research",
+      "Policy and Development Studies"
     ],
-    "submissionUrl": "submit.html",
-    "publicationsUrl": "repository.html",
-    "featured": true,
-    "active": true,
+    "shortTitle": "National Research Journal",
+    "description": "National Research Journal is a semi-annual English-language scholarly publication of Shirley Publishing House. It provides a venue for original research, academic studies, and evidence-based contributions addressing educational, institutional, scientific, social, and national development concerns.",
+    "editorialBoard": [],
     "id": "national-research-journal",
     "editorialBoardImage": "",
     "journalFile": "",

@@ -1,0 +1,27 @@
+{
+  "journalId": "national-research-journal",
+  "title": "Planning Defensible Quantitative Studies in Senior High School",
+  "authors": [
+    "Genesis Catalino"
+  ],
+  "articleType": "Review Article",
+  "abstract": "Senior high school quantitative-research instruction often presents research designs, sampling methods, instruments, and statistical procedures as separate topics. Students may consequently select a test from a list after data collection rather than build a coherent chain from the research question to a warranted conclusion. This conceptual-pedagogical article analyzes a Practical Research 2 instructional text and develops the Articulate-Link-Inspect-Gauge-Narrate (ALIGN) framework for quantitative research planning. ALIGN asks student researchers to Articulate the question, target quantity or relationship, and intended claim; Link the claim to a defensible design, population, variables, comparison, and time structure; Inspect measurement validity, sampling, data provenance, and ethical protections; Gauge the analysis through estimands, descriptive displays, assumptions, effect sizes, uncertainty intervals, sensitivity checks, and appropriately interpreted statistical evidence; and Narrate conclusions whose language, scope, and transparency match the evidence. The framework corrects three recurrent misconceptions: that a large sample automatically produces representativeness, that reliability alone establishes validity, and that statistical significance proves practical importance or causation. Two instructional tools accompany the framework: a stage-by-stage alignment audit and a question-to-claim matrix for description, estimation, group comparison, paired change, association, prediction, and causal inquiry. The article argues that statistical technique should be chosen only after the target claim, design, measurement scale, dependence structure, and data quality are specified. For school-based studies, methodological rigor also requires proportionate ethics: voluntary participation, understandable consent or assent procedures, privacy protection, minimized burden, and clear limits on access and reuse. ALIGN is offered as an instructional design framework, not as an empirical demonstration of improved research performance. It can support proposal development, protocol review, data-analysis planning, results writing, oral defense, and revision. Its central contribution is a visible claim-evidence chain that allows teachers, students, and reviewers to locate exactly where a quantitative conclusion is strengthened, weakened, or exceeded by the design.",
+  "keywords": [
+    "quantitative research",
+    "research alignment",
+    "statistical reasoning",
+    "senior high school",
+    "research methods education",
+    "evidence-based claims"
+  ],
+  "volume": "4",
+  "issue": "1",
+  "issueLabel": "January–June 2023",
+  "publicationDate": "2026-08-10",
+  "pages": "32–40",
+  "doi": "",
+  "pdfFile": "assets/uploads/journal-archive/national-research-journal/volume-2-issue-1/genesis-catalino-defensible-quantitative-studies.pdf",
+  "featured": false,
+  "active": true,
+  "id": "national-research-journal-volume-2-issue-1-4"
+}

@@ -1,0 +1,27 @@
+{
+  "journalId": "national-research-journal",
+  "title": "Safe by Design: A Hazard-Control and Risk-Communication Audit of a Grade 9 Cookery Workbook",
+  "authors": [
+    "Naomi Casibang"
+  ],
+  "articleType": "Research Article",
+  "abstract": "Food-safety instruction should enable learners to recognize hazards, apply controls, verify conditions, and respond to deviations. This study conducted a risk-oriented document analysis of a 20-page Grade 9 cookery workbook on appetizers. The audit examined personal hygiene, cross-contamination, cleaning and sanitizing chemicals, time-temperature control, storage and packaging, and emergency communication. The workbook appropriately introduces cleaning agents, tool sanitation, illness exclusion, container selection, refrigeration, hair restraints, and several contamination-prevention ideas. It also includes a practical food-preparation task. Nevertheless, its safety messages are mainly labels and general rules rather than operational controls. The chemical lesson names ammonia, chlorine, carbolic acid, disinfectants, soap, and a proprietary sanitizer but does not consistently specify label compliance, food-contact suitability, dilution, contact time, ventilation, personal protective equipment, secure storage, spill response, or the prohibition against mixing products. Cleaning, sanitizing, and disinfecting are not adequately distinguished. Storage instruction defines refrigeration, cold storage, and chilling without measurable temperature limits, thermometer use, date marking, cooling procedures, or corrective action. Cross-contamination receives scattered attention, while allergen communication and traceability are absent. The final rubric does not make food safety a separate critical dimension; presentation can therefore outweigh unsafe process evidence. No safety validation, classroom observation, learner data, or incident record was supplied, so safety competence and instructional effectiveness cannot be inferred. Using the World Health Organization's Five Keys, Codex hygiene principles, Philippine food-safety law, worker-protection guidance, and the FDA Food Code as review anchors, the article proposes a hazard-control lesson architecture and a stop-correct-document assessment rule. Publication should follow expert review, chemical-label verification, local-policy alignment, usability testing, and monitored pilot implementation.",
+  "keywords": [
+    "food safety education",
+    "chemical safety",
+    "risk communication",
+    "hazard control",
+    "cookery workbook",
+    "document analysis"
+  ],
+  "volume": "5",
+  "issue": "2",
+  "issueLabel": "July–December 2024",
+  "publicationDate": "2026-08-10",
+  "pages": "35–45",
+  "doi": "",
+  "pdfFile": "assets/uploads/journal-archive/national-research-journal/volume-3-issue-2/naomi-casibang-food-safety-risk.pdf",
+  "featured": false,
+  "active": true,
+  "id": "national-research-journal-volume-3-issue-2-4"
+}

@@ -1,0 +1,29 @@
+{
+  "journalId": "national-research-journal",
+  "title": "A Decision Framework for Selecting, Applying, and Reporting Statistical Methods in Senior High School Quantitative Research",
+  "authors": [
+    "Mohamad T. Simpal",
+    "Arjey B. Mangakoy"
+  ],
+  "articleType": "Review Article",
+  "abstract": "Statistical analysis is often taught as a sequence of software commands, yet defensible quantitative research depends first on alignment among the research question, study design, measurement level, sampling process, assumptions, and intended inference. This methodological review synthesizes the instructional content of Statistics Made Easy into a decision framework for senior high school research. The framework organizes analysis into six linked decisions: define the inferential target; identify the design and dependence structure; classify variables and measurement levels; select descriptive summaries; choose an inferential procedure; and report estimates, uncertainty, assumptions, and substantive meaning. It distinguishes frequency-based description, summaries of Likert-type responses, Pearson correlation, independent- and paired-samples t-tests, and one-way analysis of variance with multiplicity-controlled post-hoc comparisons. Particular attention is given to recurring errors: treating ordinal categories as automatically interval-scaled, selecting tests from software menus without checking design assumptions, reporting p = 0.000, equating statistical significance with practical importance, and interpreting association as causation. A compact selection matrix and reporting templates translate the framework into classroom and manuscript practice. The article argues that statistical literacy at the secondary level is strengthened when computation follows design reasoning and when results are communicated through effect estimates, confidence intervals, transparent assumption checks, and context-sensitive interpretation.",
+  "keywords": [
+    "quantitative research",
+    "statistical literacy",
+    "Likert-type data",
+    "Pearson correlation",
+    "t-test",
+    "analysis of variance",
+    "secondary education"
+  ],
+  "volume": "3",
+  "issue": "2",
+  "issueLabel": "July–December 2022",
+  "publicationDate": "2022-12-31",
+  "pages": "11–17",
+  "doi": "",
+  "pdfFile": "assets/uploads/journal-archive/national-research-journal/volume-1-issue-2/simpal-mangakoy-statistical-methods-decision-framework.pdf",
+  "featured": false,
+  "active": true,
+  "id": "national-research-journal-volumes-1-4-7"
+}

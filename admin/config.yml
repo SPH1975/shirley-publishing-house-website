@@ -1,6 +1,18 @@
 backend:
   name: git-gateway
   branch: main
+  commit_messages:
+    create: "Admin: create {{collection}} {{slug}}"
+    update: "Admin: update {{collection}} {{slug}}"
+    delete: "Admin: delete {{collection}} {{slug}}"
+    uploadMedia: "Admin: upload {{path}}"
+    deleteMedia: "Admin: delete {{path}}"
+
+publish_mode: simple
+show_preview_links: false
+
+editor:
+  preview: false
 
 site_url: "https://shirleypublishinghouse.com"
 display_url: "https://shirleypublishinghouse.com"
@@ -67,6 +79,13 @@ collections:
         options: ["ISBN", "ISSN", "ISMN", "DOI", "Other"]
         default: "ISBN"
       - { label: "ISBN / ISSN / Identifier", name: "identifier", widget: "string" }
+      - label: "Additional Format Identifiers"
+        name: "identifiers"
+        widget: "list"
+        required: false
+        fields:
+          - { label: "Format", name: "format", widget: "string" }
+          - { label: "ISBN / Identifier", name: "isbn", widget: "string" }
       - { label: "Suggested Retail Price", name: "suggestedRetailPrice", widget: "string", required: false }
       - { label: "Cover Image", name: "cover", widget: "image", required: false }
       - { label: "Short Description", name: "abstract", widget: "text", required: false }
@@ -103,7 +122,7 @@ collections:
       - { label: "ISSN", name: "issn", widget: "string", required: false }
       - { label: "Journal Cover", name: "cover", widget: "image", required: false }
       - { label: "Editorial Board Image / Journal Back Page", name: "editorialBoardImage", widget: "image", required: false, hint: "Upload the back page or designed editorial-board image. It will appear on the journal profile page." }
-      - { label: "Downloadable Journal PDF / Full Issue", name: "journalFile", widget: "file", required: false, hint: "Upload the complete journal issue as a PDF. Visitors will be able to download it from the journal directory and profile page. Use a compressed, web-optimized PDF for faster downloads." }
+      - { label: "Downloadable Journal PDF / Full Issue", name: "journalFile", widget: "file", required: false, allow_multiple: false, choose_url: false, hint: "Upload the complete journal issue as a PDF. Visitors will be able to download it from the journal directory and profile page. Use a compressed, web-optimized PDF for faster downloads." }
       - { label: "Download Button Label", name: "downloadLabel", widget: "string", default: "Download Full Journal (PDF)", required: false }
       - { label: "Journal Description", name: "description", widget: "text" }
       - { label: "Scope", name: "scope", widget: "string", required: false, hint: "Example: Multidisciplinary Graduate Studies" }
@@ -113,7 +132,19 @@ collections:
       - { label: "Current Volume and Issue", name: "currentVolumeIssue", widget: "string", required: false }
       - { label: "Established Year", name: "establishedYear", widget: "string", required: false, hint: "Example: 2026" }
       - { label: "Editor-in-Chief", name: "editorInChief", widget: "string", required: false }
-      - { label: "Editorial Board Members", name: "editorialBoard", widget: "list", required: false, default: [] }
+      - label: "Editorial Board Groups"
+        name: "editorialBoardGroups"
+        widget: "list"
+        required: false
+        fields:
+          - { label: "Role or Group", name: "role", widget: "string" }
+          - label: "Members"
+            name: "members"
+            widget: "list"
+            fields:
+              - { label: "Name", name: "name", widget: "string" }
+              - { label: "Affiliation", name: "affiliation", widget: "text", required: false }
+      - { label: "Additional Ungrouped Editorial Board Members", name: "editorialBoard", widget: "list", required: false, default: [] }
       - { label: "Accepted Types of Work", name: "acceptedWorks", widget: "list", required: false, default: ["Research Articles", "Review Articles"] }
       - { label: "Article Preparation Guidelines", name: "preparationGuidelines", widget: "list", required: false, default: [] }
       - { label: "Editorial Assessment Criteria", name: "editorialCriteria", widget: "list", required: false, default: [] }
@@ -145,11 +176,7 @@ collections:
         hint: "Select the journal where this article was published."
       - { label: "Article Title", name: "title", widget: "string" }
       - { label: "Authors", name: "authors", widget: "list", hint: "Add each author as a separate entry." }
-      - label: "Article Type"
-        name: "articleType"
-        widget: "select"
-        options: ["Research Article", "Thesis-Derived Article", "Dissertation-Derived Article", "Review Article", "Case Study", "Institutional Paper", "Creative Work", "Other"]
-        default: "Research Article"
+      - { label: "Article or Work Type", name: "articleType", widget: "string", default: "Research Article", hint: "Examples: Research Article, Review Article, Poetry, Short Story, Legend, or Folk Song." }
       - { label: "Abstract", name: "abstract", widget: "text", required: false }
       - { label: "Keywords", name: "keywords", widget: "list", required: false, default: [] }
       - { label: "Volume", name: "volume", widget: "string", hint: "Example: 2" }
@@ -158,7 +185,7 @@ collections:
       - { label: "Publication Date", name: "publicationDate", widget: "datetime", date_format: "YYYY-MM-DD", time_format: false, format: "YYYY-MM-DD" }
       - { label: "Page Range", name: "pages", widget: "string", required: false, hint: "Example: 15–29" }
       - { label: "DOI", name: "doi", widget: "string", required: false }
-      - { label: "Article PDF", name: "pdfFile", widget: "file", media_library: { config: { multiple: false } }, hint: "Upload the final article PDF. This creates the public View/Download PDF button." }
+      - { label: "Article PDF", name: "pdfFile", widget: "file", allow_multiple: false, choose_url: false, hint: "Upload the final PDF. To fully remove an article later, delete this entry and then delete its PDF from Media." }
       - { label: "Feature Article", name: "featured", widget: "boolean", default: false, required: false }
       - { label: "Show in Journal Archive", name: "active", widget: "boolean", default: true, required: false }
 

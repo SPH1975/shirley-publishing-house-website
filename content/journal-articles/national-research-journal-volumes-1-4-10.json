@@ -1,0 +1,27 @@
+{
+  "journalId": "national-research-journal",
+  "title": "Inclusive Word Processing Without Equal Device Access: A Low-Resource Instructional Design",
+  "authors": [
+    "Felisa T. Ubaldo"
+  ],
+  "articleType": "Research Article",
+  "abstract": "A learning activity sheet on formatting text and paragraphs in Microsoft Word provides a useful starting point for basic digital-skills instruction, particularly where learners rely on printed modules, shared computers, mobile office applications, or intermittent teacher support. Procedural directions alone, however, do not ensure transferable digital literacy. This conceptual case analysis examines the supplied Grade 8 activity sheet for coherence, outcome-task alignment, platform dependence, accessibility, feedback, and authentic performance. The analysis identifies five design tensions: an Excel-related activity embedded in a Word lesson; recall-heavy assessment that only partially measures document-production skill; instructions tied to one desktop interface; unequal access to devices and printing; and language or item ambiguities that weaken validity. In response, the article proposes the TRACE framework: Target an observable performance, Represent the process through accessible alternatives, Activate learning through modeled and guided practice, Check performance with usable feedback, and Extend competence across platforms and authentic tasks. A redesigned instructional sequence shows how the original content can be retained while shifting from command recognition toward purposeful document creation. The framework supports teachers, learning-resource evaluators, and publishers who adapt digital-skills materials for low-resource and device-diverse settings.",
+  "keywords": [
+    "digital literacy",
+    "word processing",
+    "learning activity sheets",
+    "instructional alignment",
+    "universal design for learning",
+    "low-resource education"
+  ],
+  "volume": "3",
+  "issue": "2",
+  "issueLabel": "July–December 2022",
+  "publicationDate": "2022-12-31",
+  "pages": "40–45",
+  "doi": "",
+  "pdfFile": "assets/uploads/journal-archive/national-research-journal/volume-1-issue-2/felisa-ubaldo-inclusive-word-processing-instruction.pdf",
+  "featured": false,
+  "active": true,
+  "id": "national-research-journal-volumes-1-4-10"
+}

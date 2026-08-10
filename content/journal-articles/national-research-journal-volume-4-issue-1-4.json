@@ -1,0 +1,27 @@
+{
+  "journalId": "national-research-journal",
+  "title": "Measurement Before Mathematics: An Evidence-Centered Protocol for Sampling, Instruments, and Analysis in School Research",
+  "authors": [
+    "Reysan Dugay"
+  ],
+  "articleType": "Review Article",
+  "abstract": "Quantitative analysis is credible only when the numbers entering it represent the intended constructs and the sampled observations support the population claim. This conceptual article develops an evidence-centered protocol for school-based quantitative research from a practical research guide. The protocol links construct definition, sampling, instrument development, administration, data quality, and statistical analysis through a chain of validity evidence. It distinguishes target population from accessible population and analytic sample; separates reliability from validity; and treats missing data, response processes, scoring, and assumption checks as integral parts of the study rather than technical afterthoughts. A measurement-risk matrix and a staged instrument-review process are proposed for student researchers and advisers. The article argues that statistical sophistication cannot rescue weak measurement or biased selection and that transparent reporting should include uncertainty, effect magnitude, and data-quality decisions. The protocol is a methodological synthesis, not a report of collected participant data.",
+  "keywords": [
+    "measurement",
+    "sampling",
+    "research instruments",
+    "data quality",
+    "statistical analysis",
+    "educational research"
+  ],
+  "volume": "6",
+  "issue": "1",
+  "issueLabel": "January–June 2025",
+  "publicationDate": "2026-08-10",
+  "pages": "24–27",
+  "doi": "",
+  "pdfFile": "assets/uploads/journal-archive/national-research-journal/volume-4-issue-1/reysan-dugay-measurement-sampling-analysis.pdf",
+  "featured": false,
+  "active": true,
+  "id": "national-research-journal-volume-4-issue-1-4"
+}
