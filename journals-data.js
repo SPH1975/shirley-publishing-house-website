@@ -95,7 +95,8 @@ window.SHIRLEY_JOURNALS = [
         "role": "Art and Layout Editors",
         "members": [
           {
-            "name": "Chris Nalda"
+            "name": "Chris Nalda",
+            "affiliation": "Layout Artist & Graphic Designer, Shirley Publishing House"
           },
           {
             "name": "Donnavee B. Cabasal",
@@ -229,7 +230,8 @@ window.SHIRLEY_JOURNALS = [
         "role": "Art and Layout Editors",
         "members": [
           {
-            "name": "Chris Nalda"
+            "name": "Chris Nalda",
+            "affiliation": "Layout Artist & Graphic Designer, Shirley Publishing House"
           },
           {
             "name": "Donnavee B. Cabasal",
@@ -330,7 +332,8 @@ window.SHIRLEY_JOURNALS = [
         "role": "Art and Layout Editors",
         "members": [
           {
-            "name": "Chris Nalda"
+            "name": "Chris Nalda",
+            "affiliation": "Layout Artist & Graphic Designer, Shirley Publishing House"
           },
           {
             "name": "Donnavee B. Cabasal",
