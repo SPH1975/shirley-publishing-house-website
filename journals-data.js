@@ -6,7 +6,7 @@ window.SHIRLEY_JOURNALS = [
     ],
     "issn": "3155-6191",
     "editorialCriteria": [],
-    "currentVolumeIssue": "Volume 1 Issue No. 1",
+    "currentVolumeIssue": "Volume 1 Issue No. 2",
     "active": true,
     "publicationsUrl": "repository.html",
     "featured": true,

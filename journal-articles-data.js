@@ -54,6 +54,66 @@ window.SHIRLEY_JOURNAL_ARTICLES = [
     "id": "national-research-journal-volume-4-issue-2-5"
   },
   {
+    "id": "likhang-lahi-v1-i2-ahhuk-i-balit",
+    "journalId": "likhang-lahi-a-philippine-journal-of-literature-and-culture-arts",
+    "title": "Âhhuk I Balit",
+    "authors": [
+      "Leticia D. Guinsiman, PhD"
+    ],
+    "articleType": "Folk Song",
+    "volume": "1",
+    "issue": "2",
+    "issueLabel": "Issue No. 2",
+    "publicationDate": "2026-08-10",
+    "pages": "1–2",
+    "pdfFile": "assets/uploads/journal-archive/likhang-lahi/volume-1-issue-2/leticia-guinsiman-ahhuk-i-balit.pdf",
+    "active": true,
+    "abstract": "",
+    "keywords": [],
+    "doi": "",
+    "featured": false
+  },
+  {
+    "id": "likhang-lahi-v1-i2-atak-kuy-hinhinalung",
+    "journalId": "likhang-lahi-a-philippine-journal-of-literature-and-culture-arts",
+    "title": "Atak Ku’y Hinhinalung",
+    "authors": [
+      "Leticia D. Guinsiman, PhD"
+    ],
+    "articleType": "Folk Song",
+    "volume": "1",
+    "issue": "2",
+    "issueLabel": "Issue No. 2",
+    "publicationDate": "2026-08-10",
+    "pages": "1–3",
+    "pdfFile": "assets/uploads/journal-archive/likhang-lahi/volume-1-issue-2/leticia-guinsiman-atak-kuy-hinhinalung.pdf",
+    "active": true,
+    "abstract": "",
+    "keywords": [],
+    "doi": "",
+    "featured": false
+  },
+  {
+    "id": "likhang-lahi-v1-i2-bangun-ka-ina",
+    "journalId": "likhang-lahi-a-philippine-journal-of-literature-and-culture-arts",
+    "title": "Bangun Ka Ina",
+    "authors": [
+      "Leticia D. Guinsiman, PhD"
+    ],
+    "articleType": "Folk Song",
+    "volume": "1",
+    "issue": "2",
+    "issueLabel": "Issue No. 2",
+    "publicationDate": "2026-08-10",
+    "pages": "1–3",
+    "pdfFile": "assets/uploads/journal-archive/likhang-lahi/volume-1-issue-2/leticia-guinsiman-bangun-ka-ina.pdf",
+    "active": true,
+    "abstract": "",
+    "keywords": [],
+    "doi": "",
+    "featured": false
+  },
+  {
     "journalId": "national-research-journal",
     "title": "Beyond Cohesion: The ALIGN Framework for Role Clarity, Information Sharing, and Adaptive Team Coordination",
     "authors": [
@@ -188,6 +248,26 @@ window.SHIRLEY_JOURNAL_ARTICLES = [
     "id": "national-research-journal-volume-2-issue-1-1"
   },
   {
+    "id": "likhang-lahi-v1-i2-byahe",
+    "journalId": "likhang-lahi-a-philippine-journal-of-literature-and-culture-arts",
+    "title": "Byahe",
+    "authors": [
+      "Edcel John Madeja-Mazo"
+    ],
+    "articleType": "Short Story",
+    "volume": "1",
+    "issue": "2",
+    "issueLabel": "Issue No. 2",
+    "publicationDate": "2026-08-10",
+    "pages": "1–6",
+    "pdfFile": "assets/uploads/journal-archive/likhang-lahi/volume-1-issue-2/edcel-john-madeja-mazo-byahe.pdf",
+    "active": true,
+    "abstract": "",
+    "keywords": [],
+    "doi": "",
+    "featured": false
+  },
+  {
     "journalId": "national-research-journal",
     "title": "Competence and Challenges Encountered by Research Enthusiasts in Infanta District: Basis for Research Capacity Building",
     "authors": [
@@ -265,6 +345,26 @@ window.SHIRLEY_JOURNAL_ARTICLES = [
     "featured": false,
     "active": true,
     "id": "national-research-journal-volume-3-issue-2-6"
+  },
+  {
+    "id": "likhang-lahi-v1-i2-dudduli",
+    "journalId": "likhang-lahi-a-philippine-journal-of-literature-and-culture-arts",
+    "title": "Dudduli",
+    "authors": [
+      "Leticia D. Guinsiman, PhD"
+    ],
+    "articleType": "Folk Song",
+    "volume": "1",
+    "issue": "2",
+    "issueLabel": "Issue No. 2",
+    "publicationDate": "2026-08-10",
+    "pages": "1–4",
+    "pdfFile": "assets/uploads/journal-archive/likhang-lahi/volume-1-issue-2/leticia-guinsiman-dudduli.pdf",
+    "active": true,
+    "abstract": "",
+    "keywords": [],
+    "doi": "",
+    "featured": false
   },
   {
     "journalId": "national-research-journal",
@@ -726,6 +826,106 @@ window.SHIRLEY_JOURNAL_ARTICLES = [
     "id": "national-research-journal-volume-3-issue-1-3"
   },
   {
+    "id": "likhang-lahi-v1-i2-gagawang-gagahukli",
+    "journalId": "likhang-lahi-a-philippine-journal-of-literature-and-culture-arts",
+    "title": "Gâgawang Gâgahukli",
+    "authors": [
+      "Leticia D. Guinsiman, PhD"
+    ],
+    "articleType": "Folk Song",
+    "volume": "1",
+    "issue": "2",
+    "issueLabel": "Issue No. 2",
+    "publicationDate": "2026-08-10",
+    "pages": "1–2",
+    "pdfFile": "assets/uploads/journal-archive/likhang-lahi/volume-1-issue-2/leticia-guinsiman-gagawang-gagahukli.pdf",
+    "active": true,
+    "abstract": "",
+    "keywords": [],
+    "doi": "",
+    "featured": false
+  },
+  {
+    "id": "likhang-lahi-v1-i2-gatap-kuy-dinwa-dinwa",
+    "journalId": "likhang-lahi-a-philippine-journal-of-literature-and-culture-arts",
+    "title": "Gatap Ku’y Dinwa Dinwa",
+    "authors": [
+      "Leticia D. Guinsiman, PhD"
+    ],
+    "articleType": "Folk Song",
+    "volume": "1",
+    "issue": "2",
+    "issueLabel": "Issue No. 2",
+    "publicationDate": "2026-08-10",
+    "pages": "1–3",
+    "pdfFile": "assets/uploads/journal-archive/likhang-lahi/volume-1-issue-2/leticia-guinsiman-gatap-kuy-dinwa-dinwa.pdf",
+    "active": true,
+    "abstract": "",
+    "keywords": [],
+    "doi": "",
+    "featured": false
+  },
+  {
+    "id": "likhang-lahi-v1-i2-indungdung",
+    "journalId": "likhang-lahi-a-philippine-journal-of-literature-and-culture-arts",
+    "title": "Indungdung",
+    "authors": [
+      "Leticia D. Guinsiman, PhD"
+    ],
+    "articleType": "Folk Song",
+    "volume": "1",
+    "issue": "2",
+    "issueLabel": "Issue No. 2",
+    "publicationDate": "2026-08-10",
+    "pages": "1–3",
+    "pdfFile": "assets/uploads/journal-archive/likhang-lahi/volume-1-issue-2/leticia-guinsiman-indungdung.pdf",
+    "active": true,
+    "abstract": "",
+    "keywords": [],
+    "doi": "",
+    "featured": false
+  },
+  {
+    "id": "likhang-lahi-v1-i2-kamkamti-liyaliya",
+    "journalId": "likhang-lahi-a-philippine-journal-of-literature-and-culture-arts",
+    "title": "Kamkamti Liyaliya",
+    "authors": [
+      "Leticia D. Guinsiman, PhD"
+    ],
+    "articleType": "Folk Song",
+    "volume": "1",
+    "issue": "2",
+    "issueLabel": "Issue No. 2",
+    "publicationDate": "2026-08-10",
+    "pages": "1–3",
+    "pdfFile": "assets/uploads/journal-archive/likhang-lahi/volume-1-issue-2/leticia-guinsiman-kamkamti-liyaliya.pdf",
+    "active": true,
+    "abstract": "",
+    "keywords": [],
+    "doi": "",
+    "featured": false
+  },
+  {
+    "id": "likhang-lahi-v1-i2-kuhili-kamid-nalbi",
+    "journalId": "likhang-lahi-a-philippine-journal-of-literature-and-culture-arts",
+    "title": "Kuhili Kami’d Nalbi",
+    "authors": [
+      "Leticia D. Guinsiman, PhD"
+    ],
+    "articleType": "Folk Song",
+    "volume": "1",
+    "issue": "2",
+    "issueLabel": "Issue No. 2",
+    "publicationDate": "2026-08-10",
+    "pages": "1–2",
+    "pdfFile": "assets/uploads/journal-archive/likhang-lahi/volume-1-issue-2/leticia-guinsiman-kuhili-kamid-nalbi.pdf",
+    "active": true,
+    "abstract": "",
+    "keywords": [],
+    "doi": "",
+    "featured": false
+  },
+  {
     "journalId": "national-research-journal",
     "title": "Language-Responsive Scaffolding for Comparing Multi-Digit Numbers in Grade 3",
     "authors": [
@@ -778,6 +978,266 @@ window.SHIRLEY_JOURNAL_ARTICLES = [
     "featured": false,
     "active": true,
     "id": "national-research-journal-volume-4-issue-2-3"
+  },
+  {
+    "id": "likhang-lahi-v1-i2-legend-of-ahin",
+    "journalId": "likhang-lahi-a-philippine-journal-of-literature-and-culture-arts",
+    "title": "Legend of Ahin",
+    "authors": [
+      "Leticia D. Guinsiman, PhD"
+    ],
+    "articleType": "Legend",
+    "volume": "1",
+    "issue": "2",
+    "issueLabel": "Issue No. 2",
+    "publicationDate": "2026-08-10",
+    "pages": "1–3",
+    "pdfFile": "assets/uploads/journal-archive/likhang-lahi/volume-1-issue-2/leticia-guinsiman-legend-of-ahin.pdf",
+    "active": true,
+    "abstract": "",
+    "keywords": [],
+    "doi": "",
+    "featured": false
+  },
+  {
+    "id": "likhang-lahi-v1-i2-legend-of-ap-apid",
+    "journalId": "likhang-lahi-a-philippine-journal-of-literature-and-culture-arts",
+    "title": "Legend of Ap-Apid",
+    "authors": [
+      "Leticia D. Guinsiman, PhD"
+    ],
+    "articleType": "Legend",
+    "volume": "1",
+    "issue": "2",
+    "issueLabel": "Issue No. 2",
+    "publicationDate": "2026-08-10",
+    "pages": "1–2",
+    "pdfFile": "assets/uploads/journal-archive/likhang-lahi/volume-1-issue-2/leticia-guinsiman-legend-of-ap-apid.pdf",
+    "active": true,
+    "abstract": "",
+    "keywords": [],
+    "doi": "",
+    "featured": false
+  },
+  {
+    "id": "likhang-lahi-v1-i2-legend-of-binablayan",
+    "journalId": "likhang-lahi-a-philippine-journal-of-literature-and-culture-arts",
+    "title": "Legend of Binablayan",
+    "authors": [
+      "Leticia D. Guinsiman, PhD"
+    ],
+    "articleType": "Legend",
+    "volume": "1",
+    "issue": "2",
+    "issueLabel": "Issue No. 2",
+    "publicationDate": "2026-08-10",
+    "pages": "1–4",
+    "pdfFile": "assets/uploads/journal-archive/likhang-lahi/volume-1-issue-2/leticia-guinsiman-legend-of-binablayan.pdf",
+    "active": true,
+    "abstract": "",
+    "keywords": [],
+    "doi": "",
+    "featured": false
+  },
+  {
+    "id": "likhang-lahi-v1-i2-legend-of-danggo",
+    "journalId": "likhang-lahi-a-philippine-journal-of-literature-and-culture-arts",
+    "title": "Legend of Danggo",
+    "authors": [
+      "Leticia D. Guinsiman, PhD"
+    ],
+    "articleType": "Legend",
+    "volume": "1",
+    "issue": "2",
+    "issueLabel": "Issue No. 2",
+    "publicationDate": "2026-08-10",
+    "pages": "1–2",
+    "pdfFile": "assets/uploads/journal-archive/likhang-lahi/volume-1-issue-2/leticia-guinsiman-legend-of-danggo.pdf",
+    "active": true,
+    "abstract": "",
+    "keywords": [],
+    "doi": "",
+    "featured": false
+  },
+  {
+    "id": "likhang-lahi-v1-i2-legend-of-eheb",
+    "journalId": "likhang-lahi-a-philippine-journal-of-literature-and-culture-arts",
+    "title": "Legend of Eheb",
+    "authors": [
+      "Leticia D. Guinsiman, PhD"
+    ],
+    "articleType": "Legend",
+    "volume": "1",
+    "issue": "2",
+    "issueLabel": "Issue No. 2",
+    "publicationDate": "2026-08-10",
+    "pages": "1–3",
+    "pdfFile": "assets/uploads/journal-archive/likhang-lahi/volume-1-issue-2/leticia-guinsiman-legend-of-eheb.pdf",
+    "active": true,
+    "abstract": "",
+    "keywords": [],
+    "doi": "",
+    "featured": false
+  },
+  {
+    "id": "likhang-lahi-v1-i2-legend-of-gumhang",
+    "journalId": "likhang-lahi-a-philippine-journal-of-literature-and-culture-arts",
+    "title": "Legend of Gumhang",
+    "authors": [
+      "Leticia D. Guinsiman, PhD"
+    ],
+    "articleType": "Legend",
+    "volume": "1",
+    "issue": "2",
+    "issueLabel": "Issue No. 2",
+    "publicationDate": "2026-08-10",
+    "pages": "1–4",
+    "pdfFile": "assets/uploads/journal-archive/likhang-lahi/volume-1-issue-2/leticia-guinsiman-legend-of-gumhang.pdf",
+    "active": true,
+    "abstract": "",
+    "keywords": [],
+    "doi": "",
+    "featured": false
+  },
+  {
+    "id": "likhang-lahi-v1-i2-legend-of-impugong",
+    "journalId": "likhang-lahi-a-philippine-journal-of-literature-and-culture-arts",
+    "title": "Legend of Impugong",
+    "authors": [
+      "Leticia D. Guinsiman, PhD"
+    ],
+    "articleType": "Legend",
+    "volume": "1",
+    "issue": "2",
+    "issueLabel": "Issue No. 2",
+    "publicationDate": "2026-08-10",
+    "pages": "1–3",
+    "pdfFile": "assets/uploads/journal-archive/likhang-lahi/volume-1-issue-2/leticia-guinsiman-legend-of-impugong.pdf",
+    "active": true,
+    "abstract": "",
+    "keywords": [],
+    "doi": "",
+    "featured": false
+  },
+  {
+    "id": "likhang-lahi-v1-i2-legend-of-nahwi",
+    "journalId": "likhang-lahi-a-philippine-journal-of-literature-and-culture-arts",
+    "title": "Legend of Nahwi",
+    "authors": [
+      "Leticia D. Guinsiman, PhD"
+    ],
+    "articleType": "Legend",
+    "volume": "1",
+    "issue": "2",
+    "issueLabel": "Issue No. 2",
+    "publicationDate": "2026-08-10",
+    "pages": "1–3",
+    "pdfFile": "assets/uploads/journal-archive/likhang-lahi/volume-1-issue-2/leticia-guinsiman-legend-of-nahwi.pdf",
+    "active": true,
+    "abstract": "",
+    "keywords": [],
+    "doi": "",
+    "featured": false
+  },
+  {
+    "id": "likhang-lahi-v1-i2-legend-of-tinoc",
+    "journalId": "likhang-lahi-a-philippine-journal-of-literature-and-culture-arts",
+    "title": "Legend of Tinoc",
+    "authors": [
+      "Leticia D. Guinsiman, PhD"
+    ],
+    "articleType": "Legend",
+    "volume": "1",
+    "issue": "2",
+    "issueLabel": "Issue No. 2",
+    "publicationDate": "2026-08-10",
+    "pages": "1–9",
+    "pdfFile": "assets/uploads/journal-archive/likhang-lahi/volume-1-issue-2/leticia-guinsiman-legend-of-tinoc.pdf",
+    "active": true,
+    "abstract": "",
+    "keywords": [],
+    "doi": "",
+    "featured": false
+  },
+  {
+    "id": "likhang-lahi-v1-i2-legend-of-tukucan",
+    "journalId": "likhang-lahi-a-philippine-journal-of-literature-and-culture-arts",
+    "title": "Legend of Tukucan",
+    "authors": [
+      "Leticia D. Guinsiman, PhD"
+    ],
+    "articleType": "Legend",
+    "volume": "1",
+    "issue": "2",
+    "issueLabel": "Issue No. 2",
+    "publicationDate": "2026-08-10",
+    "pages": "1–3",
+    "pdfFile": "assets/uploads/journal-archive/likhang-lahi/volume-1-issue-2/leticia-guinsiman-legend-of-tukucan.pdf",
+    "active": true,
+    "abstract": "",
+    "keywords": [],
+    "doi": "",
+    "featured": false
+  },
+  {
+    "id": "likhang-lahi-v1-i2-legend-of-tulludan",
+    "journalId": "likhang-lahi-a-philippine-journal-of-literature-and-culture-arts",
+    "title": "Legend of Tulludan",
+    "authors": [
+      "Leticia D. Guinsiman, PhD"
+    ],
+    "articleType": "Legend",
+    "volume": "1",
+    "issue": "2",
+    "issueLabel": "Issue No. 2",
+    "publicationDate": "2026-08-10",
+    "pages": "1–3",
+    "pdfFile": "assets/uploads/journal-archive/likhang-lahi/volume-1-issue-2/leticia-guinsiman-legend-of-tulludan.pdf",
+    "active": true,
+    "abstract": "",
+    "keywords": [],
+    "doi": "",
+    "featured": false
+  },
+  {
+    "id": "likhang-lahi-v1-i2-legend-of-wangwang",
+    "journalId": "likhang-lahi-a-philippine-journal-of-literature-and-culture-arts",
+    "title": "Legend of Wangwang",
+    "authors": [
+      "Leticia D. Guinsiman, PhD"
+    ],
+    "articleType": "Legend",
+    "volume": "1",
+    "issue": "2",
+    "issueLabel": "Issue No. 2",
+    "publicationDate": "2026-08-10",
+    "pages": "1–2",
+    "pdfFile": "assets/uploads/journal-archive/likhang-lahi/volume-1-issue-2/leticia-guinsiman-legend-of-wangwang.pdf",
+    "active": true,
+    "abstract": "",
+    "keywords": [],
+    "doi": "",
+    "featured": false
+  },
+  {
+    "id": "likhang-lahi-v1-i2-light-beneath-the-lens",
+    "journalId": "likhang-lahi-a-philippine-journal-of-literature-and-culture-arts",
+    "title": "Light Beneath the Lens",
+    "authors": [
+      "Sherwin Valdez Alvaro"
+    ],
+    "articleType": "Poetry",
+    "volume": "1",
+    "issue": "2",
+    "issueLabel": "Issue No. 2",
+    "publicationDate": "2026-08-10",
+    "pages": "1–4",
+    "pdfFile": "assets/uploads/journal-archive/likhang-lahi/volume-1-issue-2/sherwin-alvaro-light-beneath-the-lens.pdf",
+    "active": true,
+    "abstract": "",
+    "keywords": [],
+    "doi": "",
+    "featured": false
   },
   {
     "journalId": "national-research-journal",
@@ -834,6 +1294,26 @@ window.SHIRLEY_JOURNAL_ARTICLES = [
     "id": "national-research-journal-volume-3-issue-2-3"
   },
   {
+    "id": "likhang-lahi-v1-i2-manuk-kuy-pukapukaw",
+    "journalId": "likhang-lahi-a-philippine-journal-of-literature-and-culture-arts",
+    "title": "Manuk Ku’y Pukapukaw",
+    "authors": [
+      "Leticia D. Guinsiman, PhD"
+    ],
+    "articleType": "Folk Song",
+    "volume": "1",
+    "issue": "2",
+    "issueLabel": "Issue No. 2",
+    "publicationDate": "2026-08-10",
+    "pages": "1–2",
+    "pdfFile": "assets/uploads/journal-archive/likhang-lahi/volume-1-issue-2/leticia-guinsiman-manuk-kuy-pukapukaw.pdf",
+    "active": true,
+    "abstract": "",
+    "keywords": [],
+    "doi": "",
+    "featured": false
+  },
+  {
     "journalId": "national-research-journal",
     "title": "Measurement Before Mathematics: An Evidence-Centered Protocol for Sampling, Instruments, and Analysis in School Research",
     "authors": [
@@ -859,6 +1339,26 @@ window.SHIRLEY_JOURNAL_ARTICLES = [
     "featured": false,
     "active": true,
     "id": "national-research-journal-volume-4-issue-1-4"
+  },
+  {
+    "id": "likhang-lahi-v1-i2-pipingew-dangew-dangew",
+    "journalId": "likhang-lahi-a-philippine-journal-of-literature-and-culture-arts",
+    "title": "Pipingew Dangew Dangew",
+    "authors": [
+      "Leticia D. Guinsiman, PhD"
+    ],
+    "articleType": "Folk Song",
+    "volume": "1",
+    "issue": "2",
+    "issueLabel": "Issue No. 2",
+    "publicationDate": "2026-08-10",
+    "pages": "1–4",
+    "pdfFile": "assets/uploads/journal-archive/likhang-lahi/volume-1-issue-2/leticia-guinsiman-pipingew-dangew-dangew.pdf",
+    "active": true,
+    "abstract": "",
+    "keywords": [],
+    "doi": "",
+    "featured": false
   },
   {
     "journalId": "national-research-journal",
@@ -1050,6 +1550,46 @@ window.SHIRLEY_JOURNAL_ARTICLES = [
     "id": "national-research-journal-volume-4-issue-2-10"
   },
   {
+    "id": "likhang-lahi-v1-i2-the-quiet-pulse-of-science",
+    "journalId": "likhang-lahi-a-philippine-journal-of-literature-and-culture-arts",
+    "title": "The Quiet Pulse of Science",
+    "authors": [
+      "Sherwin Valdez Alvaro"
+    ],
+    "articleType": "Poetry",
+    "volume": "1",
+    "issue": "2",
+    "issueLabel": "Issue No. 2",
+    "publicationDate": "2026-08-10",
+    "pages": "1–5",
+    "pdfFile": "assets/uploads/journal-archive/likhang-lahi/volume-1-issue-2/sherwin-alvaro-the-quiet-pulse-of-science.pdf",
+    "active": true,
+    "abstract": "",
+    "keywords": [],
+    "doi": "",
+    "featured": false
+  },
+  {
+    "id": "likhang-lahi-v1-i2-the-two-friends",
+    "journalId": "likhang-lahi-a-philippine-journal-of-literature-and-culture-arts",
+    "title": "The Two Friends",
+    "authors": [
+      "Chona Lee F. Fababeir"
+    ],
+    "articleType": "Short Story",
+    "volume": "1",
+    "issue": "2",
+    "issueLabel": "Issue No. 2",
+    "publicationDate": "2026-08-10",
+    "pages": "1–3",
+    "pdfFile": "assets/uploads/journal-archive/likhang-lahi/volume-1-issue-2/chona-lee-fababeir-the-two-friends.pdf",
+    "active": true,
+    "abstract": "",
+    "keywords": [],
+    "doi": "",
+    "featured": false
+  },
+  {
     "journalId": "national-research-journal",
     "title": "The Usefulness of Artificial Intelligence Across the Research Cycle: A VISTA Framework for Responsible Scholarly Work",
     "authors": [
@@ -1075,6 +1615,26 @@ window.SHIRLEY_JOURNAL_ARTICLES = [
     "featured": false,
     "active": true,
     "id": "national-research-journal-volumes-1-4-13"
+  },
+  {
+    "id": "likhang-lahi-v1-i2-tikdewak",
+    "journalId": "likhang-lahi-a-philippine-journal-of-literature-and-culture-arts",
+    "title": "Tikdewak",
+    "authors": [
+      "Leticia D. Guinsiman, PhD"
+    ],
+    "articleType": "Folk Song",
+    "volume": "1",
+    "issue": "2",
+    "issueLabel": "Issue No. 2",
+    "publicationDate": "2026-08-10",
+    "pages": "1–2",
+    "pdfFile": "assets/uploads/journal-archive/likhang-lahi/volume-1-issue-2/leticia-guinsiman-tikdewak.pdf",
+    "active": true,
+    "abstract": "",
+    "keywords": [],
+    "doi": "",
+    "featured": false
   },
   {
     "journalId": "national-research-journal",
