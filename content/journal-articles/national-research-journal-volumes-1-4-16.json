@@ -1,0 +1,27 @@
+{
+  "journalId": "national-research-journal",
+  "title": "From Worked Examples to Independent Reasoning: A Document Analysis of a Grade 6 Strategic Intervention Material for Decimal Multiplication",
+  "authors": [
+    "Risalinda Coloma"
+  ],
+  "articleType": "Research Article",
+  "abstract": "This study examined the instructional design of Find and Analyze to Get Me, a 13-page Strategic Intervention Material (SIM) intended to support Grade 6 learners in solving routine and non-routine problems involving multiplication of decimals and mixed decimals, including money. A structured qualitative document analysis coded the material for curriculum alignment, problem-solving structure, worked-example design, task breadth, cognitive demand, assessment and feedback, mathematical accuracy, editorial quality, and accessibility. The corpus contained one strategy overview, four fully worked examples, two assessment cards, two enrichment cards, a 20-response answer key, and a brief reference card. The material's principal strength is its stable five-part routine: identify what is asked, identify the given facts, select an operation, write a number sentence, and state the answer. Four contextualized worked examples make this routine visible and may reduce unnecessary processing for learners who need explicit guidance. However, all eight mathematical tasks are single-step and routine, seven use money contexts, and every product pairs a decimal or money amount with a whole-number multiplier. The assessment and enrichment cards retain the same five multiple-choice prompts, so they measure recognition of the scaffold more strongly than independent construction of a solution. The audit also identified one incorrect answer-key entry, imprecise use of the term decimal points, inconsistent units and notation, language errors, and incomplete source documentation. No learner data, expert-validation report, readability evidence, or field-test results were supplied; consequently, effectiveness cannot be inferred. The SIM is best regarded as a promising worked-example resource that requires mathematical and editorial correction, broader task variation, gradual fading of support, explanatory feedback, accessibility improvements, and staged validation before outcome claims or large-scale use.",
+  "keywords": [
+    "decimal multiplication",
+    "strategic intervention material",
+    "worked examples",
+    "word problems",
+    "document analysis",
+    "Grade 6 mathematics"
+  ],
+  "volume": "3",
+  "issue": "1",
+  "issueLabel": "January–June 2022",
+  "publicationDate": "2026-08-10",
+  "pages": "44–55",
+  "doi": "",
+  "pdfFile": "assets/uploads/journal-archive/national-research-journal/volume-1-issue-1/risalinda-coloma-decimal-multiplication-sim.pdf",
+  "featured": false,
+  "active": true,
+  "id": "national-research-journal-volumes-1-4-16"
+}

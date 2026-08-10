@@ -1,0 +1,27 @@
+{
+  "journalId": "national-research-journal",
+  "title": "Claim First, Method Second: A Six-Link Audit for Defensible Quantitative Education Research",
+  "authors": [
+    "Sherlene Cabradilla"
+  ],
+  "articleType": "Review Article",
+  "abstract": "Weak quantitative studies frequently originate before data collection, when research questions, variables, design, sampling, analysis, and conclusions are selected as separate tasks rather than as an aligned system. This conceptual article synthesizes a practical quantitative-research guide into an alignment framework for school-based inquiry. The framework begins with a claim target—description, association, prediction, group difference, or causation—and traces the evidence requirements of each target through variable specification, design choice, sampling, measurement, statistical analysis, and reporting. A claim-design matrix and a six-link alignment audit are proposed to prevent causal overreach, population overgeneralization, and statistical procedures that do not answer the stated question. The article clarifies that numerical data do not automatically guarantee objectivity, reliability, or generalizability; these qualities depend on design decisions and the quality of implementation. The framework is intended for planning, proposal review, and research instruction, while empirical evaluation is reserved for subsequent studies.",
+  "keywords": [
+    "quantitative research",
+    "educational inquiry",
+    "research design",
+    "causal inference",
+    "alignment",
+    "research questions"
+  ],
+  "volume": "6",
+  "issue": "1",
+  "issueLabel": "January–June 2025",
+  "publicationDate": "2026-08-10",
+  "pages": "28–31",
+  "doi": "",
+  "pdfFile": "assets/uploads/journal-archive/national-research-journal/volume-4-issue-1/sherlene-cabradilla-defensible-quantitative-designs.pdf",
+  "featured": false,
+  "active": true,
+  "id": "national-research-journal-volume-4-issue-1-5"
+}

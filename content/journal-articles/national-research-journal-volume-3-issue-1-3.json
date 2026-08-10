@@ -1,0 +1,27 @@
+{
+  "journalId": "national-research-journal",
+  "title": "Verifying Python Algorithms: A Three-Layer Model of Contracts, Tests, and Complexity Evidence",
+  "authors": [
+    "Helen Jacinto"
+  ],
+  "articleType": "Review Article",
+  "abstract": "A runnable implementation is not yet a trustworthy algorithm. Trust requires explicit claims about behavior, evidence that challenges those claims, and performance measurements whose design supports the conclusion drawn from them. This conceptual-methodological article uses A Practical Python Approach to Data Structures and Algorithms as a curricular foundation for a verification-oriented approach to Python implementations of arrays, linked lists, stacks, queues, sorting routines, and trees. The source is examined as an instructional artifact; no learner data or benchmark results are inferred. The proposed framework joins three forms of evidence: correctness contracts, systematic tests, and empirical complexity checks. Contracts state preconditions, postconditions, and representation rules. Example-based tests target boundaries and failure modes, while property-based and metamorphic relations provide reusable oracles when exact expected outputs are costly to enumerate. Complexity claims are examined through input families, scale, repeated measurements, environment control, and plots interpreted alongside asymptotic analysis. Two practical tools are presented: a test-oracle matrix for core DSA components and a protocol for producing defensible timing evidence. The article distinguishes functional correctness from structural validity, deterministic results from measurement variability, and observed growth from proof of asymptotic complexity. It argues that students and practitioners should be taught to report what was claimed, how it was challenged, what remains uncertain, and which evidence would change the conclusion. The framework is intended for laboratory instruction, code review, and future empirical study; it makes no unsupported claim that a particular implementation or teaching intervention is effective.",
+  "keywords": [
+    "algorithm testing",
+    "property-based testing",
+    "metamorphic testing",
+    "empirical complexity",
+    "Python",
+    "reproducible benchmarking"
+  ],
+  "volume": "5",
+  "issue": "1",
+  "issueLabel": "January–June 2024",
+  "publicationDate": "2026-08-10",
+  "pages": "17–23",
+  "doi": "",
+  "pdfFile": "assets/uploads/journal-archive/national-research-journal/volume-3-issue-1/helen-jacinto-trustworthy-algorithms-python.pdf",
+  "featured": false,
+  "active": true,
+  "id": "national-research-journal-volume-3-issue-1-3"
+}

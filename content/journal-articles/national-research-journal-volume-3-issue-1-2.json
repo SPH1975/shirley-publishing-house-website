@@ -1,0 +1,27 @@
+{
+  "journalId": "national-research-journal",
+  "title": "Evidence Before Intuition: Designing a Job-Related Employee Selection System",
+  "authors": [
+    "Lanie Cudiamat"
+  ],
+  "articleType": "Review Article",
+  "abstract": "Organizations frequently describe hiring as a search for the best candidate, yet the phrase conceals a demanding measurement problem: best for which work, according to which evidence, combined by which rule, and reviewed against which outcome? This conceptual-design article transforms a broad instructional manuscript on recruitment and selection into an auditable model for evidence-centered hiring. The source presents job analysis, recruitment channels, applicant screening, interviewing, selection methods, job offers, onboarding, inclusion, legal concerns, informal sponsorship, and technology. The present article narrows that breadth to one argument: selection quality depends on a traceable chain connecting work requirements to assessment content, scoring, decision rules, and post-hire review. A six-stage system is proposed: define work, specify evidence, standardize collection, combine scores, document decisions, and learn from outcomes. The article explains why job analysis must govern what is assessed; why interviews should use common, behaviorally anchored questions; why work samples and other predictors require evidence appropriate to their intended use; and why mechanical score combination ordinarily offers greater consistency than unaided holistic judgment. Two practical tools are introduced: a job-evidence alignment matrix and a decision-audit record. The model also identifies common failure modes, including vague fit criteria, method shopping, compensatory decisions made after scores are known, and technology that automates an undefined process. The article does not report applicants, scores, or organizational outcomes. It offers a testable design proposition for teaching, small-enterprise practice, and future validation research.",
+  "keywords": [
+    "personnel selection",
+    "job analysis",
+    "structured interview",
+    "work sample",
+    "decision rule",
+    "evidence-based management"
+  ],
+  "volume": "5",
+  "issue": "1",
+  "issueLabel": "January–June 2024",
+  "publicationDate": "2026-08-10",
+  "pages": "9–16",
+  "doi": "",
+  "pdfFile": "assets/uploads/journal-archive/national-research-journal/volume-3-issue-1/lanie-cudiamat-evidence-centered-selection.pdf",
+  "featured": false,
+  "active": true,
+  "id": "national-research-journal-volume-3-issue-1-2"
+}

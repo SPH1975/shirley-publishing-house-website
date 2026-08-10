@@ -1,0 +1,27 @@
+{
+  "journalId": "national-research-journal",
+  "title": "Beyond Cohesion: The ALIGN Framework for Role Clarity, Information Sharing, and Adaptive Team Coordination",
+  "authors": [
+    "Michael Feliciano"
+  ],
+  "articleType": "Review Article",
+  "abstract": "Team effectiveness is often discussed through the language of unity, trust, and cohesion. These qualities matter, but they do not by themselves specify how interdependent work should be coordinated. A cohesive team can still duplicate effort, miss handoffs, conceal unique information, or adapt too slowly when conditions change. This conceptual review develops the ALIGN framework to connect human behavior in groups with the operating requirements of coordinated performance. Building from the uploaded Human Behavior in Organizations manuscript and integrating established research on team effectiveness, team processes, implicit coordination, information sharing, team diagnostics, and virtuality, the framework identifies five design tasks: Articulate purpose and outcomes; Link interdependent roles; Integrate information and shared mental models; Govern interaction and conflict; and Navigate transitions and review. The model treats coordination as a dynamic accomplishment rather than a stable team trait. It emphasizes that roles require interfaces, information requires integration, and cohesion requires task discipline. The article proposes an operating cycle across transition, action, and reflection phases and offers diagnostic questions for co-located, hybrid, and distributed teams. It also distinguishes adaptive coordination from excessive standardization: teams need enough structure to anticipate one another's needs while retaining the capacity to revise plans when tasks, membership, or context change. Because the article reports no original empirical study, its propositions are presented as testable directions rather than findings. ALIGN provides managers, educators, and researchers with a practical vocabulary for designing teams whose members can coordinate reliably without sacrificing learning and adaptation.",
+  "keywords": [
+    "team coordination",
+    "role clarity",
+    "information sharing",
+    "shared mental models",
+    "team processes",
+    "adaptive teams"
+  ],
+  "volume": "5",
+  "issue": "1",
+  "issueLabel": "January–June 2024",
+  "publicationDate": "2026-08-10",
+  "pages": "24–35",
+  "doi": "",
+  "pdfFile": "assets/uploads/journal-archive/national-research-journal/volume-3-issue-1/michael-feliciano-team-coordination.pdf",
+  "featured": false,
+  "active": true,
+  "id": "national-research-journal-volume-3-issue-1-4"
+}

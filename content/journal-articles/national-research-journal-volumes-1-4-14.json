@@ -1,0 +1,27 @@
+{
+  "journalId": "national-research-journal",
+  "title": "Strategy Under Constraint: The DAEL Cycle for Learning-Oriented Execution",
+  "authors": [
+    "Jesigen Lunag"
+  ],
+  "articleType": "Review Article",
+  "abstract": "Organizations frequently possess strategic plans but lack a reliable mechanism for converting analysis into coordinated action and corrective learning. The difficulty is especially pronounced in resource-constrained organizations, where a small leadership group, limited information systems, and competing operational demands can separate planning from execution. This conceptual article develops the Diagnose-Align-Execute-Learn (DAEL) framework by integrating established ideas from industry analysis, the resource-based view, mission and objective alignment, strategy implementation, the balanced scorecard, strategic control, and contingency planning. The source instructional manuscript, Fundamentals of Strategic Management: An Introductory Course, supplied the initial process architecture; canonical strategy literature was used to refine its theoretical logic. DAEL treats strategy as a closed management cycle rather than a periodic planning document. Diagnosis tests external conditions and internal capabilities. Alignment converts strategic intent into a limited portfolio of objectives and resource commitments. Execution assigns ownership, milestones, decision rights, and operating routines. Learning compares results with assumptions, activates corrective or contingent action, and renews the next diagnosis. Two design features distinguish the framework: explicit handoff gates between stages and a traceability chain linking every initiative to an objective, indicator, owner, and review decision. The article explains the framework, identifies predictable breakdowns, and proposes a minimum viable governance system suitable for small firms, cooperatives, educational institutions, local public organizations, and nonprofits. DAEL is offered as a testable conceptual model, not as evidence of performance effects.",
+  "keywords": [
+    "strategic management",
+    "strategy implementation",
+    "adaptive execution",
+    "balanced scorecard",
+    "resource-based view",
+    "organizational learning"
+  ],
+  "volume": "3",
+  "issue": "1",
+  "issueLabel": "January–June 2022",
+  "publicationDate": "2026-08-10",
+  "pages": "28–34",
+  "doi": "",
+  "pdfFile": "assets/uploads/journal-archive/national-research-journal/volume-1-issue-1/jesigen-lunag-adaptive-strategy-execution.pdf",
+  "featured": false,
+  "active": true,
+  "id": "national-research-journal-volumes-1-4-14"
+}

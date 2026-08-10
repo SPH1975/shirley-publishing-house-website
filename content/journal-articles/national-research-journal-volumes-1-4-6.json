@@ -1,0 +1,27 @@
+{
+  "journalId": "national-research-journal",
+  "title": "Human Judgment Before Machine Output: The VERIFY Protocol for AI-Assisted Statistical Research",
+  "authors": [
+    "Jossanth Vicente"
+  ],
+  "articleType": "Review Article",
+  "abstract": "Generative artificial intelligence (GenAI) can explain statistical concepts, propose analyses, generate code, and draft interpretations, but fluent outputs can conceal fabricated references, invalid assumptions, privacy risks, and reasoning that learners cannot defend. This conceptual review develops the VERIFY framework for responsible GenAI use in senior high school quantitative research. Drawing on human-centred AI guidance, K-12 AI education research, statistical reporting principles, and scholarship on large language models, the framework assigns GenAI a bounded role across six actions: Verify the question and data provenance; Examine measurement and design; Review assumptions and alternatives; Independently reproduce computations; Fact-check claims and citations; and Yield a transparent human-authored interpretation. The framework maps appropriate assistance across the research cycle and proposes process portfolios, oral defenses, prompt-and-output logs, and reproducible files as assessment evidence. It treats AI literacy and statistical literacy as mutually reinforcing: learners need statistical knowledge to audit AI output, while supervised AI dialogue can expose misconceptions and support explanation. Responsible integration therefore requires neither uncritical adoption nor blanket prohibition, but designs in which verification is observable and consequential.",
+  "keywords": [
+    "generative artificial intelligence",
+    "statistical literacy",
+    "quantitative research",
+    "secondary education",
+    "academic integrity",
+    "human-centred AI"
+  ],
+  "volume": "3",
+  "issue": "2",
+  "issueLabel": "July–December 2022",
+  "publicationDate": "2022-12-31",
+  "pages": "6–10",
+  "doi": "",
+  "pdfFile": "assets/uploads/journal-archive/national-research-journal/volume-1-issue-2/jossanth-vicente-generative-ai-statistical-literacy.pdf",
+  "featured": false,
+  "active": true,
+  "id": "national-research-journal-volumes-1-4-6"
+}

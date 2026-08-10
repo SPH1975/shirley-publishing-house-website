@@ -2,22 +2,10 @@ window.SHIRLEY_JOURNALS = [
   {
     "submissionUrl": "submit.html",
     "disciplines": [
-      "Philippine Literature",
-      "Creative Writing",
-      "Language and Translation",
-      "Culture and Heritage Studies",
-      "Drama and Performance",
-      "Visual Arts"
+      "Literature"
     ],
     "issn": "3155-6191",
-    "editorialCriteria": [
-      "Relevance to the journal’s literary, cultural, and artistic scope",
-      "Originality, creativity, and strength of artistic voice",
-      "Clarity, coherence, structure, and technical execution",
-      "Cultural sensitivity and responsible representation",
-      "Ethical use of sources, translations, images, and referenced material",
-      "Readiness for editorial review and publication"
-    ],
+    "editorialCriteria": [],
     "currentVolumeIssue": "Volume 1 Issue No. 2",
     "active": true,
     "publicationsUrl": "repository.html",
@@ -29,22 +17,12 @@ window.SHIRLEY_JOURNALS = [
     "cover": "assets/uploads/chatgpt-image-jul-23-2026-02_57_12-pm.png",
     "format": "Print & Online",
     "title": "Likhang Lahi: A Philippine Journal of Literature and Culture Arts",
-    "preparationGuidelines": [
-      "Use a clear and distinctive title appropriate to the work",
-      "Include complete author information and institutional affiliation, when applicable",
-      "Submit an original, unpublished work",
-      "Use consistent formatting, spelling, and language conventions",
-      "Provide an English title or brief synopsis for works written in a Philippine language, when requested",
-      "Secure permission for copyrighted images, translations, quotations, and other third-party material"
-    ],
+    "preparationGuidelines": [],
     "acceptedWorks": [
       "Poetry",
-      "Short Stories",
-      "Creative Nonfiction",
-      "Drama and Scripts",
-      "Literary Essays and Book Reviews",
-      "Translations and Children’s Literature",
-      "Visual Arts"
+      "ShortStories",
+      "Folksongs",
+      "Legends"
     ],
     "editorialBoardImage": "assets/uploads/screenshot-2026-07-21-141205.png",
     "description": "A peer-reviewed quarterly publication that showcases original literary and artistic works celebrating Philippine languages, cultures, traditions, and creative expression. It welcomes poetry, fiction, creative nonfiction, drama, literary essays, translations, children’s literature, book reviews, and visual arts from both emerging and established writers and artists.",
@@ -251,7 +229,8 @@ window.SHIRLEY_JOURNALS = [
         "role": "Art and Layout Editors",
         "members": [
           {
-            "name": "Chris Nalda"
+            "name": "Chris Nalda",
+            "affiliation": "Layout Artist & Graphic Designer, Shirley Publishing House"
           },
           {
             "name": "Donnavee B. Cabasal",
@@ -265,13 +244,7 @@ window.SHIRLEY_JOURNALS = [
     "downloadLabel": "Download Full Journal (PDF)"
   },
   {
-    "title": "National Research Journal",
-    "shortTitle": "National Research Journal",
-    "urlSlug": "national-research-journal",
-    "issn": "2960-3625",
-    "cover": "assets/uploads/journal-covers/national-research-journal-cover-2026.svg",
-    "description": "National Research Journal is a semi-annual English-language scholarly publication of Shirley Publishing House. It provides a venue for original research, academic studies, and evidence-based contributions addressing educational, institutional, scientific, social, and national development concerns.",
-    "scope": "National and Multidisciplinary Research",
+    "submissionUrl": "submit.html",
     "disciplines": [
       "Education and Teaching",
       "Social Sciences",
@@ -282,12 +255,20 @@ window.SHIRLEY_JOURNALS = [
       "Health and Community Studies",
       "Other Research Disciplines"
     ],
+    "issn": "2960-3625",
+    "editorialCriteria": [
+      "Relevance to the journal's national and multidisciplinary scope",
+      "Originality and research contribution",
+      "Clarity, organization, and methodological soundness",
+      "Ethical handling of data, sources, and authorship",
+      "Accuracy and completeness of citations and references",
+      "Readiness for editorial review and publication"
+    ],
+    "currentVolumeIssue": "Volume 6 Issue No. 2",
+    "active": true,
+    "publicationsUrl": "repository.html",
+    "featured": true,
     "publicationFrequency": "Semi-annual",
-    "format": "Print",
-    "currentVolumeIssue": "Volume 4 Issue No. 2",
-    "establishedYear": "2022",
-    "editorInChief": "LETICIA D. GUINSIMAN",
-    "editorialBoard": [],
     "editorialBoardGroups": [
       {
         "role": "Chairman",
@@ -352,7 +333,8 @@ window.SHIRLEY_JOURNALS = [
         "role": "Art and Layout Editors",
         "members": [
           {
-            "name": "Chris Nalda"
+            "name": "Chris Nalda",
+            "affiliation": "Layout Artist & Graphic Designer, Shirley Publishing House"
           },
           {
             "name": "Donnavee B. Cabasal",
@@ -362,13 +344,13 @@ window.SHIRLEY_JOURNALS = [
         ]
       }
     ],
-    "acceptedWorks": [
-      "Research Articles",
-      "Review Articles",
-      "Case Studies",
-      "Institutional Research",
-      "Policy and Development Studies"
-    ],
+    "editorInChief": "LETICIA D. GUINSIMAN",
+    "scope": "National and Multidisciplinary Research",
+    "establishedYear": "2020",
+    "cover": "assets/uploads/journal-covers/national-research-journal-cover-2026.svg",
+    "format": "Print",
+    "title": "National Research Journal",
+    "urlSlug": "national-research-journal",
     "preparationGuidelines": [
       "Use a clear and specific research title",
       "Include complete author information and institutional affiliation",
@@ -377,18 +359,16 @@ window.SHIRLEY_JOURNALS = [
       "Apply a consistent citation and reference style",
       "Submit original work that has not been published elsewhere"
     ],
-    "editorialCriteria": [
-      "Relevance to the journal's national and multidisciplinary scope",
-      "Originality and research contribution",
-      "Clarity, organization, and methodological soundness",
-      "Ethical handling of data, sources, and authorship",
-      "Accuracy and completeness of citations and references",
-      "Readiness for editorial review and publication"
+    "acceptedWorks": [
+      "Research Articles",
+      "Review Articles",
+      "Case Studies",
+      "Institutional Research",
+      "Policy and Development Studies"
     ],
-    "submissionUrl": "submit.html",
-    "publicationsUrl": "repository.html",
-    "featured": true,
-    "active": true,
+    "shortTitle": "National Research Journal",
+    "description": "National Research Journal is a semi-annual English-language scholarly publication of Shirley Publishing House. It provides a venue for original research, academic studies, and evidence-based contributions addressing educational, institutional, scientific, social, and national development concerns.",
+    "editorialBoard": [],
     "id": "national-research-journal",
     "editorialBoardImage": "",
     "journalFile": "",
