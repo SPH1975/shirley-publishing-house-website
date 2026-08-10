@@ -1,5 +1,221 @@
 window.SHIRLEY_JOURNAL_ARTICLES = [
   {
+    "journalId": "national-research-journal",
+    "keywords": [
+      "COVID-19",
+      "Philippines",
+      "rural communities",
+      "equity",
+      "policy",
+      "resilience"
+    ],
+    "volume": "1",
+    "issue": "2",
+    "issueLabel": "Issue No. 2",
+    "publicationDate": "2026-08-10",
+    "doi": "",
+    "featured": false,
+    "active": true,
+    "id": "national-research-journal-volume-1-issue-2-nathaniel-p-garcia",
+    "title": "School Leadership and Crisis Management During the COVID-19 Outbreak",
+    "authors": [
+      "Nathaniel P. Garcia"
+    ],
+    "articleType": "Policy and Leadership Review",
+    "abstract": "This policy and leadership review examines school leadership and crisis management during the COVID-19 outbreak using literature and institutional documents published no later than 2021. It argues that effective crisis leadership is a cycle of sensemaking, transparent communication, distributed action, care, and adaptive learning. Evidence was organized around four themes: rapid sensemaking and planning, communication and trust, distributed leadership, and staff and learner well-being. The synthesis shows that pandemic outcomes were rarely determined by a single factor; instead, they reflected interacting material, organizational, social, and informational conditions. The article proposes a layered response combining universal minimum provision, targeted support, continuous feedback, and locally adaptable implementation. Because this is a literature-based analysis rather than original field research, it does not report participants, newly collected data, or causal estimates. Its contribution lies in integrating early pandemic evidence into a practical framework for Philippine schools and communities, especially rural and resource-constrained settings.",
+    "pages": "1–10",
+    "pdfFile": "assets/uploads/journal-archive/national-research-journal/volume-1-issue-2-2021/nathaniel-p-garcia-school-leadership-crisis-management.pdf"
+  },
+  {
+    "journalId": "national-research-journal",
+    "keywords": [
+      "COVID-19",
+      "Philippines",
+      "rural communities",
+      "equity",
+      "policy",
+      "resilience"
+    ],
+    "volume": "1",
+    "issue": "2",
+    "issueLabel": "Issue No. 2",
+    "publicationDate": "2026-08-10",
+    "doi": "",
+    "featured": false,
+    "active": true,
+    "id": "national-research-journal-volume-1-issue-2-patricia-mae-soriano",
+    "title": "Effects of Market Closures on Local Farmers and Vendors",
+    "authors": [
+      "Patricia Mae Soriano"
+    ],
+    "articleType": "Food-Systems Policy Review",
+    "abstract": "This food-systems policy review examines effects of market closures on local farmers and vendors using literature and institutional documents published no later than 2021. It argues that market closure is a disruption to perishable supply chains, farmgate prices, vendor incomes, and household food access. Evidence was organized around four themes: perishability and logistics, price and bargaining effects, vendor and farm livelihoods, and safe-market continuity and alternative channels. The synthesis shows that pandemic outcomes were rarely determined by a single factor; instead, they reflected interacting material, organizational, social, and informational conditions. The article proposes a layered response combining universal minimum provision, targeted support, continuous feedback, and locally adaptable implementation. Because this is a literature-based analysis rather than original field research, it does not report participants, newly collected data, or causal estimates. Its contribution lies in integrating early pandemic evidence into a practical framework for Philippine schools and communities, especially rural and resource-constrained settings.",
+    "pages": "11–20",
+    "pdfFile": "assets/uploads/journal-archive/national-research-journal/volume-1-issue-2-2021/patricia-mae-soriano-market-closures.pdf"
+  },
+  {
+    "journalId": "national-research-journal",
+    "keywords": [
+      "COVID-19",
+      "Philippines",
+      "rural communities",
+      "equity",
+      "policy",
+      "resilience"
+    ],
+    "volume": "1",
+    "issue": "2",
+    "issueLabel": "Issue No. 2",
+    "publicationDate": "2026-08-10",
+    "doi": "",
+    "featured": false,
+    "active": true,
+    "id": "national-research-journal-volume-1-issue-2-rafael-m-villanueva",
+    "title": "Challenges Encountered by Parents During Home-Based Learning",
+    "authors": [
+      "Rafael M. Villanueva"
+    ],
+    "articleType": "Integrative Literature Review",
+    "abstract": "This integrative literature review examines challenges encountered by parents during home-based learning using literature and institutional documents published no later than 2021. It argues that parental support is unpaid educational labor shaped by time, income, confidence, household space, and school communication. Evidence was organized around four themes: role strain and time poverty, instructional confidence, economic and technological barriers, and school-family communication. The synthesis shows that pandemic outcomes were rarely determined by a single factor; instead, they reflected interacting material, organizational, social, and informational conditions. The article proposes a layered response combining universal minimum provision, targeted support, continuous feedback, and locally adaptable implementation. Because this is a literature-based analysis rather than original field research, it does not report participants, newly collected data, or causal estimates. Its contribution lies in integrating early pandemic evidence into a practical framework for Philippine schools and communities, especially rural and resource-constrained settings.",
+    "pages": "21–30",
+    "pdfFile": "assets/uploads/journal-archive/national-research-journal/volume-1-issue-2-2021/rafael-m-villanueva-home-based-learning.pdf"
+  },
+  {
+    "journalId": "national-research-journal",
+    "keywords": [
+      "COVID-19",
+      "Philippines",
+      "rural communities",
+      "equity",
+      "policy",
+      "resilience"
+    ],
+    "volume": "1",
+    "issue": "2",
+    "issueLabel": "Issue No. 2",
+    "publicationDate": "2026-08-10",
+    "doi": "",
+    "featured": false,
+    "active": true,
+    "id": "national-research-journal-volume-1-issue-2-vincent-carlo-navarro",
+    "title": "Food Security Among Low-Income Households During Lockdowns",
+    "authors": [
+      "Vincent Carlo Navarro"
+    ],
+    "articleType": "Policy-Oriented Integrative Review",
+    "abstract": "This policy-oriented integrative review examines food security among low-income households during lockdowns using literature and institutional documents published no later than 2021. It argues that food insecurity during lockdown is an interaction among income loss, mobility restrictions, price pressures, and constrained safety nets. Evidence was organized around four themes: income and livelihood shocks, food access and affordability, nutrition and coping strategies, and social protection and local food systems. The synthesis shows that pandemic outcomes were rarely determined by a single factor; instead, they reflected interacting material, organizational, social, and informational conditions. The article proposes a layered response combining universal minimum provision, targeted support, continuous feedback, and locally adaptable implementation. Because this is a literature-based analysis rather than original field research, it does not report participants, newly collected data, or causal estimates. Its contribution lies in integrating early pandemic evidence into a practical framework for Philippine schools and communities, especially rural and resource-constrained settings.",
+    "pages": "31–40",
+    "pdfFile": "assets/uploads/journal-archive/national-research-journal/volume-1-issue-2-2021/vincent-carlo-navarro-food-security.pdf"
+  },
+  {
+    "journalId": "national-research-journal",
+    "keywords": [
+      "COVID-19",
+      "Philippines",
+      "rural communities",
+      "equity",
+      "policy",
+      "resilience"
+    ],
+    "volume": "1",
+    "issue": "2",
+    "issueLabel": "Issue No. 2",
+    "publicationDate": "2026-08-10",
+    "doi": "",
+    "featured": false,
+    "active": true,
+    "id": "national-research-journal-volume-1-issue-2-hannah-grace-aquino",
+    "title": "Experiences of Small Businesses During the Initial Community Quarantine",
+    "authors": [
+      "Hannah Grace Aquino"
+    ],
+    "articleType": "Integrative Business Review",
+    "abstract": "This integrative business review examines experiences of small businesses during the initial community quarantine using literature and institutional documents published no later than 2021. It argues that micro and small enterprise vulnerability is a function of thin cash reserves, disrupted demand and supply, mobility rules, and limited digital capacity. Evidence was organized around four themes: liquidity and demand shock, supply and mobility disruption, labor and owner well-being, and adaptation and public support. The synthesis shows that pandemic outcomes were rarely determined by a single factor; instead, they reflected interacting material, organizational, social, and informational conditions. The article proposes a layered response combining universal minimum provision, targeted support, continuous feedback, and locally adaptable implementation. Because this is a literature-based analysis rather than original field research, it does not report participants, newly collected data, or causal estimates. Its contribution lies in integrating early pandemic evidence into a practical framework for Philippine schools and communities, especially rural and resource-constrained settings.",
+    "pages": "41–50",
+    "pdfFile": "assets/uploads/journal-archive/national-research-journal/volume-1-issue-2-2021/hannah-grace-aquino-small-businesses.pdf"
+  },
+  {
+    "journalId": "national-research-journal",
+    "keywords": [
+      "COVID-19",
+      "Philippines",
+      "rural communities",
+      "equity",
+      "policy",
+      "resilience"
+    ],
+    "volume": "1",
+    "issue": "2",
+    "issueLabel": "Issue No. 2",
+    "publicationDate": "2026-08-10",
+    "doi": "",
+    "featured": false,
+    "active": true,
+    "id": "national-research-journal-volume-1-issue-2-jerome-s-santiago",
+    "title": "Community Compliance with COVID-19 Health and Safety Protocols",
+    "authors": [
+      "Jerome S. Santiago"
+    ],
+    "articleType": "Behavioral Policy Review",
+    "abstract": "This behavioral policy review examines community compliance with COVID-19 health and safety protocols using literature and institutional documents published no later than 2021. It argues that compliance is a social and institutional outcome influenced by risk perception, feasibility, trust, norms, and consistent enforcement. Evidence was organized around four themes: risk knowledge and perception, trust and message consistency, material feasibility, and social norms and proportionate enforcement. The synthesis shows that pandemic outcomes were rarely determined by a single factor; instead, they reflected interacting material, organizational, social, and informational conditions. The article proposes a layered response combining universal minimum provision, targeted support, continuous feedback, and locally adaptable implementation. Because this is a literature-based analysis rather than original field research, it does not report participants, newly collected data, or causal estimates. Its contribution lies in integrating early pandemic evidence into a practical framework for Philippine schools and communities, especially rural and resource-constrained settings.",
+    "pages": "51–60",
+    "pdfFile": "assets/uploads/journal-archive/national-research-journal/volume-1-issue-2-2021/jerome-s-santiago-community-compliance.pdf"
+  },
+  {
+    "journalId": "national-research-journal",
+    "keywords": [
+      "COVID-19",
+      "Philippines",
+      "rural communities",
+      "equity",
+      "policy",
+      "resilience"
+    ],
+    "volume": "1",
+    "issue": "2",
+    "issueLabel": "Issue No. 2",
+    "publicationDate": "2026-08-10",
+    "doi": "",
+    "featured": false,
+    "active": true,
+    "id": "national-research-journal-volume-1-issue-2-katrina-anne-flores",
+    "title": "Teachers’ Digital Competence During the Transition to Online Education",
+    "authors": [
+      "Katrina Anne Flores"
+    ],
+    "articleType": "Conceptual Integrative Review",
+    "abstract": "This conceptual integrative review examines teachers’ digital competence during the transition to online education using literature and institutional documents published no later than 2021. It argues that digital competence is the purposeful integration of technology, pedagogy, content, assessment, safety, and professional judgment. Evidence was organized around four themes: operational digital skills, digital pedagogy and content, assessment and learner engagement, and ethics, safety, and continuing development. The synthesis shows that pandemic outcomes were rarely determined by a single factor; instead, they reflected interacting material, organizational, social, and informational conditions. The article proposes a layered response combining universal minimum provision, targeted support, continuous feedback, and locally adaptable implementation. Because this is a literature-based analysis rather than original field research, it does not report participants, newly collected data, or causal estimates. Its contribution lies in integrating early pandemic evidence into a practical framework for Philippine schools and communities, especially rural and resource-constrained settings.",
+    "pages": "61–70",
+    "pdfFile": "assets/uploads/journal-archive/national-research-journal/volume-1-issue-2-2021/katrina-anne-flores-digital-competence.pdf"
+  },
+  {
+    "journalId": "national-research-journal",
+    "keywords": [
+      "COVID-19",
+      "Philippines",
+      "rural communities",
+      "equity",
+      "policy",
+      "resilience"
+    ],
+    "volume": "1",
+    "issue": "2",
+    "issueLabel": "Issue No. 2",
+    "publicationDate": "2026-08-10",
+    "doi": "",
+    "featured": false,
+    "active": true,
+    "id": "national-research-journal-volume-1-issue-2-maria-lourdes-castillo",
+    "title": "Psychological Effects of Community Quarantine on Teachers and Students",
+    "authors": [
+      "Maria Lourdes Castillo"
+    ],
+    "articleType": "Integrative Mental-Health Review",
+    "abstract": "This integrative mental-health review examines psychological effects of community quarantine on teachers and students using literature and institutional documents published no later than 2021. It argues that quarantine-related distress is the product of isolation, uncertainty, workload, disrupted routines, and unequal access to support. Evidence was organized around four themes: stress, anxiety, and uncertainty, isolation and disrupted routines, workload and role conflict, and protective relationships and referral systems. The synthesis shows that pandemic outcomes were rarely determined by a single factor; instead, they reflected interacting material, organizational, social, and informational conditions. The article proposes a layered response combining universal minimum provision, targeted support, continuous feedback, and locally adaptable implementation. Because this is a literature-based analysis rather than original field research, it does not report participants, newly collected data, or causal estimates. Its contribution lies in integrating early pandemic evidence into a practical framework for Philippine schools and communities, especially rural and resource-constrained settings.",
+    "pages": "71–80",
+    "pdfFile": "assets/uploads/journal-archive/national-research-journal/volume-1-issue-2-2021/maria-lourdes-castillo-psychological-effects.pdf"
+  },
+  {
     "id": "national-research-journal-volume-1-issue-1-abigail-therese-mercado",
     "journalId": "national-research-journal",
     "title": "Disaster Preparedness and Public-Health Awareness in Rural Barangays",
