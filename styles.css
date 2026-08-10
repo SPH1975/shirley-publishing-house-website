@@ -752,6 +752,7 @@ input:focus, select:focus, textarea:focus { border-color: var(--blue-500); box-s
 .editorial-member-monogram { width: 42px; height: 42px; display: grid; flex: 0 0 42px; place-items: center; border-radius: 50%; color: #fff; background: linear-gradient(145deg, var(--navy-900), var(--blue-700)); font-family: Georgia, serif; font-size: 1.1rem; font-weight: 800; }
 .editorial-member-card strong { display: block; color: var(--navy-950); font-family: Georgia, serif; font-size: 1rem; line-height: 1.3; }
 .editorial-member-card small { display: block; margin-top: 3px; color: var(--muted); font-size: .74rem; font-weight: 800; }
+.editorial-member-affiliation { display: block; margin-top: 5px; color: var(--muted); font-size: .78rem; line-height: 1.4; }
 .journal-not-found { min-height: 420px; display: grid; place-items: center; }
 .journal-not-found[hidden] { display: none; }
 
