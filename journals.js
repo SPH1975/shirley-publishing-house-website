@@ -25,7 +25,7 @@
       document.querySelector('#journals-empty')?.removeAttribute('hidden');
     } else {
       listGrid.innerHTML = visible.map((journal) => {
-        const profileUrl = `journal-profile.html?journal=${encodeURIComponent(journal.id)}`;
+        const profileUrl = `journal-${encodeURIComponent(journal.id)}.html`;
         const facts = [
           journal.issn ? `<span><small>ISSN</small><strong>${escapeHtml(journal.issn)}</strong></span>` : '',
           journal.publicationFrequency ? `<span><small>Frequency</small><strong>${escapeHtml(journal.publicationFrequency)}</strong></span>` : '',
@@ -146,6 +146,7 @@
   const articlesForJournal = journalArticles.filter((article) => article.journalId === journal.id && article.active !== false);
   const formatArticleDate = (value) => {
     if (!value) return '';
+    if (/^\d{4}$/.test(value)) return value;
     const date = new Date(`${value}T00:00:00`);
     return Number.isNaN(date.getTime()) ? value : date.toLocaleDateString('en-US', { year: 'numeric', month: 'long', day: 'numeric' });
   };
@@ -207,9 +208,11 @@
         && ['1', '2'].includes(String(volume));
       const articleCards = articles.map((article) => {
         const authors = (article.authors || []).join(', ') || 'Author information forthcoming';
+        const originalPublication = article.originalPublicationPeriod || formatArticleDate(article.publicationDate);
         const meta = [
           article.articleType,
-          formatArticleDate(article.publicationDate),
+          originalPublication ? `Original publication: ${originalPublication}` : '',
+          article.digitizedDate ? `Digitized online: ${formatArticleDate(article.digitizedDate)}` : '',
           article.pages ? `Pages ${article.pages}` : '',
           article.doi ? `DOI: ${article.doi}` : '',
         ].filter(Boolean);
@@ -218,7 +221,7 @@
         return `<article class="journal-article-card${article.featured ? ' is-featured' : ''}">
           <div class="journal-article-main">
             <div class="journal-article-type">${escapeHtml(article.articleType || 'Article')}</div>
-            <h4>${escapeHtml(article.title)}</h4>
+            <h4><a href="article-${encodeURIComponent(article.id)}.html">${escapeHtml(article.title)}</a></h4>
             <p class="journal-article-authors">${escapeHtml(authors)}</p>
             ${meta.length ? `<div class="journal-article-meta">${meta.map((item) => `<span>${escapeHtml(item)}</span>`).join('')}</div>` : ''}
             ${article.abstract ? `<p class="journal-article-abstract">${escapeHtml(article.abstract)}</p>` : ''}

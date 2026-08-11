@@ -17,11 +17,13 @@
   "volume": "5",
   "issue": "1",
   "issueLabel": "January–June 2024",
-  "publicationDate": "2026-08-10",
+  "publicationDate": "2024",
   "pages": "17–23",
   "doi": "",
   "pdfFile": "assets/uploads/journal-archive/national-research-journal/volume-3-issue-1/helen-jacinto-trustworthy-algorithms-python.pdf",
   "featured": false,
   "active": true,
-  "id": "national-research-journal-volume-3-issue-1-3"
+  "id": "national-research-journal-volume-3-issue-1-3",
+  "digitizedDate": "2026-08-10",
+  "originalPublicationPeriod": "January–June 2024"
 }

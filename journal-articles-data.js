@@ -1,347 +1,5 @@
 window.SHIRLEY_JOURNAL_ARTICLES = [
   {
-    "journalId": "national-research-journal",
-    "keywords": [
-      "academic performance",
-      "learning gaps",
-      "distance education",
-      "diagnostic assessment",
-      "recovery"
-    ],
-    "volume": "2",
-    "issue": "1",
-    "issueLabel": "January–June 2021",
-    "publicationDate": "2026-08-11",
-    "doi": "",
-    "featured": false,
-    "active": true,
-    "id": "national-research-journal-volume-2-issue-1-paolo-miguel-soriano",
-    "title": "Academic Performance and Learning Gaps During Distance Education",
-    "authors": [
-      "Paolo Miguel Soriano"
-    ],
-    "articleType": "Conceptual Review",
-    "abstract": "Academic performance during distance education cannot be interpreted responsibly from grades alone. Changes in task access, adult assistance, assessment conditions, curriculum coverage, and grading policy can alter reported performance even when underlying learning moves differently. This conceptual review separates four questions: whether learners encountered the intended content, whether they could demonstrate knowledge independently, which prerequisite skills are missing, and whether gaps are widening across groups. Evidence through 2021 is organized into a Learning-Gap Diagnostic Map linking curriculum opportunity, common assessment, error pattern, and recovery priority. The framework discourages deficit labels based on one score and recommends a small set of low-stakes anchor tasks, item-level diagnosis, evidence of assistance, and repeated checks after intervention. It distinguishes a missed opportunity to learn from a persistent misconception and treats learner strengths as part of recovery planning. The article does not estimate national or local learning loss. Its contribution is a method for converting uncertain performance evidence into defensible instructional decisions without confusing emergency grades with comparable achievement measures.",
-    "pages": "1–3",
-    "pdfFile": "assets/uploads/journal-archive/national-research-journal/volume-2-issue-1-2021/paolo-miguel-soriano-learning-gaps-revised-2026-08-11.pdf"
-  },
-  {
-    "journalId": "national-research-journal",
-    "keywords": [
-      "COVID-19 vaccination",
-      "vaccine confidence",
-      "community communication",
-      "access",
-      "acceptance"
-    ],
-    "volume": "2",
-    "issue": "1",
-    "issueLabel": "January–June 2021",
-    "publicationDate": "2026-08-11",
-    "doi": "",
-    "featured": false,
-    "active": true,
-    "id": "national-research-journal-volume-2-issue-1-sofia-beatrice-santiago",
-    "title": "COVID-19 Vaccine Awareness and Acceptance in Local Communities",
-    "authors": [
-      "Sofia Beatrice Santiago"
-    ],
-    "articleType": "Conceptual Review",
-    "abstract": "Vaccine awareness is often treated as a communication endpoint, although recognizing a vaccine does not establish confidence, intention, access, or completion. This conceptual review separates those stages and examines community acceptance using evidence available through 2021. It proposes a Vaccine Acceptance Pathway that begins with exposure to understandable information, proceeds through source appraisal and personal deliberation, and ends with feasible access and follow-through. The pathway explains why message volume alone cannot resolve mistrust, why stated willingness can coexist with missed vaccination, and why respectful conversation must be paired with convenient service. It recommends segmenting questions rather than labeling people as simply hesitant, documenting rumor patterns without repeating them carelessly, using trusted messengers within clear clinical boundaries, and monitoring drop-off between registration, first contact, and completed doses. The article does not estimate acceptance in a locality or prescribe a universal message. It offers a framework for designing and evaluating community vaccination communication without confusing awareness with action.",
-    "pages": "1–3",
-    "pdfFile": "assets/uploads/journal-archive/national-research-journal/volume-2-issue-1-2021/sofia-beatrice-santiago-vaccine-awareness-revised-2026-08-11.pdf"
-  },
-  {
-    "journalId": "national-research-journal",
-    "keywords": [
-      "digital literacy",
-      "teachers",
-      "parents",
-      "learners",
-      "digital safety",
-      "remote education"
-    ],
-    "volume": "2",
-    "issue": "1",
-    "issueLabel": "January–June 2021",
-    "publicationDate": "2026-08-11",
-    "doi": "",
-    "featured": false,
-    "active": true,
-    "id": "national-research-journal-volume-2-issue-1-noel-christian-aquino",
-    "title": "Digital Literacy of Teachers, Parents, and Learners",
-    "authors": [
-      "Noel Christian Aquino"
-    ],
-    "articleType": "Conceptual Review",
-    "abstract": "Digital literacy in remote education is often reduced to device operation, although successful participation requires teachers, parents, and learners to complete connected tasks with different responsibilities. This conceptual review proposes a Shared Digital Task Ecosystem organized around access, operation, information judgment, communication, safety, and repair. Evidence through 2021 suggests that a platform can be technically available while learning fails because files are too large, instructions are fragmented, sources are unreliable, privacy expectations are unclear, or users have no recovery route after an error. The framework maps each recurring school task across the three actors and assigns one accountable process owner. It recommends performance-based support, low-bandwidth alternatives, common file and message conventions, age-appropriate safety rules, and a help system that records recurring breakdowns. It also distinguishes household assistance from surveillance and teacher competence from personal ownership of equipment. The article does not score the digital literacy of any group. Its contribution is a relational model for evaluating whether the combined system allows people to access, judge, communicate, protect, and recover while completing authentic educational tasks.",
-    "pages": "1–3",
-    "pdfFile": "assets/uploads/journal-archive/national-research-journal/volume-2-issue-1-2021/noel-christian-aquino-digital-literacy-revised-2026-08-11.pdf"
-  },
-  {
-    "journalId": "national-research-journal",
-    "keywords": [
-      "barangay governance",
-      "pandemic response",
-      "referral",
-      "risk communication",
-      "accountability"
-    ],
-    "volume": "2",
-    "issue": "1",
-    "issueLabel": "January–June 2021",
-    "publicationDate": "2026-08-11",
-    "doi": "",
-    "featured": false,
-    "active": true,
-    "id": "national-research-journal-volume-2-issue-1-rochelle-mae-bautista",
-    "title": "Effectiveness of Barangay-Level Pandemic Response Programs",
-    "authors": [
-      "Rochelle Mae Bautista"
-    ],
-    "articleType": "Conceptual Review",
-    "abstract": "Barangay pandemic programs operated where national rules met household realities. This conceptual review defines effectiveness as a reliable service chain rather than the number of ordinances, announcements, or activities completed. Literature and Philippine policy available through 2021 are organized around five linked functions: detecting a concern, assessing urgency, connecting residents to health or social services, sustaining essential support, and documenting correction. The synthesis shows that a visible program can still fail when residents cannot report safely, case information stops at collection, referral routes are unclear, relief rules are opaque, or local workers lack protection. It proposes a Barangay Response Service Chain with minimum evidence for each handoff and an equity check for people facing disability, language, transport, income, or digital barriers. The article is an analytic review, not an evaluation of a named barangay, and reports no invented beneficiaries or outcome rates. Its contribution is a practical framework for examining whether local response functions connect from first contact to resolution.",
-    "pages": "1–3",
-    "pdfFile": "assets/uploads/journal-archive/national-research-journal/volume-2-issue-1-2021/rochelle-mae-bautista-barangay-response-revised-2026-08-11.pdf"
-  },
-  {
-    "journalId": "national-research-journal",
-    "keywords": [
-      "modular distance learning",
-      "elementary learners",
-      "feedback",
-      "caregiver support",
-      "learning continuity"
-    ],
-    "volume": "2",
-    "issue": "1",
-    "issueLabel": "January–June 2021",
-    "publicationDate": "2026-08-11",
-    "doi": "",
-    "featured": false,
-    "active": true,
-    "id": "national-research-journal-volume-2-issue-1-marielle-anne-de-guzman",
-    "title": "Effectiveness of Modular Distance Learning Among Elementary Learners",
-    "authors": [
-      "Marielle Anne de Guzman"
-    ],
-    "articleType": "Conceptual Review",
-    "abstract": "Modular distance learning is frequently judged by distribution and submission, although elementary learners require guidance, feedback, and repeated opportunities to recover from misunderstanding. This conceptual review defines effectiveness as a complete learning cycle rather than successful packet circulation. Evidence and policy available through 2021 are organized into five functions: orient the learner and caregiver, activate prior knowledge, support an independent attempt, interpret returned evidence, and provide a timely next step. The Elementary Module Learning Cycle distinguishes essential learning from page completion and assigns caregivers a bounded role that does not depend on subject expertise. It recommends readable directions, predictable weekly maps, embedded help cues, short diagnostic tasks, multiple response modes, and a return system that records missing or heavily assisted work without penalizing the learner. The framework also treats distribution failure, comprehension difficulty, and feedback delay as separate implementation problems. This article does not compare learner outcomes or claim that modules are universally effective. It offers criteria for determining whether modular delivery functions as instruction for children whose independence, reading ability, and household support differ substantially.",
-    "pages": "1–3",
-    "pdfFile": "assets/uploads/journal-archive/national-research-journal/volume-2-issue-1-2021/marielle-anne-de-guzman-modular-distance-learning-revised-2026-08-11.pdf"
-  },
-  {
-    "journalId": "national-research-journal",
-    "keywords": [
-      "mathematics achievement",
-      "printed modules",
-      "worked examples",
-      "feedback",
-      "learning recovery"
-    ],
-    "volume": "2",
-    "issue": "1",
-    "issueLabel": "January–June 2021",
-    "publicationDate": "2026-08-11",
-    "doi": "",
-    "featured": false,
-    "active": true,
-    "id": "national-research-journal-volume-2-issue-1-carlo-emmanuel-mercado",
-    "title": "Mathematics Achievement in a Modular Learning Environment",
-    "authors": [
-      "Carlo Emmanuel Mercado"
-    ],
-    "articleType": "Conceptual Review",
-    "abstract": "Printed modules can preserve mathematics practice when classroom contact is interrupted, but distribution alone does not establish learning. This conceptual review examines achievement as the product of a feedback loop among task interpretation, worked examples, independent practice, error evidence, and instructional response. Evidence through 2021 suggests that modular mathematics becomes fragile when prerequisite gaps are invisible, examples display procedures without reasoning, answer keys replace diagnosis, and delayed feedback allows misconceptions to consolidate. The article proposes a Worked-Example Feedback Loop in which each module identifies prerequisite knowledge, models a complete solution with self-explanation prompts, sequences practice by variation, collects interpretable learner work, and routes errors to a targeted response. The approach protects learner authorship by assigning caregivers a support role rather than asking them to teach unfamiliar procedures. It also recommends separating module completion, procedural accuracy, and conceptual transfer in assessment. This is a design framework, not an empirical estimate of achievement. Its purpose is to make the instructional mechanisms inside modular delivery visible and testable.",
-    "pages": "1–3",
-    "pdfFile": "assets/uploads/journal-archive/national-research-journal/volume-2-issue-1-2021/carlo-emmanuel-mercado-mathematics-achievement-revised-2026-08-11.pdf"
-  },
-  {
-    "journalId": "national-research-journal",
-    "keywords": [
-      "parental involvement",
-      "modular learning",
-      "online learning",
-      "family-school partnership",
-      "learner agency"
-    ],
-    "volume": "2",
-    "issue": "1",
-    "issueLabel": "January–June 2021",
-    "publicationDate": "2026-08-11",
-    "doi": "",
-    "featured": false,
-    "active": true,
-    "id": "national-research-journal-volume-2-issue-1-renato-luis-domingo",
-    "title": "Parental Involvement in Modular and Online Learning",
-    "authors": [
-      "Renato Luis Domingo"
-    ],
-    "articleType": "Conceptual Review",
-    "abstract": "Remote education expanded parental involvement while blurring the boundary between support and substitute teaching. This conceptual review examines involvement as a negotiated family-school relationship rather than a single amount of participation. Evidence through 2021 is organized around five roles: prepare the learning conditions, encourage learner agency, observe progress, communicate evidence, and refer instructional problems to the teacher. The proposed Family-School Support Boundary protects parents from being held responsible for curriculum delivery and protects assessment from answers produced by adults. It recognizes that employment, household care, language, education, disability, connectivity, and device sharing shape what families can reasonably provide. The framework recommends weekly demand maps, role-specific guidance, disclosure of assistance, predictable contact routes, and differentiated support for families facing higher coordination costs. It also distinguishes productive involvement from constant monitoring or control. The article does not measure parental participation or claim that more involvement always improves achievement. Its purpose is to define equitable, observable roles through which parents and schools can coordinate without transferring professional teaching obligations to the household.",
-    "pages": "1–3",
-    "pdfFile": "assets/uploads/journal-archive/national-research-journal/volume-2-issue-1-2021/renato-luis-domingo-parental-involvement-revised-2026-08-11.pdf"
-  },
-  {
-    "journalId": "national-research-journal",
-    "keywords": [
-      "reading difficulty",
-      "school closure",
-      "decoding",
-      "fluency",
-      "comprehension",
-      "learning recovery"
-    ],
-    "volume": "2",
-    "issue": "1",
-    "issueLabel": "January–June 2021",
-    "publicationDate": "2026-08-11",
-    "doi": "",
-    "featured": false,
-    "active": true,
-    "id": "national-research-journal-volume-2-issue-1-therese-nicole-agustin",
-    "title": "Reading Difficulties Among Learners During Prolonged School Closures",
-    "authors": [
-      "Therese Nicole Agustin"
-    ],
-    "articleType": "Conceptual Review",
-    "abstract": "Prolonged school closures reduced direct opportunities for teachers to hear learners read, examine errors, and adjust instruction. The resulting concern is often summarized as reading difficulty, although the breakdown may occur in access to print, word recognition, fluency, oral language, background knowledge, or comprehension. This conceptual review proposes a Reading Difficulty Localization Ladder that moves from learning opportunity to increasingly complex reading processes. Evidence through 2021 supports brief, targeted checks rather than assigning a broad label from a single passage or completion record. The ladder begins by verifying access and language, then examines decoding, connected-text fluency, meaning at sentence and passage levels, and transfer to unfamiliar text. Each rung is paired with a distinct response and a rule for referral when progress remains limited. The framework also recommends short daily practice, decodable or appropriately leveled text, oral interaction, and feedback that preserves learner dignity. This article does not estimate prevalence or diagnose a reading disorder. It provides a structured route for locating instructional need after disrupted schooling.",
-    "pages": "1–3",
-    "pdfFile": "assets/uploads/journal-archive/national-research-journal/volume-2-issue-1-2021/therese-nicole-agustin-reading-difficulties-revised-2026-08-11.pdf"
-  },
-  {
-    "journalId": "national-research-journal",
-    "keywords": [
-      "teacher workload",
-      "occupational stress",
-      "coping",
-      "job demands",
-      "work recovery"
-    ],
-    "volume": "2",
-    "issue": "1",
-    "issueLabel": "January–June 2021",
-    "publicationDate": "2026-08-11",
-    "doi": "",
-    "featured": false,
-    "active": true,
-    "id": "national-research-journal-volume-2-issue-1-jasmine-claire-velasco",
-    "title": "Teachers' Workload, Stress, and Coping Strategies Under the New Normal",
-    "authors": [
-      "Jasmine Claire Velasco"
-    ],
-    "articleType": "Conceptual Review",
-    "abstract": "Teacher stress during emergency education is often discussed as an individual coping problem even when workload is produced by institutional design. This conceptual review distinguishes task volume, task fragmentation, emotional demand, decision uncertainty, and recovery opportunity. Evidence through 2021 is interpreted through a job-demands and resources perspective and organized into a Workload Recovery Ledger. The ledger asks schools to identify each recurring demand, its educational purpose, time pattern, duplication, responsible owner, available resource, and recovery protection. The synthesis argues that wellness seminars cannot compensate for conflicting deadlines, parallel reporting channels, continuous availability, or unbounded emotional labor. Individual coping remains valuable, but it should operate after unnecessary demands are removed and essential work is prioritized. The proposed framework links workload review with clear service standards, communication windows, escalation routes, peer support, and periodic stop decisions. This article reports no stress prevalence or intervention effect. It offers an organizational method for making invisible work visible and for evaluating whether coping support is matched by changes in working conditions.",
-    "pages": "1–3",
-    "pdfFile": "assets/uploads/journal-archive/national-research-journal/volume-2-issue-1-2021/jasmine-claire-velasco-teacher-workload-stress-revised-2026-08-11.pdf"
-  },
-  {
-    "journalId": "national-research-journal",
-    "title": "A Decision Framework for First-Order Differential Equations in Engineering Applications",
-    "authors": [
-      "Alan P. Nebrida"
-    ],
-    "articleType": "Research Article",
-    "abstract": "Students often learn first-order differential equations as a catalogue of solution techniques, making method selection difficult when equations are embedded in engineering contexts. This article develops a decision framework that connects equation structure, solution method, initial conditions, and physical interpretation. Drawing on an instructional worktext in elementary differential equations, the synthesis distinguishes separable, first-order linear, exact, homogeneous-substitution, and Bernoulli forms, then integrates these forms with four application families: exponential growth and decay, Newtonian cooling, well-mixed tanks, and simple RC/RL circuits. The article proposes a sequence of structural tests, demonstrates why several equivalent-looking equations require different transformations, and emphasizes dimensional and limiting-value checks. Its central contribution is a model-method-verification triad that treats differential-equation solving as engineering modeling rather than symbolic manipulation. The framework can guide lesson design, worked examples, and analytic rubrics, while empirical evaluation is reserved for subsequent classroom studies.",
-    "keywords": [
-      "differential equations",
-      "engineering mathematics",
-      "first-order models",
-      "method selection",
-      "modeling",
-      "mathematical verification"
-    ],
-    "volume": "4",
-    "issue": "2",
-    "issueLabel": "July–December 2023",
-    "publicationDate": "2026-08-10",
-    "pages": "1–5",
-    "doi": "",
-    "pdfFile": "assets/uploads/journal-archive/national-research-journal/volume-2-issue-2/alan-nebrida-differential-equations.pdf",
-    "featured": false,
-    "active": true,
-    "id": "national-research-journal-volumes-1-4-1"
-  },
-  {
-    "journalId": "national-research-journal",
-    "title": "Adapting Marungko Sound Blending to English: A Cumulative Path from Decoding to Sentence Comprehension",
-    "authors": [
-      "Jenny Castro"
-    ],
-    "articleType": "Review Article",
-    "abstract": "Marungko-inspired materials introduce sounds in a purposeful sequence and move learners from letters to syllables, words, phrases, and sentences. This conceptual-design article proposes an orthographic-alignment framework for adapting that logic to English phonology, word meaning, grammar, and connected-text comprehension. It offers an audit matrix and a six-phase lesson cycle moving through oral sound analysis, grapheme mapping, blending, sentence reading, meaning construction, and encoding.",
-    "keywords": [
-      "beginning reading",
-      "Marungko approach",
-      "English phonics",
-      "decodable text",
-      "orthographic mapping",
-      "sentence comprehension"
-    ],
-    "volume": "6",
-    "issue": "2",
-    "issueLabel": "July–December 2025",
-    "publicationDate": "2026-08-10",
-    "pages": "30–37",
-    "doi": "",
-    "pdfFile": "assets/uploads/journal-archive/national-research-journal/volume-4-issue-2/jenny-castro-cumulative-english-decoding.pdf",
-    "featured": false,
-    "active": true,
-    "id": "national-research-journal-volume-4-issue-2-5"
-  },
-  {
-    "id": "national-research-journal-volume-2-issue-2-alyssa-marie-manalo-cashless-payments-online-selling",
-    "journalId": "national-research-journal",
-    "title": "Adoption of Cashless Payments and Online Selling by Microbusinesses",
-    "authors": [
-      "Alyssa Marie Manalo"
-    ],
-    "articleType": "Conceptual Review",
-    "abstract": "For a microbusiness, adopting cashless payment or online selling is not completed by opening an account or social-media page. A transaction must remain reliable from discovery and order confirmation through payment, fulfillment, reconciliation, and recovery. This conceptual review organizes evidence available through 2021 into a Digital Transaction Reliability Ladder. The framework explains why promotional reach can grow while losses, disputes, and owner workload also increase. It recommends a minimum catalog, explicit order and cutoff rules, separate verification of payment, documented fulfillment, daily reconciliation, customer-data limits, and fallback routes for connectivity or platform failure. Adoption should be staged according to customer need, transaction volume, fees, device access, fraud exposure, and the owner's capacity to maintain records. Cash remains a legitimate parallel option where exclusion would otherwise occur. The article does not estimate adoption rates or profitability and does not endorse a specific provider. Its contribution is a task-based method for deciding whether a digital channel creates dependable sales rather than merely online presence.",
-    "keywords": [
-      "microbusiness",
-      "cashless payment",
-      "online selling",
-      "digital transaction",
-      "financial inclusion"
-    ],
-    "volume": "2",
-    "issue": "2",
-    "issueLabel": "July–December 2021",
-    "publicationDate": "2026-08-10",
-    "pages": "1–3",
-    "doi": "",
-    "pdfFile": "assets/uploads/journal-archive/national-research-journal/volume-2-issue-2-2021/alyssa-marie-manalo-cashless-payments-online-selling-revised-2026-08-11.pdf",
-    "featured": false,
-    "active": true
-  },
-  {
-    "id": "national-research-journal-volume-2-issue-2-gabriel-enrico-pascual-agricultural-supply-chain-disruptions",
-    "journalId": "national-research-journal",
-    "title": "Agricultural Production and Supply-Chain Disruptions During the Pandemic",
-    "authors": [
-      "Gabriel Enrico Pascual"
-    ],
-    "articleType": "Conceptual Review",
-    "abstract": "Pandemic disruptions in agriculture did not occur at one point. They moved through input access, farm labor and timing, aggregation, transport, exchange, and market information. This conceptual review proposes a Farm-to-Market Continuity Map for locating the earliest broken function and selecting a response that protects both food availability and producer livelihood. Evidence available through 2021 shows that aggregate production figures can conceal losses caused by delayed seed or feed, labor restrictions, rejected perishables, fragmented permits, missing buyers, and weak demand signals. The framework treats supply chains as coordinated services rather than a line of commodities. It recommends time-critical input classification, shared production calendars, temporary aggregation protocols, harmonized transport documents, explicit transaction terms, and two-way market feedback. Digital platforms are considered useful only when payment, grading, logistics, and dispute resolution are defined. The article does not estimate output, price, or income effects. Its contribution is an operational map for distinguishing production constraints from coordination failures and for designing continuity measures around perishability and timing.",
-    "keywords": [
-      "agricultural production",
-      "food supply chain",
-      "pandemic disruption",
-      "logistics",
-      "market coordination"
-    ],
-    "volume": "2",
-    "issue": "2",
-    "issueLabel": "July–December 2021",
-    "publicationDate": "2026-08-10",
-    "pages": "1–3",
-    "doi": "",
-    "pdfFile": "assets/uploads/journal-archive/national-research-journal/volume-2-issue-2-2021/gabriel-enrico-pascual-agricultural-supply-chain-disruptions-revised-2026-08-11.pdf",
-    "featured": false,
-    "active": true
-  },
-  {
     "id": "likhang-lahi-v1-i2-ahhuk-i-balit",
     "journalId": "likhang-lahi-a-philippine-journal-of-literature-and-culture-arts",
     "title": "Âhhuk I Balit",
@@ -358,114 +16,10 @@ window.SHIRLEY_JOURNAL_ARTICLES = [
     "active": true,
     "abstract": "",
     "keywords": [],
+    "originalPublicationPeriod": "",
+    "digitizedDate": "",
     "doi": "",
     "featured": false
-  },
-  {
-    "id": "national-research-journal-volume-1-issue-1-christian-paul-reyes",
-    "journalId": "national-research-journal",
-    "title": "Alternative Marketing Strategies Used by Microenterprises During Lockdowns",
-    "authors": [
-      "Christian Paul Reyes"
-    ],
-    "articleType": "Strategic Review",
-    "abstract": "Lockdown restrictions did not merely reduce demand; they broke the ordinary route by which customers discovered, evaluated, purchased, received, and repurchased from microenterprises. This strategic review examines alternative marketing as the redesign of that route rather than a shift to social-media promotion alone. Evidence available through 2021 is organized into four operating jobs: making the offer discoverable, reducing uncertainty, completing a low-friction transaction, and fulfilling safely and reliably. The synthesis shows why tactics that generate attention may fail when payment, inventory, delivery, or customer recovery is weak. It also considers low-technology strategies such as neighborhood resellers, pre-order schedules, product bundles, and shared delivery. A minimum viable marketing system is proposed for resource-constrained firms, together with measures tied to orders and repeat business rather than likes. The article is a conceptual review and does not claim performance data from particular enterprises.",
-    "keywords": [
-      "microenterprise",
-      "lockdown",
-      "digital marketing",
-      "order fulfillment",
-      "customer retention"
-    ],
-    "volume": "1",
-    "issue": "1",
-    "issueLabel": "January–June 2020",
-    "publicationDate": "2026-08-10",
-    "pages": "1–4",
-    "doi": "",
-    "pdfFile": "assets/uploads/journal-archive/national-research-journal/volume-1-issue-1-2021/christian-paul-reyes-alternative-marketing-strategies-revised.pdf",
-    "featured": false,
-    "active": true
-  },
-  {
-    "journalId": "national-research-journal",
-    "title": "Appetizer Skills Beyond Recall: A Competency-Evidence Audit for Grade 9 Cookery",
-    "authors": [
-      "Rhomer Gonzales"
-    ],
-    "articleType": "Research Article",
-    "abstract": "This study examined whether a 20-page Grade 9 cookery workbook on appetizers provides evidence of the competencies it intends to develop. A structured document analysis mapped stated outcomes, lesson content, practice tasks, answer keys, and the culminating performance task against principles of constructive alignment, authentic assessment, and competency-based training. The workbook contains four lessons on kitchen tools and equipment, cleaning compounds, appetizer classification, and storage techniques. Its visual tool guides, short practice sets, localized appetizer prompt, and requirement to document work can support independent review. However, the assessed evidence is dominated by 77 selected-response, matching, identification, labeling, and word-reconstruction items, compared with one practical task. Several outcomes use performance verbs, yet most lesson checks verify recognition or recall. The culminating task is internally inconsistent: it asks learners to prepare appetizers but one target specifies a simple sandwich; its five stated percentage weights total 130%; the performance bands omit portions of the 0-100 range; and broad terms such as relevance and presentation are not anchored in directly observable product or process evidence. The activity also relies heavily on photographs, which cannot by themselves verify sanitation, sequencing, temperature control, knife technique, or independent performance. No field-test data, scorer agreement, learner outcomes, or validation records were supplied, so effectiveness cannot be inferred. The article proposes an evidence chain that links each competency to a task, observable performance conditions, product and process criteria, feedback, and reassessment. It also presents a three-stage assessment package consisting of a mise-en-place check, monitored production, and a short oral or written justification. The workbook offers a practical foundation, but publication and classroom adoption require re-aligned outcomes, authentic practice within every lesson, a defensible analytic rubric, model responses, accessibility improvements, and staged content and user validation.",
-    "keywords": [
-      "cookery education",
-      "competency-based assessment",
-      "authentic assessment",
-      "constructive alignment",
-      "appetizers",
-      "document analysis"
-    ],
-    "volume": "5",
-    "issue": "2",
-    "issueLabel": "July–December 2024",
-    "publicationDate": "2026-08-10",
-    "pages": "46–55",
-    "doi": "",
-    "pdfFile": "assets/uploads/journal-archive/national-research-journal/volume-3-issue-2/rhomer-gonzales-cookery-competency-assessment.pdf",
-    "featured": false,
-    "active": true,
-    "id": "national-research-journal-volume-3-issue-2-5"
-  },
-  {
-    "journalId": "national-research-journal",
-    "title": "Assessing Service as Integrated Practice: An Evidence-Centered Model for Food and Beverage Competence",
-    "authors": [
-      "Sally Vicente"
-    ],
-    "articleType": "Review Article",
-    "abstract": "Competency-based training in food and beverage service must determine whether a learner can integrate knowledge, technical skill, communication, timing, hygiene, and judgment in a live service sequence. Written self-checks and performance checklists are useful, but neither automatically produces a valid judgment of occupational competence. This conceptual-design article analyzes a 2023 competency-based learning module for Food and Beverage Services NC II as an instructional artifact. The module organizes preparation for dining-room service through information sheets, self-checks, task sheets, performance criteria, recognition of prior learning, and facilitator-supported practice. Building on that architecture, the article proposes an evidence-centered assessment system that connects competency outcomes to authentic service tasks, observable quality criteria, assessor prompts, feedback, and decisions about readiness. It distinguishes component practice from integrated performance and replaces single-snapshot judgment with a small portfolio of evidence collected across reservations, station preparation, table setup, and ambiance management. Two design tools are offered: an assessment blueprint aligning claims, tasks, evidence, and threats to validity; and an observation protocol that separates nonnegotiable safety or service conditions from dimensions that require professional judgment. The framework emphasizes repeated sampling, assessor calibration, learner self-evaluation, and recognition of prior learning supported by current evidence. It does not report trainees, scores, or intervention effects. Its contribution is a transparent and testable design for moving from checklist completion toward defensible judgments about workplace readiness.",
-    "keywords": [
-      "competency-based training",
-      "authentic assessment",
-      "food and beverage service",
-      "workplace competence",
-      "performance checklist",
-      "vocational education"
-    ],
-    "volume": "5",
-    "issue": "2",
-    "issueLabel": "July–December 2024",
-    "publicationDate": "2026-08-10",
-    "pages": "1–7",
-    "doi": "",
-    "pdfFile": "assets/uploads/journal-archive/national-research-journal/volume-3-issue-2/sally-vicente-authentic-assessment-food-beverage-service.pdf",
-    "featured": false,
-    "active": true,
-    "id": "national-research-journal-volume-3-issue-2-1"
-  },
-  {
-    "id": "national-research-journal-volume-2-issue-2-adrian-paolo-lim-assessment-integrity",
-    "journalId": "national-research-journal",
-    "title": "Assessment Integrity in Online and Modular Classes",
-    "authors": [
-      "Adrian Paolo Lim"
-    ],
-    "articleType": "Conceptual Review",
-    "abstract": "Assessment integrity in online and modular classes is often framed as preventing cheating, although integrity also depends on whether the task measures the intended learning, preserves learner authorship, records relevant process, and supports a proportionate judgment. This conceptual review proposes an Assessment Evidence Integrity Model with five links: construct clarity, authentic task design, transparent conditions, corroborated authorship, and defensible interpretation. Evidence available through 2021 suggests that surveillance-heavy solutions can create privacy and access problems while failing to improve poor assessment design. The framework recommends varied application tasks, learner explanations, staged drafts, oral or written corroboration, assistance declarations, and low-stakes sampling across time. Security controls should be selected according to consequence and risk, with accessible alternatives and data minimization. The article distinguishes misconduct from collaboration, resource use, and household assistance permitted by design. It does not estimate dishonesty or validate an assessment system. Its contribution is a layered method for producing trustworthy evidence without assuming that one invigilated event is the only route to integrity.",
-    "keywords": [
-      "assessment integrity",
-      "online learning",
-      "modular classes",
-      "authorship",
-      "authentic assessment"
-    ],
-    "volume": "2",
-    "issue": "2",
-    "issueLabel": "July–December 2021",
-    "publicationDate": "2026-08-10",
-    "pages": "1–3",
-    "doi": "",
-    "pdfFile": "assets/uploads/journal-archive/national-research-journal/volume-2-issue-2-2021/adrian-paolo-lim-assessment-integrity-revised-2026-08-11.pdf",
-    "featured": false,
-    "active": true
   },
   {
     "id": "likhang-lahi-v1-i2-atak-kuy-hinhinalung",
@@ -484,6 +38,8 @@ window.SHIRLEY_JOURNAL_ARTICLES = [
     "active": true,
     "abstract": "",
     "keywords": [],
+    "originalPublicationPeriod": "",
+    "digitizedDate": "",
     "doi": "",
     "featured": false
   },
@@ -504,35 +60,1447 @@ window.SHIRLEY_JOURNAL_ARTICLES = [
     "active": true,
     "abstract": "",
     "keywords": [],
+    "originalPublicationPeriod": "",
+    "digitizedDate": "",
     "doi": "",
     "featured": false
   },
   {
-    "journalId": "national-research-journal",
-    "title": "Beyond Cohesion: The ALIGN Framework for Role Clarity, Information Sharing, and Adaptive Team Coordination",
+    "id": "likhang-lahi-v1-i2-byahe",
+    "journalId": "likhang-lahi-a-philippine-journal-of-literature-and-culture-arts",
+    "title": "Byahe",
     "authors": [
-      "Michael Feliciano"
+      "Edcel John Madeja-Mazo"
     ],
-    "articleType": "Review Article",
-    "abstract": "Team effectiveness is often discussed through the language of unity, trust, and cohesion. These qualities matter, but they do not by themselves specify how interdependent work should be coordinated. A cohesive team can still duplicate effort, miss handoffs, conceal unique information, or adapt too slowly when conditions change. This conceptual review develops the ALIGN framework to connect human behavior in groups with the operating requirements of coordinated performance. Building from the uploaded Human Behavior in Organizations manuscript and integrating established research on team effectiveness, team processes, implicit coordination, information sharing, team diagnostics, and virtuality, the framework identifies five design tasks: Articulate purpose and outcomes; Link interdependent roles; Integrate information and shared mental models; Govern interaction and conflict; and Navigate transitions and review. The model treats coordination as a dynamic accomplishment rather than a stable team trait. It emphasizes that roles require interfaces, information requires integration, and cohesion requires task discipline. The article proposes an operating cycle across transition, action, and reflection phases and offers diagnostic questions for co-located, hybrid, and distributed teams. It also distinguishes adaptive coordination from excessive standardization: teams need enough structure to anticipate one another's needs while retaining the capacity to revise plans when tasks, membership, or context change. Because the article reports no original empirical study, its propositions are presented as testable directions rather than findings. ALIGN provides managers, educators, and researchers with a practical vocabulary for designing teams whose members can coordinate reliably without sacrificing learning and adaptation.",
-    "keywords": [
-      "team coordination",
-      "role clarity",
-      "information sharing",
-      "shared mental models",
-      "team processes",
-      "adaptive teams"
-    ],
-    "volume": "5",
-    "issue": "1",
-    "issueLabel": "January–June 2024",
+    "articleType": "Short Story",
+    "volume": "1",
+    "issue": "2",
+    "issueLabel": "Issue No. 2",
     "publicationDate": "2026-08-10",
-    "pages": "24–35",
+    "pages": "1–6",
+    "pdfFile": "assets/uploads/journal-archive/likhang-lahi/volume-1-issue-2/edcel-john-madeja-mazo-byahe.pdf",
+    "active": true,
+    "abstract": "",
+    "keywords": [],
+    "originalPublicationPeriod": "",
+    "digitizedDate": "",
     "doi": "",
-    "pdfFile": "assets/uploads/journal-archive/national-research-journal/volume-3-issue-1/michael-feliciano-team-coordination.pdf",
+    "featured": false
+  },
+  {
+    "id": "likhang-lahi-v1-i2-dudduli",
+    "journalId": "likhang-lahi-a-philippine-journal-of-literature-and-culture-arts",
+    "title": "Dudduli",
+    "authors": [
+      "Leticia D. Guinsiman, PhD"
+    ],
+    "articleType": "Folk Song",
+    "volume": "1",
+    "issue": "2",
+    "issueLabel": "Issue No. 2",
+    "publicationDate": "2026-08-10",
+    "pages": "1–4",
+    "pdfFile": "assets/uploads/journal-archive/likhang-lahi/volume-1-issue-2/leticia-guinsiman-dudduli.pdf",
+    "active": true,
+    "abstract": "",
+    "keywords": [],
+    "originalPublicationPeriod": "",
+    "digitizedDate": "",
+    "doi": "",
+    "featured": false
+  },
+  {
+    "id": "likhang-lahi-v1-i2-gagawang-gagahukli",
+    "journalId": "likhang-lahi-a-philippine-journal-of-literature-and-culture-arts",
+    "title": "Gâgawang Gâgahukli",
+    "authors": [
+      "Leticia D. Guinsiman, PhD"
+    ],
+    "articleType": "Folk Song",
+    "volume": "1",
+    "issue": "2",
+    "issueLabel": "Issue No. 2",
+    "publicationDate": "2026-08-10",
+    "pages": "1–2",
+    "pdfFile": "assets/uploads/journal-archive/likhang-lahi/volume-1-issue-2/leticia-guinsiman-gagawang-gagahukli.pdf",
+    "active": true,
+    "abstract": "",
+    "keywords": [],
+    "originalPublicationPeriod": "",
+    "digitizedDate": "",
+    "doi": "",
+    "featured": false
+  },
+  {
+    "id": "likhang-lahi-v1-i2-gatap-kuy-dinwa-dinwa",
+    "journalId": "likhang-lahi-a-philippine-journal-of-literature-and-culture-arts",
+    "title": "Gatap Ku’y Dinwa Dinwa",
+    "authors": [
+      "Leticia D. Guinsiman, PhD"
+    ],
+    "articleType": "Folk Song",
+    "volume": "1",
+    "issue": "2",
+    "issueLabel": "Issue No. 2",
+    "publicationDate": "2026-08-10",
+    "pages": "1–3",
+    "pdfFile": "assets/uploads/journal-archive/likhang-lahi/volume-1-issue-2/leticia-guinsiman-gatap-kuy-dinwa-dinwa.pdf",
+    "active": true,
+    "abstract": "",
+    "keywords": [],
+    "originalPublicationPeriod": "",
+    "digitizedDate": "",
+    "doi": "",
+    "featured": false
+  },
+  {
+    "id": "likhang-lahi-v1-i2-indungdung",
+    "journalId": "likhang-lahi-a-philippine-journal-of-literature-and-culture-arts",
+    "title": "Indungdung",
+    "authors": [
+      "Leticia D. Guinsiman, PhD"
+    ],
+    "articleType": "Folk Song",
+    "volume": "1",
+    "issue": "2",
+    "issueLabel": "Issue No. 2",
+    "publicationDate": "2026-08-10",
+    "pages": "1–3",
+    "pdfFile": "assets/uploads/journal-archive/likhang-lahi/volume-1-issue-2/leticia-guinsiman-indungdung.pdf",
+    "active": true,
+    "abstract": "",
+    "keywords": [],
+    "originalPublicationPeriod": "",
+    "digitizedDate": "",
+    "doi": "",
+    "featured": false
+  },
+  {
+    "id": "likhang-lahi-v1-i2-kamkamti-liyaliya",
+    "journalId": "likhang-lahi-a-philippine-journal-of-literature-and-culture-arts",
+    "title": "Kamkamti Liyaliya",
+    "authors": [
+      "Leticia D. Guinsiman, PhD"
+    ],
+    "articleType": "Folk Song",
+    "volume": "1",
+    "issue": "2",
+    "issueLabel": "Issue No. 2",
+    "publicationDate": "2026-08-10",
+    "pages": "1–3",
+    "pdfFile": "assets/uploads/journal-archive/likhang-lahi/volume-1-issue-2/leticia-guinsiman-kamkamti-liyaliya.pdf",
+    "active": true,
+    "abstract": "",
+    "keywords": [],
+    "originalPublicationPeriod": "",
+    "digitizedDate": "",
+    "doi": "",
+    "featured": false
+  },
+  {
+    "id": "likhang-lahi-v1-i2-kuhili-kamid-nalbi",
+    "journalId": "likhang-lahi-a-philippine-journal-of-literature-and-culture-arts",
+    "title": "Kuhili Kami’d Nalbi",
+    "authors": [
+      "Leticia D. Guinsiman, PhD"
+    ],
+    "articleType": "Folk Song",
+    "volume": "1",
+    "issue": "2",
+    "issueLabel": "Issue No. 2",
+    "publicationDate": "2026-08-10",
+    "pages": "1–2",
+    "pdfFile": "assets/uploads/journal-archive/likhang-lahi/volume-1-issue-2/leticia-guinsiman-kuhili-kamid-nalbi.pdf",
+    "active": true,
+    "abstract": "",
+    "keywords": [],
+    "originalPublicationPeriod": "",
+    "digitizedDate": "",
+    "doi": "",
+    "featured": false
+  },
+  {
+    "id": "likhang-lahi-v1-i2-legend-of-ahin",
+    "journalId": "likhang-lahi-a-philippine-journal-of-literature-and-culture-arts",
+    "title": "Legend of Ahin",
+    "authors": [
+      "Leticia D. Guinsiman, PhD"
+    ],
+    "articleType": "Legend",
+    "volume": "1",
+    "issue": "2",
+    "issueLabel": "Issue No. 2",
+    "publicationDate": "2026-08-10",
+    "pages": "1–3",
+    "pdfFile": "assets/uploads/journal-archive/likhang-lahi/volume-1-issue-2/leticia-guinsiman-legend-of-ahin.pdf",
+    "active": true,
+    "abstract": "",
+    "keywords": [],
+    "originalPublicationPeriod": "",
+    "digitizedDate": "",
+    "doi": "",
+    "featured": false
+  },
+  {
+    "id": "likhang-lahi-v1-i2-legend-of-ap-apid",
+    "journalId": "likhang-lahi-a-philippine-journal-of-literature-and-culture-arts",
+    "title": "Legend of Ap-Apid",
+    "authors": [
+      "Leticia D. Guinsiman, PhD"
+    ],
+    "articleType": "Legend",
+    "volume": "1",
+    "issue": "2",
+    "issueLabel": "Issue No. 2",
+    "publicationDate": "2026-08-10",
+    "pages": "1–2",
+    "pdfFile": "assets/uploads/journal-archive/likhang-lahi/volume-1-issue-2/leticia-guinsiman-legend-of-ap-apid.pdf",
+    "active": true,
+    "abstract": "",
+    "keywords": [],
+    "originalPublicationPeriod": "",
+    "digitizedDate": "",
+    "doi": "",
+    "featured": false
+  },
+  {
+    "id": "likhang-lahi-v1-i2-legend-of-binablayan",
+    "journalId": "likhang-lahi-a-philippine-journal-of-literature-and-culture-arts",
+    "title": "Legend of Binablayan",
+    "authors": [
+      "Leticia D. Guinsiman, PhD"
+    ],
+    "articleType": "Legend",
+    "volume": "1",
+    "issue": "2",
+    "issueLabel": "Issue No. 2",
+    "publicationDate": "2026-08-10",
+    "pages": "1–4",
+    "pdfFile": "assets/uploads/journal-archive/likhang-lahi/volume-1-issue-2/leticia-guinsiman-legend-of-binablayan.pdf",
+    "active": true,
+    "abstract": "",
+    "keywords": [],
+    "originalPublicationPeriod": "",
+    "digitizedDate": "",
+    "doi": "",
+    "featured": false
+  },
+  {
+    "id": "likhang-lahi-v1-i2-legend-of-danggo",
+    "journalId": "likhang-lahi-a-philippine-journal-of-literature-and-culture-arts",
+    "title": "Legend of Danggo",
+    "authors": [
+      "Leticia D. Guinsiman, PhD"
+    ],
+    "articleType": "Legend",
+    "volume": "1",
+    "issue": "2",
+    "issueLabel": "Issue No. 2",
+    "publicationDate": "2026-08-10",
+    "pages": "1–2",
+    "pdfFile": "assets/uploads/journal-archive/likhang-lahi/volume-1-issue-2/leticia-guinsiman-legend-of-danggo.pdf",
+    "active": true,
+    "abstract": "",
+    "keywords": [],
+    "originalPublicationPeriod": "",
+    "digitizedDate": "",
+    "doi": "",
+    "featured": false
+  },
+  {
+    "id": "likhang-lahi-v1-i2-legend-of-eheb",
+    "journalId": "likhang-lahi-a-philippine-journal-of-literature-and-culture-arts",
+    "title": "Legend of Eheb",
+    "authors": [
+      "Leticia D. Guinsiman, PhD"
+    ],
+    "articleType": "Legend",
+    "volume": "1",
+    "issue": "2",
+    "issueLabel": "Issue No. 2",
+    "publicationDate": "2026-08-10",
+    "pages": "1–3",
+    "pdfFile": "assets/uploads/journal-archive/likhang-lahi/volume-1-issue-2/leticia-guinsiman-legend-of-eheb.pdf",
+    "active": true,
+    "abstract": "",
+    "keywords": [],
+    "originalPublicationPeriod": "",
+    "digitizedDate": "",
+    "doi": "",
+    "featured": false
+  },
+  {
+    "id": "likhang-lahi-v1-i2-legend-of-gumhang",
+    "journalId": "likhang-lahi-a-philippine-journal-of-literature-and-culture-arts",
+    "title": "Legend of Gumhang",
+    "authors": [
+      "Leticia D. Guinsiman, PhD"
+    ],
+    "articleType": "Legend",
+    "volume": "1",
+    "issue": "2",
+    "issueLabel": "Issue No. 2",
+    "publicationDate": "2026-08-10",
+    "pages": "1–4",
+    "pdfFile": "assets/uploads/journal-archive/likhang-lahi/volume-1-issue-2/leticia-guinsiman-legend-of-gumhang.pdf",
+    "active": true,
+    "abstract": "",
+    "keywords": [],
+    "originalPublicationPeriod": "",
+    "digitizedDate": "",
+    "doi": "",
+    "featured": false
+  },
+  {
+    "id": "likhang-lahi-v1-i2-legend-of-impugong",
+    "journalId": "likhang-lahi-a-philippine-journal-of-literature-and-culture-arts",
+    "title": "Legend of Impugong",
+    "authors": [
+      "Leticia D. Guinsiman, PhD"
+    ],
+    "articleType": "Legend",
+    "volume": "1",
+    "issue": "2",
+    "issueLabel": "Issue No. 2",
+    "publicationDate": "2026-08-10",
+    "pages": "1–3",
+    "pdfFile": "assets/uploads/journal-archive/likhang-lahi/volume-1-issue-2/leticia-guinsiman-legend-of-impugong.pdf",
+    "active": true,
+    "abstract": "",
+    "keywords": [],
+    "originalPublicationPeriod": "",
+    "digitizedDate": "",
+    "doi": "",
+    "featured": false
+  },
+  {
+    "id": "likhang-lahi-v1-i2-legend-of-nahwi",
+    "journalId": "likhang-lahi-a-philippine-journal-of-literature-and-culture-arts",
+    "title": "Legend of Nahwi",
+    "authors": [
+      "Leticia D. Guinsiman, PhD"
+    ],
+    "articleType": "Legend",
+    "volume": "1",
+    "issue": "2",
+    "issueLabel": "Issue No. 2",
+    "publicationDate": "2026-08-10",
+    "pages": "1–3",
+    "pdfFile": "assets/uploads/journal-archive/likhang-lahi/volume-1-issue-2/leticia-guinsiman-legend-of-nahwi.pdf",
+    "active": true,
+    "abstract": "",
+    "keywords": [],
+    "originalPublicationPeriod": "",
+    "digitizedDate": "",
+    "doi": "",
+    "featured": false
+  },
+  {
+    "id": "likhang-lahi-v1-i2-legend-of-tinoc",
+    "journalId": "likhang-lahi-a-philippine-journal-of-literature-and-culture-arts",
+    "title": "Legend of Tinoc",
+    "authors": [
+      "Leticia D. Guinsiman, PhD"
+    ],
+    "articleType": "Legend",
+    "volume": "1",
+    "issue": "2",
+    "issueLabel": "Issue No. 2",
+    "publicationDate": "2026-08-10",
+    "pages": "1–9",
+    "pdfFile": "assets/uploads/journal-archive/likhang-lahi/volume-1-issue-2/leticia-guinsiman-legend-of-tinoc.pdf",
+    "active": true,
+    "abstract": "",
+    "keywords": [],
+    "originalPublicationPeriod": "",
+    "digitizedDate": "",
+    "doi": "",
+    "featured": false
+  },
+  {
+    "id": "likhang-lahi-v1-i2-legend-of-tukucan",
+    "journalId": "likhang-lahi-a-philippine-journal-of-literature-and-culture-arts",
+    "title": "Legend of Tukucan",
+    "authors": [
+      "Leticia D. Guinsiman, PhD"
+    ],
+    "articleType": "Legend",
+    "volume": "1",
+    "issue": "2",
+    "issueLabel": "Issue No. 2",
+    "publicationDate": "2026-08-10",
+    "pages": "1–3",
+    "pdfFile": "assets/uploads/journal-archive/likhang-lahi/volume-1-issue-2/leticia-guinsiman-legend-of-tukucan.pdf",
+    "active": true,
+    "abstract": "",
+    "keywords": [],
+    "originalPublicationPeriod": "",
+    "digitizedDate": "",
+    "doi": "",
+    "featured": false
+  },
+  {
+    "id": "likhang-lahi-v1-i2-legend-of-tulludan",
+    "journalId": "likhang-lahi-a-philippine-journal-of-literature-and-culture-arts",
+    "title": "Legend of Tulludan",
+    "authors": [
+      "Leticia D. Guinsiman, PhD"
+    ],
+    "articleType": "Legend",
+    "volume": "1",
+    "issue": "2",
+    "issueLabel": "Issue No. 2",
+    "publicationDate": "2026-08-10",
+    "pages": "1–3",
+    "pdfFile": "assets/uploads/journal-archive/likhang-lahi/volume-1-issue-2/leticia-guinsiman-legend-of-tulludan.pdf",
+    "active": true,
+    "abstract": "",
+    "keywords": [],
+    "originalPublicationPeriod": "",
+    "digitizedDate": "",
+    "doi": "",
+    "featured": false
+  },
+  {
+    "id": "likhang-lahi-v1-i2-legend-of-wangwang",
+    "journalId": "likhang-lahi-a-philippine-journal-of-literature-and-culture-arts",
+    "title": "Legend of Wangwang",
+    "authors": [
+      "Leticia D. Guinsiman, PhD"
+    ],
+    "articleType": "Legend",
+    "volume": "1",
+    "issue": "2",
+    "issueLabel": "Issue No. 2",
+    "publicationDate": "2026-08-10",
+    "pages": "1–2",
+    "pdfFile": "assets/uploads/journal-archive/likhang-lahi/volume-1-issue-2/leticia-guinsiman-legend-of-wangwang.pdf",
+    "active": true,
+    "abstract": "",
+    "keywords": [],
+    "originalPublicationPeriod": "",
+    "digitizedDate": "",
+    "doi": "",
+    "featured": false
+  },
+  {
+    "id": "likhang-lahi-v1-i2-light-beneath-the-lens",
+    "journalId": "likhang-lahi-a-philippine-journal-of-literature-and-culture-arts",
+    "title": "Light Beneath the Lens",
+    "authors": [
+      "Sherwin Valdez Alvaro"
+    ],
+    "articleType": "Poetry",
+    "volume": "1",
+    "issue": "2",
+    "issueLabel": "Issue No. 2",
+    "publicationDate": "2026-08-10",
+    "pages": "1–4",
+    "pdfFile": "assets/uploads/journal-archive/likhang-lahi/volume-1-issue-2/sherwin-alvaro-light-beneath-the-lens.pdf",
+    "active": true,
+    "abstract": "",
+    "keywords": [],
+    "originalPublicationPeriod": "",
+    "digitizedDate": "",
+    "doi": "",
+    "featured": false
+  },
+  {
+    "id": "likhang-lahi-v1-i2-manuk-kuy-pukapukaw",
+    "journalId": "likhang-lahi-a-philippine-journal-of-literature-and-culture-arts",
+    "title": "Manuk Ku’y Pukapukaw",
+    "authors": [
+      "Leticia D. Guinsiman, PhD"
+    ],
+    "articleType": "Folk Song",
+    "volume": "1",
+    "issue": "2",
+    "issueLabel": "Issue No. 2",
+    "publicationDate": "2026-08-10",
+    "pages": "1–2",
+    "pdfFile": "assets/uploads/journal-archive/likhang-lahi/volume-1-issue-2/leticia-guinsiman-manuk-kuy-pukapukaw.pdf",
+    "active": true,
+    "abstract": "",
+    "keywords": [],
+    "originalPublicationPeriod": "",
+    "digitizedDate": "",
+    "doi": "",
+    "featured": false
+  },
+  {
+    "id": "likhang-lahi-v1-i2-pipingew-dangew-dangew",
+    "journalId": "likhang-lahi-a-philippine-journal-of-literature-and-culture-arts",
+    "title": "Pipingew Dangew Dangew",
+    "authors": [
+      "Leticia D. Guinsiman, PhD"
+    ],
+    "articleType": "Folk Song",
+    "volume": "1",
+    "issue": "2",
+    "issueLabel": "Issue No. 2",
+    "publicationDate": "2026-08-10",
+    "pages": "1–4",
+    "pdfFile": "assets/uploads/journal-archive/likhang-lahi/volume-1-issue-2/leticia-guinsiman-pipingew-dangew-dangew.pdf",
+    "active": true,
+    "abstract": "",
+    "keywords": [],
+    "originalPublicationPeriod": "",
+    "digitizedDate": "",
+    "doi": "",
+    "featured": false
+  },
+  {
+    "id": "likhang-lahi-v1-i2-the-quiet-pulse-of-science",
+    "journalId": "likhang-lahi-a-philippine-journal-of-literature-and-culture-arts",
+    "title": "The Quiet Pulse of Science",
+    "authors": [
+      "Sherwin Valdez Alvaro"
+    ],
+    "articleType": "Poetry",
+    "volume": "1",
+    "issue": "2",
+    "issueLabel": "Issue No. 2",
+    "publicationDate": "2026-08-10",
+    "pages": "1–5",
+    "pdfFile": "assets/uploads/journal-archive/likhang-lahi/volume-1-issue-2/sherwin-alvaro-the-quiet-pulse-of-science.pdf",
+    "active": true,
+    "abstract": "",
+    "keywords": [],
+    "originalPublicationPeriod": "",
+    "digitizedDate": "",
+    "doi": "",
+    "featured": false
+  },
+  {
+    "id": "likhang-lahi-v1-i2-the-two-friends",
+    "journalId": "likhang-lahi-a-philippine-journal-of-literature-and-culture-arts",
+    "title": "The Two Friends",
+    "authors": [
+      "Chona Lee F. Fababeir"
+    ],
+    "articleType": "Short Story",
+    "volume": "1",
+    "issue": "2",
+    "issueLabel": "Issue No. 2",
+    "publicationDate": "2026-08-10",
+    "pages": "1–3",
+    "pdfFile": "assets/uploads/journal-archive/likhang-lahi/volume-1-issue-2/chona-lee-fababeir-the-two-friends.pdf",
+    "active": true,
+    "abstract": "",
+    "keywords": [],
+    "originalPublicationPeriod": "",
+    "digitizedDate": "",
+    "doi": "",
+    "featured": false
+  },
+  {
+    "id": "likhang-lahi-v1-i2-tikdewak",
+    "journalId": "likhang-lahi-a-philippine-journal-of-literature-and-culture-arts",
+    "title": "Tikdewak",
+    "authors": [
+      "Leticia D. Guinsiman, PhD"
+    ],
+    "articleType": "Folk Song",
+    "volume": "1",
+    "issue": "2",
+    "issueLabel": "Issue No. 2",
+    "publicationDate": "2026-08-10",
+    "pages": "1–2",
+    "pdfFile": "assets/uploads/journal-archive/likhang-lahi/volume-1-issue-2/leticia-guinsiman-tikdewak.pdf",
+    "active": true,
+    "abstract": "",
+    "keywords": [],
+    "originalPublicationPeriod": "",
+    "digitizedDate": "",
+    "doi": "",
+    "featured": false
+  },
+  {
+    "id": "likhang-lahi-volume-1-issue-1-9",
+    "journalId": "likhang-lahi-a-philippine-journal-of-literature-and-culture-arts",
+    "title": "Almusal sa Cauayan",
+    "authors": [
+      "Joseph C. Eco"
+    ],
+    "articleType": "Poetry",
+    "abstract": "",
+    "keywords": [],
+    "volume": "1",
+    "issue": "1",
+    "issueLabel": "Volume 1 Issue No. 1",
+    "publicationDate": "2026-07-21",
+    "pages": "14–15",
+    "doi": "",
+    "pdfFile": "assets/uploads/journal-archive/likhang-lahi/volume-1-issue-1/joseph-c-eco-almusal-sa-cauayan.pdf",
     "featured": false,
     "active": true,
-    "id": "national-research-journal-volume-3-issue-1-4"
+    "originalPublicationPeriod": "",
+    "digitizedDate": ""
+  },
+  {
+    "id": "likhang-lahi-volume-1-issue-1-32",
+    "journalId": "likhang-lahi-a-philippine-journal-of-literature-and-culture-arts",
+    "title": "Ang Gintong Baul",
+    "authors": [
+      "Vanesa B. Mazo"
+    ],
+    "articleType": "Short Story",
+    "abstract": "",
+    "keywords": [],
+    "volume": "1",
+    "issue": "1",
+    "issueLabel": "Volume 1 Issue No. 1",
+    "publicationDate": "2026-07-21",
+    "pages": "52–58",
+    "doi": "",
+    "pdfFile": "assets/uploads/journal-archive/likhang-lahi/volume-1-issue-1/vanesa-b-mazo-ang-gintong-baul.pdf",
+    "featured": false,
+    "active": true,
+    "originalPublicationPeriod": "",
+    "digitizedDate": ""
+  },
+  {
+    "id": "likhang-lahi-volume-1-issue-1-7",
+    "journalId": "likhang-lahi-a-philippine-journal-of-literature-and-culture-arts",
+    "title": "Ang Guro at ang Kanyang Agam-agam",
+    "authors": [
+      "Joseph C. Eco"
+    ],
+    "articleType": "Poetry",
+    "abstract": "",
+    "keywords": [],
+    "volume": "1",
+    "issue": "1",
+    "issueLabel": "Volume 1 Issue No. 1",
+    "publicationDate": "2026-07-21",
+    "pages": "11",
+    "doi": "",
+    "pdfFile": "assets/uploads/journal-archive/likhang-lahi/volume-1-issue-1/joseph-c-eco-ang-guro-at-ang-kanyang-agam-agam.pdf",
+    "featured": false,
+    "active": true,
+    "originalPublicationPeriod": "",
+    "digitizedDate": ""
+  },
+  {
+    "id": "likhang-lahi-volume-1-issue-1-12",
+    "journalId": "likhang-lahi-a-philippine-journal-of-literature-and-culture-arts",
+    "title": "Ang Ingay ng mga Grade 6",
+    "authors": [
+      "Joseph C. Eco"
+    ],
+    "articleType": "Poetry",
+    "abstract": "",
+    "keywords": [],
+    "volume": "1",
+    "issue": "1",
+    "issueLabel": "Volume 1 Issue No. 1",
+    "publicationDate": "2026-07-21",
+    "pages": "20–21",
+    "doi": "",
+    "pdfFile": "assets/uploads/journal-archive/likhang-lahi/volume-1-issue-1/joseph-c-eco-ang-ingay-ng-mga-grade-6.pdf",
+    "featured": false,
+    "active": true,
+    "originalPublicationPeriod": "",
+    "digitizedDate": ""
+  },
+  {
+    "id": "likhang-lahi-volume-1-issue-1-33",
+    "journalId": "likhang-lahi-a-philippine-journal-of-literature-and-culture-arts",
+    "title": "Ang Lapis ni Jhio",
+    "authors": [
+      "Jhobilyn Arce Millares-IGLOSO"
+    ],
+    "articleType": "Short Story",
+    "abstract": "",
+    "keywords": [],
+    "volume": "1",
+    "issue": "1",
+    "issueLabel": "Volume 1 Issue No. 1",
+    "publicationDate": "2026-07-21",
+    "pages": "59–61",
+    "doi": "",
+    "pdfFile": "assets/uploads/journal-archive/likhang-lahi/volume-1-issue-1/jhobilyn-arce-millares-igloso-ang-lapis-ni-jhio.pdf",
+    "featured": false,
+    "active": true,
+    "originalPublicationPeriod": "",
+    "digitizedDate": ""
+  },
+  {
+    "id": "likhang-lahi-volume-1-issue-1-2",
+    "journalId": "likhang-lahi-a-philippine-journal-of-literature-and-culture-arts",
+    "title": "Ang Pagsulat",
+    "authors": [
+      "Joseph C. Eco"
+    ],
+    "articleType": "Poetry",
+    "abstract": "",
+    "keywords": [],
+    "volume": "1",
+    "issue": "1",
+    "issueLabel": "Volume 1 Issue No. 1",
+    "publicationDate": "2026-07-21",
+    "pages": "2–3",
+    "doi": "",
+    "pdfFile": "assets/uploads/journal-archive/likhang-lahi/volume-1-issue-1/joseph-c-eco-ang-pagsulat.pdf",
+    "featured": false,
+    "active": true,
+    "originalPublicationPeriod": "",
+    "digitizedDate": ""
+  },
+  {
+    "id": "likhang-lahi-volume-1-issue-1-11",
+    "journalId": "likhang-lahi-a-philippine-journal-of-literature-and-culture-arts",
+    "title": "Ang Pagtanan",
+    "authors": [
+      "Joseph C. Eco"
+    ],
+    "articleType": "Poetry",
+    "abstract": "",
+    "keywords": [],
+    "volume": "1",
+    "issue": "1",
+    "issueLabel": "Volume 1 Issue No. 1",
+    "publicationDate": "2026-07-21",
+    "pages": "18–19",
+    "doi": "",
+    "pdfFile": "assets/uploads/journal-archive/likhang-lahi/volume-1-issue-1/joseph-c-eco-ang-pagtanan.pdf",
+    "featured": false,
+    "active": true,
+    "originalPublicationPeriod": "",
+    "digitizedDate": ""
+  },
+  {
+    "id": "likhang-lahi-volume-1-issue-1-38",
+    "journalId": "likhang-lahi-a-philippine-journal-of-literature-and-culture-arts",
+    "title": "Ang Puno ng Pag-asa",
+    "authors": [
+      "Jhobilyn Arce Millares-IGLOSO"
+    ],
+    "articleType": "Short Story",
+    "abstract": "",
+    "keywords": [],
+    "volume": "1",
+    "issue": "1",
+    "issueLabel": "Volume 1 Issue No. 1",
+    "publicationDate": "2026-07-21",
+    "pages": "70–72",
+    "doi": "",
+    "pdfFile": "assets/uploads/journal-archive/likhang-lahi/volume-1-issue-1/jhobilyn-arce-millares-igloso-ang-puno-ng-pag-asa.pdf",
+    "featured": false,
+    "active": true,
+    "originalPublicationPeriod": "",
+    "digitizedDate": ""
+  },
+  {
+    "id": "likhang-lahi-volume-1-issue-1-36",
+    "journalId": "likhang-lahi-a-philippine-journal-of-literature-and-culture-arts",
+    "title": "Ang Sunglass ni Karl",
+    "authors": [
+      "Jhobilyn Arce Millares-IGLOSO"
+    ],
+    "articleType": "Short Story",
+    "abstract": "",
+    "keywords": [],
+    "volume": "1",
+    "issue": "1",
+    "issueLabel": "Volume 1 Issue No. 1",
+    "publicationDate": "2026-07-21",
+    "pages": "66–67",
+    "doi": "",
+    "pdfFile": "assets/uploads/journal-archive/likhang-lahi/volume-1-issue-1/jhobilyn-arce-millares-igloso-ang-sunglass-ni-karl.pdf",
+    "featured": false,
+    "active": true,
+    "originalPublicationPeriod": "",
+    "digitizedDate": ""
+  },
+  {
+    "id": "likhang-lahi-volume-1-issue-1-27",
+    "journalId": "likhang-lahi-a-philippine-journal-of-literature-and-culture-arts",
+    "title": "Ang Tagahilot sa Forest Region",
+    "authors": [
+      "Joseph C. Eco"
+    ],
+    "articleType": "Poetry",
+    "abstract": "",
+    "keywords": [],
+    "volume": "1",
+    "issue": "1",
+    "issueLabel": "Volume 1 Issue No. 1",
+    "publicationDate": "2026-07-21",
+    "pages": "43–45",
+    "doi": "",
+    "pdfFile": "assets/uploads/journal-archive/likhang-lahi/volume-1-issue-1/joseph-c-eco-ang-tagahilot-sa-forest-region.pdf",
+    "featured": false,
+    "active": true,
+    "originalPublicationPeriod": "",
+    "digitizedDate": ""
+  },
+  {
+    "id": "likhang-lahi-volume-1-issue-1-10",
+    "journalId": "likhang-lahi-a-philippine-journal-of-literature-and-culture-arts",
+    "title": "Ang Tatay Kong Mayabang",
+    "authors": [
+      "Joseph C. Eco"
+    ],
+    "articleType": "Poetry",
+    "abstract": "",
+    "keywords": [],
+    "volume": "1",
+    "issue": "1",
+    "issueLabel": "Volume 1 Issue No. 1",
+    "publicationDate": "2026-07-21",
+    "pages": "16–17",
+    "doi": "",
+    "pdfFile": "assets/uploads/journal-archive/likhang-lahi/volume-1-issue-1/joseph-c-eco-ang-tatay-kong-mayabang.pdf",
+    "featured": false,
+    "active": true,
+    "originalPublicationPeriod": "",
+    "digitizedDate": ""
+  },
+  {
+    "id": "likhang-lahi-volume-1-issue-1-34",
+    "journalId": "likhang-lahi-a-philippine-journal-of-literature-and-culture-arts",
+    "title": "Ang Turo ni Tatay",
+    "authors": [
+      "Jhobilyn Arce Millares-IGLOSO"
+    ],
+    "articleType": "Short Story",
+    "abstract": "",
+    "keywords": [],
+    "volume": "1",
+    "issue": "1",
+    "issueLabel": "Volume 1 Issue No. 1",
+    "publicationDate": "2026-07-21",
+    "pages": "62–63",
+    "doi": "",
+    "pdfFile": "assets/uploads/journal-archive/likhang-lahi/volume-1-issue-1/jhobilyn-arce-millares-igloso-ang-turo-ni-tatay.pdf",
+    "featured": false,
+    "active": true,
+    "originalPublicationPeriod": "",
+    "digitizedDate": ""
+  },
+  {
+    "id": "likhang-lahi-volume-1-issue-1-6",
+    "journalId": "likhang-lahi-a-philippine-journal-of-literature-and-culture-arts",
+    "title": "Beyond the Dreams",
+    "authors": [
+      "Joseph C. Eco"
+    ],
+    "articleType": "Poetry",
+    "abstract": "",
+    "keywords": [],
+    "volume": "1",
+    "issue": "1",
+    "issueLabel": "Volume 1 Issue No. 1",
+    "publicationDate": "2026-07-21",
+    "pages": "10",
+    "doi": "",
+    "pdfFile": "assets/uploads/journal-archive/likhang-lahi/volume-1-issue-1/joseph-c-eco-beyond-the-dreams.pdf",
+    "featured": false,
+    "active": true,
+    "originalPublicationPeriod": "",
+    "digitizedDate": ""
+  },
+  {
+    "id": "likhang-lahi-volume-1-issue-1-13",
+    "journalId": "likhang-lahi-a-philippine-journal-of-literature-and-culture-arts",
+    "title": "Had She Not Known Me",
+    "authors": [
+      "Joseph C. Eco"
+    ],
+    "articleType": "Poetry",
+    "abstract": "",
+    "keywords": [],
+    "volume": "1",
+    "issue": "1",
+    "issueLabel": "Volume 1 Issue No. 1",
+    "publicationDate": "2026-07-21",
+    "pages": "22",
+    "doi": "",
+    "pdfFile": "assets/uploads/journal-archive/likhang-lahi/volume-1-issue-1/joseph-c-eco-had-she-not-known-me.pdf",
+    "featured": false,
+    "active": true,
+    "originalPublicationPeriod": "",
+    "digitizedDate": ""
+  },
+  {
+    "id": "likhang-lahi-volume-1-issue-1-31",
+    "journalId": "likhang-lahi-a-philippine-journal-of-literature-and-culture-arts",
+    "title": "Healing in Each Test",
+    "authors": [
+      "Sherwin Valdez Alvaro"
+    ],
+    "articleType": "Poetry",
+    "abstract": "",
+    "keywords": [],
+    "volume": "1",
+    "issue": "1",
+    "issueLabel": "Volume 1 Issue No. 1",
+    "publicationDate": "2026-07-21",
+    "pages": "50–51",
+    "doi": "",
+    "pdfFile": "assets/uploads/journal-archive/likhang-lahi/volume-1-issue-1/sherwin-valdez-alvaro-healing-in-each-test.pdf",
+    "featured": false,
+    "active": true,
+    "originalPublicationPeriod": "",
+    "digitizedDate": ""
+  },
+  {
+    "id": "likhang-lahi-volume-1-issue-1-8",
+    "journalId": "likhang-lahi-a-philippine-journal-of-literature-and-culture-arts",
+    "title": "Heed Me Not",
+    "authors": [
+      "Joseph C. Eco"
+    ],
+    "articleType": "Poetry",
+    "abstract": "",
+    "keywords": [],
+    "volume": "1",
+    "issue": "1",
+    "issueLabel": "Volume 1 Issue No. 1",
+    "publicationDate": "2026-07-21",
+    "pages": "12–13",
+    "doi": "",
+    "pdfFile": "assets/uploads/journal-archive/likhang-lahi/volume-1-issue-1/joseph-c-eco-heed-me-not.pdf",
+    "featured": false,
+    "active": true,
+    "originalPublicationPeriod": "",
+    "digitizedDate": ""
+  },
+  {
+    "id": "likhang-lahi-volume-1-issue-1-15",
+    "journalId": "likhang-lahi-a-philippine-journal-of-literature-and-culture-arts",
+    "title": "Hindi Man Magturo",
+    "authors": [
+      "Joseph C. Eco"
+    ],
+    "articleType": "Poetry",
+    "abstract": "",
+    "keywords": [],
+    "volume": "1",
+    "issue": "1",
+    "issueLabel": "Volume 1 Issue No. 1",
+    "publicationDate": "2026-07-21",
+    "pages": "24",
+    "doi": "",
+    "pdfFile": "assets/uploads/journal-archive/likhang-lahi/volume-1-issue-1/joseph-c-eco-hindi-man-magturo.pdf",
+    "featured": false,
+    "active": true,
+    "originalPublicationPeriod": "",
+    "digitizedDate": ""
+  },
+  {
+    "id": "likhang-lahi-volume-1-issue-1-30",
+    "journalId": "likhang-lahi-a-philippine-journal-of-literature-and-culture-arts",
+    "title": "Humahanap",
+    "authors": [
+      "Joseph C. Eco"
+    ],
+    "articleType": "Poetry",
+    "abstract": "",
+    "keywords": [],
+    "volume": "1",
+    "issue": "1",
+    "issueLabel": "Volume 1 Issue No. 1",
+    "publicationDate": "2026-07-21",
+    "pages": "49",
+    "doi": "",
+    "pdfFile": "assets/uploads/journal-archive/likhang-lahi/volume-1-issue-1/joseph-c-eco-humahanap.pdf",
+    "featured": false,
+    "active": true,
+    "originalPublicationPeriod": "",
+    "digitizedDate": ""
+  },
+  {
+    "id": "likhang-lahi-volume-1-issue-1-14",
+    "journalId": "likhang-lahi-a-philippine-journal-of-literature-and-culture-arts",
+    "title": "I, Referee",
+    "authors": [
+      "Joseph C. Eco"
+    ],
+    "articleType": "Poetry",
+    "abstract": "",
+    "keywords": [],
+    "volume": "1",
+    "issue": "1",
+    "issueLabel": "Volume 1 Issue No. 1",
+    "publicationDate": "2026-07-21",
+    "pages": "23",
+    "doi": "",
+    "pdfFile": "assets/uploads/journal-archive/likhang-lahi/volume-1-issue-1/joseph-c-eco-i-referee.pdf",
+    "featured": false,
+    "active": true,
+    "originalPublicationPeriod": "",
+    "digitizedDate": ""
+  },
+  {
+    "id": "likhang-lahi-volume-1-issue-1-16",
+    "journalId": "likhang-lahi-a-philippine-journal-of-literature-and-culture-arts",
+    "title": "In Cognito",
+    "authors": [
+      "Joseph C. Eco"
+    ],
+    "articleType": "Poetry",
+    "abstract": "",
+    "keywords": [],
+    "volume": "1",
+    "issue": "1",
+    "issueLabel": "Volume 1 Issue No. 1",
+    "publicationDate": "2026-07-21",
+    "pages": "25",
+    "doi": "",
+    "pdfFile": "assets/uploads/journal-archive/likhang-lahi/volume-1-issue-1/joseph-c-eco-in-cognito.pdf",
+    "featured": false,
+    "active": true,
+    "originalPublicationPeriod": "",
+    "digitizedDate": ""
+  },
+  {
+    "id": "likhang-lahi-volume-1-issue-1-17",
+    "journalId": "likhang-lahi-a-philippine-journal-of-literature-and-culture-arts",
+    "title": "Kahirap",
+    "authors": [
+      "Joseph C. Eco"
+    ],
+    "articleType": "Poetry",
+    "abstract": "",
+    "keywords": [],
+    "volume": "1",
+    "issue": "1",
+    "issueLabel": "Volume 1 Issue No. 1",
+    "publicationDate": "2026-07-21",
+    "pages": "26",
+    "doi": "",
+    "pdfFile": "assets/uploads/journal-archive/likhang-lahi/volume-1-issue-1/joseph-c-eco-kahirap.pdf",
+    "featured": false,
+    "active": true,
+    "originalPublicationPeriod": "",
+    "digitizedDate": ""
+  },
+  {
+    "id": "likhang-lahi-volume-1-issue-1-35",
+    "journalId": "likhang-lahi-a-philippine-journal-of-literature-and-culture-arts",
+    "title": "Liham",
+    "authors": [
+      "Jhobilyn Arce Millares-IGLOSO"
+    ],
+    "articleType": "Short Story",
+    "abstract": "",
+    "keywords": [],
+    "volume": "1",
+    "issue": "1",
+    "issueLabel": "Volume 1 Issue No. 1",
+    "publicationDate": "2026-07-21",
+    "pages": "64–65",
+    "doi": "",
+    "pdfFile": "assets/uploads/journal-archive/likhang-lahi/volume-1-issue-1/jhobilyn-arce-millares-igloso-liham.pdf",
+    "featured": false,
+    "active": true,
+    "originalPublicationPeriod": "",
+    "digitizedDate": ""
+  },
+  {
+    "id": "likhang-lahi-volume-1-issue-1-24",
+    "journalId": "likhang-lahi-a-philippine-journal-of-literature-and-culture-arts",
+    "title": "My Friend Bart",
+    "authors": [
+      "Joseph C. Eco"
+    ],
+    "articleType": "Poetry",
+    "abstract": "",
+    "keywords": [],
+    "volume": "1",
+    "issue": "1",
+    "issueLabel": "Volume 1 Issue No. 1",
+    "publicationDate": "2026-07-21",
+    "pages": "38",
+    "doi": "",
+    "pdfFile": "assets/uploads/journal-archive/likhang-lahi/volume-1-issue-1/joseph-c-eco-my-friend-bart.pdf",
+    "featured": false,
+    "active": true,
+    "originalPublicationPeriod": "",
+    "digitizedDate": ""
+  },
+  {
+    "id": "likhang-lahi-volume-1-issue-1-25",
+    "journalId": "likhang-lahi-a-philippine-journal-of-literature-and-culture-arts",
+    "title": "My Stuffs",
+    "authors": [
+      "Joseph C. Eco"
+    ],
+    "articleType": "Poetry",
+    "abstract": "",
+    "keywords": [],
+    "volume": "1",
+    "issue": "1",
+    "issueLabel": "Volume 1 Issue No. 1",
+    "publicationDate": "2026-07-21",
+    "pages": "39–40",
+    "doi": "",
+    "pdfFile": "assets/uploads/journal-archive/likhang-lahi/volume-1-issue-1/joseph-c-eco-my-stuffs.pdf",
+    "featured": false,
+    "active": true,
+    "originalPublicationPeriod": "",
+    "digitizedDate": ""
+  },
+  {
+    "id": "likhang-lahi-volume-1-issue-1-18",
+    "journalId": "likhang-lahi-a-philippine-journal-of-literature-and-culture-arts",
+    "title": "O Csheryl",
+    "authors": [
+      "Joseph C. Eco"
+    ],
+    "articleType": "Poetry",
+    "abstract": "",
+    "keywords": [],
+    "volume": "1",
+    "issue": "1",
+    "issueLabel": "Volume 1 Issue No. 1",
+    "publicationDate": "2026-07-21",
+    "pages": "27–28",
+    "doi": "",
+    "pdfFile": "assets/uploads/journal-archive/likhang-lahi/volume-1-issue-1/joseph-c-eco-o-csheryl.pdf",
+    "featured": false,
+    "active": true,
+    "originalPublicationPeriod": "",
+    "digitizedDate": ""
+  },
+  {
+    "id": "likhang-lahi-volume-1-issue-1-26",
+    "journalId": "likhang-lahi-a-philippine-journal-of-literature-and-culture-arts",
+    "title": "On Court",
+    "authors": [
+      "Joseph C. Eco"
+    ],
+    "articleType": "Poetry",
+    "abstract": "",
+    "keywords": [],
+    "volume": "1",
+    "issue": "1",
+    "issueLabel": "Volume 1 Issue No. 1",
+    "publicationDate": "2026-07-21",
+    "pages": "41–42",
+    "doi": "",
+    "pdfFile": "assets/uploads/journal-archive/likhang-lahi/volume-1-issue-1/joseph-c-eco-on-court.pdf",
+    "featured": false,
+    "active": true,
+    "originalPublicationPeriod": "",
+    "digitizedDate": ""
+  },
+  {
+    "id": "likhang-lahi-volume-1-issue-1-19",
+    "journalId": "likhang-lahi-a-philippine-journal-of-literature-and-culture-arts",
+    "title": "Oras na ng Pag-uwi",
+    "authors": [
+      "Joseph C. Eco"
+    ],
+    "articleType": "Poetry",
+    "abstract": "",
+    "keywords": [],
+    "volume": "1",
+    "issue": "1",
+    "issueLabel": "Volume 1 Issue No. 1",
+    "publicationDate": "2026-07-21",
+    "pages": "29",
+    "doi": "",
+    "pdfFile": "assets/uploads/journal-archive/likhang-lahi/volume-1-issue-1/joseph-c-eco-oras-na-ng-pag-uwi.pdf",
+    "featured": false,
+    "active": true,
+    "originalPublicationPeriod": "",
+    "digitizedDate": ""
+  },
+  {
+    "id": "likhang-lahi-volume-1-issue-1-21",
+    "journalId": "likhang-lahi-a-philippine-journal-of-literature-and-culture-arts",
+    "title": "Paraiso sa Poblacion",
+    "authors": [
+      "Joseph C. Eco"
+    ],
+    "articleType": "Poetry",
+    "abstract": "",
+    "keywords": [],
+    "volume": "1",
+    "issue": "1",
+    "issueLabel": "Volume 1 Issue No. 1",
+    "publicationDate": "2026-07-21",
+    "pages": "31–32",
+    "doi": "",
+    "pdfFile": "assets/uploads/journal-archive/likhang-lahi/volume-1-issue-1/joseph-c-eco-paraiso-sa-poblacion.pdf",
+    "featured": false,
+    "active": true,
+    "originalPublicationPeriod": "",
+    "digitizedDate": ""
+  },
+  {
+    "id": "likhang-lahi-volume-1-issue-1-22",
+    "journalId": "likhang-lahi-a-philippine-journal-of-literature-and-culture-arts",
+    "title": "Parokya ni Senora del Pilar",
+    "authors": [
+      "Joseph C. Eco"
+    ],
+    "articleType": "Poetry",
+    "abstract": "",
+    "keywords": [],
+    "volume": "1",
+    "issue": "1",
+    "issueLabel": "Volume 1 Issue No. 1",
+    "publicationDate": "2026-07-21",
+    "pages": "33–35",
+    "doi": "",
+    "pdfFile": "assets/uploads/journal-archive/likhang-lahi/volume-1-issue-1/joseph-c-eco-parokya-ni-senora-del-pilar.pdf",
+    "featured": false,
+    "active": true,
+    "originalPublicationPeriod": "",
+    "digitizedDate": ""
+  },
+  {
+    "id": "likhang-lahi-volume-1-issue-1-23",
+    "journalId": "likhang-lahi-a-philippine-journal-of-literature-and-culture-arts",
+    "title": "Plaka",
+    "authors": [
+      "Joseph C. Eco"
+    ],
+    "articleType": "Poetry",
+    "abstract": "",
+    "keywords": [],
+    "volume": "1",
+    "issue": "1",
+    "issueLabel": "Volume 1 Issue No. 1",
+    "publicationDate": "2026-07-21",
+    "pages": "36–37",
+    "doi": "",
+    "pdfFile": "assets/uploads/journal-archive/likhang-lahi/volume-1-issue-1/joseph-c-eco-plaka.pdf",
+    "featured": false,
+    "active": true,
+    "originalPublicationPeriod": "",
+    "digitizedDate": ""
+  },
+  {
+    "id": "likhang-lahi-volume-1-issue-1-37",
+    "journalId": "likhang-lahi-a-philippine-journal-of-literature-and-culture-arts",
+    "title": "Puso ni Lola",
+    "authors": [
+      "Jhobilyn Arce Millares-IGLOSO"
+    ],
+    "articleType": "Short Story",
+    "abstract": "",
+    "keywords": [],
+    "volume": "1",
+    "issue": "1",
+    "issueLabel": "Volume 1 Issue No. 1",
+    "publicationDate": "2026-07-21",
+    "pages": "68–69",
+    "doi": "",
+    "pdfFile": "assets/uploads/journal-archive/likhang-lahi/volume-1-issue-1/jhobilyn-arce-millares-igloso-puso-ni-lola.pdf",
+    "featured": false,
+    "active": true,
+    "originalPublicationPeriod": "",
+    "digitizedDate": ""
+  },
+  {
+    "id": "likhang-lahi-volume-1-issue-1-39",
+    "journalId": "likhang-lahi-a-philippine-journal-of-literature-and-culture-arts",
+    "title": "Repeater",
+    "authors": [
+      "Jhobilyn Arce Millares-IGLOSO"
+    ],
+    "articleType": "Short Story",
+    "abstract": "",
+    "keywords": [],
+    "volume": "1",
+    "issue": "1",
+    "issueLabel": "Volume 1 Issue No. 1",
+    "publicationDate": "2026-07-21",
+    "pages": "73",
+    "doi": "",
+    "pdfFile": "assets/uploads/journal-archive/likhang-lahi/volume-1-issue-1/jhobilyn-arce-millares-igloso-repeater.pdf",
+    "featured": false,
+    "active": true,
+    "originalPublicationPeriod": "",
+    "digitizedDate": ""
+  },
+  {
+    "id": "likhang-lahi-volume-1-issue-1-20",
+    "journalId": "likhang-lahi-a-philippine-journal-of-literature-and-culture-arts",
+    "title": "Sa Dakong Dulo ng Graduation",
+    "authors": [
+      "Joseph C. Eco"
+    ],
+    "articleType": "Poetry",
+    "abstract": "",
+    "keywords": [],
+    "volume": "1",
+    "issue": "1",
+    "issueLabel": "Volume 1 Issue No. 1",
+    "publicationDate": "2026-07-21",
+    "pages": "30",
+    "doi": "",
+    "pdfFile": "assets/uploads/journal-archive/likhang-lahi/volume-1-issue-1/joseph-c-eco-sa-dakong-dulo-ng-graduation.pdf",
+    "featured": false,
+    "active": true,
+    "originalPublicationPeriod": "",
+    "digitizedDate": ""
+  },
+  {
+    "id": "likhang-lahi-volume-1-issue-1-3",
+    "journalId": "likhang-lahi-a-philippine-journal-of-literature-and-culture-arts",
+    "title": "The Arts of a Human",
+    "authors": [
+      "Joseph C. Eco"
+    ],
+    "articleType": "Poetry",
+    "abstract": "",
+    "keywords": [],
+    "volume": "1",
+    "issue": "1",
+    "issueLabel": "Volume 1 Issue No. 1",
+    "publicationDate": "2026-07-21",
+    "pages": "4–5",
+    "doi": "",
+    "pdfFile": "assets/uploads/journal-archive/likhang-lahi/volume-1-issue-1/joseph-c-eco-the-arts-of-a-human.pdf",
+    "featured": false,
+    "active": true,
+    "originalPublicationPeriod": "",
+    "digitizedDate": ""
+  },
+  {
+    "id": "likhang-lahi-volume-1-issue-1-4",
+    "journalId": "likhang-lahi-a-philippine-journal-of-literature-and-culture-arts",
+    "title": "The Arts of a Writer",
+    "authors": [
+      "Joseph C. Eco"
+    ],
+    "articleType": "Poetry",
+    "abstract": "",
+    "keywords": [],
+    "volume": "1",
+    "issue": "1",
+    "issueLabel": "Volume 1 Issue No. 1",
+    "publicationDate": "2026-07-21",
+    "pages": "6–7",
+    "doi": "",
+    "pdfFile": "assets/uploads/journal-archive/likhang-lahi/volume-1-issue-1/joseph-c-eco-the-arts-of-a-writer.pdf",
+    "featured": false,
+    "active": true,
+    "originalPublicationPeriod": "",
+    "digitizedDate": ""
+  },
+  {
+    "id": "likhang-lahi-volume-1-issue-1-28",
+    "journalId": "likhang-lahi-a-philippine-journal-of-literature-and-culture-arts",
+    "title": "The Old Man and His Sword",
+    "authors": [
+      "Joseph C. Eco"
+    ],
+    "articleType": "Poetry",
+    "abstract": "",
+    "keywords": [],
+    "volume": "1",
+    "issue": "1",
+    "issueLabel": "Volume 1 Issue No. 1",
+    "publicationDate": "2026-07-21",
+    "pages": "46–47",
+    "doi": "",
+    "pdfFile": "assets/uploads/journal-archive/likhang-lahi/volume-1-issue-1/joseph-c-eco-the-old-man-and-his-sword.pdf",
+    "featured": false,
+    "active": true,
+    "originalPublicationPeriod": "",
+    "digitizedDate": ""
+  },
+  {
+    "id": "likhang-lahi-volume-1-issue-1-29",
+    "journalId": "likhang-lahi-a-philippine-journal-of-literature-and-culture-arts",
+    "title": "There's No Moon Tonight",
+    "authors": [
+      "Joseph C. Eco"
+    ],
+    "articleType": "Poetry",
+    "abstract": "",
+    "keywords": [],
+    "volume": "1",
+    "issue": "1",
+    "issueLabel": "Volume 1 Issue No. 1",
+    "publicationDate": "2026-07-21",
+    "pages": "48",
+    "doi": "",
+    "pdfFile": "assets/uploads/journal-archive/likhang-lahi/volume-1-issue-1/joseph-c-eco-there-s-no-moon-tonight.pdf",
+    "featured": false,
+    "active": true,
+    "originalPublicationPeriod": "",
+    "digitizedDate": ""
+  },
+  {
+    "id": "likhang-lahi-volume-1-issue-1-5",
+    "journalId": "likhang-lahi-a-philippine-journal-of-literature-and-culture-arts",
+    "title": "To the Poet I Have Known",
+    "authors": [
+      "Joseph C. Eco"
+    ],
+    "articleType": "Poetry",
+    "abstract": "",
+    "keywords": [],
+    "volume": "1",
+    "issue": "1",
+    "issueLabel": "Volume 1 Issue No. 1",
+    "publicationDate": "2026-07-21",
+    "pages": "8–9",
+    "doi": "",
+    "pdfFile": "assets/uploads/journal-archive/likhang-lahi/volume-1-issue-1/joseph-c-eco-to-the-poet-i-have-known.pdf",
+    "featured": false,
+    "active": true,
+    "originalPublicationPeriod": "",
+    "digitizedDate": ""
+  },
+  {
+    "id": "likhang-lahi-volume-1-issue-1-1",
+    "journalId": "likhang-lahi-a-philippine-journal-of-literature-and-culture-arts",
+    "title": "Yugto",
+    "authors": [
+      "Joseph C. Eco"
+    ],
+    "articleType": "Poetry",
+    "abstract": "",
+    "keywords": [],
+    "volume": "1",
+    "issue": "1",
+    "issueLabel": "Volume 1 Issue No. 1",
+    "publicationDate": "2026-07-21",
+    "pages": "1",
+    "doi": "",
+    "pdfFile": "assets/uploads/journal-archive/likhang-lahi/volume-1-issue-1/joseph-c-eco-yugto.pdf",
+    "featured": false,
+    "active": true,
+    "originalPublicationPeriod": "",
+    "digitizedDate": ""
+  },
+  {
+    "journalId": "national-research-journal",
+    "title": "Adapting Marungko Sound Blending to English: A Cumulative Path from Decoding to Sentence Comprehension",
+    "authors": [
+      "Jenny Castro"
+    ],
+    "articleType": "Review Article",
+    "abstract": "Marungko-inspired materials introduce sounds in a purposeful sequence and move learners from letters to syllables, words, phrases, and sentences. This conceptual-design article proposes an orthographic-alignment framework for adapting that logic to English phonology, word meaning, grammar, and connected-text comprehension. It offers an audit matrix and a six-phase lesson cycle moving through oral sound analysis, grapheme mapping, blending, sentence reading, meaning construction, and encoding.",
+    "keywords": [
+      "beginning reading",
+      "Marungko approach",
+      "English phonics",
+      "decodable text",
+      "orthographic mapping",
+      "sentence comprehension"
+    ],
+    "volume": "6",
+    "issue": "2",
+    "issueLabel": "July–December 2025",
+    "publicationDate": "2025",
+    "pages": "30–37",
+    "doi": "",
+    "pdfFile": "assets/uploads/journal-archive/national-research-journal/volume-4-issue-2/jenny-castro-cumulative-english-decoding.pdf",
+    "featured": false,
+    "active": true,
+    "id": "national-research-journal-volume-4-issue-2-5",
+    "digitizedDate": "2026-08-10",
+    "originalPublicationPeriod": "July–December 2025"
   },
   {
     "journalId": "national-research-journal",
@@ -552,140 +1520,15 @@ window.SHIRLEY_JOURNAL_ARTICLES = [
     "volume": "6",
     "issue": "2",
     "issueLabel": "July–December 2025",
-    "publicationDate": "2026-08-10",
+    "publicationDate": "2025",
     "pages": "12–21",
     "doi": "",
     "pdfFile": "assets/uploads/journal-archive/national-research-journal/volume-4-issue-2/marina-binay-an-cookery-assessment-redesign.pdf",
     "featured": false,
     "active": true,
-    "id": "national-research-journal-volume-4-issue-2-2"
-  },
-  {
-    "journalId": "national-research-journal",
-    "title": "Beyond the Right Answer: The REASON Framework for Teaching Ethical Deliberation in General Education",
-    "authors": [
-      "Stephanie Pudiquet"
-    ],
-    "articleType": "Review Article",
-    "abstract": "Ethics courses often introduce moral theories and then ask students to apply a fixed sequence to dilemmas. A sequence can make reasoning visible, but it may also encourage the mistaken belief that ethical judgment is an algorithm that converts facts and principles into one uncontested answer. This conceptual-pedagogical article analyzes a college Ethics worktext as an instructional source and develops the Reconstruct-Enumerate-Articulate-Search-Own-Notice (REASON) framework for ethical deliberation in general education. The framework retains the worktext's emphasis on facts, issues, principles, alternatives, consequences, and decisions while adding stakeholder mapping, role responsibility, uncertainty, safeguards, implementation, and post-decision review. REASON asks learners to reconstruct the situation and distinguish evidence from assumption; enumerate affected parties, claims, relationships, and authority; articulate values and test the case through consequences, duties and rights, justice, virtue, care, and the common good; search for alternatives that reduce avoidable harm and preserve legitimate claims; own a publicly defensible decision and implementation plan; and notice outcomes, objections, and reasons for revision. Two analytical tools accompany the framework: a comparison of ethical lenses and an assessment map that connects each stage with an observable student product and a characteristic reasoning error. The article argues that case-based ethics should assess the quality of deliberation rather than agreement with an instructor's preferred conclusion. Strong work identifies morally relevant facts, represents perspectives fairly, applies more than one lens without merely listing theories, responds to counterarguments, respects legal and professional constraints without equating legality with morality, and specifies who should act, when, and under what safeguards. The contribution is an instructional design framework rather than an empirical claim about learning gains. It offers a transparent way to connect moral theory, cultural context, professional roles, moral courage, and accountable action across multidisciplinary college programs.",
-    "keywords": [
-      "ethical reasoning",
-      "moral deliberation",
-      "case-based learning",
-      "general education",
-      "moral decision-making",
-      "ethics pedagogy"
-    ],
-    "volume": "4",
-    "issue": "2",
-    "issueLabel": "July–December 2023",
-    "publicationDate": "2026-08-10",
-    "pages": "27–35",
-    "doi": "",
-    "pdfFile": "assets/uploads/journal-archive/national-research-journal/volume-2-issue-2/stephanie-pudiquet-ethical-deliberation-reason.pdf",
-    "featured": false,
-    "active": true,
-    "id": "national-research-journal-volumes-1-4-4"
-  },
-  {
-    "journalId": "national-research-journal",
-    "title": "Bridging Mathematical Content and Teaching Practice: A Document Analysis of a Primary-Grade Mathematics Learning Module",
-    "authors": [
-      "Eleanor Bullong"
-    ],
-    "articleType": "Research Article",
-    "abstract": "This study examined the instructional architecture, mathematical integrity, and publication readiness of Teaching Math in the Primary Grades (E-Math-1), a learning module for prospective elementary teachers. A structured qualitative document analysis was conducted on the 68-page manuscript embedded in the supplied similarity-report PDF. The analysis inventoried lesson components and coded content coverage, mathematical knowledge for teaching, task demand, assessment and feedback, accuracy, editorial consistency, accessibility, and validation evidence. The module contains ten lessons: one institutional orientation, seven mathematics-content units, and two pedagogy-focused units on lesson planning and teaching approaches. All ten lessons state outcomes and use a pre-assessment-to-assessment sequence; nine explicitly include a culminating activity. Its strongest feature is the deliberate connection of content review with professional application. Learners analyze lesson plans, design materials, construct learning packages, reflect on inclusive practice, and prepare demonstrations alongside work on place value, rounding, money, whole-number operations, fractions, decimals, and geometry. The recurring sequence gives the resource coherence and supports active production rather than reading alone. However, most mathematical exposition privileges rules and procedures over representations of learner thinking. Several assessment prompts are broad, lack scoring criteria or explanatory feedback, and sometimes ask prospective teachers to perform primary-level procedures without analyzing misconceptions or alternative strategies. The audit also found consequential content and production defects: an incorrect rounding rule, a decimal place-value example with mismatched digits, an incomplete ascending-order example, ambiguous decimal-comparison prompts, inconsistent lesson numbering, omission of geometry from the table of contents, extensive language and notation errors, and no complete reference list. No expert validation, readability study, accessibility audit, field-test data, or learner outcomes were supplied; effectiveness therefore cannot be inferred. The module is a substantial practice-oriented draft with clear teacher-education value, but it requires mathematical review, curriculum mapping, representational enrichment, analytic rubrics, editorial correction, accessible digital production, and staged validation before formal publication or outcome claims.",
-    "keywords": [
-      "mathematics teacher education",
-      "primary-grade mathematics",
-      "learning module",
-      "mathematical knowledge for teaching",
-      "document analysis",
-      "instructional material evaluation"
-    ],
-    "volume": "4",
-    "issue": "2",
-    "issueLabel": "July–December 2023",
-    "publicationDate": "2026-08-10",
-    "pages": "14–26",
-    "doi": "",
-    "pdfFile": "assets/uploads/journal-archive/national-research-journal/volume-2-issue-2/eleanor-bullong-primary-mathematics-teaching.pdf",
-    "featured": false,
-    "active": true,
-    "id": "national-research-journal-volumes-1-4-3"
-  },
-  {
-    "journalId": "national-research-journal",
-    "title": "Building Reading Coherence in Grade 6: A Scaffolded Pathway from Word Knowledge to Written Synthesis",
-    "authors": [
-      "Phoebe Paraguas"
-    ],
-    "articleType": "Review Article",
-    "abstract": "Grade 6 reading modules often contain sound activities but leave teachers to infer how those activities work together. This conceptual-design article examines Reading Enhancement for the Development of Learners, a five-day module organized around The Legend of the Guava, and asks how its vocabulary, oral reading, comprehension, assessment, and summary-writing tasks can become a coherent learning progression. The analysis treats the module as an instructional artifact rather than as evidence of learner achievement. It maps each task to the reading process it is intended to support, identifies points where repetition can be converted into responsive practice, and proposes a seven-part pathway: prepare meaning, model fluent reading, rehearse language, read with a purpose, discuss evidence, compose a synthesis, and diagnose the next instructional need. The pathway preserves the module's practical sequence while strengthening links among word knowledge, fluency, comprehension, metacognition, and writing. Two design tools are offered: a coherence audit for reviewing lesson components and an evidence map that aligns learner products with instructional decisions. Particular attention is given to vocabulary depth, purposeful repeated reading, the distinction between skills and strategies, question quality, and the analytic use of summary writing. The article argues that a reading module becomes instructionally powerful not by accumulating activities but by making the contribution of each activity visible, cumulative, and responsive to learner evidence. The proposed design is suitable for classroom adaptation and future evaluation, but no claim of effectiveness is made without implementation data.",
-    "keywords": [
-      "Grade 6 reading",
-      "instructional coherence",
-      "vocabulary",
-      "oral reading fluency",
-      "reading comprehension",
-      "summary writing"
-    ],
-    "volume": "4",
-    "issue": "1",
-    "issueLabel": "January–June 2023",
-    "publicationDate": "2026-08-10",
-    "pages": "1–7",
-    "doi": "",
-    "pdfFile": "assets/uploads/journal-archive/national-research-journal/volume-2-issue-1/phoebe-paraguas-reading-coherence-grade-6.pdf",
-    "featured": false,
-    "active": true,
-    "id": "national-research-journal-volume-2-issue-1-1"
-  },
-  {
-    "id": "likhang-lahi-v1-i2-byahe",
-    "journalId": "likhang-lahi-a-philippine-journal-of-literature-and-culture-arts",
-    "title": "Byahe",
-    "authors": [
-      "Edcel John Madeja-Mazo"
-    ],
-    "articleType": "Short Story",
-    "volume": "1",
-    "issue": "2",
-    "issueLabel": "Issue No. 2",
-    "publicationDate": "2026-08-10",
-    "pages": "1–6",
-    "pdfFile": "assets/uploads/journal-archive/likhang-lahi/volume-1-issue-2/edcel-john-madeja-mazo-byahe.pdf",
-    "active": true,
-    "abstract": "",
-    "keywords": [],
-    "doi": "",
-    "featured": false
-  },
-  {
-    "journalId": "national-research-journal",
-    "keywords": [
-      "home-based learning",
-      "parental support",
-      "household coordination",
-      "remote education",
-      "learning continuity"
-    ],
-    "volume": "1",
-    "issue": "2",
-    "issueLabel": "July–December 2020",
-    "publicationDate": "2026-08-10",
-    "doi": "",
-    "featured": false,
-    "active": true,
-    "id": "national-research-journal-volume-1-issue-2-rafael-m-villanueva",
-    "title": "Challenges Encountered by Parents During Home-Based Learning",
-    "authors": [
-      "Rafael M. Villanueva"
-    ],
-    "articleType": "Integrative Review",
-    "abstract": "Home-based learning transferred a substantial part of educational coordination into households without transferring the time, training, equipment, or authority ordinarily available in schools. This integrative review reframes parental difficulty as a coordination problem rather than a deficit in commitment. Evidence available through 2021 is organized around five connected tasks: interpreting school requirements, arranging household time and space, supporting learner effort without replacing it, maintaining contact with teachers, and protecting family well-being. The review shows why a parent can be highly involved yet unable to sustain the expected routine when work schedules, device sharing, unfamiliar content, language, or delayed feedback converge. It proposes a Household Learning Coordination model that separates the responsibilities of schools, teachers, learners, and caregivers and uses a weekly learning map, a single help route, and escalation rules for unresolved barriers. The article is a conceptual synthesis and does not estimate the prevalence of parental challenges in a specific community.",
-    "pages": "1–4",
-    "pdfFile": "assets/uploads/journal-archive/national-research-journal/volume-1-issue-2-2021/rafael-m-villanueva-home-based-learning-revised-2026-08-11.pdf"
+    "id": "national-research-journal-volume-4-issue-2-2",
+    "digitizedDate": "2026-08-10",
+    "originalPublicationPeriod": "July–December 2025"
   },
   {
     "journalId": "national-research-journal",
@@ -706,89 +1549,15 @@ window.SHIRLEY_JOURNAL_ARTICLES = [
     "volume": "6",
     "issue": "1",
     "issueLabel": "January–June 2025",
-    "publicationDate": "2026-08-10",
+    "publicationDate": "2025",
     "pages": "28–31",
     "doi": "",
     "pdfFile": "assets/uploads/journal-archive/national-research-journal/volume-4-issue-1/sherlene-cabradilla-defensible-quantitative-designs.pdf",
     "featured": false,
     "active": true,
-    "id": "national-research-journal-volume-4-issue-1-5"
-  },
-  {
-    "journalId": "national-research-journal",
-    "keywords": [
-      "health protocols",
-      "community compliance",
-      "risk communication",
-      "behavioral science",
-      "public health"
-    ],
-    "volume": "1",
-    "issue": "2",
-    "issueLabel": "July–December 2020",
-    "publicationDate": "2026-08-10",
-    "doi": "",
-    "featured": false,
-    "active": true,
-    "id": "national-research-journal-volume-1-issue-2-jerome-s-santiago",
-    "title": "Community Compliance with COVID-19 Health and Safety Protocols",
-    "authors": [
-      "Jerome S. Santiago"
-    ],
-    "articleType": "Behavioral and Policy Review",
-    "abstract": "Compliance with health and safety protocols is often described as an individual choice, yet adherence depends on whether guidance is trusted, understandable, materially possible, socially supported, and fairly enforced. This behavioral and policy review synthesizes evidence available through 2021 and develops a Feasible Compliance model with five conditions: credible guidance, practical capability, supportive norms, proportionate enforcement, and corrective learning. The model explains why repeated reminders may fail when households lack masks, water, space, transport alternatives, income protection, or confidence that rules are consistently applied. It also distinguishes observation of behavior from assumptions about motivation. The article proposes a local compliance audit that records the required action, the barrier, the responsible authority, the enabling measure, and the review date. It argues that communication and enforcement should be paired with resources and grievance routes. This is a conceptual synthesis; it does not calculate compliance rates or assess a named community.",
-    "pages": "1–4",
-    "pdfFile": "assets/uploads/journal-archive/national-research-journal/volume-1-issue-2-2021/jerome-s-santiago-community-compliance-revised-2026-08-11.pdf"
-  },
-  {
-    "id": "national-research-journal-volume-2-issue-2-monica-isabel-reyes-community-livelihood-programs",
-    "journalId": "national-research-journal",
-    "title": "Community-Based Livelihood Programs for Families Affected by COVID-19",
-    "authors": [
-      "Monica Isabel Reyes"
-    ],
-    "articleType": "Conceptual Review",
-    "abstract": "Community livelihood programs can provide relief, but an activity is not viable merely because participants receive training, equipment, or start-up capital. This conceptual review proposes a Livelihood Viability Ladder that moves from household stabilization to capability, a tested market offer, a workable operating system, financial control, and resilient transition. Evidence through 2021 suggests that crisis programs fail when they begin with a standard product, count distribution as success, ignore care and health constraints, or provide debt before demand and cash flow are understood. The framework recommends participatory screening of household goals and constraints, small market tests, transparent group roles, unit-cost and cash-horizon tools, buyer and supply alternatives, and predefined continuation or exit decisions. Community institutions are positioned as coordinators and accountability structures, not substitutes for customer demand. The article distinguishes social protection from enterprise finance and warns against shifting market risk to vulnerable families. It does not estimate income effects or evaluate a named program. Its contribution is a staged method for determining whether support should stabilize, test, strengthen, scale, redesign, or stop a livelihood activity.",
-    "keywords": [
-      "community livelihood",
-      "COVID-19 recovery",
-      "microenterprise",
-      "market testing",
-      "social protection"
-    ],
-    "volume": "2",
-    "issue": "2",
-    "issueLabel": "July–December 2021",
-    "publicationDate": "2026-08-10",
-    "pages": "1–3",
-    "doi": "",
-    "pdfFile": "assets/uploads/journal-archive/national-research-journal/volume-2-issue-2-2021/monica-isabel-reyes-community-livelihood-programs-revised-2026-08-11.pdf",
-    "featured": false,
-    "active": true
-  },
-  {
-    "journalId": "national-research-journal",
-    "title": "Competence and Challenges Encountered by Research Enthusiasts in Infanta District: Basis for Research Capacity Building",
-    "authors": [
-      "Ramil Borreo"
-    ],
-    "articleType": "Research Article",
-    "abstract": "Every teacher has struggled with how to conduct an action research since doing one requires the right abilities and extra time to plan and complete it. As a result, few teachers engage in action research. To dive into this issue, the researcher attempted to conduct a research investigation with a focus on the competence and challenges encountered by the research enthusiasts in conducting an action research in Infanta District of School Year 2022-2023. The aim of this research was also to propose a research capacity building. The researcher used purposive sampling, employing descriptive-quantitative method. The results revealed that the research enthusiasts assessed their competence as Slightly Competent as reflected by the overall mean of 2.14. Meanwhile, one item was evaluated where the research enthusiast was not competent, which is about making an introduction using the CARS Model. The challenges encountered by the research enthusiasts were interpreted as Slightly Serious with an overall weighted mean of 2.53. Four problems were identified as Serious: not knowing the difference between action research and basic research, needing guidance in preparing a research paper, needing technical assistance, and lacking background in the action-research process. Two Very Serious challenges were also identified: lack of training in action research and reluctance to conduct research resulting from that lack of training. The computed correlation coefficient was 0.56, signifying a considerable moderate correlation. Therefore, the research enthusiasts' competence registered a relationship with the challenges they encountered. To address the serious and very serious problems, the paper proposes a research capacity-building program designed to help research enthusiasts overcome the challenges encountered in conducting action research.",
-    "keywords": [
-      "research competence",
-      "challenges in action research",
-      "research capacity building"
-    ],
-    "volume": "5",
-    "issue": "2",
-    "issueLabel": "July–December 2024",
-    "publicationDate": "2026-08-10",
-    "pages": "8–27",
-    "doi": "",
-    "pdfFile": "assets/uploads/journal-archive/national-research-journal/volume-3-issue-2/ramil-borreo-research-competence-challenges.pdf",
-    "featured": false,
-    "active": true,
-    "id": "national-research-journal-volume-3-issue-2-2"
+    "id": "national-research-journal-volume-4-issue-1-5",
+    "digitizedDate": "2026-08-10",
+    "originalPublicationPeriod": "January–June 2025"
   },
   {
     "journalId": "national-research-journal",
@@ -810,93 +1579,15 @@ window.SHIRLEY_JOURNAL_ARTICLES = [
     "volume": "6",
     "issue": "2",
     "issueLabel": "July–December 2025",
-    "publicationDate": "2026-08-10",
+    "publicationDate": "2025",
     "pages": "43–46",
     "doi": "",
     "pdfFile": "assets/uploads/journal-archive/national-research-journal/volume-4-issue-2/marjorie-arroyo-fernando-pacio-enterprising-educators.pdf",
     "featured": false,
     "active": true,
-    "id": "national-research-journal-volume-4-issue-2-7"
-  },
-  {
-    "journalId": "national-research-journal",
-    "title": "Data to Decisions in School Agriculture: The RECORD Pathway for Animal and Fish Production",
-    "authors": [
-      "Arjellyn Maddawat"
-    ],
-    "articleType": "Review Article",
-    "abstract": "Keeping records is commonly presented in elementary agricultural education as the act of writing down dates, animal counts, feed use, growth, mortality, treatments, expenses, and sales. Although these entries are important, copying them into a form does not by itself constitute record literacy. Learners also need to understand why a field is recorded, how observations become comparable, how missing or inconsistent entries weaken interpretation, and how a record supports an accountable decision. This conceptual-pedagogical article analyzes Keeping Updated Records of Growth/Progress on Animal/Fish Raising as an instructional source and develops the Recognize-Establish-Capture-Organize-Review-Decide (RECORD) framework for Grade 6 Technology and Livelihood Education. The framework connects authentic animal and fish production contexts with data literacy, experiential learning, formative assessment, animal welfare, and basic enterprise reasoning. It distinguishes eight record domains: identification, growth and production, feeding, health and treatment, breeding, inventory and movement, mortality and loss, and finance. For each domain, the article specifies a decision purpose and a minimum set of fields. It further proposes a six-stage learning sequence in which pupils recognize the decision a record must inform, establish the animal or group being observed, capture dated and standardized observations, organize entries for retrieval, review patterns and exceptions, and decide on a justified next action. The framework treats paper records as legitimate learning technologies and reserves digital tools for situations in which they improve retrieval, calculation, or feedback. Assessment evidence therefore includes not only completeness but also identity consistency, measurement quality, traceable corrections, interpretation, and decision justification. The article contributes an instructional design method rather than empirical estimates of learner achievement. It offers teachers a disciplined way to transform a record-keeping module into inquiry that integrates agriculture, numeracy, literacy, ethics, and evidence-based decision-making without requiring a commercial farm or advanced software.",
-    "keywords": [
-      "agricultural education",
-      "animal and fish raising",
-      "record keeping",
-      "data literacy",
-      "experiential learning",
-      "Grade 6 TLE"
-    ],
-    "volume": "3",
-    "issue": "1",
-    "issueLabel": "January–June 2022",
-    "publicationDate": "2026-08-10",
-    "pages": "35–43",
-    "doi": "",
-    "pdfFile": "assets/uploads/journal-archive/national-research-journal/volume-1-issue-1/arjellyn-maddawat-farm-record-literacy.pdf",
-    "featured": false,
-    "active": true,
-    "id": "national-research-journal-volumes-1-4-15"
-  },
-  {
-    "journalId": "national-research-journal",
-    "title": "Designing the Inclusive Dining Servicescape: A Framework for Ambiance, Accessibility, and Guest Comfort",
-    "authors": [
-      "Lilly Carillo"
-    ],
-    "articleType": "Review Article",
-    "abstract": "Dining-room preparation is often taught as a collection of visible tasks: arrange furniture, set tables, adjust lights, select music, control temperature, and add décor. These tasks are consequential because they configure the environment in which guests move, communicate, eat, and evaluate service. This conceptual article analyzes the ambiance and dining-area preparation components of a 2023 Food and Beverage Services NC II competency-based learning module. The module is used as an instructional foundation rather than as empirical evidence. Drawing on servicescape theory, restaurant-environment research, accessibility standards, and multisensory dining scholarship, the article proposes an inclusive servicescape framework organized around six interacting dimensions: access and circulation, functional readiness, sensory comfort, table-setting coherence, social affordance, and identity or concept. The framework replaces decoration-led preparation with a guest-journey audit that begins at reservation and arrival, follows movement to and around the table, and ends with a pre-service verification from multiple user perspectives. Two design tools are presented: a servicescape decision matrix connecting environmental cues with guest needs and operational risks, and a pre-service audit that distinguishes fixed standards from context-dependent adjustments. Accessibility is treated as a baseline design responsibility rather than a special request, while ambiance is treated as a coordinated set of sensory and social conditions rather than a theme applied after operations are complete. No customer survey, field experiment, or causal outcome is reported. The contribution is an evidence-informed design proposition that can guide instruction, restaurant preparation, and future evaluation of guest comfort and service performance.",
-    "keywords": [
-      "servicescape",
-      "restaurant ambiance",
-      "accessible dining",
-      "guest comfort",
-      "table setting",
-      "food and beverage service"
-    ],
-    "volume": "5",
-    "issue": "2",
-    "issueLabel": "July–December 2024",
-    "publicationDate": "2026-08-10",
-    "pages": "56–63",
-    "doi": "",
-    "pdfFile": "assets/uploads/journal-archive/national-research-journal/volume-3-issue-2/lilly-carillo-inclusive-dining-servicescape.pdf",
-    "featured": false,
-    "active": true,
-    "id": "national-research-journal-volume-3-issue-2-6"
-  },
-  {
-    "id": "national-research-journal-volume-1-issue-1-emmanuel-d-bautista",
-    "journalId": "national-research-journal",
-    "title": "Development and Validation of Printed Self-Learning Materials",
-    "authors": [
-      "Emmanuel D. Bautista"
-    ],
-    "articleType": "Methodological Review",
-    "abstract": "Printed self-learning material is not simply classroom content transferred to paper. It is an instructional interface expected to explain, guide practice, elicit evidence, and support correction when the teacher is not physically present. This methodological review converts established instructional-design principles and Philippine continuity guidance into a build-test-revise protocol. Four forms of validity are distinguished: curricular accuracy, instructional coherence, learner usability, and production reliability. Expert review is necessary for the first two but cannot substitute for observation of learners using the material. The proposed workflow begins with a competency map, proceeds through prototype and cognitive tryout, and ends with print inspection, controlled release, error logging, and version management. The article also identifies common validation errors, including reliance on global mean ratings, validators with indistinguishable roles, and claims of effectiveness made without learner-outcome evidence. The result is a practical quality-assurance model rather than an evaluation of a particular module.",
-    "keywords": [
-      "self-learning materials",
-      "module validation",
-      "instructional design",
-      "usability testing",
-      "print quality"
-    ],
-    "volume": "1",
-    "issue": "1",
-    "issueLabel": "January–June 2020",
-    "publicationDate": "2026-08-10",
-    "pages": "1–4",
-    "doi": "",
-    "pdfFile": "assets/uploads/journal-archive/national-research-journal/volume-1-issue-1-2021/emmanuel-d-bautista-printed-self-learning-materials-revised.pdf",
-    "featured": false,
-    "active": true
+    "id": "national-research-journal-volume-4-issue-2-7",
+    "digitizedDate": "2026-08-10",
+    "originalPublicationPeriod": "July–December 2025"
   },
   {
     "journalId": "national-research-journal",
@@ -917,138 +1608,15 @@ window.SHIRLEY_JOURNAL_ARTICLES = [
     "volume": "6",
     "issue": "1",
     "issueLabel": "January–June 2025",
-    "publicationDate": "2026-08-10",
+    "publicationDate": "2025",
     "pages": "20–23",
     "doi": "",
     "pdfFile": "assets/uploads/journal-archive/national-research-journal/volume-4-issue-1/sunny-bando-assessment-driven-number-comparison.pdf",
     "featured": false,
     "active": true,
-    "id": "national-research-journal-volume-4-issue-1-3"
-  },
-  {
-    "id": "national-research-journal-volume-1-issue-1-abigail-therese-mercado",
-    "journalId": "national-research-journal",
-    "title": "Disaster Preparedness and Public-Health Awareness in Rural Barangays",
-    "authors": [
-      "Abigail Therese Mercado"
-    ],
-    "articleType": "Policy Analysis",
-    "abstract": "Rural barangays often maintain disaster plans for storms, floods, landslides, or earthquakes while public-health communication is managed through a separate set of routines. COVID-19 demonstrated the cost of that separation. This policy analysis connects the prevention, preparedness, response, and recovery responsibilities of local disaster governance with risk communication, surveillance, referral, and continuity of essential services. It proposes a household-to-barangay preparedness loop built around five functions: knowing local risk, translating warning into action, detecting and referring health threats, sustaining essential needs, and learning after exercises or events. Preparedness is judged by observable capability rather than the existence of a plan or attendance at a seminar. The article offers drill scenarios, inclusion checks, and simple records suitable for low-resource settings. It is a conceptual and documentary analysis; it does not measure awareness levels in any named barangay.",
-    "keywords": [
-      "barangay preparedness",
-      "public-health literacy",
-      "risk communication",
-      "all-hazards planning",
-      "rural governance"
-    ],
-    "volume": "1",
-    "issue": "1",
-    "issueLabel": "January–June 2020",
-    "publicationDate": "2026-08-10",
-    "pages": "1–4",
-    "doi": "",
-    "pdfFile": "assets/uploads/journal-archive/national-research-journal/volume-1-issue-1-2021/abigail-therese-mercado-disaster-preparedness-revised.pdf",
-    "featured": false,
-    "active": true
-  },
-  {
-    "id": "likhang-lahi-v1-i2-dudduli",
-    "journalId": "likhang-lahi-a-philippine-journal-of-literature-and-culture-arts",
-    "title": "Dudduli",
-    "authors": [
-      "Leticia D. Guinsiman, PhD"
-    ],
-    "articleType": "Folk Song",
-    "volume": "1",
-    "issue": "2",
-    "issueLabel": "Issue No. 2",
-    "publicationDate": "2026-08-10",
-    "pages": "1–4",
-    "pdfFile": "assets/uploads/journal-archive/likhang-lahi/volume-1-issue-2/leticia-guinsiman-dudduli.pdf",
-    "active": true,
-    "abstract": "",
-    "keywords": [],
-    "doi": "",
-    "featured": false
-  },
-  {
-    "journalId": "national-research-journal",
-    "title": "Economic Ideas in Context: A Comparative Framework for Reading the History of Economic Thought",
-    "authors": [
-      "Jesigen Lunag"
-    ],
-    "articleType": "Review Article",
-    "abstract": "The history of economic thought is often taught as a sequence of famous economists and increasingly sophisticated theories. That sequence is useful, but it can encourage presentism: earlier writers are judged mainly by how closely they anticipated modern economics, while the institutional problems and moral vocabularies that gave their arguments meaning disappear. This historical-conceptual article develops a comparative framework for reading economic ideas in context. It reorganizes an instructional manuscript, History of Economic Thought: Then and Beyond, around five questions: What historical context made an economic problem salient? What problem was the writer trying to explain? What assumptions were made about persons, institutions, and knowledge? What mechanism connected causes to outcomes? What practical or normative prescription followed? Applied from ancient and medieval reflections through mercantilism, classical political economy, marginalism, Keynesian macroeconomics, and postwar pluralism, the framework reveals both discontinuity and cumulative insight. Economic thought did not advance through a simple replacement of error by truth; it changed as the object of inquiry moved among household governance, commercial power, production and distribution, allocation, aggregate instability, institutions, and bounded choice. The framework supports historically responsible comparison without treating all doctrines as equally valid. For teaching, it turns chronology into structured analytical practice. For policy analysis, it clarifies that disagreements frequently arise from different problem definitions and institutional assumptions, not only from competing estimates. The article concludes that history of economic thought remains useful when it is taught as contextual reasoning rather than as a museum of discarded ideas.",
-    "keywords": [
-      "history of economic thought",
-      "economic methodology",
-      "economic education",
-      "contextual analysis",
-      "political economy",
-      "pluralism"
-    ],
-    "volume": "4",
-    "issue": "2",
-    "issueLabel": "July–December 2023",
-    "publicationDate": "2026-08-10",
-    "pages": "6–13",
-    "doi": "",
-    "pdfFile": "assets/uploads/journal-archive/national-research-journal/volume-2-issue-2/jesigen-lunag-economic-ideas-in-context.pdf",
-    "featured": false,
-    "active": true,
-    "id": "national-research-journal-volumes-1-4-2"
-  },
-  {
-    "id": "national-research-journal-volume-2-issue-2-frances-camille-robles-teacher-made-video-lessons",
-    "journalId": "national-research-journal",
-    "title": "Effectiveness of Teacher-Made Video Lessons and Digital Materials",
-    "authors": [
-      "Frances Camille Robles"
-    ],
-    "articleType": "Conceptual Review",
-    "abstract": "Teacher-made video lessons and digital materials are often evaluated through views, duration, or learner preference, although these measures do not establish learning. This conceptual review defines effectiveness as an evidence chain connecting an instructional objective, an economical representation, an active learner response, accessible delivery, and feedback that changes the next task. Multimedia research available through 2021 suggests that digital materials become less useful when decoration competes with explanation, videos are long and passive, controls are difficult to use, or the product cannot function under limited bandwidth. The proposed Instructional Media Evidence Chain asks teachers to script the decision learners must make, segment content around meaningful units, pair explanation with a prompt or practice, provide captions and offline alternatives, and collect a small indicator of understanding. It distinguishes production quality from instructional quality and recommends reuse only after reviewing error evidence. The article does not compare platforms or estimate achievement effects. It offers criteria for designing and evaluating teacher-made resources according to what learners can do after using them.",
-    "keywords": [
-      "teacher-made video",
-      "digital materials",
-      "multimedia learning",
-      "accessibility",
-      "formative evidence"
-    ],
-    "volume": "2",
-    "issue": "2",
-    "issueLabel": "July–December 2021",
-    "publicationDate": "2026-08-10",
-    "pages": "1–3",
-    "doi": "",
-    "pdfFile": "assets/uploads/journal-archive/national-research-journal/volume-2-issue-2-2021/frances-camille-robles-teacher-made-video-lessons-revised-2026-08-11.pdf",
-    "featured": false,
-    "active": true
-  },
-  {
-    "journalId": "national-research-journal",
-    "keywords": [
-      "market closure",
-      "local farmers",
-      "market vendors",
-      "food supply chain",
-      "local market access"
-    ],
-    "volume": "1",
-    "issue": "2",
-    "issueLabel": "July–December 2020",
-    "publicationDate": "2026-08-10",
-    "doi": "",
-    "featured": false,
-    "active": true,
-    "id": "national-research-journal-volume-1-issue-2-patricia-mae-soriano",
-    "title": "Effects of Market Closures on Local Farmers and Vendors",
-    "authors": [
-      "Patricia Mae Soriano"
-    ],
-    "articleType": "Supply-Chain Review",
-    "abstract": "Market closure interrupts a circuit rather than a single selling event. Farmers lose a destination for perishable harvests, vendors lose foot traffic and working capital, transporters lose viable routes, and households lose familiar access points. This supply-chain review traces five connected functions: production planning, aggregation, transport, exchange, and market feedback. Philippine and international evidence available through 2021 indicates that movement restrictions and uneven local enforcement could create bottlenecks even when agricultural production continued. The article proposes a Local Food-Market Circuit model for designing temporary markets, pickup points, mobile selling, institutional procurement, and digital ordering without ignoring grading, payment, cold storage, health protection, or unsold-product risk. It also separates emergency disposal reduction from long-term market development. The framework is conceptual and does not estimate losses among farmers or vendors in a particular municipality.",
-    "pages": "1–3",
-    "pdfFile": "assets/uploads/journal-archive/national-research-journal/volume-1-issue-2-2021/patricia-mae-soriano-market-closures-revised-2026-08-11.pdf"
+    "id": "national-research-journal-volume-4-issue-1-3",
+    "digitizedDate": "2026-08-10",
+    "originalPublicationPeriod": "January–June 2025"
   },
   {
     "journalId": "national-research-journal",
@@ -1069,325 +1637,15 @@ window.SHIRLEY_JOURNAL_ARTICLES = [
     "volume": "6",
     "issue": "2",
     "issueLabel": "July–December 2025",
-    "publicationDate": "2026-08-10",
+    "publicationDate": "2025",
     "pages": "47–50",
     "doi": "",
     "pdfFile": "assets/uploads/journal-archive/national-research-journal/volume-4-issue-2/leticia-guinsiman-research-integrity.pdf",
     "featured": false,
     "active": true,
-    "id": "national-research-journal-volume-4-issue-2-8"
-  },
-  {
-    "journalId": "national-research-journal",
-    "title": "Evidence Before Intuition: Designing a Job-Related Employee Selection System",
-    "authors": [
-      "Lanie Cudiamat"
-    ],
-    "articleType": "Review Article",
-    "abstract": "Organizations frequently describe hiring as a search for the best candidate, yet the phrase conceals a demanding measurement problem: best for which work, according to which evidence, combined by which rule, and reviewed against which outcome? This conceptual-design article transforms a broad instructional manuscript on recruitment and selection into an auditable model for evidence-centered hiring. The source presents job analysis, recruitment channels, applicant screening, interviewing, selection methods, job offers, onboarding, inclusion, legal concerns, informal sponsorship, and technology. The present article narrows that breadth to one argument: selection quality depends on a traceable chain connecting work requirements to assessment content, scoring, decision rules, and post-hire review. A six-stage system is proposed: define work, specify evidence, standardize collection, combine scores, document decisions, and learn from outcomes. The article explains why job analysis must govern what is assessed; why interviews should use common, behaviorally anchored questions; why work samples and other predictors require evidence appropriate to their intended use; and why mechanical score combination ordinarily offers greater consistency than unaided holistic judgment. Two practical tools are introduced: a job-evidence alignment matrix and a decision-audit record. The model also identifies common failure modes, including vague fit criteria, method shopping, compensatory decisions made after scores are known, and technology that automates an undefined process. The article does not report applicants, scores, or organizational outcomes. It offers a testable design proposition for teaching, small-enterprise practice, and future validation research.",
-    "keywords": [
-      "personnel selection",
-      "job analysis",
-      "structured interview",
-      "work sample",
-      "decision rule",
-      "evidence-based management"
-    ],
-    "volume": "5",
-    "issue": "1",
-    "issueLabel": "January–June 2024",
-    "publicationDate": "2026-08-10",
-    "pages": "9–16",
-    "doi": "",
-    "pdfFile": "assets/uploads/journal-archive/national-research-journal/volume-3-issue-1/lanie-cudiamat-evidence-centered-selection.pdf",
-    "featured": false,
-    "active": true,
-    "id": "national-research-journal-volume-3-issue-1-2"
-  },
-  {
-    "journalId": "national-research-journal",
-    "keywords": [
-      "small business",
-      "community quarantine",
-      "business continuity",
-      "liquidity",
-      "operational adaptation"
-    ],
-    "volume": "1",
-    "issue": "2",
-    "issueLabel": "July–December 2020",
-    "publicationDate": "2026-08-10",
-    "doi": "",
-    "featured": false,
-    "active": true,
-    "id": "national-research-journal-volume-1-issue-2-hannah-grace-aquino",
-    "title": "Experiences of Small Businesses During the Initial Community Quarantine",
-    "authors": [
-      "Hannah Grace Aquino"
-    ],
-    "articleType": "Conceptual Review",
-    "abstract": "The initial community quarantine confronted small businesses with simultaneous restrictions on premises, workers, suppliers, customers, and cash flow. This conceptual review examines the early crisis as a sequence of operating decisions rather than a uniform experience of closure. Evidence through 2021 is organized around five questions: whether the firm could legally and safely operate, preserve liquidity, maintain a minimum supply route, reach viable demand, and decide what to pause, adapt, or stop. The synthesis emphasizes that digital promotion could not compensate for failed inventory, payment, or delivery arrangements, and that reopening did not automatically restore demand or working capital. It proposes a Small-Business Continuity Sequence supported by a daily cash horizon, a minimum viable offer, explicit supplier alternatives, and predefined decision triggers. The framework is designed for micro and small firms with limited managerial capacity. It is a non-empirical model and does not claim that all sectors or localities experienced quarantine in the same way.",
-    "pages": "1–3",
-    "pdfFile": "assets/uploads/journal-archive/national-research-journal/volume-1-issue-2-2021/hannah-grace-aquino-small-businesses-revised-2026-08-11.pdf"
-  },
-  {
-    "journalId": "national-research-journal",
-    "title": "Fair Hiring as Organizational Legitimacy: Applicant Voice, Inclusive Access, and Accountable Technology",
-    "authors": [
-      "Claire Osias"
-    ],
-    "articleType": "Review Article",
-    "abstract": "Recruitment and selection communicate what an organization considers worthy, whose participation it facilitates, and whether authority is exercised through explainable rules. This conceptual article develops a legitimacy-centered approach to fair hiring from an instructional manuscript covering recruitment strategy, screening, interviews, selection methods, diversity and inclusion, legal concerns, informal sponsorship, and technology. Rather than treating fairness as an audit performed after a hiring decision, the article organizes it across four moments of the applicant journey: access to opportunity, treatment during assessment, explanation of decisions, and governance of data and technology. A model of procedural legitimacy is proposed in which job relevance, consistency, voice, transparency, respectful treatment, reviewability, and data restraint reinforce both applicant dignity and decision quality. The analysis distinguishes outreach from preferential treatment, candidate experience from entertainment, and algorithmic consistency from demonstrated fairness. It also reframes the padrino or sponsorship problem: referrals may expand information and access, but sponsor influence should never alter criteria, scoring, or review. Two tools are provided: an applicant-journey fairness map and a governance checklist for technology-assisted hiring. The article argues that fair hiring is not secured by identical treatment alone; organizations must provide comparable opportunity to demonstrate job-relevant capability while addressing barriers that make formal equality misleading. No applicant data, organizational sample, or outcome comparison is reported. The contribution is a practical and researchable design for recruitment systems that seek talent without sacrificing inclusion, trust, or accountability.",
-    "keywords": [
-      "applicant reactions",
-      "procedural justice",
-      "inclusive recruitment",
-      "candidate experience",
-      "algorithmic hiring",
-      "organizational legitimacy"
-    ],
-    "volume": "5",
-    "issue": "1",
-    "issueLabel": "January–June 2024",
-    "publicationDate": "2026-08-10",
-    "pages": "1–8",
-    "doi": "",
-    "pdfFile": "assets/uploads/journal-archive/national-research-journal/volume-3-issue-1/claire-osias-fair-hiring-legitimacy.pdf",
-    "featured": false,
-    "active": true,
-    "id": "national-research-journal-volume-3-issue-1-1"
-  },
-  {
-    "id": "national-research-journal-volume-2-issue-2-joshua-vincent-navarro-flexible-work-productivity",
-    "journalId": "national-research-journal",
-    "title": "Flexible Work Arrangements and Employee Productivity",
-    "authors": [
-      "Joshua Vincent Navarro"
-    ],
-    "articleType": "Conceptual Review",
-    "abstract": "Flexible work arrangements do not produce productivity by location alone. Their effects depend on task fit, autonomy, coordination, measurement, technology, and recovery. This conceptual review organizes evidence available through 2021 into a Flexible Work Productivity Agreement: define the output, select where and when the task can be performed, establish coordination windows, provide the required resources, and review performance together with well-being. The framework distinguishes flexibility from permanent availability and rejects activity signals such as online status or message volume as universal productivity measures. It also recognizes that home conditions, disability, care responsibilities, role seniority, and access to equipment shape the value of flexibility. Managers are encouraged to use team-level service standards, documented handoffs, protected focus periods, and outcome measures with quality and timeliness checks. Employees need a route to revise arrangements when isolation, overload, or inequity appears. This article does not estimate productivity gains or recommend one model for all occupations. It provides criteria for matching work design with task requirements and human sustainability.",
-    "keywords": [
-      "flexible work",
-      "telework",
-      "employee productivity",
-      "autonomy",
-      "work design"
-    ],
-    "volume": "2",
-    "issue": "2",
-    "issueLabel": "July–December 2021",
-    "publicationDate": "2026-08-10",
-    "pages": "1–3",
-    "doi": "",
-    "pdfFile": "assets/uploads/journal-archive/national-research-journal/volume-2-issue-2-2021/joshua-vincent-navarro-flexible-work-productivity-revised-2026-08-11.pdf",
-    "featured": false,
-    "active": true
-  },
-  {
-    "journalId": "national-research-journal",
-    "keywords": [
-      "food security",
-      "low-income households",
-      "lockdown",
-      "food access",
-      "social protection"
-    ],
-    "volume": "1",
-    "issue": "2",
-    "issueLabel": "July–December 2020",
-    "publicationDate": "2026-08-10",
-    "doi": "",
-    "featured": false,
-    "active": true,
-    "id": "national-research-journal-volume-1-issue-2-vincent-carlo-navarro",
-    "title": "Food Security Among Low-Income Households During Lockdowns",
-    "authors": [
-      "Vincent Carlo Navarro"
-    ],
-    "articleType": "Policy Review",
-    "abstract": "Lockdowns affected food security through more than temporary shortages. For low-income households, restrictions could reduce earnings, change food prices, limit transport, interrupt school feeding, and narrow access to markets at the same time. This policy review organizes evidence through four household pressures: income loss, acquisition barriers, diet compression, and instability over time. It distinguishes food availability in the wider market from a household's ability to obtain, prepare, and sustain an adequate diet. The synthesis argues that relief measured only by the number of packs distributed can miss timeliness, nutritional quality, household composition, and the cost of repeated access. A Household Food Security Pressure model is proposed, combining rapid income support, geographically distributed acquisition routes, nutrition-sensitive assistance, and monitoring of repeated coping strategies. The model is intended for local planning and future empirical testing; it does not report new household data or attribute a single outcome to quarantine alone.",
-    "pages": "1–4",
-    "pdfFile": "assets/uploads/journal-archive/national-research-journal/volume-1-issue-2-2021/vincent-carlo-navarro-food-security-revised-2026-08-11.pdf"
-  },
-  {
-    "journalId": "national-research-journal",
-    "title": "From Worked Examples to Independent Reasoning: A Document Analysis of a Grade 6 Strategic Intervention Material for Decimal Multiplication",
-    "authors": [
-      "Risalinda Coloma"
-    ],
-    "articleType": "Research Article",
-    "abstract": "This study examined the instructional design of Find and Analyze to Get Me, a 13-page Strategic Intervention Material (SIM) intended to support Grade 6 learners in solving routine and non-routine problems involving multiplication of decimals and mixed decimals, including money. A structured qualitative document analysis coded the material for curriculum alignment, problem-solving structure, worked-example design, task breadth, cognitive demand, assessment and feedback, mathematical accuracy, editorial quality, and accessibility. The corpus contained one strategy overview, four fully worked examples, two assessment cards, two enrichment cards, a 20-response answer key, and a brief reference card. The material's principal strength is its stable five-part routine: identify what is asked, identify the given facts, select an operation, write a number sentence, and state the answer. Four contextualized worked examples make this routine visible and may reduce unnecessary processing for learners who need explicit guidance. However, all eight mathematical tasks are single-step and routine, seven use money contexts, and every product pairs a decimal or money amount with a whole-number multiplier. The assessment and enrichment cards retain the same five multiple-choice prompts, so they measure recognition of the scaffold more strongly than independent construction of a solution. The audit also identified one incorrect answer-key entry, imprecise use of the term decimal points, inconsistent units and notation, language errors, and incomplete source documentation. No learner data, expert-validation report, readability evidence, or field-test results were supplied; consequently, effectiveness cannot be inferred. The SIM is best regarded as a promising worked-example resource that requires mathematical and editorial correction, broader task variation, gradual fading of support, explanatory feedback, accessibility improvements, and staged validation before outcome claims or large-scale use.",
-    "keywords": [
-      "decimal multiplication",
-      "strategic intervention material",
-      "worked examples",
-      "word problems",
-      "document analysis",
-      "Grade 6 mathematics"
-    ],
-    "volume": "3",
-    "issue": "1",
-    "issueLabel": "January–June 2022",
-    "publicationDate": "2026-08-10",
-    "pages": "44–55",
-    "doi": "",
-    "pdfFile": "assets/uploads/journal-archive/national-research-journal/volume-1-issue-1/risalinda-coloma-decimal-multiplication-sim.pdf",
-    "featured": false,
-    "active": true,
-    "id": "national-research-journal-volumes-1-4-16"
-  },
-  {
-    "id": "likhang-lahi-v1-i2-gagawang-gagahukli",
-    "journalId": "likhang-lahi-a-philippine-journal-of-literature-and-culture-arts",
-    "title": "Gâgawang Gâgahukli",
-    "authors": [
-      "Leticia D. Guinsiman, PhD"
-    ],
-    "articleType": "Folk Song",
-    "volume": "1",
-    "issue": "2",
-    "issueLabel": "Issue No. 2",
-    "publicationDate": "2026-08-10",
-    "pages": "1–2",
-    "pdfFile": "assets/uploads/journal-archive/likhang-lahi/volume-1-issue-2/leticia-guinsiman-gagawang-gagahukli.pdf",
-    "active": true,
-    "abstract": "",
-    "keywords": [],
-    "doi": "",
-    "featured": false
-  },
-  {
-    "id": "likhang-lahi-v1-i2-gatap-kuy-dinwa-dinwa",
-    "journalId": "likhang-lahi-a-philippine-journal-of-literature-and-culture-arts",
-    "title": "Gatap Ku’y Dinwa Dinwa",
-    "authors": [
-      "Leticia D. Guinsiman, PhD"
-    ],
-    "articleType": "Folk Song",
-    "volume": "1",
-    "issue": "2",
-    "issueLabel": "Issue No. 2",
-    "publicationDate": "2026-08-10",
-    "pages": "1–3",
-    "pdfFile": "assets/uploads/journal-archive/likhang-lahi/volume-1-issue-2/leticia-guinsiman-gatap-kuy-dinwa-dinwa.pdf",
-    "active": true,
-    "abstract": "",
-    "keywords": [],
-    "doi": "",
-    "featured": false
-  },
-  {
-    "id": "national-research-journal-volume-1-issue-1-camille-denise-fernandez",
-    "journalId": "national-research-journal",
-    "title": "Indigenous and Local Practices for Maintaining Community Resilience",
-    "authors": [
-      "Camille Denise Fernandez"
-    ],
-    "articleType": "Critical Interpretive Review",
-    "abstract": "Discussions of community resilience often extract visible practices—seed saving, communal labor, traditional forecasting, or mutual aid—while overlooking the relationships and authority that make those practices meaningful. This critical interpretive review examines Indigenous and local knowledge as a living system of observation, obligation, memory, and governance. It brings disaster-risk scholarship into conversation with rights-based instruments relevant to the Philippines. Four propositions organize the synthesis: knowledge is place-based and dynamic; reciprocity is infrastructure; ecological practice links livelihood and risk; and collaboration is legitimate only when communities share authority over knowledge use. The article rejects both romanticization and dismissal. Local practices cannot replace public investment or scientific services, but formal programs can also weaken resilience when they appropriate knowledge, bypass customary institutions, or standardize away local variation. A CARE framework—Consent, Authority, Reciprocity, and Evidence-in-context—is proposed for respectful documentation and co-production.",
-    "keywords": [
-      "Indigenous knowledge",
-      "local knowledge",
-      "community resilience",
-      "reciprocity",
-      "knowledge governance"
-    ],
-    "volume": "1",
-    "issue": "1",
-    "issueLabel": "January–June 2020",
-    "publicationDate": "2026-08-10",
-    "pages": "1–4",
-    "doi": "",
-    "pdfFile": "assets/uploads/journal-archive/national-research-journal/volume-1-issue-1-2021/camille-denise-fernandez-community-resilience-revised.pdf",
-    "featured": false,
-    "active": true
-  },
-  {
-    "id": "likhang-lahi-v1-i2-indungdung",
-    "journalId": "likhang-lahi-a-philippine-journal-of-literature-and-culture-arts",
-    "title": "Indungdung",
-    "authors": [
-      "Leticia D. Guinsiman, PhD"
-    ],
-    "articleType": "Folk Song",
-    "volume": "1",
-    "issue": "2",
-    "issueLabel": "Issue No. 2",
-    "publicationDate": "2026-08-10",
-    "pages": "1–3",
-    "pdfFile": "assets/uploads/journal-archive/likhang-lahi/volume-1-issue-2/leticia-guinsiman-indungdung.pdf",
-    "active": true,
-    "abstract": "",
-    "keywords": [],
-    "doi": "",
-    "featured": false
-  },
-  {
-    "journalId": "national-research-journal",
-    "title": "Institutions Behind the Presidency: The SCOPE Lens on Philippine Executive Power",
-    "authors": [
-      "Victoria Baguilat"
-    ],
-    "articleType": "Review Article",
-    "abstract": "Accounts of Philippine presidents often proceed as a succession of biographies, elections, and accomplishments. Such narratives are accessible but can obscure the institutional question that gives executive history its analytical value: what made an officeholder authoritative, what constrained that authority, and how did executive power reach and answer to society? This conceptual-historical article analyzes The Evolution of Philippine Politics and Governance as an instructional source and develops the Source-Constraints-Organization-Public Accountability-Executive Succession (SCOPE) framework. The framework compares executive authority across precolonial polities, Spanish and American colonial administration, the First Republic, the Commonwealth, the Japanese-sponsored Second Republic, the constitutional and authoritarian transformations associated with the 1973 order, the 1986 transition, and the 1987 constitutional republic. The analysis argues that Philippine executive development was neither a linear transfer from datu to president nor a simple progression toward democracy. It involved institutional layering: local leadership, imperial command, colonial bureaucracy, revolutionary sovereignty, electoral legitimacy, emergency authority, and constitutional checks accumulated, competed, and were repeatedly reorganized. SCOPE distinguishes five dimensions: the source of executive authority; legal and political constraints; organizational reach; mechanisms of public accountability; and rules governing succession, incapacity, and emergency. It also supplies a source-criticism protocol for teaching politically sensitive history. This protocol is necessary because repeated instructional claims may rest on disputed evidence, as demonstrated by the officially delisted Code of Kalantiaw narrative. The article contributes an analytical method rather than new archival findings or measured classroom outcomes. It enables students and researchers to compare institutions across regimes without reducing political history to praise or condemnation of individual leaders.",
-    "keywords": [
-      "Philippine presidency",
-      "executive power",
-      "constitutional history",
-      "political institutions",
-      "historical source criticism",
-      "political education"
-    ],
-    "volume": "3",
-    "issue": "1",
-    "issueLabel": "January–June 2022",
-    "publicationDate": "2026-08-10",
-    "pages": "1–9",
-    "doi": "",
-    "pdfFile": "assets/uploads/journal-archive/national-research-journal/volume-1-issue-1/victoria-baguilat-philippine-executive-power.pdf",
-    "featured": false,
-    "active": true,
-    "id": "national-research-journal-volumes-1-4-11"
-  },
-  {
-    "id": "likhang-lahi-v1-i2-kamkamti-liyaliya",
-    "journalId": "likhang-lahi-a-philippine-journal-of-literature-and-culture-arts",
-    "title": "Kamkamti Liyaliya",
-    "authors": [
-      "Leticia D. Guinsiman, PhD"
-    ],
-    "articleType": "Folk Song",
-    "volume": "1",
-    "issue": "2",
-    "issueLabel": "Issue No. 2",
-    "publicationDate": "2026-08-10",
-    "pages": "1–3",
-    "pdfFile": "assets/uploads/journal-archive/likhang-lahi/volume-1-issue-2/leticia-guinsiman-kamkamti-liyaliya.pdf",
-    "active": true,
-    "abstract": "",
-    "keywords": [],
-    "doi": "",
-    "featured": false
-  },
-  {
-    "id": "likhang-lahi-v1-i2-kuhili-kamid-nalbi",
-    "journalId": "likhang-lahi-a-philippine-journal-of-literature-and-culture-arts",
-    "title": "Kuhili Kami’d Nalbi",
-    "authors": [
-      "Leticia D. Guinsiman, PhD"
-    ],
-    "articleType": "Folk Song",
-    "volume": "1",
-    "issue": "2",
-    "issueLabel": "Issue No. 2",
-    "publicationDate": "2026-08-10",
-    "pages": "1–2",
-    "pdfFile": "assets/uploads/journal-archive/likhang-lahi/volume-1-issue-2/leticia-guinsiman-kuhili-kamid-nalbi.pdf",
-    "active": true,
-    "abstract": "",
-    "keywords": [],
-    "doi": "",
-    "featured": false
+    "id": "national-research-journal-volume-4-issue-2-8",
+    "digitizedDate": "2026-08-10",
+    "originalPublicationPeriod": "July–December 2025"
   },
   {
     "journalId": "national-research-journal",
@@ -1408,13 +1666,15 @@ window.SHIRLEY_JOURNAL_ARTICLES = [
     "volume": "6",
     "issue": "1",
     "issueLabel": "January–June 2025",
-    "publicationDate": "2026-08-10",
+    "publicationDate": "2025",
     "pages": "16–19",
     "doi": "",
     "pdfFile": "assets/uploads/journal-archive/national-research-journal/volume-4-issue-1/elijah-samsudin-language-responsive-number-comparison.pdf",
     "featured": false,
     "active": true,
-    "id": "national-research-journal-volume-4-issue-1-2"
+    "id": "national-research-journal-volume-4-issue-1-2",
+    "digitizedDate": "2026-08-10",
+    "originalPublicationPeriod": "January–June 2025"
   },
   {
     "journalId": "national-research-journal",
@@ -1435,273 +1695,15 @@ window.SHIRLEY_JOURNAL_ARTICLES = [
     "volume": "6",
     "issue": "2",
     "issueLabel": "July–December 2025",
-    "publicationDate": "2026-08-10",
+    "publicationDate": "2025",
     "pages": "22–25",
     "doi": "",
     "pdfFile": "assets/uploads/journal-archive/national-research-journal/volume-4-issue-2/manny-bulahao-experiential-entrepreneurship-assessment.pdf",
     "featured": false,
     "active": true,
-    "id": "national-research-journal-volume-4-issue-2-3"
-  },
-  {
-    "id": "likhang-lahi-v1-i2-legend-of-ahin",
-    "journalId": "likhang-lahi-a-philippine-journal-of-literature-and-culture-arts",
-    "title": "Legend of Ahin",
-    "authors": [
-      "Leticia D. Guinsiman, PhD"
-    ],
-    "articleType": "Legend",
-    "volume": "1",
-    "issue": "2",
-    "issueLabel": "Issue No. 2",
-    "publicationDate": "2026-08-10",
-    "pages": "1–3",
-    "pdfFile": "assets/uploads/journal-archive/likhang-lahi/volume-1-issue-2/leticia-guinsiman-legend-of-ahin.pdf",
-    "active": true,
-    "abstract": "",
-    "keywords": [],
-    "doi": "",
-    "featured": false
-  },
-  {
-    "id": "likhang-lahi-v1-i2-legend-of-ap-apid",
-    "journalId": "likhang-lahi-a-philippine-journal-of-literature-and-culture-arts",
-    "title": "Legend of Ap-Apid",
-    "authors": [
-      "Leticia D. Guinsiman, PhD"
-    ],
-    "articleType": "Legend",
-    "volume": "1",
-    "issue": "2",
-    "issueLabel": "Issue No. 2",
-    "publicationDate": "2026-08-10",
-    "pages": "1–2",
-    "pdfFile": "assets/uploads/journal-archive/likhang-lahi/volume-1-issue-2/leticia-guinsiman-legend-of-ap-apid.pdf",
-    "active": true,
-    "abstract": "",
-    "keywords": [],
-    "doi": "",
-    "featured": false
-  },
-  {
-    "id": "likhang-lahi-v1-i2-legend-of-binablayan",
-    "journalId": "likhang-lahi-a-philippine-journal-of-literature-and-culture-arts",
-    "title": "Legend of Binablayan",
-    "authors": [
-      "Leticia D. Guinsiman, PhD"
-    ],
-    "articleType": "Legend",
-    "volume": "1",
-    "issue": "2",
-    "issueLabel": "Issue No. 2",
-    "publicationDate": "2026-08-10",
-    "pages": "1–4",
-    "pdfFile": "assets/uploads/journal-archive/likhang-lahi/volume-1-issue-2/leticia-guinsiman-legend-of-binablayan.pdf",
-    "active": true,
-    "abstract": "",
-    "keywords": [],
-    "doi": "",
-    "featured": false
-  },
-  {
-    "id": "likhang-lahi-v1-i2-legend-of-danggo",
-    "journalId": "likhang-lahi-a-philippine-journal-of-literature-and-culture-arts",
-    "title": "Legend of Danggo",
-    "authors": [
-      "Leticia D. Guinsiman, PhD"
-    ],
-    "articleType": "Legend",
-    "volume": "1",
-    "issue": "2",
-    "issueLabel": "Issue No. 2",
-    "publicationDate": "2026-08-10",
-    "pages": "1–2",
-    "pdfFile": "assets/uploads/journal-archive/likhang-lahi/volume-1-issue-2/leticia-guinsiman-legend-of-danggo.pdf",
-    "active": true,
-    "abstract": "",
-    "keywords": [],
-    "doi": "",
-    "featured": false
-  },
-  {
-    "id": "likhang-lahi-v1-i2-legend-of-eheb",
-    "journalId": "likhang-lahi-a-philippine-journal-of-literature-and-culture-arts",
-    "title": "Legend of Eheb",
-    "authors": [
-      "Leticia D. Guinsiman, PhD"
-    ],
-    "articleType": "Legend",
-    "volume": "1",
-    "issue": "2",
-    "issueLabel": "Issue No. 2",
-    "publicationDate": "2026-08-10",
-    "pages": "1–3",
-    "pdfFile": "assets/uploads/journal-archive/likhang-lahi/volume-1-issue-2/leticia-guinsiman-legend-of-eheb.pdf",
-    "active": true,
-    "abstract": "",
-    "keywords": [],
-    "doi": "",
-    "featured": false
-  },
-  {
-    "id": "likhang-lahi-v1-i2-legend-of-gumhang",
-    "journalId": "likhang-lahi-a-philippine-journal-of-literature-and-culture-arts",
-    "title": "Legend of Gumhang",
-    "authors": [
-      "Leticia D. Guinsiman, PhD"
-    ],
-    "articleType": "Legend",
-    "volume": "1",
-    "issue": "2",
-    "issueLabel": "Issue No. 2",
-    "publicationDate": "2026-08-10",
-    "pages": "1–4",
-    "pdfFile": "assets/uploads/journal-archive/likhang-lahi/volume-1-issue-2/leticia-guinsiman-legend-of-gumhang.pdf",
-    "active": true,
-    "abstract": "",
-    "keywords": [],
-    "doi": "",
-    "featured": false
-  },
-  {
-    "id": "likhang-lahi-v1-i2-legend-of-impugong",
-    "journalId": "likhang-lahi-a-philippine-journal-of-literature-and-culture-arts",
-    "title": "Legend of Impugong",
-    "authors": [
-      "Leticia D. Guinsiman, PhD"
-    ],
-    "articleType": "Legend",
-    "volume": "1",
-    "issue": "2",
-    "issueLabel": "Issue No. 2",
-    "publicationDate": "2026-08-10",
-    "pages": "1–3",
-    "pdfFile": "assets/uploads/journal-archive/likhang-lahi/volume-1-issue-2/leticia-guinsiman-legend-of-impugong.pdf",
-    "active": true,
-    "abstract": "",
-    "keywords": [],
-    "doi": "",
-    "featured": false
-  },
-  {
-    "id": "likhang-lahi-v1-i2-legend-of-nahwi",
-    "journalId": "likhang-lahi-a-philippine-journal-of-literature-and-culture-arts",
-    "title": "Legend of Nahwi",
-    "authors": [
-      "Leticia D. Guinsiman, PhD"
-    ],
-    "articleType": "Legend",
-    "volume": "1",
-    "issue": "2",
-    "issueLabel": "Issue No. 2",
-    "publicationDate": "2026-08-10",
-    "pages": "1–3",
-    "pdfFile": "assets/uploads/journal-archive/likhang-lahi/volume-1-issue-2/leticia-guinsiman-legend-of-nahwi.pdf",
-    "active": true,
-    "abstract": "",
-    "keywords": [],
-    "doi": "",
-    "featured": false
-  },
-  {
-    "id": "likhang-lahi-v1-i2-legend-of-tinoc",
-    "journalId": "likhang-lahi-a-philippine-journal-of-literature-and-culture-arts",
-    "title": "Legend of Tinoc",
-    "authors": [
-      "Leticia D. Guinsiman, PhD"
-    ],
-    "articleType": "Legend",
-    "volume": "1",
-    "issue": "2",
-    "issueLabel": "Issue No. 2",
-    "publicationDate": "2026-08-10",
-    "pages": "1–9",
-    "pdfFile": "assets/uploads/journal-archive/likhang-lahi/volume-1-issue-2/leticia-guinsiman-legend-of-tinoc.pdf",
-    "active": true,
-    "abstract": "",
-    "keywords": [],
-    "doi": "",
-    "featured": false
-  },
-  {
-    "id": "likhang-lahi-v1-i2-legend-of-tukucan",
-    "journalId": "likhang-lahi-a-philippine-journal-of-literature-and-culture-arts",
-    "title": "Legend of Tukucan",
-    "authors": [
-      "Leticia D. Guinsiman, PhD"
-    ],
-    "articleType": "Legend",
-    "volume": "1",
-    "issue": "2",
-    "issueLabel": "Issue No. 2",
-    "publicationDate": "2026-08-10",
-    "pages": "1–3",
-    "pdfFile": "assets/uploads/journal-archive/likhang-lahi/volume-1-issue-2/leticia-guinsiman-legend-of-tukucan.pdf",
-    "active": true,
-    "abstract": "",
-    "keywords": [],
-    "doi": "",
-    "featured": false
-  },
-  {
-    "id": "likhang-lahi-v1-i2-legend-of-tulludan",
-    "journalId": "likhang-lahi-a-philippine-journal-of-literature-and-culture-arts",
-    "title": "Legend of Tulludan",
-    "authors": [
-      "Leticia D. Guinsiman, PhD"
-    ],
-    "articleType": "Legend",
-    "volume": "1",
-    "issue": "2",
-    "issueLabel": "Issue No. 2",
-    "publicationDate": "2026-08-10",
-    "pages": "1–3",
-    "pdfFile": "assets/uploads/journal-archive/likhang-lahi/volume-1-issue-2/leticia-guinsiman-legend-of-tulludan.pdf",
-    "active": true,
-    "abstract": "",
-    "keywords": [],
-    "doi": "",
-    "featured": false
-  },
-  {
-    "id": "likhang-lahi-v1-i2-legend-of-wangwang",
-    "journalId": "likhang-lahi-a-philippine-journal-of-literature-and-culture-arts",
-    "title": "Legend of Wangwang",
-    "authors": [
-      "Leticia D. Guinsiman, PhD"
-    ],
-    "articleType": "Legend",
-    "volume": "1",
-    "issue": "2",
-    "issueLabel": "Issue No. 2",
-    "publicationDate": "2026-08-10",
-    "pages": "1–2",
-    "pdfFile": "assets/uploads/journal-archive/likhang-lahi/volume-1-issue-2/leticia-guinsiman-legend-of-wangwang.pdf",
-    "active": true,
-    "abstract": "",
-    "keywords": [],
-    "doi": "",
-    "featured": false
-  },
-  {
-    "id": "likhang-lahi-v1-i2-light-beneath-the-lens",
-    "journalId": "likhang-lahi-a-philippine-journal-of-literature-and-culture-arts",
-    "title": "Light Beneath the Lens",
-    "authors": [
-      "Sherwin Valdez Alvaro"
-    ],
-    "articleType": "Poetry",
-    "volume": "1",
-    "issue": "2",
-    "issueLabel": "Issue No. 2",
-    "publicationDate": "2026-08-10",
-    "pages": "1–4",
-    "pdfFile": "assets/uploads/journal-archive/likhang-lahi/volume-1-issue-2/sherwin-alvaro-light-beneath-the-lens.pdf",
-    "active": true,
-    "abstract": "",
-    "keywords": [],
-    "doi": "",
-    "featured": false
+    "id": "national-research-journal-volume-4-issue-2-3",
+    "digitizedDate": "2026-08-10",
+    "originalPublicationPeriod": "July–December 2025"
   },
   {
     "journalId": "national-research-journal",
@@ -1722,87 +1724,15 @@ window.SHIRLEY_JOURNAL_ARTICLES = [
     "volume": "6",
     "issue": "2",
     "issueLabel": "July–December 2025",
-    "publicationDate": "2026-08-10",
+    "publicationDate": "2025",
     "pages": "51–54",
     "doi": "",
     "pdfFile": "assets/uploads/journal-archive/national-research-journal/volume-4-issue-2/leticia-guinsiman-literature-reviewing.pdf",
     "featured": false,
     "active": true,
-    "id": "national-research-journal-volume-4-issue-2-9"
-  },
-  {
-    "journalId": "national-research-journal",
-    "title": "Making Algorithmic Invariants Visible: A Python-Based Pedagogy for Data Structures and Algorithms",
-    "authors": [
-      "Regina Mendoza"
-    ],
-    "articleType": "Review Article",
-    "abstract": "Data structures and algorithms courses frequently assess whether a program runs while leaving the reasoning that makes the program correct largely implicit. This conceptual-design article develops an invariant-centered pedagogy from A Practical Python Approach to Data Structures and Algorithms, an instructional guide that introduces Python, algorithm analysis, arrays, linked lists, stacks, queues, sorting, and trees. The source is analyzed as a curriculum artifact rather than as evidence of learning outcomes. The article argues that an invariant—a condition that must remain true at a defined point in an operation—can connect concrete traces, structural diagrams, Python code, and correctness explanations. It proposes a four-phase learning cycle: trace a state transition, explain the preserved relation, implement the operation, and test attempts to violate the relation. The cycle is applied to indexed sequences, linked structures, stacks, queues, binary search, sorting, and tree traversal. Two design tools are provided: an invariant map that specifies observable learner evidence and common diagnostic errors, and a lesson protocol that distinguishes prediction, execution, explanation, and revision. The framework treats visualization as a reasoning aid rather than as a display and uses Python's readable syntax to reduce incidental notation while retaining explicit attention to representation, mutation, aliasing, and computational cost. The central claim is theoretical and pedagogical: implementation becomes more transferable when learners can state what must remain true, locate where code preserves it, and use counterexamples to repair their model. Classroom effectiveness remains a question for future empirical evaluation.",
-    "keywords": [
-      "data structures and algorithms",
-      "algorithmic invariants",
-      "Python pedagogy",
-      "program tracing",
-      "computational thinking",
-      "computing education"
-    ],
-    "volume": "5",
-    "issue": "2",
-    "issueLabel": "July–December 2024",
-    "publicationDate": "2026-08-10",
-    "pages": "28–34",
-    "doi": "",
-    "pdfFile": "assets/uploads/journal-archive/national-research-journal/volume-3-issue-2/regina-mendoza-algorithmic-invariants-python.pdf",
-    "featured": false,
-    "active": true,
-    "id": "national-research-journal-volume-3-issue-2-3"
-  },
-  {
-    "journalId": "national-research-journal",
-    "title": "Making Employee Voice Actionable: The SPEAK System for Psychological Safety and Organizational Learning",
-    "authors": [
-      "Rowel Binalgan"
-    ],
-    "articleType": "Review Article",
-    "abstract": "Organizations often possess more operational knowledge than their formal reports reveal. Employees notice weak procedures, emerging risks, customer frustrations, and possibilities for improvement, yet hierarchy and interpersonal risk can keep those observations unspoken. This conceptual review develops the SPEAK framework to explain how organizations can convert upward communication into a dependable learning process. Drawing on the uploaded Human Behavior in Organizations manuscript as a thematic foundation and integrating established research on psychological safety, employee voice, silence, inclusive leadership, and ethical leadership, the framework specifies five linked practices: Signal access and leader openness; Protect interpersonal safety; Enable promotive and prohibitive voice; Act on issues visibly; and Keep feedback and learning loops. The argument is that invitations to speak are insufficient when employees cannot predict how leaders will receive, evaluate, and respond to their input. A credible voice system therefore requires both a relational climate and an operating process. The article distinguishes psychological safety from comfort, voice from routine communication, and responsiveness from agreement. It also identifies ethical boundaries: anonymity cannot substitute for accountable leadership, confidentiality should be limited and explained, and harmful or unlawful conduct requires protected escalation beyond ordinary team dialogue. The SPEAK framework offers managers a practical architecture for meetings, reporting channels, decision records, and follow-through while providing researchers with propositions that can be tested across hierarchical, professional, and hybrid work settings.",
-    "keywords": [
-      "employee voice",
-      "psychological safety",
-      "organizational silence",
-      "upward communication",
-      "ethical leadership",
-      "learning systems"
-    ],
-    "volume": "5",
-    "issue": "1",
-    "issueLabel": "January–June 2024",
-    "publicationDate": "2026-08-10",
-    "pages": "36–47",
-    "doi": "",
-    "pdfFile": "assets/uploads/journal-archive/national-research-journal/volume-3-issue-1/rowel-binalgan-employee-voice.pdf",
-    "featured": false,
-    "active": true,
-    "id": "national-research-journal-volume-3-issue-1-5"
-  },
-  {
-    "id": "likhang-lahi-v1-i2-manuk-kuy-pukapukaw",
-    "journalId": "likhang-lahi-a-philippine-journal-of-literature-and-culture-arts",
-    "title": "Manuk Ku’y Pukapukaw",
-    "authors": [
-      "Leticia D. Guinsiman, PhD"
-    ],
-    "articleType": "Folk Song",
-    "volume": "1",
-    "issue": "2",
-    "issueLabel": "Issue No. 2",
-    "publicationDate": "2026-08-10",
-    "pages": "1–2",
-    "pdfFile": "assets/uploads/journal-archive/likhang-lahi/volume-1-issue-2/leticia-guinsiman-manuk-kuy-pukapukaw.pdf",
-    "active": true,
-    "abstract": "",
-    "keywords": [],
-    "doi": "",
-    "featured": false
+    "id": "national-research-journal-volume-4-issue-2-9",
+    "digitizedDate": "2026-08-10",
+    "originalPublicationPeriod": "July–December 2025"
   },
   {
     "journalId": "national-research-journal",
@@ -1823,298 +1753,15 @@ window.SHIRLEY_JOURNAL_ARTICLES = [
     "volume": "6",
     "issue": "1",
     "issueLabel": "January–June 2025",
-    "publicationDate": "2026-08-10",
+    "publicationDate": "2025",
     "pages": "24–27",
     "doi": "",
     "pdfFile": "assets/uploads/journal-archive/national-research-journal/volume-4-issue-1/reysan-dugay-measurement-sampling-analysis.pdf",
     "featured": false,
     "active": true,
-    "id": "national-research-journal-volume-4-issue-1-4"
-  },
-  {
-    "id": "national-research-journal-volume-2-issue-2-miguel-andres-valdez-adolescent-mental-health",
-    "journalId": "national-research-journal",
-    "title": "Mental Health and Social Isolation Among Adolescents",
-    "authors": [
-      "Miguel Andres Valdez"
-    ],
-    "articleType": "Conceptual Review",
-    "abstract": "Social isolation during the pandemic altered adolescents' peer contact, school routines, autonomy, family relationships, physical activity, and access to help. This conceptual review avoids treating isolation as a uniform exposure or every distress response as a disorder. Evidence through 2021 is organized into an Adolescent Connection and Care Pathway: notice change, restore predictable routine, create meaningful connection, strengthen coping and agency, and escalate concerns through a safe referral route. The framework distinguishes physical separation from loneliness and emphasizes that digital contact can be protective, neutral, or harmful depending on quality, exclusion, sleep disruption, and online risk. Schools and communities are encouraged to use low-pressure contact, confidential check-ins with a clear purpose, peer and family support, activity and sleep routines, and tiered professional care. Screening is recommended only when valid tools, trained interpretation, privacy, and response capacity are present. The article does not estimate prevalence or diagnose adolescents. It offers a prevention-to-referral model that recognizes developmental needs while avoiding automatic medicalization of understandable distress.",
-    "keywords": [
-      "adolescent mental health",
-      "social isolation",
-      "loneliness",
-      "school support",
-      "referral"
-    ],
-    "volume": "2",
-    "issue": "2",
-    "issueLabel": "July–December 2021",
-    "publicationDate": "2026-08-10",
-    "pages": "1–3",
-    "doi": "",
-    "pdfFile": "assets/uploads/journal-archive/national-research-journal/volume-2-issue-2-2021/miguel-andres-valdez-adolescent-mental-health-revised-2026-08-11.pdf",
-    "featured": false,
-    "active": true
-  },
-  {
-    "journalId": "national-research-journal",
-    "title": "Navigating Workplace Grievances: A Procedural and Legal Readiness Audit for Philippine Labor Education",
-    "authors": [
-      "Ervin Lumidao"
-    ],
-    "articleType": "Research Article",
-    "abstract": "This study evaluated how a Philippine labor relations textbook prepares learners to distinguish, process, and resolve workplace grievances. A structured qualitative document analysis examined the 104-page Labor Relations and Negotiation manuscript, with close coding of Chapter IV on grievances and Chapter VII on remedies. The audit considered conceptual precision, procedural completeness, jurisdictional routing, authentic practice, assessment evidence, legal currency, and publication readiness. The source differentiates dissatisfaction, complaint, and grievance; identifies economic, working-condition, supervisory, policy, and interpersonal triggers; proposes an eight-step managerial response; and introduces human-resources intervention, mediation, counseling, arbitration, and Katarungang Pambarangay. These features create an accessible prevention-to-resolution narrative and appropriately emphasize recognition, investigation, documentation, consistency, appeal, training, and root-cause review. However, the text does not consistently distinguish a grievance in the broad human-resources sense from the technical grievance machinery used for disputes over a collective bargaining agreement or company personnel policies. The sequence omits the shop steward or bargaining representative, contractual steps and time limits, automatic referral of unresolved technical grievances to voluntary arbitration, and the Single Entry Approach for labor and employment issues. Mediation and conciliation are treated as interchangeable without qualification; arbitration is described too generally; and the barangay pathway is presented without adequate jurisdictional limits or exceptions. Chapter IV ends with only three recall questions, while Chapter VII contains no applied case, form, process map, model settlement, or analytic rubric. The manuscript also requires correction of terminology, statutory references, grammar, and source documentation. No expert legal validation, learner-performance data, or classroom field test was supplied, so instructional effectiveness cannot be inferred. The article proposes a five-route decision model, evidence-centered learning tasks, and staged legal, editorial, accessibility, and user validation. The chapters provide a useful introductory foundation, but publication requires sharper legal distinctions, current institutional pathways, authentic case practice, and assessment criteria.",
-    "keywords": [
-      "employee grievance",
-      "grievance machinery",
-      "voluntary arbitration",
-      "alternative dispute resolution",
-      "labor relations education",
-      "document analysis"
-    ],
-    "volume": "4",
-    "issue": "1",
-    "issueLabel": "January–June 2023",
-    "publicationDate": "2026-08-10",
-    "pages": "20–31",
-    "doi": "",
-    "pdfFile": "assets/uploads/journal-archive/national-research-journal/volume-2-issue-1/ervin-lumidao-grievance-dispute-resolution.pdf",
-    "featured": false,
-    "active": true,
-    "id": "national-research-journal-volume-2-issue-1-3"
-  },
-  {
-    "id": "likhang-lahi-v1-i2-pipingew-dangew-dangew",
-    "journalId": "likhang-lahi-a-philippine-journal-of-literature-and-culture-arts",
-    "title": "Pipingew Dangew Dangew",
-    "authors": [
-      "Leticia D. Guinsiman, PhD"
-    ],
-    "articleType": "Folk Song",
-    "volume": "1",
-    "issue": "2",
-    "issueLabel": "Issue No. 2",
-    "publicationDate": "2026-08-10",
-    "pages": "1–4",
-    "pdfFile": "assets/uploads/journal-archive/likhang-lahi/volume-1-issue-2/leticia-guinsiman-pipingew-dangew-dangew.pdf",
-    "active": true,
-    "abstract": "",
-    "keywords": [],
-    "doi": "",
-    "featured": false
-  },
-  {
-    "journalId": "national-research-journal",
-    "title": "Planning Defensible Quantitative Studies in Senior High School",
-    "authors": [
-      "Genesis Catalino"
-    ],
-    "articleType": "Review Article",
-    "abstract": "Senior high school quantitative-research instruction often presents research designs, sampling methods, instruments, and statistical procedures as separate topics. Students may consequently select a test from a list after data collection rather than build a coherent chain from the research question to a warranted conclusion. This conceptual-pedagogical article analyzes a Practical Research 2 instructional text and develops the Articulate-Link-Inspect-Gauge-Narrate (ALIGN) framework for quantitative research planning. ALIGN asks student researchers to Articulate the question, target quantity or relationship, and intended claim; Link the claim to a defensible design, population, variables, comparison, and time structure; Inspect measurement validity, sampling, data provenance, and ethical protections; Gauge the analysis through estimands, descriptive displays, assumptions, effect sizes, uncertainty intervals, sensitivity checks, and appropriately interpreted statistical evidence; and Narrate conclusions whose language, scope, and transparency match the evidence. The framework corrects three recurrent misconceptions: that a large sample automatically produces representativeness, that reliability alone establishes validity, and that statistical significance proves practical importance or causation. Two instructional tools accompany the framework: a stage-by-stage alignment audit and a question-to-claim matrix for description, estimation, group comparison, paired change, association, prediction, and causal inquiry. The article argues that statistical technique should be chosen only after the target claim, design, measurement scale, dependence structure, and data quality are specified. For school-based studies, methodological rigor also requires proportionate ethics: voluntary participation, understandable consent or assent procedures, privacy protection, minimized burden, and clear limits on access and reuse. ALIGN is offered as an instructional design framework, not as an empirical demonstration of improved research performance. It can support proposal development, protocol review, data-analysis planning, results writing, oral defense, and revision. Its central contribution is a visible claim-evidence chain that allows teachers, students, and reviewers to locate exactly where a quantitative conclusion is strengthened, weakened, or exceeded by the design.",
-    "keywords": [
-      "quantitative research",
-      "research alignment",
-      "statistical reasoning",
-      "senior high school",
-      "research methods education",
-      "evidence-based claims"
-    ],
-    "volume": "4",
-    "issue": "1",
-    "issueLabel": "January–June 2023",
-    "publicationDate": "2026-08-10",
-    "pages": "32–40",
-    "doi": "",
-    "pdfFile": "assets/uploads/journal-archive/national-research-journal/volume-2-issue-1/genesis-catalino-defensible-quantitative-studies.pdf",
-    "featured": false,
-    "active": true,
-    "id": "national-research-journal-volume-2-issue-1-4"
-  },
-  {
-    "id": "national-research-journal-volume-2-issue-2-elaine-patricia-mendoza-school-reopening-preparedness",
-    "journalId": "national-research-journal",
-    "title": "Preparedness of Schools for the Gradual Return to Face-to-Face Classes",
-    "authors": [
-      "Elaine Patricia Mendoza"
-    ],
-    "articleType": "Conceptual Review",
-    "abstract": "School reopening is not a single decision made before learners return; it is a sequence of readiness judgments that must remain valid while conditions change. This conceptual review organizes guidance available through 2021 into five gates: governance and authority, site and movement controls, continuity of teaching, protection and support of people, and surveillance with correction. A school passes a gate only when responsibilities, minimum resources, operating routines, exception routes, and evidence of practice are visible. The framework distinguishes written compliance from operational readiness and rejects the assumption that one checklist score can represent every school. It also treats remote-learning continuity, disability access, staff workload, household communication, and rapid response to symptoms as integral to reopening rather than secondary concerns. Tabletop exercises and small pilots are proposed as stronger evidence than policy documents alone. This article does not certify any school or predict transmission. Its contribution is a gate-based method for determining what can proceed, what requires mitigation, and what conditions should pause or modify face-to-face activity.",
-    "keywords": [
-      "school reopening",
-      "face-to-face classes",
-      "readiness",
-      "infection prevention",
-      "learning continuity"
-    ],
-    "volume": "2",
-    "issue": "2",
-    "issueLabel": "July–December 2021",
-    "publicationDate": "2026-08-10",
-    "pages": "1–3",
-    "doi": "",
-    "pdfFile": "assets/uploads/journal-archive/national-research-journal/volume-2-issue-2-2021/elaine-patricia-mendoza-school-reopening-preparedness-revised-2026-08-11.pdf",
-    "featured": false,
-    "active": true
-  },
-  {
-    "journalId": "national-research-journal",
-    "keywords": [
-      "community quarantine",
-      "teacher well-being",
-      "student mental health",
-      "psychosocial support",
-      "school response"
-    ],
-    "volume": "1",
-    "issue": "2",
-    "issueLabel": "July–December 2020",
-    "publicationDate": "2026-08-10",
-    "doi": "",
-    "featured": false,
-    "active": true,
-    "id": "national-research-journal-volume-1-issue-2-maria-lourdes-castillo",
-    "title": "Psychological Effects of Community Quarantine on Teachers and Students",
-    "authors": [
-      "Maria Lourdes Castillo"
-    ],
-    "articleType": "Critical Review",
-    "abstract": "Community quarantine altered far more than the location of schooling. It changed daily structure, peer contact, family roles, exposure to illness and loss, economic security, instructional workload, and access to school-based support. This critical review examines psychological effects through pathways rather than treating teachers and students as a single population or quarantine as a uniform exposure. Four pathways are identified: threat and uncertainty, disruption of routine and role, social disconnection, and unequal access to protective resources. The review distinguishes understandable distress from clinical diagnosis and cautions schools against using brief screening as a substitute for qualified assessment. A School Well-Being Pathway model is proposed, combining clear communication, predictable workload, routine connection, tiered referral, staff support, and monitoring of exclusion. The article does not estimate prevalence or diagnose any participant. Its contribution is a framework for designing school responses that reduce avoidable stressors while linking people with appropriate professional care.",
-    "pages": "1–3",
-    "pdfFile": "assets/uploads/journal-archive/national-research-journal/volume-1-issue-2-2021/maria-lourdes-castillo-psychological-effects-revised-2026-08-11.pdf"
-  },
-  {
-    "id": "national-research-journal-volume-1-issue-1-andrea-mae-ramos",
-    "journalId": "national-research-journal",
-    "title": "Readiness of Public-School Teachers for Emergency Remote Teaching",
-    "authors": [
-      "Andrea Mae Ramos"
-    ],
-    "articleType": "Integrative Review",
-    "abstract": "Emergency remote teaching placed public-school teachers inside a delivery system that was being assembled while it was already in use. This integrative review distinguishes teacher readiness from simple confidence with technology. Readiness is treated as a chain of five capacities: dependable access, instructional redesign, assessment judgment, learner contact, and organizational support. Literature and policy documents available through 2021 were read comparatively, with attention to the difference between planned online learning and temporary emergency provision. The review finds that individual competence can be neutralized by unstable connectivity, unclear school routines, excessive preparation demands, or the absence of workable low-technology alternatives. It proposes a school readiness dashboard and a staged professional-learning model organized around recurring teaching decisions rather than isolated software training. The article offers an analytic framework, not prevalence estimates or evidence of causal impact.",
-    "keywords": [
-      "emergency remote teaching",
-      "teacher readiness",
-      "public schools",
-      "instructional adaptation",
-      "Philippines"
-    ],
-    "volume": "1",
-    "issue": "1",
-    "issueLabel": "January–June 2020",
-    "publicationDate": "2026-08-10",
-    "pages": "1–4",
-    "doi": "",
-    "pdfFile": "assets/uploads/journal-archive/national-research-journal/volume-1-issue-1-2021/andrea-mae-ramos-teacher-readiness-revised.pdf",
-    "featured": false,
-    "active": true
-  },
-  {
-    "journalId": "national-research-journal",
-    "title": "Reasoning-Rich Mathematics Tasks for the Intermediate Grades",
-    "authors": [
-      "Jhing Urdusa"
-    ],
-    "articleType": "Review Article",
-    "abstract": "Prospective elementary teachers need more than the ability to obtain correct answers. They must identify the mathematical structure of a problem, anticipate how learners may interpret it, select and connect representations, preserve productive cognitive demand, guide discussion, and use evidence from student work to revise instruction. This conceptual-pedagogical article analyzes an instructional worktext for Teaching Mathematics in the Intermediate Grades and develops the Build-Reveal-Interpret-Design-Guide-Evaluate (BRIDGE) framework for converting content review into teachable mathematical tasks. The framework asks a prospective teacher to Build a precise learning goal and verify the mathematics; Reveal the underlying quantities, relationships, units, and generalizable structure; Interpret the concept through connected representations and likely student strategies; Design a contextual task that permits reasoning without hiding the target idea; Guide classroom discourse by anticipating, monitoring, selecting, sequencing, and connecting student responses; and Evaluate evidence, feedback, and task revision. BRIDGE integrates pedagogical content knowledge, mathematical proficiency, task-cognitive-demand research, formative assessment, and official curriculum expectations. Two practical tools accompany the framework: a stage-by-stage design map linking teacher products to quality checks, and a domain audit illustrating its use with fractions, decimals, measurement, polygons, and geometric measurement. The article argues that a completed lesson plan is insufficient evidence of readiness if its objectives, tasks, representations, questions, and assessments are not mathematically aligned. Strong teacher-education work should expose common misconceptions, require explanations and comparisons, distinguish contextual realism from decorative word problems, and preserve units and referents throughout computation. The proposed framework is an instructional design contribution rather than an empirical claim about learning gains. It offers a transparent basis for coursework, microteaching, lesson study, portfolio assessment, and future research on how prospective teachers transform subject-matter knowledge into instruction that supports conceptual understanding, procedural fluency, strategic competence, adaptive reasoning, and productive disposition.",
-    "keywords": [
-      "mathematics teacher education",
-      "pedagogical content knowledge",
-      "mathematical tasks",
-      "intermediate grades",
-      "lesson design",
-      "formative assessment"
-    ],
-    "volume": "4",
-    "issue": "1",
-    "issueLabel": "January–June 2023",
-    "publicationDate": "2026-08-10",
-    "pages": "41–50",
-    "doi": "",
-    "pdfFile": "assets/uploads/journal-archive/national-research-journal/volume-2-issue-1/jhing-urdusa-reasoning-rich-mathematics-tasks.pdf",
-    "featured": false,
-    "active": true,
-    "id": "national-research-journal-volume-2-issue-1-5"
-  },
-  {
-    "id": "national-research-journal-volume-2-issue-2-daniel-joseph-cabrera-restaurant-small-enterprise-recovery",
-    "journalId": "national-research-journal",
-    "title": "Recovery Strategies of Restaurants and Other Small Enterprises",
-    "authors": [
-      "Daniel Joseph Cabrera"
-    ],
-    "articleType": "Conceptual Review",
-    "abstract": "Recovery for restaurants and other small enterprises is not a return to the pre-crisis routine. Restrictions, customer risk perceptions, input volatility, debt, and changed channels require owners to rebuild an operating model under uncertainty. This conceptual review proposes a Small-Enterprise Recovery Portfolio with five simultaneous decisions: establish a safe and credible offer, understand unit economics and cash runway, build a reliable fulfillment route, run bounded market experiments, and define review or exit triggers. Evidence through 2021 suggests that digital promotion is insufficient when stock, labor, payment, packaging, delivery, and customer recovery remain disconnected. The framework encourages a minimum viable offer rather than an expanded menu, contribution and cash-horizon records rather than sales alone, channel-specific procedures, and small tests with explicit success and loss limits. Assistance is most useful when matched to the actual bottleneck, whether authorization, demand, capability, logistics, or finance. The article does not estimate survival or revenue effects. It offers a disciplined recovery method for protecting scarce cash while creating evidence about what the enterprise can sustain.",
-    "keywords": [
-      "restaurant recovery",
-      "small enterprise",
-      "cash flow",
-      "business continuity",
-      "market experiment"
-    ],
-    "volume": "2",
-    "issue": "2",
-    "issueLabel": "July–December 2021",
-    "publicationDate": "2026-08-10",
-    "pages": "1–3",
-    "doi": "",
-    "pdfFile": "assets/uploads/journal-archive/national-research-journal/volume-2-issue-2-2021/daniel-joseph-cabrera-restaurant-small-enterprise-recovery-revised-2026-08-11.pdf",
-    "featured": false,
-    "active": true
-  },
-  {
-    "journalId": "national-research-journal",
-    "title": "Rooted in Place, Built Through Practice: The FARM Learning Cycle for Crop Production",
-    "authors": [
-      "Lanzer Aquino"
-    ],
-    "articleType": "Review Article",
-    "abstract": "Agricultural crops production is learned most meaningfully when students connect technical knowledge with soil, tools, plants, markets, and community practice. A workbook can support this connection, but a sequence of activities does not automatically produce coherent experiential learning. This conceptual article analyzes Agricultural Crops Production: Student Workbook for Grades 10 and 11 as an instructional source and develops the Frame-Act-Record-Make Meaning (FARM) cycle for place-based agricultural education. The source workbook contains 21 activities involving garden-site analysis, mapping, hand tools, container gardening, indirect planting, soil, personal protective equipment, the Philippine agricultural economy, farmers, marketing, insects, community entrepreneurs, crop maturity, planting distance, harvesting, farm-production surveys, economic analysis, and insecticide-label inquiry. These tasks are reorganized into four instructional domains: agroecological observation; safe crop-production practice; agricultural enterprise and community knowledge; and evidence-based production inquiry. FARM supplies the missing process that links them. Students frame a local problem and criteria for success, act through supervised performance or community investigation, record observable evidence, and make meaning through analysis, feedback, recommendation, and transfer. The article proposes a task-to-evidence assessment chain, safety and ethics gates for fieldwork, and a minimum implementation architecture for schools with different levels of land, equipment, and community access. Its contribution is a design framework, not a claim of measured learning effects. The framework positions the workbook as a bridge among competency standards, school-garden practice, community knowledge, and reflective judgment while preserving teacher responsibility for localization, safety, consent, and assessment quality.",
-    "keywords": [
-      "agricultural education",
-      "place-based learning",
-      "experiential learning",
-      "authentic assessment",
-      "school garden",
-      "competency-based education"
-    ],
-    "volume": "3",
-    "issue": "1",
-    "issueLabel": "January–June 2022",
-    "publicationDate": "2026-08-10",
-    "pages": "10–18",
-    "doi": "",
-    "pdfFile": "assets/uploads/journal-archive/national-research-journal/volume-1-issue-1/lanzer-aquino-place-based-agricultural-learning.pdf",
-    "featured": false,
-    "active": true,
-    "id": "national-research-journal-volumes-1-4-12"
-  },
-  {
-    "journalId": "national-research-journal",
-    "title": "Safe by Design: A Hazard-Control and Risk-Communication Audit of a Grade 9 Cookery Workbook",
-    "authors": [
-      "Naomi Casibang"
-    ],
-    "articleType": "Research Article",
-    "abstract": "Food-safety instruction should enable learners to recognize hazards, apply controls, verify conditions, and respond to deviations. This study conducted a risk-oriented document analysis of a 20-page Grade 9 cookery workbook on appetizers. The audit examined personal hygiene, cross-contamination, cleaning and sanitizing chemicals, time-temperature control, storage and packaging, and emergency communication. The workbook appropriately introduces cleaning agents, tool sanitation, illness exclusion, container selection, refrigeration, hair restraints, and several contamination-prevention ideas. It also includes a practical food-preparation task. Nevertheless, its safety messages are mainly labels and general rules rather than operational controls. The chemical lesson names ammonia, chlorine, carbolic acid, disinfectants, soap, and a proprietary sanitizer but does not consistently specify label compliance, food-contact suitability, dilution, contact time, ventilation, personal protective equipment, secure storage, spill response, or the prohibition against mixing products. Cleaning, sanitizing, and disinfecting are not adequately distinguished. Storage instruction defines refrigeration, cold storage, and chilling without measurable temperature limits, thermometer use, date marking, cooling procedures, or corrective action. Cross-contamination receives scattered attention, while allergen communication and traceability are absent. The final rubric does not make food safety a separate critical dimension; presentation can therefore outweigh unsafe process evidence. No safety validation, classroom observation, learner data, or incident record was supplied, so safety competence and instructional effectiveness cannot be inferred. Using the World Health Organization's Five Keys, Codex hygiene principles, Philippine food-safety law, worker-protection guidance, and the FDA Food Code as review anchors, the article proposes a hazard-control lesson architecture and a stop-correct-document assessment rule. Publication should follow expert review, chemical-label verification, local-policy alignment, usability testing, and monitored pilot implementation.",
-    "keywords": [
-      "food safety education",
-      "chemical safety",
-      "risk communication",
-      "hazard control",
-      "cookery workbook",
-      "document analysis"
-    ],
-    "volume": "5",
-    "issue": "2",
-    "issueLabel": "July–December 2024",
-    "publicationDate": "2026-08-10",
-    "pages": "35–45",
-    "doi": "",
-    "pdfFile": "assets/uploads/journal-archive/national-research-journal/volume-3-issue-2/naomi-casibang-food-safety-risk.pdf",
-    "featured": false,
-    "active": true,
-    "id": "national-research-journal-volume-3-issue-2-4"
+    "id": "national-research-journal-volume-4-issue-1-4",
+    "digitizedDate": "2026-08-10",
+    "originalPublicationPeriod": "January–June 2025"
   },
   {
     "journalId": "national-research-journal",
@@ -2135,39 +1782,15 @@ window.SHIRLEY_JOURNAL_ARTICLES = [
     "volume": "6",
     "issue": "2",
     "issueLabel": "July–December 2025",
-    "publicationDate": "2026-08-10",
+    "publicationDate": "2025",
     "pages": "1–11",
     "doi": "",
     "pdfFile": "assets/uploads/journal-archive/national-research-journal/volume-4-issue-2/marina-binay-an-cookery-safety-accuracy.pdf",
     "featured": false,
     "active": true,
-    "id": "national-research-journal-volume-4-issue-2-1"
-  },
-  {
-    "journalId": "national-research-journal",
-    "keywords": [
-      "school leadership",
-      "crisis management",
-      "COVID-19",
-      "learning continuity",
-      "decision governance"
-    ],
-    "volume": "1",
-    "issue": "2",
-    "issueLabel": "July–December 2020",
-    "publicationDate": "2026-08-10",
-    "doi": "",
-    "featured": false,
-    "active": true,
-    "id": "national-research-journal-volume-1-issue-2-nathaniel-p-garcia",
-    "title": "School Leadership and Crisis Management During the COVID-19 Outbreak",
-    "authors": [
-      "Nathaniel P. Garcia"
-    ],
-    "articleType": "Conceptual Review",
-    "abstract": "COVID-19 required school leaders to make rapid decisions across health protection, learning continuity, staff work, family communication, resource allocation, and student welfare. This conceptual review argues that crisis leadership is not a sequence of announcements but a recurring cycle of sensemaking, prioritization, coordination, care, and learning. Evidence through 2021 is synthesized into a School Crisis Leadership Cycle designed for institutions with limited staff and incomplete information. The cycle begins with a verified situation picture, converts that picture into a small set of protected priorities, assigns decision rights and communication routes, monitors staff and learner burden, and records changes for the next cycle. The article distinguishes strategic decisions from routine reporting and proposes a minimum crisis register containing the issue, evidence, affected groups, owner, action, trigger, and review date. The framework is normative and testable; it does not evaluate a particular principal, school, or division.",
-    "pages": "1–3",
-    "pdfFile": "assets/uploads/journal-archive/national-research-journal/volume-1-issue-2-2021/nathaniel-p-garcia-school-leadership-crisis-management-revised-2026-08-11.pdf"
+    "id": "national-research-journal-volume-4-issue-2-1",
+    "digitizedDate": "2026-08-10",
+    "originalPublicationPeriod": "July–December 2025"
   },
   {
     "journalId": "national-research-journal",
@@ -2188,172 +1811,15 @@ window.SHIRLEY_JOURNAL_ARTICLES = [
     "volume": "6",
     "issue": "2",
     "issueLabel": "July–December 2025",
-    "publicationDate": "2026-08-10",
+    "publicationDate": "2025",
     "pages": "26–29",
     "doi": "",
     "pdfFile": "assets/uploads/journal-archive/national-research-journal/volume-4-issue-2/marjorie-puguon-community-opportunity-screening.pdf",
     "featured": false,
     "active": true,
-    "id": "national-research-journal-volume-4-issue-2-4"
-  },
-  {
-    "journalId": "national-research-journal",
-    "title": "Strategy Under Constraint: The DAEL Cycle for Learning-Oriented Execution",
-    "authors": [
-      "Jesigen Lunag"
-    ],
-    "articleType": "Review Article",
-    "abstract": "Organizations frequently possess strategic plans but lack a reliable mechanism for converting analysis into coordinated action and corrective learning. The difficulty is especially pronounced in resource-constrained organizations, where a small leadership group, limited information systems, and competing operational demands can separate planning from execution. This conceptual article develops the Diagnose-Align-Execute-Learn (DAEL) framework by integrating established ideas from industry analysis, the resource-based view, mission and objective alignment, strategy implementation, the balanced scorecard, strategic control, and contingency planning. The source instructional manuscript, Fundamentals of Strategic Management: An Introductory Course, supplied the initial process architecture; canonical strategy literature was used to refine its theoretical logic. DAEL treats strategy as a closed management cycle rather than a periodic planning document. Diagnosis tests external conditions and internal capabilities. Alignment converts strategic intent into a limited portfolio of objectives and resource commitments. Execution assigns ownership, milestones, decision rights, and operating routines. Learning compares results with assumptions, activates corrective or contingent action, and renews the next diagnosis. Two design features distinguish the framework: explicit handoff gates between stages and a traceability chain linking every initiative to an objective, indicator, owner, and review decision. The article explains the framework, identifies predictable breakdowns, and proposes a minimum viable governance system suitable for small firms, cooperatives, educational institutions, local public organizations, and nonprofits. DAEL is offered as a testable conceptual model, not as evidence of performance effects.",
-    "keywords": [
-      "strategic management",
-      "strategy implementation",
-      "adaptive execution",
-      "balanced scorecard",
-      "resource-based view",
-      "organizational learning"
-    ],
-    "volume": "3",
-    "issue": "1",
-    "issueLabel": "January–June 2022",
-    "publicationDate": "2026-08-10",
-    "pages": "28–34",
-    "doi": "",
-    "pdfFile": "assets/uploads/journal-archive/national-research-journal/volume-1-issue-1/jesigen-lunag-adaptive-strategy-execution.pdf",
-    "featured": false,
-    "active": true,
-    "id": "national-research-journal-volumes-1-4-14"
-  },
-  {
-    "id": "national-research-journal-volume-2-issue-2-bianca-louise-ferrer-student-motivation-engagement",
-    "journalId": "national-research-journal",
-    "title": "Student Motivation and Engagement in Remote Education",
-    "authors": [
-      "Bianca Louise Ferrer"
-    ],
-    "articleType": "Conceptual Review",
-    "abstract": "Remote education can make engagement difficult to observe. Logins, message responses, attendance, and submitted files capture only fragments of behavioral participation and may conceal low value, confusion, isolation, or constrained access. This conceptual review proposes a Remote Engagement Engine built from five interacting conditions: meaningful value, feasible agency, achievable challenge, social connection, and responsive feedback. Evidence available through 2021 suggests that motivation is weakened when workload is fragmented, choices are superficial, tasks provide little evidence of progress, or contact is limited to reminders about missing work. The framework recommends a visible purpose, bounded choice, short success cycles, predictable teacher presence, peer contribution, and recovery routes after absence. It distinguishes disengagement from access failure and discourages punitive escalation before the barrier is understood. Engagement is monitored through patterns across preparation, participation, strategy, explanation, help-seeking, and persistence rather than one platform metric. The article does not estimate motivation or identify a universal engagement intervention. Its contribution is a design model linking students' reasons and capabilities to observable participation over time.",
-    "keywords": [
-      "student motivation",
-      "engagement",
-      "remote education",
-      "autonomy",
-      "teacher presence"
-    ],
-    "volume": "2",
-    "issue": "2",
-    "issueLabel": "July–December 2021",
-    "publicationDate": "2026-08-10",
-    "pages": "1–3",
-    "doi": "",
-    "pdfFile": "assets/uploads/journal-archive/national-research-journal/volume-2-issue-2-2021/bianca-louise-ferrer-student-motivation-engagement-revised-2026-08-11.pdf",
-    "featured": false,
-    "active": true
-  },
-  {
-    "id": "national-research-journal-volume-1-issue-1-clarisse-joy-mendoza",
-    "journalId": "national-research-journal",
-    "title": "Students’ Access to Devices and Internet Connectivity in Rural Communities",
-    "authors": [
-      "Clarisse Joy Mendoza"
-    ],
-    "articleType": "Scoping Review",
-    "abstract": "This scoping review examines why device ownership and internet availability are inadequate proxies for students’ ability to participate in remote education. Drawing on Philippine and international evidence available through 2021, it reconstructs access as a journey: obtaining a usable device, reaching a stable connection, affording repeated use, finding time and space to study, completing platform-specific tasks, and recovering when a link fails. Rurality shapes each step through distance, market coverage, electricity, transport, and household livelihood patterns, but rural communities are not homogeneous. The synthesis introduces the concept of an access threshold: participation occurs only when all minimum conditions for a specific learning task are met at the same time. It recommends task-level access audits, offline-first design, and monitoring of failed attempts rather than enrollment alone. No local survey data are claimed.",
-    "keywords": [
-      "digital divide",
-      "rural learners",
-      "device sharing",
-      "internet connectivity",
-      "remote education"
-    ],
-    "volume": "1",
-    "issue": "1",
-    "issueLabel": "January–June 2020",
-    "publicationDate": "2026-08-10",
-    "pages": "1–4",
-    "doi": "",
-    "pdfFile": "assets/uploads/journal-archive/national-research-journal/volume-1-issue-1-2021/clarisse-joy-mendoza-device-internet-access-revised.pdf",
-    "featured": false,
-    "active": true
-  },
-  {
-    "journalId": "national-research-journal",
-    "keywords": [
-      "teacher digital competence",
-      "online education",
-      "DigCompEdu",
-      "instructional design",
-      "digital assessment"
-    ],
-    "volume": "1",
-    "issue": "2",
-    "issueLabel": "July–December 2020",
-    "publicationDate": "2026-08-10",
-    "doi": "",
-    "featured": false,
-    "active": true,
-    "id": "national-research-journal-volume-1-issue-2-katrina-anne-flores",
-    "title": "Teachers' Digital Competence During the Transition to Online Education",
-    "authors": [
-      "Katrina Anne Flores"
-    ],
-    "articleType": "Integrative Review",
-    "abstract": "The emergency transition to online education made digital competence visible, but it also narrowed the concept to familiarity with devices and platforms. This integrative review treats competence as a chain of professional decisions: selecting an accessible tool, organizing content for mediated learning, enabling interaction, assessing evidence, protecting data and well-being, and improving through reflection. DigCompEdu, technological pedagogical content knowledge, and early pandemic studies are synthesized into a Digital Teaching Decision Chain. The review argues that operational fluency has educational value only when it supports a defined learner action and remains feasible under actual device, connectivity, and household conditions. It proposes evidence for each competence, including task samples, accessibility checks, feedback records, and privacy decisions, rather than self-confidence alone. Professional learning is organized around recurring teaching problems and peer review. This is a conceptual article and does not rate teachers or claim that one platform improves learning.",
-    "pages": "1–4",
-    "pdfFile": "assets/uploads/journal-archive/national-research-journal/volume-1-issue-2-2021/katrina-anne-flores-digital-competence-revised-2026-08-11.pdf"
-  },
-  {
-    "journalId": "national-research-journal",
-    "title": "Teaching Collective Bargaining Through Simulation: A Design Analysis and Seven-Phase Negotiation Laboratory for Labor Relations Courses",
-    "authors": [
-      "Marvin Dulay"
-    ],
-    "articleType": "Research Article",
-    "abstract": "This study examined the collective-bargaining role-play embedded in Labor Relations and Negotiation and developed a more assessable negotiation laboratory for undergraduate labor-relations instruction. Structured qualitative document analysis focused on Chapter III, Labor Organizations, and Chapter VI, Conflict and Negotiation, while tracing objectives, role information, bargaining issues, decision points, outputs, and debrief questions. The source simulation assigns union and employer bargaining committees, union members, and nonunion bargaining-unit employees. The union seeks a five-percent wage increase and two additional vacation days; management authorizes no more than three percent but may offer four percent if one vacation day is surrendered. Teams prepare separately, bargain for five minutes, present a tentative deal for a union-member vote, and discuss representation and satisfaction. The exercise's strengths are recognizable stakeholder roles, asymmetrical mandates, package trade-offs, a ratification step, and reflection on voice. It creates a compact experience of distributive tension and demonstrates that negotiators are accountable to constituencies. Its instructional evidence is nevertheless weak. The scenario provides no costing data, bargaining history, contract language, ground rules, legal and ethical briefing, priorities, reservation points, alternatives to agreement, caucus protocol, impasse procedure, observer instrument, written memorandum, or analytic rubric. The two-variable design encourages splitting differences more than diagnosing interests or creating value, while the five-minute deadline compresses preparation, exploration, package bargaining, and documentation. The manuscript discusses active listening and conflict types elsewhere but does not deliberately integrate those skills into the bargaining exercise. It also supplies no baseline, post-simulation assessment, performance criteria, learner data, or field-test evidence; learning effectiveness cannot be claimed. Drawing on collective-bargaining standards and negotiation-simulation research, the article proposes a seven-phase laboratory: doctrine and context, role preparation, costing and mandate design, bargaining protocol, negotiation and caucus, tentative agreement and ratification, and structured debrief with individual transfer. The revised design preserves the source's accessible role-play while adding authenticity, process control, comparable evidence, feedback, and staged validation.",
-    "keywords": [
-      "collective bargaining",
-      "negotiation simulation",
-      "experiential learning",
-      "role-play",
-      "labor relations education",
-      "instructional design"
-    ],
-    "volume": "4",
-    "issue": "1",
-    "issueLabel": "January–June 2023",
-    "publicationDate": "2026-08-10",
-    "pages": "8–19",
-    "doi": "",
-    "pdfFile": "assets/uploads/journal-archive/national-research-journal/volume-2-issue-1/marvin-dulay-collective-bargaining-simulation.pdf",
-    "featured": false,
-    "active": true,
-    "id": "national-research-journal-volume-2-issue-1-2"
-  },
-  {
-    "journalId": "national-research-journal",
-    "title": "Teaching Philippine Legends Through Dialogue: Cultural Meaning, Ethical Inquiry, and Evidence-Based Writing",
-    "authors": [
-      "Leonor Fronda"
-    ],
-    "articleType": "Review Article",
-    "abstract": "Local legends can make literacy instruction culturally recognizable, but familiarity alone does not make a lesson culturally responsive or intellectually demanding. This conceptual article analyzes the use of The Legend of the Guava in Reading Enhancement for the Development of Learners, a Grade 6 teacher's guide and module, and develops a dialogic reading-to-writing design for cultural and ethical inquiry. The analysis focuses on how prompts position learners in relation to the story: as retrievers of information, recipients of a fixed moral, interpreters of evidence, or participants who can examine perspective, power, and cultural meaning. A five-move cycle is proposed: locate the story in cultural context, interpret character and consequence, complicate the apparent moral, deliberate across perspectives, and recompose understanding in writing. The cycle extends the module's literal and evaluative questions by requiring textual evidence, attention to voice and omission, respectful comparison with community knowledge, and revision of claims after discussion. It also addresses risks in teaching folklore, including presenting culture as uniform, reproducing stigmatizing descriptions, treating supernatural causation as uncontested fact, and using opinion questions without evidentiary standards. Two tools are provided: a question architecture for dialogic inquiry and an analytic guide for assessing cultural grounding, evidence, reasoning, perspective, and written communication. The article argues that legends are most educationally powerful when learners are invited to appreciate cultural inheritance while also examining how narratives construct values and social relations. The proposed design is a classroom-ready scholarly proposition; its effects must be established through future implementation research.",
-    "keywords": [
-      "Philippine legends",
-      "dialogic teaching",
-      "critical literacy",
-      "culturally responsive pedagogy",
-      "ethical inquiry",
-      "reading-to-writing"
-    ],
-    "volume": "4",
-    "issue": "1",
-    "issueLabel": "January–June 2023",
-    "publicationDate": "2026-08-10",
-    "pages": "51–58",
-    "doi": "",
-    "pdfFile": "assets/uploads/journal-archive/national-research-journal/volume-2-issue-1/leonor-fronda-philippine-legends-dialogue.pdf",
-    "featured": false,
-    "active": true,
-    "id": "national-research-journal-volume-2-issue-1-6"
+    "id": "national-research-journal-volume-4-issue-2-4",
+    "digitizedDate": "2026-08-10",
+    "originalPublicationPeriod": "July–December 2025"
   },
   {
     "journalId": "national-research-journal",
@@ -2374,100 +1840,15 @@ window.SHIRLEY_JOURNAL_ARTICLES = [
     "volume": "6",
     "issue": "2",
     "issueLabel": "July–December 2025",
-    "publicationDate": "2026-08-10",
+    "publicationDate": "2025",
     "pages": "55–57",
     "doi": "",
     "pdfFile": "assets/uploads/journal-archive/national-research-journal/volume-4-issue-2/leticia-guinsiman-research-frameworks.pdf",
     "featured": false,
     "active": true,
-    "id": "national-research-journal-volume-4-issue-2-10"
-  },
-  {
-    "id": "likhang-lahi-v1-i2-the-quiet-pulse-of-science",
-    "journalId": "likhang-lahi-a-philippine-journal-of-literature-and-culture-arts",
-    "title": "The Quiet Pulse of Science",
-    "authors": [
-      "Sherwin Valdez Alvaro"
-    ],
-    "articleType": "Poetry",
-    "volume": "1",
-    "issue": "2",
-    "issueLabel": "Issue No. 2",
-    "publicationDate": "2026-08-10",
-    "pages": "1–5",
-    "pdfFile": "assets/uploads/journal-archive/likhang-lahi/volume-1-issue-2/sherwin-alvaro-the-quiet-pulse-of-science.pdf",
-    "active": true,
-    "abstract": "",
-    "keywords": [],
-    "doi": "",
-    "featured": false
-  },
-  {
-    "id": "likhang-lahi-v1-i2-the-two-friends",
-    "journalId": "likhang-lahi-a-philippine-journal-of-literature-and-culture-arts",
-    "title": "The Two Friends",
-    "authors": [
-      "Chona Lee F. Fababeir"
-    ],
-    "articleType": "Short Story",
-    "volume": "1",
-    "issue": "2",
-    "issueLabel": "Issue No. 2",
-    "publicationDate": "2026-08-10",
-    "pages": "1–3",
-    "pdfFile": "assets/uploads/journal-archive/likhang-lahi/volume-1-issue-2/chona-lee-fababeir-the-two-friends.pdf",
-    "active": true,
-    "abstract": "",
-    "keywords": [],
-    "doi": "",
-    "featured": false
-  },
-  {
-    "journalId": "national-research-journal",
-    "title": "The Usefulness of Artificial Intelligence Across the Research Cycle: A VISTA Framework for Responsible Scholarly Work",
-    "authors": [
-      "Daves Baltazar"
-    ],
-    "articleType": "Review Article",
-    "abstract": "Artificial intelligence (AI) can accelerate research, but speed alone does not establish scholarly usefulness. A tool is useful only when its contribution to quality, efficiency, reproducibility, or accessibility exceeds the costs of verification and the risks introduced into the research record. This conceptual article examines AI use across problem formulation, literature discovery, research design, data preparation, analysis, interpretation, and scholarly communication. It distinguishes specialized analytical systems from general-purpose generative AI and argues that their value is task-dependent. AI is well suited to expanding search vocabulary, organizing candidate literature, drafting code, detecting patterns, proposing alternative explanations, and improving language. It is unreliable when treated as an authority for citations, methods, numerical results, or final interpretations. To convert this distinction into an operational process, the article develops the VISTA framework: Validate the task and permissible use; Investigate evidence through authoritative sources; Structure the method and analysis under human control; Test every consequential output; and Account for material AI use and human responsibility. Two tools accompany the framework: a research-cycle risk map and a minimum verification record. The analysis integrates literature on AI-assisted scientific discovery, language-model hallucination, research transparency, publication ethics, and fairness. It concludes that AI's most defensible role is augmentation rather than epistemic delegation. Researchers may delegate bounded operations, but they cannot delegate responsibility for the question, evidence, method, interpretation, or published claim. The framework offers researchers, reviewers, and institutions a proportionate basis for evaluating AI-supported work without assuming that all uses are either harmless or unacceptable.",
-    "keywords": [
-      "artificial intelligence",
-      "generative AI",
-      "research integrity",
-      "scholarly communication",
-      "reproducibility",
-      "human oversight"
-    ],
-    "volume": "3",
-    "issue": "1",
-    "issueLabel": "January–June 2022",
-    "publicationDate": "2026-08-10",
-    "pages": "19–27",
-    "doi": "",
-    "pdfFile": "assets/uploads/journal-archive/national-research-journal/volume-1-issue-1/daves-baltazar-ai-research-usefulness.pdf",
-    "featured": false,
-    "active": true,
-    "id": "national-research-journal-volumes-1-4-13"
-  },
-  {
-    "id": "likhang-lahi-v1-i2-tikdewak",
-    "journalId": "likhang-lahi-a-philippine-journal-of-literature-and-culture-arts",
-    "title": "Tikdewak",
-    "authors": [
-      "Leticia D. Guinsiman, PhD"
-    ],
-    "articleType": "Folk Song",
-    "volume": "1",
-    "issue": "2",
-    "issueLabel": "Issue No. 2",
-    "publicationDate": "2026-08-10",
-    "pages": "1–2",
-    "pdfFile": "assets/uploads/journal-archive/likhang-lahi/volume-1-issue-2/leticia-guinsiman-tikdewak.pdf",
-    "active": true,
-    "abstract": "",
-    "keywords": [],
-    "doi": "",
-    "featured": false
+    "id": "national-research-journal-volume-4-issue-2-10",
+    "digitizedDate": "2026-08-10",
+    "originalPublicationPeriod": "July–December 2025"
   },
   {
     "journalId": "national-research-journal",
@@ -2487,13 +1868,15 @@ window.SHIRLEY_JOURNAL_ARTICLES = [
     "volume": "6",
     "issue": "1",
     "issueLabel": "January–June 2025",
-    "publicationDate": "2026-08-10",
+    "publicationDate": "2025",
     "pages": "32–39",
     "doi": "",
     "pdfFile": "assets/uploads/journal-archive/national-research-journal/volume-4-issue-1/naomi-fayne-de-leon-training-gaps-coaching-needs.pdf",
     "featured": false,
     "active": true,
-    "id": "national-research-journal-volume-4-issue-1-6"
+    "id": "national-research-journal-volume-4-issue-1-6",
+    "digitizedDate": "2026-08-10",
+    "originalPublicationPeriod": "January–June 2025"
   },
   {
     "journalId": "national-research-journal",
@@ -2513,39 +1896,15 @@ window.SHIRLEY_JOURNAL_ARTICLES = [
     "volume": "6",
     "issue": "1",
     "issueLabel": "January–June 2025",
-    "publicationDate": "2026-08-10",
+    "publicationDate": "2025",
     "pages": "1–7",
     "doi": "",
     "pdfFile": "assets/uploads/journal-archive/national-research-journal/volume-4-issue-1/crystal-mones-uneven-readiness-classroom-inquiry.pdf",
     "featured": false,
     "active": true,
-    "id": "national-research-journal-volume-4-issue-1-1"
-  },
-  {
-    "id": "national-research-journal-volume-1-issue-1-lorenzo-miguel-cruz",
-    "journalId": "national-research-journal",
-    "title": "Use of Social Media for Government and School Information Dissemination",
-    "authors": [
-      "Lorenzo Miguel Cruz"
-    ],
-    "articleType": "Communication-Policy Review",
-    "abstract": "Social media allowed government offices and schools to publish rapidly during the COVID-19 emergency, but publication is not the same as successful public information. This communication-policy review treats dissemination as a service with five tests: authority, findability, comprehension, actionability, and correctability. Evidence through 2021 shows that platform reach can coexist with exclusion, message overload, impersonation, outdated posts, rumor circulation, and unanswered public questions. A two-lane model is proposed. The public lane issues short, dated, shareable instructions; the record lane preserves the full advisory, version history, contact point, and correction. Social media is positioned as one layer in a redundant channel system that includes text, print, websites, hotlines, and community intermediaries. The article develops a message card, correction protocol, and operational metrics that go beyond follower counts. It is a conceptual synthesis and does not evaluate a particular agency or school.",
-    "keywords": [
-      "public information",
-      "social media governance",
-      "school communication",
-      "corrections",
-      "infodemic"
-    ],
-    "volume": "1",
-    "issue": "1",
-    "issueLabel": "January–June 2020",
-    "publicationDate": "2026-08-10",
-    "pages": "1–4",
-    "doi": "",
-    "pdfFile": "assets/uploads/journal-archive/national-research-journal/volume-1-issue-1-2021/lorenzo-miguel-cruz-social-media-information-dissemination-revised.pdf",
-    "featured": false,
-    "active": true
+    "id": "national-research-journal-volume-4-issue-1-1",
+    "digitizedDate": "2026-08-10",
+    "originalPublicationPeriod": "January–June 2025"
   },
   {
     "journalId": "national-research-journal",
@@ -2568,13 +1927,302 @@ window.SHIRLEY_JOURNAL_ARTICLES = [
     "volume": "6",
     "issue": "2",
     "issueLabel": "July–December 2025",
-    "publicationDate": "2026-08-10",
+    "publicationDate": "2025",
     "pages": "38–42",
     "doi": "",
     "pdfFile": "assets/uploads/journal-archive/national-research-journal/volume-4-issue-2/marjorie-arroyo-fernando-pacio-validating-student-microventures.pdf",
     "featured": false,
     "active": true,
-    "id": "national-research-journal-volume-4-issue-2-6"
+    "id": "national-research-journal-volume-4-issue-2-6",
+    "digitizedDate": "2026-08-10",
+    "originalPublicationPeriod": "July–December 2025"
+  },
+  {
+    "journalId": "national-research-journal",
+    "title": "Appetizer Skills Beyond Recall: A Competency-Evidence Audit for Grade 9 Cookery",
+    "authors": [
+      "Rhomer Gonzales"
+    ],
+    "articleType": "Research Article",
+    "abstract": "This study examined whether a 20-page Grade 9 cookery workbook on appetizers provides evidence of the competencies it intends to develop. A structured document analysis mapped stated outcomes, lesson content, practice tasks, answer keys, and the culminating performance task against principles of constructive alignment, authentic assessment, and competency-based training. The workbook contains four lessons on kitchen tools and equipment, cleaning compounds, appetizer classification, and storage techniques. Its visual tool guides, short practice sets, localized appetizer prompt, and requirement to document work can support independent review. However, the assessed evidence is dominated by 77 selected-response, matching, identification, labeling, and word-reconstruction items, compared with one practical task. Several outcomes use performance verbs, yet most lesson checks verify recognition or recall. The culminating task is internally inconsistent: it asks learners to prepare appetizers but one target specifies a simple sandwich; its five stated percentage weights total 130%; the performance bands omit portions of the 0-100 range; and broad terms such as relevance and presentation are not anchored in directly observable product or process evidence. The activity also relies heavily on photographs, which cannot by themselves verify sanitation, sequencing, temperature control, knife technique, or independent performance. No field-test data, scorer agreement, learner outcomes, or validation records were supplied, so effectiveness cannot be inferred. The article proposes an evidence chain that links each competency to a task, observable performance conditions, product and process criteria, feedback, and reassessment. It also presents a three-stage assessment package consisting of a mise-en-place check, monitored production, and a short oral or written justification. The workbook offers a practical foundation, but publication and classroom adoption require re-aligned outcomes, authentic practice within every lesson, a defensible analytic rubric, model responses, accessibility improvements, and staged content and user validation.",
+    "keywords": [
+      "cookery education",
+      "competency-based assessment",
+      "authentic assessment",
+      "constructive alignment",
+      "appetizers",
+      "document analysis"
+    ],
+    "volume": "5",
+    "issue": "2",
+    "issueLabel": "July–December 2024",
+    "publicationDate": "2024",
+    "pages": "46–55",
+    "doi": "",
+    "pdfFile": "assets/uploads/journal-archive/national-research-journal/volume-3-issue-2/rhomer-gonzales-cookery-competency-assessment.pdf",
+    "featured": false,
+    "active": true,
+    "id": "national-research-journal-volume-3-issue-2-5",
+    "digitizedDate": "2026-08-10",
+    "originalPublicationPeriod": "July–December 2024"
+  },
+  {
+    "journalId": "national-research-journal",
+    "title": "Assessing Service as Integrated Practice: An Evidence-Centered Model for Food and Beverage Competence",
+    "authors": [
+      "Sally Vicente"
+    ],
+    "articleType": "Review Article",
+    "abstract": "Competency-based training in food and beverage service must determine whether a learner can integrate knowledge, technical skill, communication, timing, hygiene, and judgment in a live service sequence. Written self-checks and performance checklists are useful, but neither automatically produces a valid judgment of occupational competence. This conceptual-design article analyzes a 2023 competency-based learning module for Food and Beverage Services NC II as an instructional artifact. The module organizes preparation for dining-room service through information sheets, self-checks, task sheets, performance criteria, recognition of prior learning, and facilitator-supported practice. Building on that architecture, the article proposes an evidence-centered assessment system that connects competency outcomes to authentic service tasks, observable quality criteria, assessor prompts, feedback, and decisions about readiness. It distinguishes component practice from integrated performance and replaces single-snapshot judgment with a small portfolio of evidence collected across reservations, station preparation, table setup, and ambiance management. Two design tools are offered: an assessment blueprint aligning claims, tasks, evidence, and threats to validity; and an observation protocol that separates nonnegotiable safety or service conditions from dimensions that require professional judgment. The framework emphasizes repeated sampling, assessor calibration, learner self-evaluation, and recognition of prior learning supported by current evidence. It does not report trainees, scores, or intervention effects. Its contribution is a transparent and testable design for moving from checklist completion toward defensible judgments about workplace readiness.",
+    "keywords": [
+      "competency-based training",
+      "authentic assessment",
+      "food and beverage service",
+      "workplace competence",
+      "performance checklist",
+      "vocational education"
+    ],
+    "volume": "5",
+    "issue": "2",
+    "issueLabel": "July–December 2024",
+    "publicationDate": "2024",
+    "pages": "1–7",
+    "doi": "",
+    "pdfFile": "assets/uploads/journal-archive/national-research-journal/volume-3-issue-2/sally-vicente-authentic-assessment-food-beverage-service.pdf",
+    "featured": false,
+    "active": true,
+    "id": "national-research-journal-volume-3-issue-2-1",
+    "digitizedDate": "2026-08-10",
+    "originalPublicationPeriod": "July–December 2024"
+  },
+  {
+    "journalId": "national-research-journal",
+    "title": "Beyond Cohesion: The ALIGN Framework for Role Clarity, Information Sharing, and Adaptive Team Coordination",
+    "authors": [
+      "Michael Feliciano"
+    ],
+    "articleType": "Review Article",
+    "abstract": "Team effectiveness is often discussed through the language of unity, trust, and cohesion. These qualities matter, but they do not by themselves specify how interdependent work should be coordinated. A cohesive team can still duplicate effort, miss handoffs, conceal unique information, or adapt too slowly when conditions change. This conceptual review develops the ALIGN framework to connect human behavior in groups with the operating requirements of coordinated performance. Building from the uploaded Human Behavior in Organizations manuscript and integrating established research on team effectiveness, team processes, implicit coordination, information sharing, team diagnostics, and virtuality, the framework identifies five design tasks: Articulate purpose and outcomes; Link interdependent roles; Integrate information and shared mental models; Govern interaction and conflict; and Navigate transitions and review. The model treats coordination as a dynamic accomplishment rather than a stable team trait. It emphasizes that roles require interfaces, information requires integration, and cohesion requires task discipline. The article proposes an operating cycle across transition, action, and reflection phases and offers diagnostic questions for co-located, hybrid, and distributed teams. It also distinguishes adaptive coordination from excessive standardization: teams need enough structure to anticipate one another's needs while retaining the capacity to revise plans when tasks, membership, or context change. Because the article reports no original empirical study, its propositions are presented as testable directions rather than findings. ALIGN provides managers, educators, and researchers with a practical vocabulary for designing teams whose members can coordinate reliably without sacrificing learning and adaptation.",
+    "keywords": [
+      "team coordination",
+      "role clarity",
+      "information sharing",
+      "shared mental models",
+      "team processes",
+      "adaptive teams"
+    ],
+    "volume": "5",
+    "issue": "1",
+    "issueLabel": "January–June 2024",
+    "publicationDate": "2024",
+    "pages": "24–35",
+    "doi": "",
+    "pdfFile": "assets/uploads/journal-archive/national-research-journal/volume-3-issue-1/michael-feliciano-team-coordination.pdf",
+    "featured": false,
+    "active": true,
+    "id": "national-research-journal-volume-3-issue-1-4",
+    "digitizedDate": "2026-08-10",
+    "originalPublicationPeriod": "January–June 2024"
+  },
+  {
+    "journalId": "national-research-journal",
+    "title": "Competence and Challenges Encountered by Research Enthusiasts in Infanta District: Basis for Research Capacity Building",
+    "authors": [
+      "Ramil Borreo"
+    ],
+    "articleType": "Research Article",
+    "abstract": "Every teacher has struggled with how to conduct an action research since doing one requires the right abilities and extra time to plan and complete it. As a result, few teachers engage in action research. To dive into this issue, the researcher attempted to conduct a research investigation with a focus on the competence and challenges encountered by the research enthusiasts in conducting an action research in Infanta District of School Year 2022-2023. The aim of this research was also to propose a research capacity building. The researcher used purposive sampling, employing descriptive-quantitative method. The results revealed that the research enthusiasts assessed their competence as Slightly Competent as reflected by the overall mean of 2.14. Meanwhile, one item was evaluated where the research enthusiast was not competent, which is about making an introduction using the CARS Model. The challenges encountered by the research enthusiasts were interpreted as Slightly Serious with an overall weighted mean of 2.53. Four problems were identified as Serious: not knowing the difference between action research and basic research, needing guidance in preparing a research paper, needing technical assistance, and lacking background in the action-research process. Two Very Serious challenges were also identified: lack of training in action research and reluctance to conduct research resulting from that lack of training. The computed correlation coefficient was 0.56, signifying a considerable moderate correlation. Therefore, the research enthusiasts' competence registered a relationship with the challenges they encountered. To address the serious and very serious problems, the paper proposes a research capacity-building program designed to help research enthusiasts overcome the challenges encountered in conducting action research.",
+    "keywords": [
+      "research competence",
+      "challenges in action research",
+      "research capacity building"
+    ],
+    "volume": "5",
+    "issue": "2",
+    "issueLabel": "July–December 2024",
+    "publicationDate": "2024",
+    "pages": "8–27",
+    "doi": "",
+    "pdfFile": "assets/uploads/journal-archive/national-research-journal/volume-3-issue-2/ramil-borreo-research-competence-challenges.pdf",
+    "featured": false,
+    "active": true,
+    "id": "national-research-journal-volume-3-issue-2-2",
+    "digitizedDate": "2026-08-10",
+    "originalPublicationPeriod": "July–December 2024"
+  },
+  {
+    "journalId": "national-research-journal",
+    "title": "Designing the Inclusive Dining Servicescape: A Framework for Ambiance, Accessibility, and Guest Comfort",
+    "authors": [
+      "Lilly Carillo"
+    ],
+    "articleType": "Review Article",
+    "abstract": "Dining-room preparation is often taught as a collection of visible tasks: arrange furniture, set tables, adjust lights, select music, control temperature, and add décor. These tasks are consequential because they configure the environment in which guests move, communicate, eat, and evaluate service. This conceptual article analyzes the ambiance and dining-area preparation components of a 2023 Food and Beverage Services NC II competency-based learning module. The module is used as an instructional foundation rather than as empirical evidence. Drawing on servicescape theory, restaurant-environment research, accessibility standards, and multisensory dining scholarship, the article proposes an inclusive servicescape framework organized around six interacting dimensions: access and circulation, functional readiness, sensory comfort, table-setting coherence, social affordance, and identity or concept. The framework replaces decoration-led preparation with a guest-journey audit that begins at reservation and arrival, follows movement to and around the table, and ends with a pre-service verification from multiple user perspectives. Two design tools are presented: a servicescape decision matrix connecting environmental cues with guest needs and operational risks, and a pre-service audit that distinguishes fixed standards from context-dependent adjustments. Accessibility is treated as a baseline design responsibility rather than a special request, while ambiance is treated as a coordinated set of sensory and social conditions rather than a theme applied after operations are complete. No customer survey, field experiment, or causal outcome is reported. The contribution is an evidence-informed design proposition that can guide instruction, restaurant preparation, and future evaluation of guest comfort and service performance.",
+    "keywords": [
+      "servicescape",
+      "restaurant ambiance",
+      "accessible dining",
+      "guest comfort",
+      "table setting",
+      "food and beverage service"
+    ],
+    "volume": "5",
+    "issue": "2",
+    "issueLabel": "July–December 2024",
+    "publicationDate": "2024",
+    "pages": "56–63",
+    "doi": "",
+    "pdfFile": "assets/uploads/journal-archive/national-research-journal/volume-3-issue-2/lilly-carillo-inclusive-dining-servicescape.pdf",
+    "featured": false,
+    "active": true,
+    "id": "national-research-journal-volume-3-issue-2-6",
+    "digitizedDate": "2026-08-10",
+    "originalPublicationPeriod": "July–December 2024"
+  },
+  {
+    "journalId": "national-research-journal",
+    "title": "Evidence Before Intuition: Designing a Job-Related Employee Selection System",
+    "authors": [
+      "Lanie Cudiamat"
+    ],
+    "articleType": "Review Article",
+    "abstract": "Organizations frequently describe hiring as a search for the best candidate, yet the phrase conceals a demanding measurement problem: best for which work, according to which evidence, combined by which rule, and reviewed against which outcome? This conceptual-design article transforms a broad instructional manuscript on recruitment and selection into an auditable model for evidence-centered hiring. The source presents job analysis, recruitment channels, applicant screening, interviewing, selection methods, job offers, onboarding, inclusion, legal concerns, informal sponsorship, and technology. The present article narrows that breadth to one argument: selection quality depends on a traceable chain connecting work requirements to assessment content, scoring, decision rules, and post-hire review. A six-stage system is proposed: define work, specify evidence, standardize collection, combine scores, document decisions, and learn from outcomes. The article explains why job analysis must govern what is assessed; why interviews should use common, behaviorally anchored questions; why work samples and other predictors require evidence appropriate to their intended use; and why mechanical score combination ordinarily offers greater consistency than unaided holistic judgment. Two practical tools are introduced: a job-evidence alignment matrix and a decision-audit record. The model also identifies common failure modes, including vague fit criteria, method shopping, compensatory decisions made after scores are known, and technology that automates an undefined process. The article does not report applicants, scores, or organizational outcomes. It offers a testable design proposition for teaching, small-enterprise practice, and future validation research.",
+    "keywords": [
+      "personnel selection",
+      "job analysis",
+      "structured interview",
+      "work sample",
+      "decision rule",
+      "evidence-based management"
+    ],
+    "volume": "5",
+    "issue": "1",
+    "issueLabel": "January–June 2024",
+    "publicationDate": "2024",
+    "pages": "9–16",
+    "doi": "",
+    "pdfFile": "assets/uploads/journal-archive/national-research-journal/volume-3-issue-1/lanie-cudiamat-evidence-centered-selection.pdf",
+    "featured": false,
+    "active": true,
+    "id": "national-research-journal-volume-3-issue-1-2",
+    "digitizedDate": "2026-08-10",
+    "originalPublicationPeriod": "January–June 2024"
+  },
+  {
+    "journalId": "national-research-journal",
+    "title": "Fair Hiring as Organizational Legitimacy: Applicant Voice, Inclusive Access, and Accountable Technology",
+    "authors": [
+      "Claire Osias"
+    ],
+    "articleType": "Review Article",
+    "abstract": "Recruitment and selection communicate what an organization considers worthy, whose participation it facilitates, and whether authority is exercised through explainable rules. This conceptual article develops a legitimacy-centered approach to fair hiring from an instructional manuscript covering recruitment strategy, screening, interviews, selection methods, diversity and inclusion, legal concerns, informal sponsorship, and technology. Rather than treating fairness as an audit performed after a hiring decision, the article organizes it across four moments of the applicant journey: access to opportunity, treatment during assessment, explanation of decisions, and governance of data and technology. A model of procedural legitimacy is proposed in which job relevance, consistency, voice, transparency, respectful treatment, reviewability, and data restraint reinforce both applicant dignity and decision quality. The analysis distinguishes outreach from preferential treatment, candidate experience from entertainment, and algorithmic consistency from demonstrated fairness. It also reframes the padrino or sponsorship problem: referrals may expand information and access, but sponsor influence should never alter criteria, scoring, or review. Two tools are provided: an applicant-journey fairness map and a governance checklist for technology-assisted hiring. The article argues that fair hiring is not secured by identical treatment alone; organizations must provide comparable opportunity to demonstrate job-relevant capability while addressing barriers that make formal equality misleading. No applicant data, organizational sample, or outcome comparison is reported. The contribution is a practical and researchable design for recruitment systems that seek talent without sacrificing inclusion, trust, or accountability.",
+    "keywords": [
+      "applicant reactions",
+      "procedural justice",
+      "inclusive recruitment",
+      "candidate experience",
+      "algorithmic hiring",
+      "organizational legitimacy"
+    ],
+    "volume": "5",
+    "issue": "1",
+    "issueLabel": "January–June 2024",
+    "publicationDate": "2024",
+    "pages": "1–8",
+    "doi": "",
+    "pdfFile": "assets/uploads/journal-archive/national-research-journal/volume-3-issue-1/claire-osias-fair-hiring-legitimacy.pdf",
+    "featured": false,
+    "active": true,
+    "id": "national-research-journal-volume-3-issue-1-1",
+    "digitizedDate": "2026-08-10",
+    "originalPublicationPeriod": "January–June 2024"
+  },
+  {
+    "journalId": "national-research-journal",
+    "title": "Making Algorithmic Invariants Visible: A Python-Based Pedagogy for Data Structures and Algorithms",
+    "authors": [
+      "Regina Mendoza"
+    ],
+    "articleType": "Review Article",
+    "abstract": "Data structures and algorithms courses frequently assess whether a program runs while leaving the reasoning that makes the program correct largely implicit. This conceptual-design article develops an invariant-centered pedagogy from A Practical Python Approach to Data Structures and Algorithms, an instructional guide that introduces Python, algorithm analysis, arrays, linked lists, stacks, queues, sorting, and trees. The source is analyzed as a curriculum artifact rather than as evidence of learning outcomes. The article argues that an invariant—a condition that must remain true at a defined point in an operation—can connect concrete traces, structural diagrams, Python code, and correctness explanations. It proposes a four-phase learning cycle: trace a state transition, explain the preserved relation, implement the operation, and test attempts to violate the relation. The cycle is applied to indexed sequences, linked structures, stacks, queues, binary search, sorting, and tree traversal. Two design tools are provided: an invariant map that specifies observable learner evidence and common diagnostic errors, and a lesson protocol that distinguishes prediction, execution, explanation, and revision. The framework treats visualization as a reasoning aid rather than as a display and uses Python's readable syntax to reduce incidental notation while retaining explicit attention to representation, mutation, aliasing, and computational cost. The central claim is theoretical and pedagogical: implementation becomes more transferable when learners can state what must remain true, locate where code preserves it, and use counterexamples to repair their model. Classroom effectiveness remains a question for future empirical evaluation.",
+    "keywords": [
+      "data structures and algorithms",
+      "algorithmic invariants",
+      "Python pedagogy",
+      "program tracing",
+      "computational thinking",
+      "computing education"
+    ],
+    "volume": "5",
+    "issue": "2",
+    "issueLabel": "July–December 2024",
+    "publicationDate": "2024",
+    "pages": "28–34",
+    "doi": "",
+    "pdfFile": "assets/uploads/journal-archive/national-research-journal/volume-3-issue-2/regina-mendoza-algorithmic-invariants-python.pdf",
+    "featured": false,
+    "active": true,
+    "id": "national-research-journal-volume-3-issue-2-3",
+    "digitizedDate": "2026-08-10",
+    "originalPublicationPeriod": "July–December 2024"
+  },
+  {
+    "journalId": "national-research-journal",
+    "title": "Making Employee Voice Actionable: The SPEAK System for Psychological Safety and Organizational Learning",
+    "authors": [
+      "Rowel Binalgan"
+    ],
+    "articleType": "Review Article",
+    "abstract": "Organizations often possess more operational knowledge than their formal reports reveal. Employees notice weak procedures, emerging risks, customer frustrations, and possibilities for improvement, yet hierarchy and interpersonal risk can keep those observations unspoken. This conceptual review develops the SPEAK framework to explain how organizations can convert upward communication into a dependable learning process. Drawing on the uploaded Human Behavior in Organizations manuscript as a thematic foundation and integrating established research on psychological safety, employee voice, silence, inclusive leadership, and ethical leadership, the framework specifies five linked practices: Signal access and leader openness; Protect interpersonal safety; Enable promotive and prohibitive voice; Act on issues visibly; and Keep feedback and learning loops. The argument is that invitations to speak are insufficient when employees cannot predict how leaders will receive, evaluate, and respond to their input. A credible voice system therefore requires both a relational climate and an operating process. The article distinguishes psychological safety from comfort, voice from routine communication, and responsiveness from agreement. It also identifies ethical boundaries: anonymity cannot substitute for accountable leadership, confidentiality should be limited and explained, and harmful or unlawful conduct requires protected escalation beyond ordinary team dialogue. The SPEAK framework offers managers a practical architecture for meetings, reporting channels, decision records, and follow-through while providing researchers with propositions that can be tested across hierarchical, professional, and hybrid work settings.",
+    "keywords": [
+      "employee voice",
+      "psychological safety",
+      "organizational silence",
+      "upward communication",
+      "ethical leadership",
+      "learning systems"
+    ],
+    "volume": "5",
+    "issue": "1",
+    "issueLabel": "January–June 2024",
+    "publicationDate": "2024",
+    "pages": "36–47",
+    "doi": "",
+    "pdfFile": "assets/uploads/journal-archive/national-research-journal/volume-3-issue-1/rowel-binalgan-employee-voice.pdf",
+    "featured": false,
+    "active": true,
+    "id": "national-research-journal-volume-3-issue-1-5",
+    "digitizedDate": "2026-08-10",
+    "originalPublicationPeriod": "January–June 2024"
+  },
+  {
+    "journalId": "national-research-journal",
+    "title": "Safe by Design: A Hazard-Control and Risk-Communication Audit of a Grade 9 Cookery Workbook",
+    "authors": [
+      "Naomi Casibang"
+    ],
+    "articleType": "Research Article",
+    "abstract": "Food-safety instruction should enable learners to recognize hazards, apply controls, verify conditions, and respond to deviations. This study conducted a risk-oriented document analysis of a 20-page Grade 9 cookery workbook on appetizers. The audit examined personal hygiene, cross-contamination, cleaning and sanitizing chemicals, time-temperature control, storage and packaging, and emergency communication. The workbook appropriately introduces cleaning agents, tool sanitation, illness exclusion, container selection, refrigeration, hair restraints, and several contamination-prevention ideas. It also includes a practical food-preparation task. Nevertheless, its safety messages are mainly labels and general rules rather than operational controls. The chemical lesson names ammonia, chlorine, carbolic acid, disinfectants, soap, and a proprietary sanitizer but does not consistently specify label compliance, food-contact suitability, dilution, contact time, ventilation, personal protective equipment, secure storage, spill response, or the prohibition against mixing products. Cleaning, sanitizing, and disinfecting are not adequately distinguished. Storage instruction defines refrigeration, cold storage, and chilling without measurable temperature limits, thermometer use, date marking, cooling procedures, or corrective action. Cross-contamination receives scattered attention, while allergen communication and traceability are absent. The final rubric does not make food safety a separate critical dimension; presentation can therefore outweigh unsafe process evidence. No safety validation, classroom observation, learner data, or incident record was supplied, so safety competence and instructional effectiveness cannot be inferred. Using the World Health Organization's Five Keys, Codex hygiene principles, Philippine food-safety law, worker-protection guidance, and the FDA Food Code as review anchors, the article proposes a hazard-control lesson architecture and a stop-correct-document assessment rule. Publication should follow expert review, chemical-label verification, local-policy alignment, usability testing, and monitored pilot implementation.",
+    "keywords": [
+      "food safety education",
+      "chemical safety",
+      "risk communication",
+      "hazard control",
+      "cookery workbook",
+      "document analysis"
+    ],
+    "volume": "5",
+    "issue": "2",
+    "issueLabel": "July–December 2024",
+    "publicationDate": "2024",
+    "pages": "35–45",
+    "doi": "",
+    "pdfFile": "assets/uploads/journal-archive/national-research-journal/volume-3-issue-2/naomi-casibang-food-safety-risk.pdf",
+    "featured": false,
+    "active": true,
+    "id": "national-research-journal-volume-3-issue-2-4",
+    "digitizedDate": "2026-08-10",
+    "originalPublicationPeriod": "July–December 2024"
   },
   {
     "journalId": "national-research-journal",
@@ -2595,819 +2243,305 @@ window.SHIRLEY_JOURNAL_ARTICLES = [
     "volume": "5",
     "issue": "1",
     "issueLabel": "January–June 2024",
-    "publicationDate": "2026-08-10",
+    "publicationDate": "2024",
     "pages": "17–23",
     "doi": "",
     "pdfFile": "assets/uploads/journal-archive/national-research-journal/volume-3-issue-1/helen-jacinto-trustworthy-algorithms-python.pdf",
     "featured": false,
     "active": true,
-    "id": "national-research-journal-volume-3-issue-1-3"
+    "id": "national-research-journal-volume-3-issue-1-3",
+    "digitizedDate": "2026-08-10",
+    "originalPublicationPeriod": "January–June 2024"
   },
   {
-    "id": "national-research-journal-volume-2-issue-2-isabella-grace-villanueva-womens-community-resilience",
     "journalId": "national-research-journal",
-    "title": "Women's Role in Household and Community Resilience During the Pandemic",
+    "title": "A Decision Framework for First-Order Differential Equations in Engineering Applications",
     "authors": [
-      "Isabella Grace Villanueva"
+      "Alan P. Nebrida"
     ],
-    "articleType": "Conceptual Review",
-    "abstract": "Women were central to household and community continuity during the pandemic, yet the work through which resilience was produced was often unpaid, informal, or absent from program records. This conceptual review examines resilience through five interconnected domains: care and domestic labor, livelihood adaptation, health and food management, mutual-aid networks, and participation in decisions. Evidence through 2021 indicates that describing women as naturally resilient can conceal unequal time burdens, exposure, income loss, violence risk, and limited authority over resources. The proposed Care-to-Collective Resilience Map records contributions together with cost, control, support, safety, and voice. It asks programs to reduce burdens rather than merely celebrate them, recognize informal coordination, provide accessible services and social protection, and include diverse women in the decisions that affect their work. The framework avoids treating women as one homogeneous group and considers age, disability, household structure, livelihood, and location. This article does not estimate gender effects or represent the experience of a specific community. It offers an equity-oriented method for evaluating whether resilience initiatives sustain the people who make collective coping possible.",
+    "articleType": "Research Article",
+    "abstract": "Students often learn first-order differential equations as a catalogue of solution techniques, making method selection difficult when equations are embedded in engineering contexts. This article develops a decision framework that connects equation structure, solution method, initial conditions, and physical interpretation. Drawing on an instructional worktext in elementary differential equations, the synthesis distinguishes separable, first-order linear, exact, homogeneous-substitution, and Bernoulli forms, then integrates these forms with four application families: exponential growth and decay, Newtonian cooling, well-mixed tanks, and simple RC/RL circuits. The article proposes a sequence of structural tests, demonstrates why several equivalent-looking equations require different transformations, and emphasizes dimensional and limiting-value checks. Its central contribution is a model-method-verification triad that treats differential-equation solving as engineering modeling rather than symbolic manipulation. The framework can guide lesson design, worked examples, and analytic rubrics, while empirical evaluation is reserved for subsequent classroom studies.",
     "keywords": [
-      "women",
-      "unpaid care",
-      "household resilience",
-      "community networks",
-      "gender equity"
+      "differential equations",
+      "engineering mathematics",
+      "first-order models",
+      "method selection",
+      "modeling",
+      "mathematical verification"
     ],
-    "volume": "2",
+    "volume": "4",
     "issue": "2",
-    "issueLabel": "July–December 2021",
-    "publicationDate": "2026-08-10",
-    "pages": "1–3",
+    "issueLabel": "July–December 2023",
+    "publicationDate": "2023",
+    "pages": "1–5",
     "doi": "",
-    "pdfFile": "assets/uploads/journal-archive/national-research-journal/volume-2-issue-2-2021/isabella-grace-villanueva-womens-community-resilience-revised-2026-08-11.pdf",
+    "pdfFile": "assets/uploads/journal-archive/national-research-journal/volume-2-issue-2/alan-nebrida-differential-equations.pdf",
     "featured": false,
-    "active": true
+    "active": true,
+    "id": "national-research-journal-volumes-1-4-1",
+    "digitizedDate": "2026-08-10",
+    "originalPublicationPeriod": "July–December 2023"
   },
   {
-    "id": "likhang-lahi-volume-1-issue-1-9",
-    "journalId": "likhang-lahi-a-philippine-journal-of-literature-and-culture-arts",
-    "title": "Almusal sa Cauayan",
+    "journalId": "national-research-journal",
+    "title": "Beyond the Right Answer: The REASON Framework for Teaching Ethical Deliberation in General Education",
     "authors": [
-      "Joseph C. Eco"
+      "Stephanie Pudiquet"
     ],
-    "articleType": "Poetry",
-    "abstract": "",
-    "keywords": [],
-    "volume": "1",
-    "issue": "1",
-    "issueLabel": "Volume 1 Issue No. 1",
-    "publicationDate": "2026-07-21",
-    "pages": "14–15",
+    "articleType": "Review Article",
+    "abstract": "Ethics courses often introduce moral theories and then ask students to apply a fixed sequence to dilemmas. A sequence can make reasoning visible, but it may also encourage the mistaken belief that ethical judgment is an algorithm that converts facts and principles into one uncontested answer. This conceptual-pedagogical article analyzes a college Ethics worktext as an instructional source and develops the Reconstruct-Enumerate-Articulate-Search-Own-Notice (REASON) framework for ethical deliberation in general education. The framework retains the worktext's emphasis on facts, issues, principles, alternatives, consequences, and decisions while adding stakeholder mapping, role responsibility, uncertainty, safeguards, implementation, and post-decision review. REASON asks learners to reconstruct the situation and distinguish evidence from assumption; enumerate affected parties, claims, relationships, and authority; articulate values and test the case through consequences, duties and rights, justice, virtue, care, and the common good; search for alternatives that reduce avoidable harm and preserve legitimate claims; own a publicly defensible decision and implementation plan; and notice outcomes, objections, and reasons for revision. Two analytical tools accompany the framework: a comparison of ethical lenses and an assessment map that connects each stage with an observable student product and a characteristic reasoning error. The article argues that case-based ethics should assess the quality of deliberation rather than agreement with an instructor's preferred conclusion. Strong work identifies morally relevant facts, represents perspectives fairly, applies more than one lens without merely listing theories, responds to counterarguments, respects legal and professional constraints without equating legality with morality, and specifies who should act, when, and under what safeguards. The contribution is an instructional design framework rather than an empirical claim about learning gains. It offers a transparent way to connect moral theory, cultural context, professional roles, moral courage, and accountable action across multidisciplinary college programs.",
+    "keywords": [
+      "ethical reasoning",
+      "moral deliberation",
+      "case-based learning",
+      "general education",
+      "moral decision-making",
+      "ethics pedagogy"
+    ],
+    "volume": "4",
+    "issue": "2",
+    "issueLabel": "July–December 2023",
+    "publicationDate": "2023",
+    "pages": "27–35",
     "doi": "",
-    "pdfFile": "assets/uploads/journal-archive/likhang-lahi/volume-1-issue-1/joseph-c-eco-almusal-sa-cauayan.pdf",
+    "pdfFile": "assets/uploads/journal-archive/national-research-journal/volume-2-issue-2/stephanie-pudiquet-ethical-deliberation-reason.pdf",
     "featured": false,
-    "active": true
+    "active": true,
+    "id": "national-research-journal-volumes-1-4-4",
+    "digitizedDate": "2026-08-10",
+    "originalPublicationPeriod": "July–December 2023"
   },
   {
-    "id": "likhang-lahi-volume-1-issue-1-32",
-    "journalId": "likhang-lahi-a-philippine-journal-of-literature-and-culture-arts",
-    "title": "Ang Gintong Baul",
+    "journalId": "national-research-journal",
+    "title": "Bridging Mathematical Content and Teaching Practice: A Document Analysis of a Primary-Grade Mathematics Learning Module",
     "authors": [
-      "Vanesa B. Mazo"
+      "Eleanor Bullong"
     ],
-    "articleType": "Short Story",
-    "abstract": "",
-    "keywords": [],
-    "volume": "1",
-    "issue": "1",
-    "issueLabel": "Volume 1 Issue No. 1",
-    "publicationDate": "2026-07-21",
-    "pages": "52–58",
+    "articleType": "Research Article",
+    "abstract": "This study examined the instructional architecture, mathematical integrity, and publication readiness of Teaching Math in the Primary Grades (E-Math-1), a learning module for prospective elementary teachers. A structured qualitative document analysis was conducted on the 68-page manuscript embedded in the supplied similarity-report PDF. The analysis inventoried lesson components and coded content coverage, mathematical knowledge for teaching, task demand, assessment and feedback, accuracy, editorial consistency, accessibility, and validation evidence. The module contains ten lessons: one institutional orientation, seven mathematics-content units, and two pedagogy-focused units on lesson planning and teaching approaches. All ten lessons state outcomes and use a pre-assessment-to-assessment sequence; nine explicitly include a culminating activity. Its strongest feature is the deliberate connection of content review with professional application. Learners analyze lesson plans, design materials, construct learning packages, reflect on inclusive practice, and prepare demonstrations alongside work on place value, rounding, money, whole-number operations, fractions, decimals, and geometry. The recurring sequence gives the resource coherence and supports active production rather than reading alone. However, most mathematical exposition privileges rules and procedures over representations of learner thinking. Several assessment prompts are broad, lack scoring criteria or explanatory feedback, and sometimes ask prospective teachers to perform primary-level procedures without analyzing misconceptions or alternative strategies. The audit also found consequential content and production defects: an incorrect rounding rule, a decimal place-value example with mismatched digits, an incomplete ascending-order example, ambiguous decimal-comparison prompts, inconsistent lesson numbering, omission of geometry from the table of contents, extensive language and notation errors, and no complete reference list. No expert validation, readability study, accessibility audit, field-test data, or learner outcomes were supplied; effectiveness therefore cannot be inferred. The module is a substantial practice-oriented draft with clear teacher-education value, but it requires mathematical review, curriculum mapping, representational enrichment, analytic rubrics, editorial correction, accessible digital production, and staged validation before formal publication or outcome claims.",
+    "keywords": [
+      "mathematics teacher education",
+      "primary-grade mathematics",
+      "learning module",
+      "mathematical knowledge for teaching",
+      "document analysis",
+      "instructional material evaluation"
+    ],
+    "volume": "4",
+    "issue": "2",
+    "issueLabel": "July–December 2023",
+    "publicationDate": "2023",
+    "pages": "14–26",
     "doi": "",
-    "pdfFile": "assets/uploads/journal-archive/likhang-lahi/volume-1-issue-1/vanesa-b-mazo-ang-gintong-baul.pdf",
+    "pdfFile": "assets/uploads/journal-archive/national-research-journal/volume-2-issue-2/eleanor-bullong-primary-mathematics-teaching.pdf",
     "featured": false,
-    "active": true
+    "active": true,
+    "id": "national-research-journal-volumes-1-4-3",
+    "digitizedDate": "2026-08-10",
+    "originalPublicationPeriod": "July–December 2023"
   },
   {
-    "id": "likhang-lahi-volume-1-issue-1-7",
-    "journalId": "likhang-lahi-a-philippine-journal-of-literature-and-culture-arts",
-    "title": "Ang Guro at ang Kanyang Agam-agam",
+    "journalId": "national-research-journal",
+    "title": "Building Reading Coherence in Grade 6: A Scaffolded Pathway from Word Knowledge to Written Synthesis",
     "authors": [
-      "Joseph C. Eco"
+      "Phoebe Paraguas"
     ],
-    "articleType": "Poetry",
-    "abstract": "",
-    "keywords": [],
-    "volume": "1",
+    "articleType": "Review Article",
+    "abstract": "Grade 6 reading modules often contain sound activities but leave teachers to infer how those activities work together. This conceptual-design article examines Reading Enhancement for the Development of Learners, a five-day module organized around The Legend of the Guava, and asks how its vocabulary, oral reading, comprehension, assessment, and summary-writing tasks can become a coherent learning progression. The analysis treats the module as an instructional artifact rather than as evidence of learner achievement. It maps each task to the reading process it is intended to support, identifies points where repetition can be converted into responsive practice, and proposes a seven-part pathway: prepare meaning, model fluent reading, rehearse language, read with a purpose, discuss evidence, compose a synthesis, and diagnose the next instructional need. The pathway preserves the module's practical sequence while strengthening links among word knowledge, fluency, comprehension, metacognition, and writing. Two design tools are offered: a coherence audit for reviewing lesson components and an evidence map that aligns learner products with instructional decisions. Particular attention is given to vocabulary depth, purposeful repeated reading, the distinction between skills and strategies, question quality, and the analytic use of summary writing. The article argues that a reading module becomes instructionally powerful not by accumulating activities but by making the contribution of each activity visible, cumulative, and responsive to learner evidence. The proposed design is suitable for classroom adaptation and future evaluation, but no claim of effectiveness is made without implementation data.",
+    "keywords": [
+      "Grade 6 reading",
+      "instructional coherence",
+      "vocabulary",
+      "oral reading fluency",
+      "reading comprehension",
+      "summary writing"
+    ],
+    "volume": "4",
     "issue": "1",
-    "issueLabel": "Volume 1 Issue No. 1",
-    "publicationDate": "2026-07-21",
-    "pages": "11",
+    "issueLabel": "January–June 2023",
+    "publicationDate": "2023",
+    "pages": "1–7",
     "doi": "",
-    "pdfFile": "assets/uploads/journal-archive/likhang-lahi/volume-1-issue-1/joseph-c-eco-ang-guro-at-ang-kanyang-agam-agam.pdf",
+    "pdfFile": "assets/uploads/journal-archive/national-research-journal/volume-2-issue-1/phoebe-paraguas-reading-coherence-grade-6.pdf",
     "featured": false,
-    "active": true
+    "active": true,
+    "id": "national-research-journal-volume-2-issue-1-1",
+    "digitizedDate": "2026-08-10",
+    "originalPublicationPeriod": "January–June 2023"
   },
   {
-    "id": "likhang-lahi-volume-1-issue-1-12",
-    "journalId": "likhang-lahi-a-philippine-journal-of-literature-and-culture-arts",
-    "title": "Ang Ingay ng mga Grade 6",
+    "journalId": "national-research-journal",
+    "title": "Economic Ideas in Context: A Comparative Framework for Reading the History of Economic Thought",
     "authors": [
-      "Joseph C. Eco"
+      "Jesigen Lunag"
     ],
-    "articleType": "Poetry",
-    "abstract": "",
-    "keywords": [],
-    "volume": "1",
-    "issue": "1",
-    "issueLabel": "Volume 1 Issue No. 1",
-    "publicationDate": "2026-07-21",
-    "pages": "20–21",
+    "articleType": "Review Article",
+    "abstract": "The history of economic thought is often taught as a sequence of famous economists and increasingly sophisticated theories. That sequence is useful, but it can encourage presentism: earlier writers are judged mainly by how closely they anticipated modern economics, while the institutional problems and moral vocabularies that gave their arguments meaning disappear. This historical-conceptual article develops a comparative framework for reading economic ideas in context. It reorganizes an instructional manuscript, History of Economic Thought: Then and Beyond, around five questions: What historical context made an economic problem salient? What problem was the writer trying to explain? What assumptions were made about persons, institutions, and knowledge? What mechanism connected causes to outcomes? What practical or normative prescription followed? Applied from ancient and medieval reflections through mercantilism, classical political economy, marginalism, Keynesian macroeconomics, and postwar pluralism, the framework reveals both discontinuity and cumulative insight. Economic thought did not advance through a simple replacement of error by truth; it changed as the object of inquiry moved among household governance, commercial power, production and distribution, allocation, aggregate instability, institutions, and bounded choice. The framework supports historically responsible comparison without treating all doctrines as equally valid. For teaching, it turns chronology into structured analytical practice. For policy analysis, it clarifies that disagreements frequently arise from different problem definitions and institutional assumptions, not only from competing estimates. The article concludes that history of economic thought remains useful when it is taught as contextual reasoning rather than as a museum of discarded ideas.",
+    "keywords": [
+      "history of economic thought",
+      "economic methodology",
+      "economic education",
+      "contextual analysis",
+      "political economy",
+      "pluralism"
+    ],
+    "volume": "4",
+    "issue": "2",
+    "issueLabel": "July–December 2023",
+    "publicationDate": "2023",
+    "pages": "6–13",
     "doi": "",
-    "pdfFile": "assets/uploads/journal-archive/likhang-lahi/volume-1-issue-1/joseph-c-eco-ang-ingay-ng-mga-grade-6.pdf",
+    "pdfFile": "assets/uploads/journal-archive/national-research-journal/volume-2-issue-2/jesigen-lunag-economic-ideas-in-context.pdf",
     "featured": false,
-    "active": true
+    "active": true,
+    "id": "national-research-journal-volumes-1-4-2",
+    "digitizedDate": "2026-08-10",
+    "originalPublicationPeriod": "July–December 2023"
   },
   {
-    "id": "likhang-lahi-volume-1-issue-1-33",
-    "journalId": "likhang-lahi-a-philippine-journal-of-literature-and-culture-arts",
-    "title": "Ang Lapis ni Jhio",
+    "journalId": "national-research-journal",
+    "title": "Navigating Workplace Grievances: A Procedural and Legal Readiness Audit for Philippine Labor Education",
     "authors": [
-      "Jhobilyn Arce Millares-IGLOSO"
+      "Ervin Lumidao"
     ],
-    "articleType": "Short Story",
-    "abstract": "",
-    "keywords": [],
-    "volume": "1",
+    "articleType": "Research Article",
+    "abstract": "This study evaluated how a Philippine labor relations textbook prepares learners to distinguish, process, and resolve workplace grievances. A structured qualitative document analysis examined the 104-page Labor Relations and Negotiation manuscript, with close coding of Chapter IV on grievances and Chapter VII on remedies. The audit considered conceptual precision, procedural completeness, jurisdictional routing, authentic practice, assessment evidence, legal currency, and publication readiness. The source differentiates dissatisfaction, complaint, and grievance; identifies economic, working-condition, supervisory, policy, and interpersonal triggers; proposes an eight-step managerial response; and introduces human-resources intervention, mediation, counseling, arbitration, and Katarungang Pambarangay. These features create an accessible prevention-to-resolution narrative and appropriately emphasize recognition, investigation, documentation, consistency, appeal, training, and root-cause review. However, the text does not consistently distinguish a grievance in the broad human-resources sense from the technical grievance machinery used for disputes over a collective bargaining agreement or company personnel policies. The sequence omits the shop steward or bargaining representative, contractual steps and time limits, automatic referral of unresolved technical grievances to voluntary arbitration, and the Single Entry Approach for labor and employment issues. Mediation and conciliation are treated as interchangeable without qualification; arbitration is described too generally; and the barangay pathway is presented without adequate jurisdictional limits or exceptions. Chapter IV ends with only three recall questions, while Chapter VII contains no applied case, form, process map, model settlement, or analytic rubric. The manuscript also requires correction of terminology, statutory references, grammar, and source documentation. No expert legal validation, learner-performance data, or classroom field test was supplied, so instructional effectiveness cannot be inferred. The article proposes a five-route decision model, evidence-centered learning tasks, and staged legal, editorial, accessibility, and user validation. The chapters provide a useful introductory foundation, but publication requires sharper legal distinctions, current institutional pathways, authentic case practice, and assessment criteria.",
+    "keywords": [
+      "employee grievance",
+      "grievance machinery",
+      "voluntary arbitration",
+      "alternative dispute resolution",
+      "labor relations education",
+      "document analysis"
+    ],
+    "volume": "4",
     "issue": "1",
-    "issueLabel": "Volume 1 Issue No. 1",
-    "publicationDate": "2026-07-21",
-    "pages": "59–61",
+    "issueLabel": "January–June 2023",
+    "publicationDate": "2023",
+    "pages": "20–31",
     "doi": "",
-    "pdfFile": "assets/uploads/journal-archive/likhang-lahi/volume-1-issue-1/jhobilyn-arce-millares-igloso-ang-lapis-ni-jhio.pdf",
+    "pdfFile": "assets/uploads/journal-archive/national-research-journal/volume-2-issue-1/ervin-lumidao-grievance-dispute-resolution.pdf",
     "featured": false,
-    "active": true
+    "active": true,
+    "id": "national-research-journal-volume-2-issue-1-3",
+    "digitizedDate": "2026-08-10",
+    "originalPublicationPeriod": "January–June 2023"
   },
   {
-    "id": "likhang-lahi-volume-1-issue-1-2",
-    "journalId": "likhang-lahi-a-philippine-journal-of-literature-and-culture-arts",
-    "title": "Ang Pagsulat",
+    "journalId": "national-research-journal",
+    "title": "Planning Defensible Quantitative Studies in Senior High School",
     "authors": [
-      "Joseph C. Eco"
+      "Genesis Catalino"
     ],
-    "articleType": "Poetry",
-    "abstract": "",
-    "keywords": [],
-    "volume": "1",
+    "articleType": "Review Article",
+    "abstract": "Senior high school quantitative-research instruction often presents research designs, sampling methods, instruments, and statistical procedures as separate topics. Students may consequently select a test from a list after data collection rather than build a coherent chain from the research question to a warranted conclusion. This conceptual-pedagogical article analyzes a Practical Research 2 instructional text and develops the Articulate-Link-Inspect-Gauge-Narrate (ALIGN) framework for quantitative research planning. ALIGN asks student researchers to Articulate the question, target quantity or relationship, and intended claim; Link the claim to a defensible design, population, variables, comparison, and time structure; Inspect measurement validity, sampling, data provenance, and ethical protections; Gauge the analysis through estimands, descriptive displays, assumptions, effect sizes, uncertainty intervals, sensitivity checks, and appropriately interpreted statistical evidence; and Narrate conclusions whose language, scope, and transparency match the evidence. The framework corrects three recurrent misconceptions: that a large sample automatically produces representativeness, that reliability alone establishes validity, and that statistical significance proves practical importance or causation. Two instructional tools accompany the framework: a stage-by-stage alignment audit and a question-to-claim matrix for description, estimation, group comparison, paired change, association, prediction, and causal inquiry. The article argues that statistical technique should be chosen only after the target claim, design, measurement scale, dependence structure, and data quality are specified. For school-based studies, methodological rigor also requires proportionate ethics: voluntary participation, understandable consent or assent procedures, privacy protection, minimized burden, and clear limits on access and reuse. ALIGN is offered as an instructional design framework, not as an empirical demonstration of improved research performance. It can support proposal development, protocol review, data-analysis planning, results writing, oral defense, and revision. Its central contribution is a visible claim-evidence chain that allows teachers, students, and reviewers to locate exactly where a quantitative conclusion is strengthened, weakened, or exceeded by the design.",
+    "keywords": [
+      "quantitative research",
+      "research alignment",
+      "statistical reasoning",
+      "senior high school",
+      "research methods education",
+      "evidence-based claims"
+    ],
+    "volume": "4",
     "issue": "1",
-    "issueLabel": "Volume 1 Issue No. 1",
-    "publicationDate": "2026-07-21",
-    "pages": "2–3",
+    "issueLabel": "January–June 2023",
+    "publicationDate": "2023",
+    "pages": "32–40",
     "doi": "",
-    "pdfFile": "assets/uploads/journal-archive/likhang-lahi/volume-1-issue-1/joseph-c-eco-ang-pagsulat.pdf",
+    "pdfFile": "assets/uploads/journal-archive/national-research-journal/volume-2-issue-1/genesis-catalino-defensible-quantitative-studies.pdf",
     "featured": false,
-    "active": true
+    "active": true,
+    "id": "national-research-journal-volume-2-issue-1-4",
+    "digitizedDate": "2026-08-10",
+    "originalPublicationPeriod": "January–June 2023"
   },
   {
-    "id": "likhang-lahi-volume-1-issue-1-11",
-    "journalId": "likhang-lahi-a-philippine-journal-of-literature-and-culture-arts",
-    "title": "Ang Pagtanan",
+    "journalId": "national-research-journal",
+    "title": "Reasoning-Rich Mathematics Tasks for the Intermediate Grades",
     "authors": [
-      "Joseph C. Eco"
+      "Jhing Urdusa"
     ],
-    "articleType": "Poetry",
-    "abstract": "",
-    "keywords": [],
-    "volume": "1",
+    "articleType": "Review Article",
+    "abstract": "Prospective elementary teachers need more than the ability to obtain correct answers. They must identify the mathematical structure of a problem, anticipate how learners may interpret it, select and connect representations, preserve productive cognitive demand, guide discussion, and use evidence from student work to revise instruction. This conceptual-pedagogical article analyzes an instructional worktext for Teaching Mathematics in the Intermediate Grades and develops the Build-Reveal-Interpret-Design-Guide-Evaluate (BRIDGE) framework for converting content review into teachable mathematical tasks. The framework asks a prospective teacher to Build a precise learning goal and verify the mathematics; Reveal the underlying quantities, relationships, units, and generalizable structure; Interpret the concept through connected representations and likely student strategies; Design a contextual task that permits reasoning without hiding the target idea; Guide classroom discourse by anticipating, monitoring, selecting, sequencing, and connecting student responses; and Evaluate evidence, feedback, and task revision. BRIDGE integrates pedagogical content knowledge, mathematical proficiency, task-cognitive-demand research, formative assessment, and official curriculum expectations. Two practical tools accompany the framework: a stage-by-stage design map linking teacher products to quality checks, and a domain audit illustrating its use with fractions, decimals, measurement, polygons, and geometric measurement. The article argues that a completed lesson plan is insufficient evidence of readiness if its objectives, tasks, representations, questions, and assessments are not mathematically aligned. Strong teacher-education work should expose common misconceptions, require explanations and comparisons, distinguish contextual realism from decorative word problems, and preserve units and referents throughout computation. The proposed framework is an instructional design contribution rather than an empirical claim about learning gains. It offers a transparent basis for coursework, microteaching, lesson study, portfolio assessment, and future research on how prospective teachers transform subject-matter knowledge into instruction that supports conceptual understanding, procedural fluency, strategic competence, adaptive reasoning, and productive disposition.",
+    "keywords": [
+      "mathematics teacher education",
+      "pedagogical content knowledge",
+      "mathematical tasks",
+      "intermediate grades",
+      "lesson design",
+      "formative assessment"
+    ],
+    "volume": "4",
     "issue": "1",
-    "issueLabel": "Volume 1 Issue No. 1",
-    "publicationDate": "2026-07-21",
-    "pages": "18–19",
+    "issueLabel": "January–June 2023",
+    "publicationDate": "2023",
+    "pages": "41–50",
     "doi": "",
-    "pdfFile": "assets/uploads/journal-archive/likhang-lahi/volume-1-issue-1/joseph-c-eco-ang-pagtanan.pdf",
+    "pdfFile": "assets/uploads/journal-archive/national-research-journal/volume-2-issue-1/jhing-urdusa-reasoning-rich-mathematics-tasks.pdf",
     "featured": false,
-    "active": true
+    "active": true,
+    "id": "national-research-journal-volume-2-issue-1-5",
+    "digitizedDate": "2026-08-10",
+    "originalPublicationPeriod": "January–June 2023"
   },
   {
-    "id": "likhang-lahi-volume-1-issue-1-38",
-    "journalId": "likhang-lahi-a-philippine-journal-of-literature-and-culture-arts",
-    "title": "Ang Puno ng Pag-asa",
+    "journalId": "national-research-journal",
+    "title": "Teaching Collective Bargaining Through Simulation: A Design Analysis and Seven-Phase Negotiation Laboratory for Labor Relations Courses",
     "authors": [
-      "Jhobilyn Arce Millares-IGLOSO"
+      "Marvin Dulay"
     ],
-    "articleType": "Short Story",
-    "abstract": "",
-    "keywords": [],
-    "volume": "1",
+    "articleType": "Research Article",
+    "abstract": "This study examined the collective-bargaining role-play embedded in Labor Relations and Negotiation and developed a more assessable negotiation laboratory for undergraduate labor-relations instruction. Structured qualitative document analysis focused on Chapter III, Labor Organizations, and Chapter VI, Conflict and Negotiation, while tracing objectives, role information, bargaining issues, decision points, outputs, and debrief questions. The source simulation assigns union and employer bargaining committees, union members, and nonunion bargaining-unit employees. The union seeks a five-percent wage increase and two additional vacation days; management authorizes no more than three percent but may offer four percent if one vacation day is surrendered. Teams prepare separately, bargain for five minutes, present a tentative deal for a union-member vote, and discuss representation and satisfaction. The exercise's strengths are recognizable stakeholder roles, asymmetrical mandates, package trade-offs, a ratification step, and reflection on voice. It creates a compact experience of distributive tension and demonstrates that negotiators are accountable to constituencies. Its instructional evidence is nevertheless weak. The scenario provides no costing data, bargaining history, contract language, ground rules, legal and ethical briefing, priorities, reservation points, alternatives to agreement, caucus protocol, impasse procedure, observer instrument, written memorandum, or analytic rubric. The two-variable design encourages splitting differences more than diagnosing interests or creating value, while the five-minute deadline compresses preparation, exploration, package bargaining, and documentation. The manuscript discusses active listening and conflict types elsewhere but does not deliberately integrate those skills into the bargaining exercise. It also supplies no baseline, post-simulation assessment, performance criteria, learner data, or field-test evidence; learning effectiveness cannot be claimed. Drawing on collective-bargaining standards and negotiation-simulation research, the article proposes a seven-phase laboratory: doctrine and context, role preparation, costing and mandate design, bargaining protocol, negotiation and caucus, tentative agreement and ratification, and structured debrief with individual transfer. The revised design preserves the source's accessible role-play while adding authenticity, process control, comparable evidence, feedback, and staged validation.",
+    "keywords": [
+      "collective bargaining",
+      "negotiation simulation",
+      "experiential learning",
+      "role-play",
+      "labor relations education",
+      "instructional design"
+    ],
+    "volume": "4",
     "issue": "1",
-    "issueLabel": "Volume 1 Issue No. 1",
-    "publicationDate": "2026-07-21",
-    "pages": "70–72",
+    "issueLabel": "January–June 2023",
+    "publicationDate": "2023",
+    "pages": "8–19",
     "doi": "",
-    "pdfFile": "assets/uploads/journal-archive/likhang-lahi/volume-1-issue-1/jhobilyn-arce-millares-igloso-ang-puno-ng-pag-asa.pdf",
+    "pdfFile": "assets/uploads/journal-archive/national-research-journal/volume-2-issue-1/marvin-dulay-collective-bargaining-simulation.pdf",
     "featured": false,
-    "active": true
+    "active": true,
+    "id": "national-research-journal-volume-2-issue-1-2",
+    "digitizedDate": "2026-08-10",
+    "originalPublicationPeriod": "January–June 2023"
   },
   {
-    "id": "likhang-lahi-volume-1-issue-1-36",
-    "journalId": "likhang-lahi-a-philippine-journal-of-literature-and-culture-arts",
-    "title": "Ang Sunglass ni Karl",
+    "journalId": "national-research-journal",
+    "title": "Teaching Philippine Legends Through Dialogue: Cultural Meaning, Ethical Inquiry, and Evidence-Based Writing",
     "authors": [
-      "Jhobilyn Arce Millares-IGLOSO"
+      "Leonor Fronda"
     ],
-    "articleType": "Short Story",
-    "abstract": "",
-    "keywords": [],
-    "volume": "1",
-    "issue": "1",
-    "issueLabel": "Volume 1 Issue No. 1",
-    "publicationDate": "2026-07-21",
-    "pages": "66–67",
-    "doi": "",
-    "pdfFile": "assets/uploads/journal-archive/likhang-lahi/volume-1-issue-1/jhobilyn-arce-millares-igloso-ang-sunglass-ni-karl.pdf",
-    "featured": false,
-    "active": true
-  },
-  {
-    "id": "likhang-lahi-volume-1-issue-1-27",
-    "journalId": "likhang-lahi-a-philippine-journal-of-literature-and-culture-arts",
-    "title": "Ang Tagahilot sa Forest Region",
-    "authors": [
-      "Joseph C. Eco"
+    "articleType": "Review Article",
+    "abstract": "Local legends can make literacy instruction culturally recognizable, but familiarity alone does not make a lesson culturally responsive or intellectually demanding. This conceptual article analyzes the use of The Legend of the Guava in Reading Enhancement for the Development of Learners, a Grade 6 teacher's guide and module, and develops a dialogic reading-to-writing design for cultural and ethical inquiry. The analysis focuses on how prompts position learners in relation to the story: as retrievers of information, recipients of a fixed moral, interpreters of evidence, or participants who can examine perspective, power, and cultural meaning. A five-move cycle is proposed: locate the story in cultural context, interpret character and consequence, complicate the apparent moral, deliberate across perspectives, and recompose understanding in writing. The cycle extends the module's literal and evaluative questions by requiring textual evidence, attention to voice and omission, respectful comparison with community knowledge, and revision of claims after discussion. It also addresses risks in teaching folklore, including presenting culture as uniform, reproducing stigmatizing descriptions, treating supernatural causation as uncontested fact, and using opinion questions without evidentiary standards. Two tools are provided: a question architecture for dialogic inquiry and an analytic guide for assessing cultural grounding, evidence, reasoning, perspective, and written communication. The article argues that legends are most educationally powerful when learners are invited to appreciate cultural inheritance while also examining how narratives construct values and social relations. The proposed design is a classroom-ready scholarly proposition; its effects must be established through future implementation research.",
+    "keywords": [
+      "Philippine legends",
+      "dialogic teaching",
+      "critical literacy",
+      "culturally responsive pedagogy",
+      "ethical inquiry",
+      "reading-to-writing"
     ],
-    "articleType": "Poetry",
-    "abstract": "",
-    "keywords": [],
-    "volume": "1",
+    "volume": "4",
     "issue": "1",
-    "issueLabel": "Volume 1 Issue No. 1",
-    "publicationDate": "2026-07-21",
-    "pages": "43–45",
+    "issueLabel": "January–June 2023",
+    "publicationDate": "2023",
+    "pages": "51–58",
     "doi": "",
-    "pdfFile": "assets/uploads/journal-archive/likhang-lahi/volume-1-issue-1/joseph-c-eco-ang-tagahilot-sa-forest-region.pdf",
+    "pdfFile": "assets/uploads/journal-archive/national-research-journal/volume-2-issue-1/leonor-fronda-philippine-legends-dialogue.pdf",
     "featured": false,
-    "active": true
-  },
-  {
-    "id": "likhang-lahi-volume-1-issue-1-10",
-    "journalId": "likhang-lahi-a-philippine-journal-of-literature-and-culture-arts",
-    "title": "Ang Tatay Kong Mayabang",
-    "authors": [
-      "Joseph C. Eco"
-    ],
-    "articleType": "Poetry",
-    "abstract": "",
-    "keywords": [],
-    "volume": "1",
-    "issue": "1",
-    "issueLabel": "Volume 1 Issue No. 1",
-    "publicationDate": "2026-07-21",
-    "pages": "16–17",
-    "doi": "",
-    "pdfFile": "assets/uploads/journal-archive/likhang-lahi/volume-1-issue-1/joseph-c-eco-ang-tatay-kong-mayabang.pdf",
-    "featured": false,
-    "active": true
-  },
-  {
-    "id": "likhang-lahi-volume-1-issue-1-34",
-    "journalId": "likhang-lahi-a-philippine-journal-of-literature-and-culture-arts",
-    "title": "Ang Turo ni Tatay",
-    "authors": [
-      "Jhobilyn Arce Millares-IGLOSO"
-    ],
-    "articleType": "Short Story",
-    "abstract": "",
-    "keywords": [],
-    "volume": "1",
-    "issue": "1",
-    "issueLabel": "Volume 1 Issue No. 1",
-    "publicationDate": "2026-07-21",
-    "pages": "62–63",
-    "doi": "",
-    "pdfFile": "assets/uploads/journal-archive/likhang-lahi/volume-1-issue-1/jhobilyn-arce-millares-igloso-ang-turo-ni-tatay.pdf",
-    "featured": false,
-    "active": true
-  },
-  {
-    "id": "likhang-lahi-volume-1-issue-1-6",
-    "journalId": "likhang-lahi-a-philippine-journal-of-literature-and-culture-arts",
-    "title": "Beyond the Dreams",
-    "authors": [
-      "Joseph C. Eco"
-    ],
-    "articleType": "Poetry",
-    "abstract": "",
-    "keywords": [],
-    "volume": "1",
-    "issue": "1",
-    "issueLabel": "Volume 1 Issue No. 1",
-    "publicationDate": "2026-07-21",
-    "pages": "10",
-    "doi": "",
-    "pdfFile": "assets/uploads/journal-archive/likhang-lahi/volume-1-issue-1/joseph-c-eco-beyond-the-dreams.pdf",
-    "featured": false,
-    "active": true
-  },
-  {
-    "id": "likhang-lahi-volume-1-issue-1-13",
-    "journalId": "likhang-lahi-a-philippine-journal-of-literature-and-culture-arts",
-    "title": "Had She Not Known Me",
-    "authors": [
-      "Joseph C. Eco"
-    ],
-    "articleType": "Poetry",
-    "abstract": "",
-    "keywords": [],
-    "volume": "1",
-    "issue": "1",
-    "issueLabel": "Volume 1 Issue No. 1",
-    "publicationDate": "2026-07-21",
-    "pages": "22",
-    "doi": "",
-    "pdfFile": "assets/uploads/journal-archive/likhang-lahi/volume-1-issue-1/joseph-c-eco-had-she-not-known-me.pdf",
-    "featured": false,
-    "active": true
-  },
-  {
-    "id": "likhang-lahi-volume-1-issue-1-31",
-    "journalId": "likhang-lahi-a-philippine-journal-of-literature-and-culture-arts",
-    "title": "Healing in Each Test",
-    "authors": [
-      "Sherwin Valdez Alvaro"
-    ],
-    "articleType": "Poetry",
-    "abstract": "",
-    "keywords": [],
-    "volume": "1",
-    "issue": "1",
-    "issueLabel": "Volume 1 Issue No. 1",
-    "publicationDate": "2026-07-21",
-    "pages": "50–51",
-    "doi": "",
-    "pdfFile": "assets/uploads/journal-archive/likhang-lahi/volume-1-issue-1/sherwin-valdez-alvaro-healing-in-each-test.pdf",
-    "featured": false,
-    "active": true
-  },
-  {
-    "id": "likhang-lahi-volume-1-issue-1-8",
-    "journalId": "likhang-lahi-a-philippine-journal-of-literature-and-culture-arts",
-    "title": "Heed Me Not",
-    "authors": [
-      "Joseph C. Eco"
-    ],
-    "articleType": "Poetry",
-    "abstract": "",
-    "keywords": [],
-    "volume": "1",
-    "issue": "1",
-    "issueLabel": "Volume 1 Issue No. 1",
-    "publicationDate": "2026-07-21",
-    "pages": "12–13",
-    "doi": "",
-    "pdfFile": "assets/uploads/journal-archive/likhang-lahi/volume-1-issue-1/joseph-c-eco-heed-me-not.pdf",
-    "featured": false,
-    "active": true
-  },
-  {
-    "id": "likhang-lahi-volume-1-issue-1-15",
-    "journalId": "likhang-lahi-a-philippine-journal-of-literature-and-culture-arts",
-    "title": "Hindi Man Magturo",
-    "authors": [
-      "Joseph C. Eco"
-    ],
-    "articleType": "Poetry",
-    "abstract": "",
-    "keywords": [],
-    "volume": "1",
-    "issue": "1",
-    "issueLabel": "Volume 1 Issue No. 1",
-    "publicationDate": "2026-07-21",
-    "pages": "24",
-    "doi": "",
-    "pdfFile": "assets/uploads/journal-archive/likhang-lahi/volume-1-issue-1/joseph-c-eco-hindi-man-magturo.pdf",
-    "featured": false,
-    "active": true
-  },
-  {
-    "id": "likhang-lahi-volume-1-issue-1-30",
-    "journalId": "likhang-lahi-a-philippine-journal-of-literature-and-culture-arts",
-    "title": "Humahanap",
-    "authors": [
-      "Joseph C. Eco"
-    ],
-    "articleType": "Poetry",
-    "abstract": "",
-    "keywords": [],
-    "volume": "1",
-    "issue": "1",
-    "issueLabel": "Volume 1 Issue No. 1",
-    "publicationDate": "2026-07-21",
-    "pages": "49",
-    "doi": "",
-    "pdfFile": "assets/uploads/journal-archive/likhang-lahi/volume-1-issue-1/joseph-c-eco-humahanap.pdf",
-    "featured": false,
-    "active": true
-  },
-  {
-    "id": "likhang-lahi-volume-1-issue-1-14",
-    "journalId": "likhang-lahi-a-philippine-journal-of-literature-and-culture-arts",
-    "title": "I, Referee",
-    "authors": [
-      "Joseph C. Eco"
-    ],
-    "articleType": "Poetry",
-    "abstract": "",
-    "keywords": [],
-    "volume": "1",
-    "issue": "1",
-    "issueLabel": "Volume 1 Issue No. 1",
-    "publicationDate": "2026-07-21",
-    "pages": "23",
-    "doi": "",
-    "pdfFile": "assets/uploads/journal-archive/likhang-lahi/volume-1-issue-1/joseph-c-eco-i-referee.pdf",
-    "featured": false,
-    "active": true
-  },
-  {
-    "id": "likhang-lahi-volume-1-issue-1-16",
-    "journalId": "likhang-lahi-a-philippine-journal-of-literature-and-culture-arts",
-    "title": "In Cognito",
-    "authors": [
-      "Joseph C. Eco"
-    ],
-    "articleType": "Poetry",
-    "abstract": "",
-    "keywords": [],
-    "volume": "1",
-    "issue": "1",
-    "issueLabel": "Volume 1 Issue No. 1",
-    "publicationDate": "2026-07-21",
-    "pages": "25",
-    "doi": "",
-    "pdfFile": "assets/uploads/journal-archive/likhang-lahi/volume-1-issue-1/joseph-c-eco-in-cognito.pdf",
-    "featured": false,
-    "active": true
-  },
-  {
-    "id": "likhang-lahi-volume-1-issue-1-17",
-    "journalId": "likhang-lahi-a-philippine-journal-of-literature-and-culture-arts",
-    "title": "Kahirap",
-    "authors": [
-      "Joseph C. Eco"
-    ],
-    "articleType": "Poetry",
-    "abstract": "",
-    "keywords": [],
-    "volume": "1",
-    "issue": "1",
-    "issueLabel": "Volume 1 Issue No. 1",
-    "publicationDate": "2026-07-21",
-    "pages": "26",
-    "doi": "",
-    "pdfFile": "assets/uploads/journal-archive/likhang-lahi/volume-1-issue-1/joseph-c-eco-kahirap.pdf",
-    "featured": false,
-    "active": true
-  },
-  {
-    "id": "likhang-lahi-volume-1-issue-1-35",
-    "journalId": "likhang-lahi-a-philippine-journal-of-literature-and-culture-arts",
-    "title": "Liham",
-    "authors": [
-      "Jhobilyn Arce Millares-IGLOSO"
-    ],
-    "articleType": "Short Story",
-    "abstract": "",
-    "keywords": [],
-    "volume": "1",
-    "issue": "1",
-    "issueLabel": "Volume 1 Issue No. 1",
-    "publicationDate": "2026-07-21",
-    "pages": "64–65",
-    "doi": "",
-    "pdfFile": "assets/uploads/journal-archive/likhang-lahi/volume-1-issue-1/jhobilyn-arce-millares-igloso-liham.pdf",
-    "featured": false,
-    "active": true
-  },
-  {
-    "id": "likhang-lahi-volume-1-issue-1-24",
-    "journalId": "likhang-lahi-a-philippine-journal-of-literature-and-culture-arts",
-    "title": "My Friend Bart",
-    "authors": [
-      "Joseph C. Eco"
-    ],
-    "articleType": "Poetry",
-    "abstract": "",
-    "keywords": [],
-    "volume": "1",
-    "issue": "1",
-    "issueLabel": "Volume 1 Issue No. 1",
-    "publicationDate": "2026-07-21",
-    "pages": "38",
-    "doi": "",
-    "pdfFile": "assets/uploads/journal-archive/likhang-lahi/volume-1-issue-1/joseph-c-eco-my-friend-bart.pdf",
-    "featured": false,
-    "active": true
-  },
-  {
-    "id": "likhang-lahi-volume-1-issue-1-25",
-    "journalId": "likhang-lahi-a-philippine-journal-of-literature-and-culture-arts",
-    "title": "My Stuffs",
-    "authors": [
-      "Joseph C. Eco"
-    ],
-    "articleType": "Poetry",
-    "abstract": "",
-    "keywords": [],
-    "volume": "1",
-    "issue": "1",
-    "issueLabel": "Volume 1 Issue No. 1",
-    "publicationDate": "2026-07-21",
-    "pages": "39–40",
-    "doi": "",
-    "pdfFile": "assets/uploads/journal-archive/likhang-lahi/volume-1-issue-1/joseph-c-eco-my-stuffs.pdf",
-    "featured": false,
-    "active": true
-  },
-  {
-    "id": "likhang-lahi-volume-1-issue-1-18",
-    "journalId": "likhang-lahi-a-philippine-journal-of-literature-and-culture-arts",
-    "title": "O Csheryl",
-    "authors": [
-      "Joseph C. Eco"
-    ],
-    "articleType": "Poetry",
-    "abstract": "",
-    "keywords": [],
-    "volume": "1",
-    "issue": "1",
-    "issueLabel": "Volume 1 Issue No. 1",
-    "publicationDate": "2026-07-21",
-    "pages": "27–28",
-    "doi": "",
-    "pdfFile": "assets/uploads/journal-archive/likhang-lahi/volume-1-issue-1/joseph-c-eco-o-csheryl.pdf",
-    "featured": false,
-    "active": true
-  },
-  {
-    "id": "likhang-lahi-volume-1-issue-1-26",
-    "journalId": "likhang-lahi-a-philippine-journal-of-literature-and-culture-arts",
-    "title": "On Court",
-    "authors": [
-      "Joseph C. Eco"
-    ],
-    "articleType": "Poetry",
-    "abstract": "",
-    "keywords": [],
-    "volume": "1",
-    "issue": "1",
-    "issueLabel": "Volume 1 Issue No. 1",
-    "publicationDate": "2026-07-21",
-    "pages": "41–42",
-    "doi": "",
-    "pdfFile": "assets/uploads/journal-archive/likhang-lahi/volume-1-issue-1/joseph-c-eco-on-court.pdf",
-    "featured": false,
-    "active": true
-  },
-  {
-    "id": "likhang-lahi-volume-1-issue-1-19",
-    "journalId": "likhang-lahi-a-philippine-journal-of-literature-and-culture-arts",
-    "title": "Oras na ng Pag-uwi",
-    "authors": [
-      "Joseph C. Eco"
-    ],
-    "articleType": "Poetry",
-    "abstract": "",
-    "keywords": [],
-    "volume": "1",
-    "issue": "1",
-    "issueLabel": "Volume 1 Issue No. 1",
-    "publicationDate": "2026-07-21",
-    "pages": "29",
-    "doi": "",
-    "pdfFile": "assets/uploads/journal-archive/likhang-lahi/volume-1-issue-1/joseph-c-eco-oras-na-ng-pag-uwi.pdf",
-    "featured": false,
-    "active": true
-  },
-  {
-    "id": "likhang-lahi-volume-1-issue-1-21",
-    "journalId": "likhang-lahi-a-philippine-journal-of-literature-and-culture-arts",
-    "title": "Paraiso sa Poblacion",
-    "authors": [
-      "Joseph C. Eco"
-    ],
-    "articleType": "Poetry",
-    "abstract": "",
-    "keywords": [],
-    "volume": "1",
-    "issue": "1",
-    "issueLabel": "Volume 1 Issue No. 1",
-    "publicationDate": "2026-07-21",
-    "pages": "31–32",
-    "doi": "",
-    "pdfFile": "assets/uploads/journal-archive/likhang-lahi/volume-1-issue-1/joseph-c-eco-paraiso-sa-poblacion.pdf",
-    "featured": false,
-    "active": true
-  },
-  {
-    "id": "likhang-lahi-volume-1-issue-1-22",
-    "journalId": "likhang-lahi-a-philippine-journal-of-literature-and-culture-arts",
-    "title": "Parokya ni Senora del Pilar",
-    "authors": [
-      "Joseph C. Eco"
-    ],
-    "articleType": "Poetry",
-    "abstract": "",
-    "keywords": [],
-    "volume": "1",
-    "issue": "1",
-    "issueLabel": "Volume 1 Issue No. 1",
-    "publicationDate": "2026-07-21",
-    "pages": "33–35",
-    "doi": "",
-    "pdfFile": "assets/uploads/journal-archive/likhang-lahi/volume-1-issue-1/joseph-c-eco-parokya-ni-senora-del-pilar.pdf",
-    "featured": false,
-    "active": true
-  },
-  {
-    "id": "likhang-lahi-volume-1-issue-1-23",
-    "journalId": "likhang-lahi-a-philippine-journal-of-literature-and-culture-arts",
-    "title": "Plaka",
-    "authors": [
-      "Joseph C. Eco"
-    ],
-    "articleType": "Poetry",
-    "abstract": "",
-    "keywords": [],
-    "volume": "1",
-    "issue": "1",
-    "issueLabel": "Volume 1 Issue No. 1",
-    "publicationDate": "2026-07-21",
-    "pages": "36–37",
-    "doi": "",
-    "pdfFile": "assets/uploads/journal-archive/likhang-lahi/volume-1-issue-1/joseph-c-eco-plaka.pdf",
-    "featured": false,
-    "active": true
-  },
-  {
-    "id": "likhang-lahi-volume-1-issue-1-37",
-    "journalId": "likhang-lahi-a-philippine-journal-of-literature-and-culture-arts",
-    "title": "Puso ni Lola",
-    "authors": [
-      "Jhobilyn Arce Millares-IGLOSO"
-    ],
-    "articleType": "Short Story",
-    "abstract": "",
-    "keywords": [],
-    "volume": "1",
-    "issue": "1",
-    "issueLabel": "Volume 1 Issue No. 1",
-    "publicationDate": "2026-07-21",
-    "pages": "68–69",
-    "doi": "",
-    "pdfFile": "assets/uploads/journal-archive/likhang-lahi/volume-1-issue-1/jhobilyn-arce-millares-igloso-puso-ni-lola.pdf",
-    "featured": false,
-    "active": true
-  },
-  {
-    "id": "likhang-lahi-volume-1-issue-1-39",
-    "journalId": "likhang-lahi-a-philippine-journal-of-literature-and-culture-arts",
-    "title": "Repeater",
-    "authors": [
-      "Jhobilyn Arce Millares-IGLOSO"
-    ],
-    "articleType": "Short Story",
-    "abstract": "",
-    "keywords": [],
-    "volume": "1",
-    "issue": "1",
-    "issueLabel": "Volume 1 Issue No. 1",
-    "publicationDate": "2026-07-21",
-    "pages": "73",
-    "doi": "",
-    "pdfFile": "assets/uploads/journal-archive/likhang-lahi/volume-1-issue-1/jhobilyn-arce-millares-igloso-repeater.pdf",
-    "featured": false,
-    "active": true
-  },
-  {
-    "id": "likhang-lahi-volume-1-issue-1-20",
-    "journalId": "likhang-lahi-a-philippine-journal-of-literature-and-culture-arts",
-    "title": "Sa Dakong Dulo ng Graduation",
-    "authors": [
-      "Joseph C. Eco"
-    ],
-    "articleType": "Poetry",
-    "abstract": "",
-    "keywords": [],
-    "volume": "1",
-    "issue": "1",
-    "issueLabel": "Volume 1 Issue No. 1",
-    "publicationDate": "2026-07-21",
-    "pages": "30",
-    "doi": "",
-    "pdfFile": "assets/uploads/journal-archive/likhang-lahi/volume-1-issue-1/joseph-c-eco-sa-dakong-dulo-ng-graduation.pdf",
-    "featured": false,
-    "active": true
-  },
-  {
-    "id": "likhang-lahi-volume-1-issue-1-3",
-    "journalId": "likhang-lahi-a-philippine-journal-of-literature-and-culture-arts",
-    "title": "The Arts of a Human",
-    "authors": [
-      "Joseph C. Eco"
-    ],
-    "articleType": "Poetry",
-    "abstract": "",
-    "keywords": [],
-    "volume": "1",
-    "issue": "1",
-    "issueLabel": "Volume 1 Issue No. 1",
-    "publicationDate": "2026-07-21",
-    "pages": "4–5",
-    "doi": "",
-    "pdfFile": "assets/uploads/journal-archive/likhang-lahi/volume-1-issue-1/joseph-c-eco-the-arts-of-a-human.pdf",
-    "featured": false,
-    "active": true
-  },
-  {
-    "id": "likhang-lahi-volume-1-issue-1-4",
-    "journalId": "likhang-lahi-a-philippine-journal-of-literature-and-culture-arts",
-    "title": "The Arts of a Writer",
-    "authors": [
-      "Joseph C. Eco"
-    ],
-    "articleType": "Poetry",
-    "abstract": "",
-    "keywords": [],
-    "volume": "1",
-    "issue": "1",
-    "issueLabel": "Volume 1 Issue No. 1",
-    "publicationDate": "2026-07-21",
-    "pages": "6–7",
-    "doi": "",
-    "pdfFile": "assets/uploads/journal-archive/likhang-lahi/volume-1-issue-1/joseph-c-eco-the-arts-of-a-writer.pdf",
-    "featured": false,
-    "active": true
-  },
-  {
-    "id": "likhang-lahi-volume-1-issue-1-28",
-    "journalId": "likhang-lahi-a-philippine-journal-of-literature-and-culture-arts",
-    "title": "The Old Man and His Sword",
-    "authors": [
-      "Joseph C. Eco"
-    ],
-    "articleType": "Poetry",
-    "abstract": "",
-    "keywords": [],
-    "volume": "1",
-    "issue": "1",
-    "issueLabel": "Volume 1 Issue No. 1",
-    "publicationDate": "2026-07-21",
-    "pages": "46–47",
-    "doi": "",
-    "pdfFile": "assets/uploads/journal-archive/likhang-lahi/volume-1-issue-1/joseph-c-eco-the-old-man-and-his-sword.pdf",
-    "featured": false,
-    "active": true
-  },
-  {
-    "id": "likhang-lahi-volume-1-issue-1-29",
-    "journalId": "likhang-lahi-a-philippine-journal-of-literature-and-culture-arts",
-    "title": "There's No Moon Tonight",
-    "authors": [
-      "Joseph C. Eco"
-    ],
-    "articleType": "Poetry",
-    "abstract": "",
-    "keywords": [],
-    "volume": "1",
-    "issue": "1",
-    "issueLabel": "Volume 1 Issue No. 1",
-    "publicationDate": "2026-07-21",
-    "pages": "48",
-    "doi": "",
-    "pdfFile": "assets/uploads/journal-archive/likhang-lahi/volume-1-issue-1/joseph-c-eco-there-s-no-moon-tonight.pdf",
-    "featured": false,
-    "active": true
-  },
-  {
-    "id": "likhang-lahi-volume-1-issue-1-5",
-    "journalId": "likhang-lahi-a-philippine-journal-of-literature-and-culture-arts",
-    "title": "To the Poet I Have Known",
-    "authors": [
-      "Joseph C. Eco"
-    ],
-    "articleType": "Poetry",
-    "abstract": "",
-    "keywords": [],
-    "volume": "1",
-    "issue": "1",
-    "issueLabel": "Volume 1 Issue No. 1",
-    "publicationDate": "2026-07-21",
-    "pages": "8–9",
-    "doi": "",
-    "pdfFile": "assets/uploads/journal-archive/likhang-lahi/volume-1-issue-1/joseph-c-eco-to-the-poet-i-have-known.pdf",
-    "featured": false,
-    "active": true
-  },
-  {
-    "id": "likhang-lahi-volume-1-issue-1-1",
-    "journalId": "likhang-lahi-a-philippine-journal-of-literature-and-culture-arts",
-    "title": "Yugto",
-    "authors": [
-      "Joseph C. Eco"
-    ],
-    "articleType": "Poetry",
-    "abstract": "",
-    "keywords": [],
-    "volume": "1",
-    "issue": "1",
-    "issueLabel": "Volume 1 Issue No. 1",
-    "publicationDate": "2026-07-21",
-    "pages": "1",
-    "doi": "",
-    "pdfFile": "assets/uploads/journal-archive/likhang-lahi/volume-1-issue-1/joseph-c-eco-yugto.pdf",
-    "featured": false,
-    "active": true
+    "active": true,
+    "id": "national-research-journal-volume-2-issue-1-6",
+    "digitizedDate": "2026-08-10",
+    "originalPublicationPeriod": "January–June 2023"
   },
   {
     "journalId": "national-research-journal",
@@ -3430,13 +2564,44 @@ window.SHIRLEY_JOURNAL_ARTICLES = [
     "volume": "3",
     "issue": "2",
     "issueLabel": "July–December 2022",
-    "publicationDate": "2022-12-31",
+    "publicationDate": "2022",
     "pages": "11–17",
     "doi": "",
     "pdfFile": "assets/uploads/journal-archive/national-research-journal/volume-1-issue-2/simpal-mangakoy-statistical-methods-decision-framework.pdf",
     "featured": false,
     "active": true,
-    "id": "national-research-journal-volumes-1-4-7"
+    "id": "national-research-journal-volumes-1-4-7",
+    "originalPublicationPeriod": "July–December 2022",
+    "digitizedDate": ""
+  },
+  {
+    "journalId": "national-research-journal",
+    "title": "Data to Decisions in School Agriculture: The RECORD Pathway for Animal and Fish Production",
+    "authors": [
+      "Arjellyn Maddawat"
+    ],
+    "articleType": "Review Article",
+    "abstract": "Keeping records is commonly presented in elementary agricultural education as the act of writing down dates, animal counts, feed use, growth, mortality, treatments, expenses, and sales. Although these entries are important, copying them into a form does not by itself constitute record literacy. Learners also need to understand why a field is recorded, how observations become comparable, how missing or inconsistent entries weaken interpretation, and how a record supports an accountable decision. This conceptual-pedagogical article analyzes Keeping Updated Records of Growth/Progress on Animal/Fish Raising as an instructional source and develops the Recognize-Establish-Capture-Organize-Review-Decide (RECORD) framework for Grade 6 Technology and Livelihood Education. The framework connects authentic animal and fish production contexts with data literacy, experiential learning, formative assessment, animal welfare, and basic enterprise reasoning. It distinguishes eight record domains: identification, growth and production, feeding, health and treatment, breeding, inventory and movement, mortality and loss, and finance. For each domain, the article specifies a decision purpose and a minimum set of fields. It further proposes a six-stage learning sequence in which pupils recognize the decision a record must inform, establish the animal or group being observed, capture dated and standardized observations, organize entries for retrieval, review patterns and exceptions, and decide on a justified next action. The framework treats paper records as legitimate learning technologies and reserves digital tools for situations in which they improve retrieval, calculation, or feedback. Assessment evidence therefore includes not only completeness but also identity consistency, measurement quality, traceable corrections, interpretation, and decision justification. The article contributes an instructional design method rather than empirical estimates of learner achievement. It offers teachers a disciplined way to transform a record-keeping module into inquiry that integrates agriculture, numeracy, literacy, ethics, and evidence-based decision-making without requiring a commercial farm or advanced software.",
+    "keywords": [
+      "agricultural education",
+      "animal and fish raising",
+      "record keeping",
+      "data literacy",
+      "experiential learning",
+      "Grade 6 TLE"
+    ],
+    "volume": "3",
+    "issue": "1",
+    "issueLabel": "January–June 2022",
+    "publicationDate": "2022",
+    "pages": "35–43",
+    "doi": "",
+    "pdfFile": "assets/uploads/journal-archive/national-research-journal/volume-1-issue-1/arjellyn-maddawat-farm-record-literacy.pdf",
+    "featured": false,
+    "active": true,
+    "id": "national-research-journal-volumes-1-4-15",
+    "digitizedDate": "2026-08-10",
+    "originalPublicationPeriod": "January–June 2022"
   },
   {
     "journalId": "national-research-journal",
@@ -3457,13 +2622,15 @@ window.SHIRLEY_JOURNAL_ARTICLES = [
     "volume": "3",
     "issue": "2",
     "issueLabel": "July–December 2022",
-    "publicationDate": "2022-12-31",
+    "publicationDate": "2022",
     "pages": "29–39",
     "doi": "",
     "pdfFile": "assets/uploads/journal-archive/national-research-journal/volume-1-issue-2/rose-may-cora-lagon-accreditation-readiness.pdf",
     "featured": false,
     "active": true,
-    "id": "national-research-journal-volumes-1-4-9"
+    "id": "national-research-journal-volumes-1-4-9",
+    "originalPublicationPeriod": "July–December 2022",
+    "digitizedDate": ""
   },
   {
     "journalId": "national-research-journal",
@@ -3484,13 +2651,44 @@ window.SHIRLEY_JOURNAL_ARTICLES = [
     "volume": "3",
     "issue": "2",
     "issueLabel": "July–December 2022",
-    "publicationDate": "2022-12-31",
+    "publicationDate": "2022",
     "pages": "18–28",
     "doi": "",
     "pdfFile": "assets/uploads/journal-archive/national-research-journal/volume-1-issue-2/gee-ann-serdena-grade-3-reading-comprehension.pdf",
     "featured": false,
     "active": true,
-    "id": "national-research-journal-volumes-1-4-8"
+    "id": "national-research-journal-volumes-1-4-8",
+    "originalPublicationPeriod": "July–December 2022",
+    "digitizedDate": ""
+  },
+  {
+    "journalId": "national-research-journal",
+    "title": "From Worked Examples to Independent Reasoning: A Document Analysis of a Grade 6 Strategic Intervention Material for Decimal Multiplication",
+    "authors": [
+      "Risalinda Coloma"
+    ],
+    "articleType": "Research Article",
+    "abstract": "This study examined the instructional design of Find and Analyze to Get Me, a 13-page Strategic Intervention Material (SIM) intended to support Grade 6 learners in solving routine and non-routine problems involving multiplication of decimals and mixed decimals, including money. A structured qualitative document analysis coded the material for curriculum alignment, problem-solving structure, worked-example design, task breadth, cognitive demand, assessment and feedback, mathematical accuracy, editorial quality, and accessibility. The corpus contained one strategy overview, four fully worked examples, two assessment cards, two enrichment cards, a 20-response answer key, and a brief reference card. The material's principal strength is its stable five-part routine: identify what is asked, identify the given facts, select an operation, write a number sentence, and state the answer. Four contextualized worked examples make this routine visible and may reduce unnecessary processing for learners who need explicit guidance. However, all eight mathematical tasks are single-step and routine, seven use money contexts, and every product pairs a decimal or money amount with a whole-number multiplier. The assessment and enrichment cards retain the same five multiple-choice prompts, so they measure recognition of the scaffold more strongly than independent construction of a solution. The audit also identified one incorrect answer-key entry, imprecise use of the term decimal points, inconsistent units and notation, language errors, and incomplete source documentation. No learner data, expert-validation report, readability evidence, or field-test results were supplied; consequently, effectiveness cannot be inferred. The SIM is best regarded as a promising worked-example resource that requires mathematical and editorial correction, broader task variation, gradual fading of support, explanatory feedback, accessibility improvements, and staged validation before outcome claims or large-scale use.",
+    "keywords": [
+      "decimal multiplication",
+      "strategic intervention material",
+      "worked examples",
+      "word problems",
+      "document analysis",
+      "Grade 6 mathematics"
+    ],
+    "volume": "3",
+    "issue": "1",
+    "issueLabel": "January–June 2022",
+    "publicationDate": "2022",
+    "pages": "44–55",
+    "doi": "",
+    "pdfFile": "assets/uploads/journal-archive/national-research-journal/volume-1-issue-1/risalinda-coloma-decimal-multiplication-sim.pdf",
+    "featured": false,
+    "active": true,
+    "id": "national-research-journal-volumes-1-4-16",
+    "digitizedDate": "2026-08-10",
+    "originalPublicationPeriod": "January–June 2022"
   },
   {
     "journalId": "national-research-journal",
@@ -3511,13 +2709,15 @@ window.SHIRLEY_JOURNAL_ARTICLES = [
     "volume": "3",
     "issue": "2",
     "issueLabel": "July–December 2022",
-    "publicationDate": "2022-12-31",
+    "publicationDate": "2022",
     "pages": "6–10",
     "doi": "",
     "pdfFile": "assets/uploads/journal-archive/national-research-journal/volume-1-issue-2/jossanth-vicente-generative-ai-statistical-literacy.pdf",
     "featured": false,
     "active": true,
-    "id": "national-research-journal-volumes-1-4-6"
+    "id": "national-research-journal-volumes-1-4-6",
+    "originalPublicationPeriod": "July–December 2022",
+    "digitizedDate": ""
   },
   {
     "journalId": "national-research-journal",
@@ -3538,13 +2738,44 @@ window.SHIRLEY_JOURNAL_ARTICLES = [
     "volume": "3",
     "issue": "2",
     "issueLabel": "July–December 2022",
-    "publicationDate": "2022-12-31",
+    "publicationDate": "2022",
     "pages": "40–45",
     "doi": "",
     "pdfFile": "assets/uploads/journal-archive/national-research-journal/volume-1-issue-2/felisa-ubaldo-inclusive-word-processing-instruction.pdf",
     "featured": false,
     "active": true,
-    "id": "national-research-journal-volumes-1-4-10"
+    "id": "national-research-journal-volumes-1-4-10",
+    "originalPublicationPeriod": "July–December 2022",
+    "digitizedDate": ""
+  },
+  {
+    "journalId": "national-research-journal",
+    "title": "Institutions Behind the Presidency: The SCOPE Lens on Philippine Executive Power",
+    "authors": [
+      "Victoria Baguilat"
+    ],
+    "articleType": "Review Article",
+    "abstract": "Accounts of Philippine presidents often proceed as a succession of biographies, elections, and accomplishments. Such narratives are accessible but can obscure the institutional question that gives executive history its analytical value: what made an officeholder authoritative, what constrained that authority, and how did executive power reach and answer to society? This conceptual-historical article analyzes The Evolution of Philippine Politics and Governance as an instructional source and develops the Source-Constraints-Organization-Public Accountability-Executive Succession (SCOPE) framework. The framework compares executive authority across precolonial polities, Spanish and American colonial administration, the First Republic, the Commonwealth, the Japanese-sponsored Second Republic, the constitutional and authoritarian transformations associated with the 1973 order, the 1986 transition, and the 1987 constitutional republic. The analysis argues that Philippine executive development was neither a linear transfer from datu to president nor a simple progression toward democracy. It involved institutional layering: local leadership, imperial command, colonial bureaucracy, revolutionary sovereignty, electoral legitimacy, emergency authority, and constitutional checks accumulated, competed, and were repeatedly reorganized. SCOPE distinguishes five dimensions: the source of executive authority; legal and political constraints; organizational reach; mechanisms of public accountability; and rules governing succession, incapacity, and emergency. It also supplies a source-criticism protocol for teaching politically sensitive history. This protocol is necessary because repeated instructional claims may rest on disputed evidence, as demonstrated by the officially delisted Code of Kalantiaw narrative. The article contributes an analytical method rather than new archival findings or measured classroom outcomes. It enables students and researchers to compare institutions across regimes without reducing political history to praise or condemnation of individual leaders.",
+    "keywords": [
+      "Philippine presidency",
+      "executive power",
+      "constitutional history",
+      "political institutions",
+      "historical source criticism",
+      "political education"
+    ],
+    "volume": "3",
+    "issue": "1",
+    "issueLabel": "January–June 2022",
+    "publicationDate": "2022",
+    "pages": "1–9",
+    "doi": "",
+    "pdfFile": "assets/uploads/journal-archive/national-research-journal/volume-1-issue-1/victoria-baguilat-philippine-executive-power.pdf",
+    "featured": false,
+    "active": true,
+    "id": "national-research-journal-volumes-1-4-11",
+    "digitizedDate": "2026-08-10",
+    "originalPublicationPeriod": "January–June 2022"
   },
   {
     "journalId": "national-research-journal",
@@ -3565,13 +2796,1084 @@ window.SHIRLEY_JOURNAL_ARTICLES = [
     "volume": "3",
     "issue": "2",
     "issueLabel": "July–December 2022",
-    "publicationDate": "2022-12-31",
+    "publicationDate": "2022",
     "pages": "1–5",
     "doi": "",
     "pdfFile": "assets/uploads/journal-archive/national-research-journal/volume-1-issue-2/genevive-de-leon-kindergarten-seriation-sim.pdf",
     "featured": false,
     "active": true,
-    "id": "national-research-journal-volumes-1-4-5"
+    "id": "national-research-journal-volumes-1-4-5",
+    "originalPublicationPeriod": "July–December 2022",
+    "digitizedDate": ""
+  },
+  {
+    "journalId": "national-research-journal",
+    "title": "Rooted in Place, Built Through Practice: The FARM Learning Cycle for Crop Production",
+    "authors": [
+      "Lanzer Aquino"
+    ],
+    "articleType": "Review Article",
+    "abstract": "Agricultural crops production is learned most meaningfully when students connect technical knowledge with soil, tools, plants, markets, and community practice. A workbook can support this connection, but a sequence of activities does not automatically produce coherent experiential learning. This conceptual article analyzes Agricultural Crops Production: Student Workbook for Grades 10 and 11 as an instructional source and develops the Frame-Act-Record-Make Meaning (FARM) cycle for place-based agricultural education. The source workbook contains 21 activities involving garden-site analysis, mapping, hand tools, container gardening, indirect planting, soil, personal protective equipment, the Philippine agricultural economy, farmers, marketing, insects, community entrepreneurs, crop maturity, planting distance, harvesting, farm-production surveys, economic analysis, and insecticide-label inquiry. These tasks are reorganized into four instructional domains: agroecological observation; safe crop-production practice; agricultural enterprise and community knowledge; and evidence-based production inquiry. FARM supplies the missing process that links them. Students frame a local problem and criteria for success, act through supervised performance or community investigation, record observable evidence, and make meaning through analysis, feedback, recommendation, and transfer. The article proposes a task-to-evidence assessment chain, safety and ethics gates for fieldwork, and a minimum implementation architecture for schools with different levels of land, equipment, and community access. Its contribution is a design framework, not a claim of measured learning effects. The framework positions the workbook as a bridge among competency standards, school-garden practice, community knowledge, and reflective judgment while preserving teacher responsibility for localization, safety, consent, and assessment quality.",
+    "keywords": [
+      "agricultural education",
+      "place-based learning",
+      "experiential learning",
+      "authentic assessment",
+      "school garden",
+      "competency-based education"
+    ],
+    "volume": "3",
+    "issue": "1",
+    "issueLabel": "January–June 2022",
+    "publicationDate": "2022",
+    "pages": "10–18",
+    "doi": "",
+    "pdfFile": "assets/uploads/journal-archive/national-research-journal/volume-1-issue-1/lanzer-aquino-place-based-agricultural-learning.pdf",
+    "featured": false,
+    "active": true,
+    "id": "national-research-journal-volumes-1-4-12",
+    "digitizedDate": "2026-08-10",
+    "originalPublicationPeriod": "January–June 2022"
+  },
+  {
+    "journalId": "national-research-journal",
+    "title": "Strategy Under Constraint: The DAEL Cycle for Learning-Oriented Execution",
+    "authors": [
+      "Jesigen Lunag"
+    ],
+    "articleType": "Review Article",
+    "abstract": "Organizations frequently possess strategic plans but lack a reliable mechanism for converting analysis into coordinated action and corrective learning. The difficulty is especially pronounced in resource-constrained organizations, where a small leadership group, limited information systems, and competing operational demands can separate planning from execution. This conceptual article develops the Diagnose-Align-Execute-Learn (DAEL) framework by integrating established ideas from industry analysis, the resource-based view, mission and objective alignment, strategy implementation, the balanced scorecard, strategic control, and contingency planning. The source instructional manuscript, Fundamentals of Strategic Management: An Introductory Course, supplied the initial process architecture; canonical strategy literature was used to refine its theoretical logic. DAEL treats strategy as a closed management cycle rather than a periodic planning document. Diagnosis tests external conditions and internal capabilities. Alignment converts strategic intent into a limited portfolio of objectives and resource commitments. Execution assigns ownership, milestones, decision rights, and operating routines. Learning compares results with assumptions, activates corrective or contingent action, and renews the next diagnosis. Two design features distinguish the framework: explicit handoff gates between stages and a traceability chain linking every initiative to an objective, indicator, owner, and review decision. The article explains the framework, identifies predictable breakdowns, and proposes a minimum viable governance system suitable for small firms, cooperatives, educational institutions, local public organizations, and nonprofits. DAEL is offered as a testable conceptual model, not as evidence of performance effects.",
+    "keywords": [
+      "strategic management",
+      "strategy implementation",
+      "adaptive execution",
+      "balanced scorecard",
+      "resource-based view",
+      "organizational learning"
+    ],
+    "volume": "3",
+    "issue": "1",
+    "issueLabel": "January–June 2022",
+    "publicationDate": "2022",
+    "pages": "28–34",
+    "doi": "",
+    "pdfFile": "assets/uploads/journal-archive/national-research-journal/volume-1-issue-1/jesigen-lunag-adaptive-strategy-execution.pdf",
+    "featured": false,
+    "active": true,
+    "id": "national-research-journal-volumes-1-4-14",
+    "digitizedDate": "2026-08-10",
+    "originalPublicationPeriod": "January–June 2022"
+  },
+  {
+    "journalId": "national-research-journal",
+    "title": "The Usefulness of Artificial Intelligence Across the Research Cycle: A VISTA Framework for Responsible Scholarly Work",
+    "authors": [
+      "Daves Baltazar"
+    ],
+    "articleType": "Review Article",
+    "abstract": "Artificial intelligence (AI) can accelerate research, but speed alone does not establish scholarly usefulness. A tool is useful only when its contribution to quality, efficiency, reproducibility, or accessibility exceeds the costs of verification and the risks introduced into the research record. This conceptual article examines AI use across problem formulation, literature discovery, research design, data preparation, analysis, interpretation, and scholarly communication. It distinguishes specialized analytical systems from general-purpose generative AI and argues that their value is task-dependent. AI is well suited to expanding search vocabulary, organizing candidate literature, drafting code, detecting patterns, proposing alternative explanations, and improving language. It is unreliable when treated as an authority for citations, methods, numerical results, or final interpretations. To convert this distinction into an operational process, the article develops the VISTA framework: Validate the task and permissible use; Investigate evidence through authoritative sources; Structure the method and analysis under human control; Test every consequential output; and Account for material AI use and human responsibility. Two tools accompany the framework: a research-cycle risk map and a minimum verification record. The analysis integrates literature on AI-assisted scientific discovery, language-model hallucination, research transparency, publication ethics, and fairness. It concludes that AI's most defensible role is augmentation rather than epistemic delegation. Researchers may delegate bounded operations, but they cannot delegate responsibility for the question, evidence, method, interpretation, or published claim. The framework offers researchers, reviewers, and institutions a proportionate basis for evaluating AI-supported work without assuming that all uses are either harmless or unacceptable.",
+    "keywords": [
+      "artificial intelligence",
+      "generative AI",
+      "research integrity",
+      "scholarly communication",
+      "reproducibility",
+      "human oversight"
+    ],
+    "volume": "3",
+    "issue": "1",
+    "issueLabel": "January–June 2022",
+    "publicationDate": "2022",
+    "pages": "19–27",
+    "doi": "",
+    "pdfFile": "assets/uploads/journal-archive/national-research-journal/volume-1-issue-1/daves-baltazar-ai-research-usefulness.pdf",
+    "featured": false,
+    "active": true,
+    "id": "national-research-journal-volumes-1-4-13",
+    "digitizedDate": "2026-08-10",
+    "originalPublicationPeriod": "January–June 2022"
+  },
+  {
+    "journalId": "national-research-journal",
+    "keywords": [
+      "academic performance",
+      "learning gaps",
+      "distance education",
+      "diagnostic assessment",
+      "recovery"
+    ],
+    "volume": "2",
+    "issue": "1",
+    "issueLabel": "January–June 2021",
+    "publicationDate": "2021",
+    "doi": "",
+    "featured": false,
+    "active": true,
+    "id": "national-research-journal-volume-2-issue-1-paolo-miguel-soriano",
+    "title": "Academic Performance and Learning Gaps During Distance Education",
+    "authors": [
+      "Paolo Miguel Soriano"
+    ],
+    "articleType": "Conceptual Review",
+    "abstract": "Academic performance during distance education cannot be interpreted responsibly from grades alone. Changes in task access, adult assistance, assessment conditions, curriculum coverage, and grading policy can alter reported performance even when underlying learning moves differently. This conceptual review separates four questions: whether learners encountered the intended content, whether they could demonstrate knowledge independently, which prerequisite skills are missing, and whether gaps are widening across groups. Evidence through 2021 is organized into a Learning-Gap Diagnostic Map linking curriculum opportunity, common assessment, error pattern, and recovery priority. The framework discourages deficit labels based on one score and recommends a small set of low-stakes anchor tasks, item-level diagnosis, evidence of assistance, and repeated checks after intervention. It distinguishes a missed opportunity to learn from a persistent misconception and treats learner strengths as part of recovery planning. The article does not estimate national or local learning loss. Its contribution is a method for converting uncertain performance evidence into defensible instructional decisions without confusing emergency grades with comparable achievement measures.",
+    "pages": "1–3",
+    "pdfFile": "assets/uploads/journal-archive/national-research-journal/volume-2-issue-1-2021/paolo-miguel-soriano-learning-gaps-revised-2026-08-11.pdf",
+    "digitizedDate": "2026-08-11",
+    "originalPublicationPeriod": "January–June 2021"
+  },
+  {
+    "id": "national-research-journal-volume-2-issue-2-alyssa-marie-manalo-cashless-payments-online-selling",
+    "journalId": "national-research-journal",
+    "title": "Adoption of Cashless Payments and Online Selling by Microbusinesses",
+    "authors": [
+      "Alyssa Marie Manalo"
+    ],
+    "articleType": "Conceptual Review",
+    "abstract": "For a microbusiness, adopting cashless payment or online selling is not completed by opening an account or social-media page. A transaction must remain reliable from discovery and order confirmation through payment, fulfillment, reconciliation, and recovery. This conceptual review organizes evidence available through 2021 into a Digital Transaction Reliability Ladder. The framework explains why promotional reach can grow while losses, disputes, and owner workload also increase. It recommends a minimum catalog, explicit order and cutoff rules, separate verification of payment, documented fulfillment, daily reconciliation, customer-data limits, and fallback routes for connectivity or platform failure. Adoption should be staged according to customer need, transaction volume, fees, device access, fraud exposure, and the owner's capacity to maintain records. Cash remains a legitimate parallel option where exclusion would otherwise occur. The article does not estimate adoption rates or profitability and does not endorse a specific provider. Its contribution is a task-based method for deciding whether a digital channel creates dependable sales rather than merely online presence.",
+    "keywords": [
+      "microbusiness",
+      "cashless payment",
+      "online selling",
+      "digital transaction",
+      "financial inclusion"
+    ],
+    "volume": "2",
+    "issue": "2",
+    "issueLabel": "July–December 2021",
+    "publicationDate": "2021",
+    "pages": "1–3",
+    "doi": "",
+    "pdfFile": "assets/uploads/journal-archive/national-research-journal/volume-2-issue-2-2021/alyssa-marie-manalo-cashless-payments-online-selling-revised-2026-08-11.pdf",
+    "featured": false,
+    "active": true,
+    "digitizedDate": "2026-08-10",
+    "originalPublicationPeriod": "July–December 2021"
+  },
+  {
+    "id": "national-research-journal-volume-2-issue-2-gabriel-enrico-pascual-agricultural-supply-chain-disruptions",
+    "journalId": "national-research-journal",
+    "title": "Agricultural Production and Supply-Chain Disruptions During the Pandemic",
+    "authors": [
+      "Gabriel Enrico Pascual"
+    ],
+    "articleType": "Conceptual Review",
+    "abstract": "Pandemic disruptions in agriculture did not occur at one point. They moved through input access, farm labor and timing, aggregation, transport, exchange, and market information. This conceptual review proposes a Farm-to-Market Continuity Map for locating the earliest broken function and selecting a response that protects both food availability and producer livelihood. Evidence available through 2021 shows that aggregate production figures can conceal losses caused by delayed seed or feed, labor restrictions, rejected perishables, fragmented permits, missing buyers, and weak demand signals. The framework treats supply chains as coordinated services rather than a line of commodities. It recommends time-critical input classification, shared production calendars, temporary aggregation protocols, harmonized transport documents, explicit transaction terms, and two-way market feedback. Digital platforms are considered useful only when payment, grading, logistics, and dispute resolution are defined. The article does not estimate output, price, or income effects. Its contribution is an operational map for distinguishing production constraints from coordination failures and for designing continuity measures around perishability and timing.",
+    "keywords": [
+      "agricultural production",
+      "food supply chain",
+      "pandemic disruption",
+      "logistics",
+      "market coordination"
+    ],
+    "volume": "2",
+    "issue": "2",
+    "issueLabel": "July–December 2021",
+    "publicationDate": "2021",
+    "pages": "1–3",
+    "doi": "",
+    "pdfFile": "assets/uploads/journal-archive/national-research-journal/volume-2-issue-2-2021/gabriel-enrico-pascual-agricultural-supply-chain-disruptions-revised-2026-08-11.pdf",
+    "featured": false,
+    "active": true,
+    "digitizedDate": "2026-08-10",
+    "originalPublicationPeriod": "July–December 2021"
+  },
+  {
+    "id": "national-research-journal-volume-2-issue-2-adrian-paolo-lim-assessment-integrity",
+    "journalId": "national-research-journal",
+    "title": "Assessment Integrity in Online and Modular Classes",
+    "authors": [
+      "Adrian Paolo Lim"
+    ],
+    "articleType": "Conceptual Review",
+    "abstract": "Assessment integrity in online and modular classes is often framed as preventing cheating, although integrity also depends on whether the task measures the intended learning, preserves learner authorship, records relevant process, and supports a proportionate judgment. This conceptual review proposes an Assessment Evidence Integrity Model with five links: construct clarity, authentic task design, transparent conditions, corroborated authorship, and defensible interpretation. Evidence available through 2021 suggests that surveillance-heavy solutions can create privacy and access problems while failing to improve poor assessment design. The framework recommends varied application tasks, learner explanations, staged drafts, oral or written corroboration, assistance declarations, and low-stakes sampling across time. Security controls should be selected according to consequence and risk, with accessible alternatives and data minimization. The article distinguishes misconduct from collaboration, resource use, and household assistance permitted by design. It does not estimate dishonesty or validate an assessment system. Its contribution is a layered method for producing trustworthy evidence without assuming that one invigilated event is the only route to integrity.",
+    "keywords": [
+      "assessment integrity",
+      "online learning",
+      "modular classes",
+      "authorship",
+      "authentic assessment"
+    ],
+    "volume": "2",
+    "issue": "2",
+    "issueLabel": "July–December 2021",
+    "publicationDate": "2021",
+    "pages": "1–3",
+    "doi": "",
+    "pdfFile": "assets/uploads/journal-archive/national-research-journal/volume-2-issue-2-2021/adrian-paolo-lim-assessment-integrity-revised-2026-08-11.pdf",
+    "featured": false,
+    "active": true,
+    "digitizedDate": "2026-08-10",
+    "originalPublicationPeriod": "July–December 2021"
+  },
+  {
+    "id": "national-research-journal-volume-2-issue-2-monica-isabel-reyes-community-livelihood-programs",
+    "journalId": "national-research-journal",
+    "title": "Community-Based Livelihood Programs for Families Affected by COVID-19",
+    "authors": [
+      "Monica Isabel Reyes"
+    ],
+    "articleType": "Conceptual Review",
+    "abstract": "Community livelihood programs can provide relief, but an activity is not viable merely because participants receive training, equipment, or start-up capital. This conceptual review proposes a Livelihood Viability Ladder that moves from household stabilization to capability, a tested market offer, a workable operating system, financial control, and resilient transition. Evidence through 2021 suggests that crisis programs fail when they begin with a standard product, count distribution as success, ignore care and health constraints, or provide debt before demand and cash flow are understood. The framework recommends participatory screening of household goals and constraints, small market tests, transparent group roles, unit-cost and cash-horizon tools, buyer and supply alternatives, and predefined continuation or exit decisions. Community institutions are positioned as coordinators and accountability structures, not substitutes for customer demand. The article distinguishes social protection from enterprise finance and warns against shifting market risk to vulnerable families. It does not estimate income effects or evaluate a named program. Its contribution is a staged method for determining whether support should stabilize, test, strengthen, scale, redesign, or stop a livelihood activity.",
+    "keywords": [
+      "community livelihood",
+      "COVID-19 recovery",
+      "microenterprise",
+      "market testing",
+      "social protection"
+    ],
+    "volume": "2",
+    "issue": "2",
+    "issueLabel": "July–December 2021",
+    "publicationDate": "2021",
+    "pages": "1–3",
+    "doi": "",
+    "pdfFile": "assets/uploads/journal-archive/national-research-journal/volume-2-issue-2-2021/monica-isabel-reyes-community-livelihood-programs-revised-2026-08-11.pdf",
+    "featured": false,
+    "active": true,
+    "digitizedDate": "2026-08-10",
+    "originalPublicationPeriod": "July–December 2021"
+  },
+  {
+    "journalId": "national-research-journal",
+    "keywords": [
+      "COVID-19 vaccination",
+      "vaccine confidence",
+      "community communication",
+      "access",
+      "acceptance"
+    ],
+    "volume": "2",
+    "issue": "1",
+    "issueLabel": "January–June 2021",
+    "publicationDate": "2021",
+    "doi": "",
+    "featured": false,
+    "active": true,
+    "id": "national-research-journal-volume-2-issue-1-sofia-beatrice-santiago",
+    "title": "COVID-19 Vaccine Awareness and Acceptance in Local Communities",
+    "authors": [
+      "Sofia Beatrice Santiago"
+    ],
+    "articleType": "Conceptual Review",
+    "abstract": "Vaccine awareness is often treated as a communication endpoint, although recognizing a vaccine does not establish confidence, intention, access, or completion. This conceptual review separates those stages and examines community acceptance using evidence available through 2021. It proposes a Vaccine Acceptance Pathway that begins with exposure to understandable information, proceeds through source appraisal and personal deliberation, and ends with feasible access and follow-through. The pathway explains why message volume alone cannot resolve mistrust, why stated willingness can coexist with missed vaccination, and why respectful conversation must be paired with convenient service. It recommends segmenting questions rather than labeling people as simply hesitant, documenting rumor patterns without repeating them carelessly, using trusted messengers within clear clinical boundaries, and monitoring drop-off between registration, first contact, and completed doses. The article does not estimate acceptance in a locality or prescribe a universal message. It offers a framework for designing and evaluating community vaccination communication without confusing awareness with action.",
+    "pages": "1–3",
+    "pdfFile": "assets/uploads/journal-archive/national-research-journal/volume-2-issue-1-2021/sofia-beatrice-santiago-vaccine-awareness-revised-2026-08-11.pdf",
+    "digitizedDate": "2026-08-11",
+    "originalPublicationPeriod": "January–June 2021"
+  },
+  {
+    "journalId": "national-research-journal",
+    "keywords": [
+      "digital literacy",
+      "teachers",
+      "parents",
+      "learners",
+      "digital safety",
+      "remote education"
+    ],
+    "volume": "2",
+    "issue": "1",
+    "issueLabel": "January–June 2021",
+    "publicationDate": "2021",
+    "doi": "",
+    "featured": false,
+    "active": true,
+    "id": "national-research-journal-volume-2-issue-1-noel-christian-aquino",
+    "title": "Digital Literacy of Teachers, Parents, and Learners",
+    "authors": [
+      "Noel Christian Aquino"
+    ],
+    "articleType": "Conceptual Review",
+    "abstract": "Digital literacy in remote education is often reduced to device operation, although successful participation requires teachers, parents, and learners to complete connected tasks with different responsibilities. This conceptual review proposes a Shared Digital Task Ecosystem organized around access, operation, information judgment, communication, safety, and repair. Evidence through 2021 suggests that a platform can be technically available while learning fails because files are too large, instructions are fragmented, sources are unreliable, privacy expectations are unclear, or users have no recovery route after an error. The framework maps each recurring school task across the three actors and assigns one accountable process owner. It recommends performance-based support, low-bandwidth alternatives, common file and message conventions, age-appropriate safety rules, and a help system that records recurring breakdowns. It also distinguishes household assistance from surveillance and teacher competence from personal ownership of equipment. The article does not score the digital literacy of any group. Its contribution is a relational model for evaluating whether the combined system allows people to access, judge, communicate, protect, and recover while completing authentic educational tasks.",
+    "pages": "1–3",
+    "pdfFile": "assets/uploads/journal-archive/national-research-journal/volume-2-issue-1-2021/noel-christian-aquino-digital-literacy-revised-2026-08-11.pdf",
+    "digitizedDate": "2026-08-11",
+    "originalPublicationPeriod": "January–June 2021"
+  },
+  {
+    "journalId": "national-research-journal",
+    "keywords": [
+      "barangay governance",
+      "pandemic response",
+      "referral",
+      "risk communication",
+      "accountability"
+    ],
+    "volume": "2",
+    "issue": "1",
+    "issueLabel": "January–June 2021",
+    "publicationDate": "2021",
+    "doi": "",
+    "featured": false,
+    "active": true,
+    "id": "national-research-journal-volume-2-issue-1-rochelle-mae-bautista",
+    "title": "Effectiveness of Barangay-Level Pandemic Response Programs",
+    "authors": [
+      "Rochelle Mae Bautista"
+    ],
+    "articleType": "Conceptual Review",
+    "abstract": "Barangay pandemic programs operated where national rules met household realities. This conceptual review defines effectiveness as a reliable service chain rather than the number of ordinances, announcements, or activities completed. Literature and Philippine policy available through 2021 are organized around five linked functions: detecting a concern, assessing urgency, connecting residents to health or social services, sustaining essential support, and documenting correction. The synthesis shows that a visible program can still fail when residents cannot report safely, case information stops at collection, referral routes are unclear, relief rules are opaque, or local workers lack protection. It proposes a Barangay Response Service Chain with minimum evidence for each handoff and an equity check for people facing disability, language, transport, income, or digital barriers. The article is an analytic review, not an evaluation of a named barangay, and reports no invented beneficiaries or outcome rates. Its contribution is a practical framework for examining whether local response functions connect from first contact to resolution.",
+    "pages": "1–3",
+    "pdfFile": "assets/uploads/journal-archive/national-research-journal/volume-2-issue-1-2021/rochelle-mae-bautista-barangay-response-revised-2026-08-11.pdf",
+    "digitizedDate": "2026-08-11",
+    "originalPublicationPeriod": "January–June 2021"
+  },
+  {
+    "journalId": "national-research-journal",
+    "keywords": [
+      "modular distance learning",
+      "elementary learners",
+      "feedback",
+      "caregiver support",
+      "learning continuity"
+    ],
+    "volume": "2",
+    "issue": "1",
+    "issueLabel": "January–June 2021",
+    "publicationDate": "2021",
+    "doi": "",
+    "featured": false,
+    "active": true,
+    "id": "national-research-journal-volume-2-issue-1-marielle-anne-de-guzman",
+    "title": "Effectiveness of Modular Distance Learning Among Elementary Learners",
+    "authors": [
+      "Marielle Anne de Guzman"
+    ],
+    "articleType": "Conceptual Review",
+    "abstract": "Modular distance learning is frequently judged by distribution and submission, although elementary learners require guidance, feedback, and repeated opportunities to recover from misunderstanding. This conceptual review defines effectiveness as a complete learning cycle rather than successful packet circulation. Evidence and policy available through 2021 are organized into five functions: orient the learner and caregiver, activate prior knowledge, support an independent attempt, interpret returned evidence, and provide a timely next step. The Elementary Module Learning Cycle distinguishes essential learning from page completion and assigns caregivers a bounded role that does not depend on subject expertise. It recommends readable directions, predictable weekly maps, embedded help cues, short diagnostic tasks, multiple response modes, and a return system that records missing or heavily assisted work without penalizing the learner. The framework also treats distribution failure, comprehension difficulty, and feedback delay as separate implementation problems. This article does not compare learner outcomes or claim that modules are universally effective. It offers criteria for determining whether modular delivery functions as instruction for children whose independence, reading ability, and household support differ substantially.",
+    "pages": "1–3",
+    "pdfFile": "assets/uploads/journal-archive/national-research-journal/volume-2-issue-1-2021/marielle-anne-de-guzman-modular-distance-learning-revised-2026-08-11.pdf",
+    "digitizedDate": "2026-08-11",
+    "originalPublicationPeriod": "January–June 2021"
+  },
+  {
+    "id": "national-research-journal-volume-2-issue-2-frances-camille-robles-teacher-made-video-lessons",
+    "journalId": "national-research-journal",
+    "title": "Effectiveness of Teacher-Made Video Lessons and Digital Materials",
+    "authors": [
+      "Frances Camille Robles"
+    ],
+    "articleType": "Conceptual Review",
+    "abstract": "Teacher-made video lessons and digital materials are often evaluated through views, duration, or learner preference, although these measures do not establish learning. This conceptual review defines effectiveness as an evidence chain connecting an instructional objective, an economical representation, an active learner response, accessible delivery, and feedback that changes the next task. Multimedia research available through 2021 suggests that digital materials become less useful when decoration competes with explanation, videos are long and passive, controls are difficult to use, or the product cannot function under limited bandwidth. The proposed Instructional Media Evidence Chain asks teachers to script the decision learners must make, segment content around meaningful units, pair explanation with a prompt or practice, provide captions and offline alternatives, and collect a small indicator of understanding. It distinguishes production quality from instructional quality and recommends reuse only after reviewing error evidence. The article does not compare platforms or estimate achievement effects. It offers criteria for designing and evaluating teacher-made resources according to what learners can do after using them.",
+    "keywords": [
+      "teacher-made video",
+      "digital materials",
+      "multimedia learning",
+      "accessibility",
+      "formative evidence"
+    ],
+    "volume": "2",
+    "issue": "2",
+    "issueLabel": "July–December 2021",
+    "publicationDate": "2021",
+    "pages": "1–3",
+    "doi": "",
+    "pdfFile": "assets/uploads/journal-archive/national-research-journal/volume-2-issue-2-2021/frances-camille-robles-teacher-made-video-lessons-revised-2026-08-11.pdf",
+    "featured": false,
+    "active": true,
+    "digitizedDate": "2026-08-10",
+    "originalPublicationPeriod": "July–December 2021"
+  },
+  {
+    "id": "national-research-journal-volume-2-issue-2-joshua-vincent-navarro-flexible-work-productivity",
+    "journalId": "national-research-journal",
+    "title": "Flexible Work Arrangements and Employee Productivity",
+    "authors": [
+      "Joshua Vincent Navarro"
+    ],
+    "articleType": "Conceptual Review",
+    "abstract": "Flexible work arrangements do not produce productivity by location alone. Their effects depend on task fit, autonomy, coordination, measurement, technology, and recovery. This conceptual review organizes evidence available through 2021 into a Flexible Work Productivity Agreement: define the output, select where and when the task can be performed, establish coordination windows, provide the required resources, and review performance together with well-being. The framework distinguishes flexibility from permanent availability and rejects activity signals such as online status or message volume as universal productivity measures. It also recognizes that home conditions, disability, care responsibilities, role seniority, and access to equipment shape the value of flexibility. Managers are encouraged to use team-level service standards, documented handoffs, protected focus periods, and outcome measures with quality and timeliness checks. Employees need a route to revise arrangements when isolation, overload, or inequity appears. This article does not estimate productivity gains or recommend one model for all occupations. It provides criteria for matching work design with task requirements and human sustainability.",
+    "keywords": [
+      "flexible work",
+      "telework",
+      "employee productivity",
+      "autonomy",
+      "work design"
+    ],
+    "volume": "2",
+    "issue": "2",
+    "issueLabel": "July–December 2021",
+    "publicationDate": "2021",
+    "pages": "1–3",
+    "doi": "",
+    "pdfFile": "assets/uploads/journal-archive/national-research-journal/volume-2-issue-2-2021/joshua-vincent-navarro-flexible-work-productivity-revised-2026-08-11.pdf",
+    "featured": false,
+    "active": true,
+    "digitizedDate": "2026-08-10",
+    "originalPublicationPeriod": "July–December 2021"
+  },
+  {
+    "journalId": "national-research-journal",
+    "keywords": [
+      "mathematics achievement",
+      "printed modules",
+      "worked examples",
+      "feedback",
+      "learning recovery"
+    ],
+    "volume": "2",
+    "issue": "1",
+    "issueLabel": "January–June 2021",
+    "publicationDate": "2021",
+    "doi": "",
+    "featured": false,
+    "active": true,
+    "id": "national-research-journal-volume-2-issue-1-carlo-emmanuel-mercado",
+    "title": "Mathematics Achievement in a Modular Learning Environment",
+    "authors": [
+      "Carlo Emmanuel Mercado"
+    ],
+    "articleType": "Conceptual Review",
+    "abstract": "Printed modules can preserve mathematics practice when classroom contact is interrupted, but distribution alone does not establish learning. This conceptual review examines achievement as the product of a feedback loop among task interpretation, worked examples, independent practice, error evidence, and instructional response. Evidence through 2021 suggests that modular mathematics becomes fragile when prerequisite gaps are invisible, examples display procedures without reasoning, answer keys replace diagnosis, and delayed feedback allows misconceptions to consolidate. The article proposes a Worked-Example Feedback Loop in which each module identifies prerequisite knowledge, models a complete solution with self-explanation prompts, sequences practice by variation, collects interpretable learner work, and routes errors to a targeted response. The approach protects learner authorship by assigning caregivers a support role rather than asking them to teach unfamiliar procedures. It also recommends separating module completion, procedural accuracy, and conceptual transfer in assessment. This is a design framework, not an empirical estimate of achievement. Its purpose is to make the instructional mechanisms inside modular delivery visible and testable.",
+    "pages": "1–3",
+    "pdfFile": "assets/uploads/journal-archive/national-research-journal/volume-2-issue-1-2021/carlo-emmanuel-mercado-mathematics-achievement-revised-2026-08-11.pdf",
+    "digitizedDate": "2026-08-11",
+    "originalPublicationPeriod": "January–June 2021"
+  },
+  {
+    "id": "national-research-journal-volume-2-issue-2-miguel-andres-valdez-adolescent-mental-health",
+    "journalId": "national-research-journal",
+    "title": "Mental Health and Social Isolation Among Adolescents",
+    "authors": [
+      "Miguel Andres Valdez"
+    ],
+    "articleType": "Conceptual Review",
+    "abstract": "Social isolation during the pandemic altered adolescents' peer contact, school routines, autonomy, family relationships, physical activity, and access to help. This conceptual review avoids treating isolation as a uniform exposure or every distress response as a disorder. Evidence through 2021 is organized into an Adolescent Connection and Care Pathway: notice change, restore predictable routine, create meaningful connection, strengthen coping and agency, and escalate concerns through a safe referral route. The framework distinguishes physical separation from loneliness and emphasizes that digital contact can be protective, neutral, or harmful depending on quality, exclusion, sleep disruption, and online risk. Schools and communities are encouraged to use low-pressure contact, confidential check-ins with a clear purpose, peer and family support, activity and sleep routines, and tiered professional care. Screening is recommended only when valid tools, trained interpretation, privacy, and response capacity are present. The article does not estimate prevalence or diagnose adolescents. It offers a prevention-to-referral model that recognizes developmental needs while avoiding automatic medicalization of understandable distress.",
+    "keywords": [
+      "adolescent mental health",
+      "social isolation",
+      "loneliness",
+      "school support",
+      "referral"
+    ],
+    "volume": "2",
+    "issue": "2",
+    "issueLabel": "July–December 2021",
+    "publicationDate": "2021",
+    "pages": "1–3",
+    "doi": "",
+    "pdfFile": "assets/uploads/journal-archive/national-research-journal/volume-2-issue-2-2021/miguel-andres-valdez-adolescent-mental-health-revised-2026-08-11.pdf",
+    "featured": false,
+    "active": true,
+    "digitizedDate": "2026-08-10",
+    "originalPublicationPeriod": "July–December 2021"
+  },
+  {
+    "journalId": "national-research-journal",
+    "keywords": [
+      "parental involvement",
+      "modular learning",
+      "online learning",
+      "family-school partnership",
+      "learner agency"
+    ],
+    "volume": "2",
+    "issue": "1",
+    "issueLabel": "January–June 2021",
+    "publicationDate": "2021",
+    "doi": "",
+    "featured": false,
+    "active": true,
+    "id": "national-research-journal-volume-2-issue-1-renato-luis-domingo",
+    "title": "Parental Involvement in Modular and Online Learning",
+    "authors": [
+      "Renato Luis Domingo"
+    ],
+    "articleType": "Conceptual Review",
+    "abstract": "Remote education expanded parental involvement while blurring the boundary between support and substitute teaching. This conceptual review examines involvement as a negotiated family-school relationship rather than a single amount of participation. Evidence through 2021 is organized around five roles: prepare the learning conditions, encourage learner agency, observe progress, communicate evidence, and refer instructional problems to the teacher. The proposed Family-School Support Boundary protects parents from being held responsible for curriculum delivery and protects assessment from answers produced by adults. It recognizes that employment, household care, language, education, disability, connectivity, and device sharing shape what families can reasonably provide. The framework recommends weekly demand maps, role-specific guidance, disclosure of assistance, predictable contact routes, and differentiated support for families facing higher coordination costs. It also distinguishes productive involvement from constant monitoring or control. The article does not measure parental participation or claim that more involvement always improves achievement. Its purpose is to define equitable, observable roles through which parents and schools can coordinate without transferring professional teaching obligations to the household.",
+    "pages": "1–3",
+    "pdfFile": "assets/uploads/journal-archive/national-research-journal/volume-2-issue-1-2021/renato-luis-domingo-parental-involvement-revised-2026-08-11.pdf",
+    "digitizedDate": "2026-08-11",
+    "originalPublicationPeriod": "January–June 2021"
+  },
+  {
+    "id": "national-research-journal-volume-2-issue-2-elaine-patricia-mendoza-school-reopening-preparedness",
+    "journalId": "national-research-journal",
+    "title": "Preparedness of Schools for the Gradual Return to Face-to-Face Classes",
+    "authors": [
+      "Elaine Patricia Mendoza"
+    ],
+    "articleType": "Conceptual Review",
+    "abstract": "School reopening is not a single decision made before learners return; it is a sequence of readiness judgments that must remain valid while conditions change. This conceptual review organizes guidance available through 2021 into five gates: governance and authority, site and movement controls, continuity of teaching, protection and support of people, and surveillance with correction. A school passes a gate only when responsibilities, minimum resources, operating routines, exception routes, and evidence of practice are visible. The framework distinguishes written compliance from operational readiness and rejects the assumption that one checklist score can represent every school. It also treats remote-learning continuity, disability access, staff workload, household communication, and rapid response to symptoms as integral to reopening rather than secondary concerns. Tabletop exercises and small pilots are proposed as stronger evidence than policy documents alone. This article does not certify any school or predict transmission. Its contribution is a gate-based method for determining what can proceed, what requires mitigation, and what conditions should pause or modify face-to-face activity.",
+    "keywords": [
+      "school reopening",
+      "face-to-face classes",
+      "readiness",
+      "infection prevention",
+      "learning continuity"
+    ],
+    "volume": "2",
+    "issue": "2",
+    "issueLabel": "July–December 2021",
+    "publicationDate": "2021",
+    "pages": "1–3",
+    "doi": "",
+    "pdfFile": "assets/uploads/journal-archive/national-research-journal/volume-2-issue-2-2021/elaine-patricia-mendoza-school-reopening-preparedness-revised-2026-08-11.pdf",
+    "featured": false,
+    "active": true,
+    "digitizedDate": "2026-08-10",
+    "originalPublicationPeriod": "July–December 2021"
+  },
+  {
+    "journalId": "national-research-journal",
+    "keywords": [
+      "reading difficulty",
+      "school closure",
+      "decoding",
+      "fluency",
+      "comprehension",
+      "learning recovery"
+    ],
+    "volume": "2",
+    "issue": "1",
+    "issueLabel": "January–June 2021",
+    "publicationDate": "2021",
+    "doi": "",
+    "featured": false,
+    "active": true,
+    "id": "national-research-journal-volume-2-issue-1-therese-nicole-agustin",
+    "title": "Reading Difficulties Among Learners During Prolonged School Closures",
+    "authors": [
+      "Therese Nicole Agustin"
+    ],
+    "articleType": "Conceptual Review",
+    "abstract": "Prolonged school closures reduced direct opportunities for teachers to hear learners read, examine errors, and adjust instruction. The resulting concern is often summarized as reading difficulty, although the breakdown may occur in access to print, word recognition, fluency, oral language, background knowledge, or comprehension. This conceptual review proposes a Reading Difficulty Localization Ladder that moves from learning opportunity to increasingly complex reading processes. Evidence through 2021 supports brief, targeted checks rather than assigning a broad label from a single passage or completion record. The ladder begins by verifying access and language, then examines decoding, connected-text fluency, meaning at sentence and passage levels, and transfer to unfamiliar text. Each rung is paired with a distinct response and a rule for referral when progress remains limited. The framework also recommends short daily practice, decodable or appropriately leveled text, oral interaction, and feedback that preserves learner dignity. This article does not estimate prevalence or diagnose a reading disorder. It provides a structured route for locating instructional need after disrupted schooling.",
+    "pages": "1–3",
+    "pdfFile": "assets/uploads/journal-archive/national-research-journal/volume-2-issue-1-2021/therese-nicole-agustin-reading-difficulties-revised-2026-08-11.pdf",
+    "digitizedDate": "2026-08-11",
+    "originalPublicationPeriod": "January–June 2021"
+  },
+  {
+    "id": "national-research-journal-volume-2-issue-2-daniel-joseph-cabrera-restaurant-small-enterprise-recovery",
+    "journalId": "national-research-journal",
+    "title": "Recovery Strategies of Restaurants and Other Small Enterprises",
+    "authors": [
+      "Daniel Joseph Cabrera"
+    ],
+    "articleType": "Conceptual Review",
+    "abstract": "Recovery for restaurants and other small enterprises is not a return to the pre-crisis routine. Restrictions, customer risk perceptions, input volatility, debt, and changed channels require owners to rebuild an operating model under uncertainty. This conceptual review proposes a Small-Enterprise Recovery Portfolio with five simultaneous decisions: establish a safe and credible offer, understand unit economics and cash runway, build a reliable fulfillment route, run bounded market experiments, and define review or exit triggers. Evidence through 2021 suggests that digital promotion is insufficient when stock, labor, payment, packaging, delivery, and customer recovery remain disconnected. The framework encourages a minimum viable offer rather than an expanded menu, contribution and cash-horizon records rather than sales alone, channel-specific procedures, and small tests with explicit success and loss limits. Assistance is most useful when matched to the actual bottleneck, whether authorization, demand, capability, logistics, or finance. The article does not estimate survival or revenue effects. It offers a disciplined recovery method for protecting scarce cash while creating evidence about what the enterprise can sustain.",
+    "keywords": [
+      "restaurant recovery",
+      "small enterprise",
+      "cash flow",
+      "business continuity",
+      "market experiment"
+    ],
+    "volume": "2",
+    "issue": "2",
+    "issueLabel": "July–December 2021",
+    "publicationDate": "2021",
+    "pages": "1–3",
+    "doi": "",
+    "pdfFile": "assets/uploads/journal-archive/national-research-journal/volume-2-issue-2-2021/daniel-joseph-cabrera-restaurant-small-enterprise-recovery-revised-2026-08-11.pdf",
+    "featured": false,
+    "active": true,
+    "digitizedDate": "2026-08-10",
+    "originalPublicationPeriod": "July–December 2021"
+  },
+  {
+    "id": "national-research-journal-volume-2-issue-2-bianca-louise-ferrer-student-motivation-engagement",
+    "journalId": "national-research-journal",
+    "title": "Student Motivation and Engagement in Remote Education",
+    "authors": [
+      "Bianca Louise Ferrer"
+    ],
+    "articleType": "Conceptual Review",
+    "abstract": "Remote education can make engagement difficult to observe. Logins, message responses, attendance, and submitted files capture only fragments of behavioral participation and may conceal low value, confusion, isolation, or constrained access. This conceptual review proposes a Remote Engagement Engine built from five interacting conditions: meaningful value, feasible agency, achievable challenge, social connection, and responsive feedback. Evidence available through 2021 suggests that motivation is weakened when workload is fragmented, choices are superficial, tasks provide little evidence of progress, or contact is limited to reminders about missing work. The framework recommends a visible purpose, bounded choice, short success cycles, predictable teacher presence, peer contribution, and recovery routes after absence. It distinguishes disengagement from access failure and discourages punitive escalation before the barrier is understood. Engagement is monitored through patterns across preparation, participation, strategy, explanation, help-seeking, and persistence rather than one platform metric. The article does not estimate motivation or identify a universal engagement intervention. Its contribution is a design model linking students' reasons and capabilities to observable participation over time.",
+    "keywords": [
+      "student motivation",
+      "engagement",
+      "remote education",
+      "autonomy",
+      "teacher presence"
+    ],
+    "volume": "2",
+    "issue": "2",
+    "issueLabel": "July–December 2021",
+    "publicationDate": "2021",
+    "pages": "1–3",
+    "doi": "",
+    "pdfFile": "assets/uploads/journal-archive/national-research-journal/volume-2-issue-2-2021/bianca-louise-ferrer-student-motivation-engagement-revised-2026-08-11.pdf",
+    "featured": false,
+    "active": true,
+    "digitizedDate": "2026-08-10",
+    "originalPublicationPeriod": "July–December 2021"
+  },
+  {
+    "journalId": "national-research-journal",
+    "keywords": [
+      "teacher workload",
+      "occupational stress",
+      "coping",
+      "job demands",
+      "work recovery"
+    ],
+    "volume": "2",
+    "issue": "1",
+    "issueLabel": "January–June 2021",
+    "publicationDate": "2021",
+    "doi": "",
+    "featured": false,
+    "active": true,
+    "id": "national-research-journal-volume-2-issue-1-jasmine-claire-velasco",
+    "title": "Teachers' Workload, Stress, and Coping Strategies Under the New Normal",
+    "authors": [
+      "Jasmine Claire Velasco"
+    ],
+    "articleType": "Conceptual Review",
+    "abstract": "Teacher stress during emergency education is often discussed as an individual coping problem even when workload is produced by institutional design. This conceptual review distinguishes task volume, task fragmentation, emotional demand, decision uncertainty, and recovery opportunity. Evidence through 2021 is interpreted through a job-demands and resources perspective and organized into a Workload Recovery Ledger. The ledger asks schools to identify each recurring demand, its educational purpose, time pattern, duplication, responsible owner, available resource, and recovery protection. The synthesis argues that wellness seminars cannot compensate for conflicting deadlines, parallel reporting channels, continuous availability, or unbounded emotional labor. Individual coping remains valuable, but it should operate after unnecessary demands are removed and essential work is prioritized. The proposed framework links workload review with clear service standards, communication windows, escalation routes, peer support, and periodic stop decisions. This article reports no stress prevalence or intervention effect. It offers an organizational method for making invisible work visible and for evaluating whether coping support is matched by changes in working conditions.",
+    "pages": "1–3",
+    "pdfFile": "assets/uploads/journal-archive/national-research-journal/volume-2-issue-1-2021/jasmine-claire-velasco-teacher-workload-stress-revised-2026-08-11.pdf",
+    "digitizedDate": "2026-08-11",
+    "originalPublicationPeriod": "January–June 2021"
+  },
+  {
+    "id": "national-research-journal-volume-2-issue-2-isabella-grace-villanueva-womens-community-resilience",
+    "journalId": "national-research-journal",
+    "title": "Women's Role in Household and Community Resilience During the Pandemic",
+    "authors": [
+      "Isabella Grace Villanueva"
+    ],
+    "articleType": "Conceptual Review",
+    "abstract": "Women were central to household and community continuity during the pandemic, yet the work through which resilience was produced was often unpaid, informal, or absent from program records. This conceptual review examines resilience through five interconnected domains: care and domestic labor, livelihood adaptation, health and food management, mutual-aid networks, and participation in decisions. Evidence through 2021 indicates that describing women as naturally resilient can conceal unequal time burdens, exposure, income loss, violence risk, and limited authority over resources. The proposed Care-to-Collective Resilience Map records contributions together with cost, control, support, safety, and voice. It asks programs to reduce burdens rather than merely celebrate them, recognize informal coordination, provide accessible services and social protection, and include diverse women in the decisions that affect their work. The framework avoids treating women as one homogeneous group and considers age, disability, household structure, livelihood, and location. This article does not estimate gender effects or represent the experience of a specific community. It offers an equity-oriented method for evaluating whether resilience initiatives sustain the people who make collective coping possible.",
+    "keywords": [
+      "women",
+      "unpaid care",
+      "household resilience",
+      "community networks",
+      "gender equity"
+    ],
+    "volume": "2",
+    "issue": "2",
+    "issueLabel": "July–December 2021",
+    "publicationDate": "2021",
+    "pages": "1–3",
+    "doi": "",
+    "pdfFile": "assets/uploads/journal-archive/national-research-journal/volume-2-issue-2-2021/isabella-grace-villanueva-womens-community-resilience-revised-2026-08-11.pdf",
+    "featured": false,
+    "active": true,
+    "digitizedDate": "2026-08-10",
+    "originalPublicationPeriod": "July–December 2021"
+  },
+  {
+    "id": "national-research-journal-volume-1-issue-1-christian-paul-reyes",
+    "journalId": "national-research-journal",
+    "title": "Alternative Marketing Strategies Used by Microenterprises During Lockdowns",
+    "authors": [
+      "Christian Paul Reyes"
+    ],
+    "articleType": "Strategic Review",
+    "abstract": "Lockdown restrictions did not merely reduce demand; they broke the ordinary route by which customers discovered, evaluated, purchased, received, and repurchased from microenterprises. This strategic review examines alternative marketing as the redesign of that route rather than a shift to social-media promotion alone. Evidence available through 2021 is organized into four operating jobs: making the offer discoverable, reducing uncertainty, completing a low-friction transaction, and fulfilling safely and reliably. The synthesis shows why tactics that generate attention may fail when payment, inventory, delivery, or customer recovery is weak. It also considers low-technology strategies such as neighborhood resellers, pre-order schedules, product bundles, and shared delivery. A minimum viable marketing system is proposed for resource-constrained firms, together with measures tied to orders and repeat business rather than likes. The article is a conceptual review and does not claim performance data from particular enterprises.",
+    "keywords": [
+      "microenterprise",
+      "lockdown",
+      "digital marketing",
+      "order fulfillment",
+      "customer retention"
+    ],
+    "volume": "1",
+    "issue": "1",
+    "issueLabel": "January–June 2020",
+    "publicationDate": "2020",
+    "pages": "1–4",
+    "doi": "",
+    "pdfFile": "assets/uploads/journal-archive/national-research-journal/volume-1-issue-1-2021/christian-paul-reyes-alternative-marketing-strategies-revised.pdf",
+    "featured": false,
+    "active": true,
+    "digitizedDate": "2026-08-10",
+    "originalPublicationPeriod": "January–June 2020"
+  },
+  {
+    "journalId": "national-research-journal",
+    "keywords": [
+      "home-based learning",
+      "parental support",
+      "household coordination",
+      "remote education",
+      "learning continuity"
+    ],
+    "volume": "1",
+    "issue": "2",
+    "issueLabel": "July–December 2020",
+    "publicationDate": "2020",
+    "doi": "",
+    "featured": false,
+    "active": true,
+    "id": "national-research-journal-volume-1-issue-2-rafael-m-villanueva",
+    "title": "Challenges Encountered by Parents During Home-Based Learning",
+    "authors": [
+      "Rafael M. Villanueva"
+    ],
+    "articleType": "Integrative Review",
+    "abstract": "Home-based learning transferred a substantial part of educational coordination into households without transferring the time, training, equipment, or authority ordinarily available in schools. This integrative review reframes parental difficulty as a coordination problem rather than a deficit in commitment. Evidence available through 2021 is organized around five connected tasks: interpreting school requirements, arranging household time and space, supporting learner effort without replacing it, maintaining contact with teachers, and protecting family well-being. The review shows why a parent can be highly involved yet unable to sustain the expected routine when work schedules, device sharing, unfamiliar content, language, or delayed feedback converge. It proposes a Household Learning Coordination model that separates the responsibilities of schools, teachers, learners, and caregivers and uses a weekly learning map, a single help route, and escalation rules for unresolved barriers. The article is a conceptual synthesis and does not estimate the prevalence of parental challenges in a specific community.",
+    "pages": "1–4",
+    "pdfFile": "assets/uploads/journal-archive/national-research-journal/volume-1-issue-2-2021/rafael-m-villanueva-home-based-learning-revised-2026-08-11.pdf",
+    "digitizedDate": "2026-08-10",
+    "originalPublicationPeriod": "July–December 2020"
+  },
+  {
+    "journalId": "national-research-journal",
+    "keywords": [
+      "health protocols",
+      "community compliance",
+      "risk communication",
+      "behavioral science",
+      "public health"
+    ],
+    "volume": "1",
+    "issue": "2",
+    "issueLabel": "July–December 2020",
+    "publicationDate": "2020",
+    "doi": "",
+    "featured": false,
+    "active": true,
+    "id": "national-research-journal-volume-1-issue-2-jerome-s-santiago",
+    "title": "Community Compliance with COVID-19 Health and Safety Protocols",
+    "authors": [
+      "Jerome S. Santiago"
+    ],
+    "articleType": "Behavioral and Policy Review",
+    "abstract": "Compliance with health and safety protocols is often described as an individual choice, yet adherence depends on whether guidance is trusted, understandable, materially possible, socially supported, and fairly enforced. This behavioral and policy review synthesizes evidence available through 2021 and develops a Feasible Compliance model with five conditions: credible guidance, practical capability, supportive norms, proportionate enforcement, and corrective learning. The model explains why repeated reminders may fail when households lack masks, water, space, transport alternatives, income protection, or confidence that rules are consistently applied. It also distinguishes observation of behavior from assumptions about motivation. The article proposes a local compliance audit that records the required action, the barrier, the responsible authority, the enabling measure, and the review date. It argues that communication and enforcement should be paired with resources and grievance routes. This is a conceptual synthesis; it does not calculate compliance rates or assess a named community.",
+    "pages": "1–4",
+    "pdfFile": "assets/uploads/journal-archive/national-research-journal/volume-1-issue-2-2021/jerome-s-santiago-community-compliance-revised-2026-08-11.pdf",
+    "digitizedDate": "2026-08-10",
+    "originalPublicationPeriod": "July–December 2020"
+  },
+  {
+    "id": "national-research-journal-volume-1-issue-1-emmanuel-d-bautista",
+    "journalId": "national-research-journal",
+    "title": "Development and Validation of Printed Self-Learning Materials",
+    "authors": [
+      "Emmanuel D. Bautista"
+    ],
+    "articleType": "Methodological Review",
+    "abstract": "Printed self-learning material is not simply classroom content transferred to paper. It is an instructional interface expected to explain, guide practice, elicit evidence, and support correction when the teacher is not physically present. This methodological review converts established instructional-design principles and Philippine continuity guidance into a build-test-revise protocol. Four forms of validity are distinguished: curricular accuracy, instructional coherence, learner usability, and production reliability. Expert review is necessary for the first two but cannot substitute for observation of learners using the material. The proposed workflow begins with a competency map, proceeds through prototype and cognitive tryout, and ends with print inspection, controlled release, error logging, and version management. The article also identifies common validation errors, including reliance on global mean ratings, validators with indistinguishable roles, and claims of effectiveness made without learner-outcome evidence. The result is a practical quality-assurance model rather than an evaluation of a particular module.",
+    "keywords": [
+      "self-learning materials",
+      "module validation",
+      "instructional design",
+      "usability testing",
+      "print quality"
+    ],
+    "volume": "1",
+    "issue": "1",
+    "issueLabel": "January–June 2020",
+    "publicationDate": "2020",
+    "pages": "1–4",
+    "doi": "",
+    "pdfFile": "assets/uploads/journal-archive/national-research-journal/volume-1-issue-1-2021/emmanuel-d-bautista-printed-self-learning-materials-revised.pdf",
+    "featured": false,
+    "active": true,
+    "digitizedDate": "2026-08-10",
+    "originalPublicationPeriod": "January–June 2020"
+  },
+  {
+    "id": "national-research-journal-volume-1-issue-1-abigail-therese-mercado",
+    "journalId": "national-research-journal",
+    "title": "Disaster Preparedness and Public-Health Awareness in Rural Barangays",
+    "authors": [
+      "Abigail Therese Mercado"
+    ],
+    "articleType": "Policy Analysis",
+    "abstract": "Rural barangays often maintain disaster plans for storms, floods, landslides, or earthquakes while public-health communication is managed through a separate set of routines. COVID-19 demonstrated the cost of that separation. This policy analysis connects the prevention, preparedness, response, and recovery responsibilities of local disaster governance with risk communication, surveillance, referral, and continuity of essential services. It proposes a household-to-barangay preparedness loop built around five functions: knowing local risk, translating warning into action, detecting and referring health threats, sustaining essential needs, and learning after exercises or events. Preparedness is judged by observable capability rather than the existence of a plan or attendance at a seminar. The article offers drill scenarios, inclusion checks, and simple records suitable for low-resource settings. It is a conceptual and documentary analysis; it does not measure awareness levels in any named barangay.",
+    "keywords": [
+      "barangay preparedness",
+      "public-health literacy",
+      "risk communication",
+      "all-hazards planning",
+      "rural governance"
+    ],
+    "volume": "1",
+    "issue": "1",
+    "issueLabel": "January–June 2020",
+    "publicationDate": "2020",
+    "pages": "1–4",
+    "doi": "",
+    "pdfFile": "assets/uploads/journal-archive/national-research-journal/volume-1-issue-1-2021/abigail-therese-mercado-disaster-preparedness-revised.pdf",
+    "featured": false,
+    "active": true,
+    "digitizedDate": "2026-08-10",
+    "originalPublicationPeriod": "January–June 2020"
+  },
+  {
+    "journalId": "national-research-journal",
+    "keywords": [
+      "market closure",
+      "local farmers",
+      "market vendors",
+      "food supply chain",
+      "local market access"
+    ],
+    "volume": "1",
+    "issue": "2",
+    "issueLabel": "July–December 2020",
+    "publicationDate": "2020",
+    "doi": "",
+    "featured": false,
+    "active": true,
+    "id": "national-research-journal-volume-1-issue-2-patricia-mae-soriano",
+    "title": "Effects of Market Closures on Local Farmers and Vendors",
+    "authors": [
+      "Patricia Mae Soriano"
+    ],
+    "articleType": "Supply-Chain Review",
+    "abstract": "Market closure interrupts a circuit rather than a single selling event. Farmers lose a destination for perishable harvests, vendors lose foot traffic and working capital, transporters lose viable routes, and households lose familiar access points. This supply-chain review traces five connected functions: production planning, aggregation, transport, exchange, and market feedback. Philippine and international evidence available through 2021 indicates that movement restrictions and uneven local enforcement could create bottlenecks even when agricultural production continued. The article proposes a Local Food-Market Circuit model for designing temporary markets, pickup points, mobile selling, institutional procurement, and digital ordering without ignoring grading, payment, cold storage, health protection, or unsold-product risk. It also separates emergency disposal reduction from long-term market development. The framework is conceptual and does not estimate losses among farmers or vendors in a particular municipality.",
+    "pages": "1–3",
+    "pdfFile": "assets/uploads/journal-archive/national-research-journal/volume-1-issue-2-2021/patricia-mae-soriano-market-closures-revised-2026-08-11.pdf",
+    "digitizedDate": "2026-08-10",
+    "originalPublicationPeriod": "July–December 2020"
+  },
+  {
+    "journalId": "national-research-journal",
+    "keywords": [
+      "small business",
+      "community quarantine",
+      "business continuity",
+      "liquidity",
+      "operational adaptation"
+    ],
+    "volume": "1",
+    "issue": "2",
+    "issueLabel": "July–December 2020",
+    "publicationDate": "2020",
+    "doi": "",
+    "featured": false,
+    "active": true,
+    "id": "national-research-journal-volume-1-issue-2-hannah-grace-aquino",
+    "title": "Experiences of Small Businesses During the Initial Community Quarantine",
+    "authors": [
+      "Hannah Grace Aquino"
+    ],
+    "articleType": "Conceptual Review",
+    "abstract": "The initial community quarantine confronted small businesses with simultaneous restrictions on premises, workers, suppliers, customers, and cash flow. This conceptual review examines the early crisis as a sequence of operating decisions rather than a uniform experience of closure. Evidence through 2021 is organized around five questions: whether the firm could legally and safely operate, preserve liquidity, maintain a minimum supply route, reach viable demand, and decide what to pause, adapt, or stop. The synthesis emphasizes that digital promotion could not compensate for failed inventory, payment, or delivery arrangements, and that reopening did not automatically restore demand or working capital. It proposes a Small-Business Continuity Sequence supported by a daily cash horizon, a minimum viable offer, explicit supplier alternatives, and predefined decision triggers. The framework is designed for micro and small firms with limited managerial capacity. It is a non-empirical model and does not claim that all sectors or localities experienced quarantine in the same way.",
+    "pages": "1–3",
+    "pdfFile": "assets/uploads/journal-archive/national-research-journal/volume-1-issue-2-2021/hannah-grace-aquino-small-businesses-revised-2026-08-11.pdf",
+    "digitizedDate": "2026-08-10",
+    "originalPublicationPeriod": "July–December 2020"
+  },
+  {
+    "journalId": "national-research-journal",
+    "keywords": [
+      "food security",
+      "low-income households",
+      "lockdown",
+      "food access",
+      "social protection"
+    ],
+    "volume": "1",
+    "issue": "2",
+    "issueLabel": "July–December 2020",
+    "publicationDate": "2020",
+    "doi": "",
+    "featured": false,
+    "active": true,
+    "id": "national-research-journal-volume-1-issue-2-vincent-carlo-navarro",
+    "title": "Food Security Among Low-Income Households During Lockdowns",
+    "authors": [
+      "Vincent Carlo Navarro"
+    ],
+    "articleType": "Policy Review",
+    "abstract": "Lockdowns affected food security through more than temporary shortages. For low-income households, restrictions could reduce earnings, change food prices, limit transport, interrupt school feeding, and narrow access to markets at the same time. This policy review organizes evidence through four household pressures: income loss, acquisition barriers, diet compression, and instability over time. It distinguishes food availability in the wider market from a household's ability to obtain, prepare, and sustain an adequate diet. The synthesis argues that relief measured only by the number of packs distributed can miss timeliness, nutritional quality, household composition, and the cost of repeated access. A Household Food Security Pressure model is proposed, combining rapid income support, geographically distributed acquisition routes, nutrition-sensitive assistance, and monitoring of repeated coping strategies. The model is intended for local planning and future empirical testing; it does not report new household data or attribute a single outcome to quarantine alone.",
+    "pages": "1–4",
+    "pdfFile": "assets/uploads/journal-archive/national-research-journal/volume-1-issue-2-2021/vincent-carlo-navarro-food-security-revised-2026-08-11.pdf",
+    "digitizedDate": "2026-08-10",
+    "originalPublicationPeriod": "July–December 2020"
+  },
+  {
+    "id": "national-research-journal-volume-1-issue-1-camille-denise-fernandez",
+    "journalId": "national-research-journal",
+    "title": "Indigenous and Local Practices for Maintaining Community Resilience",
+    "authors": [
+      "Camille Denise Fernandez"
+    ],
+    "articleType": "Critical Interpretive Review",
+    "abstract": "Discussions of community resilience often extract visible practices—seed saving, communal labor, traditional forecasting, or mutual aid—while overlooking the relationships and authority that make those practices meaningful. This critical interpretive review examines Indigenous and local knowledge as a living system of observation, obligation, memory, and governance. It brings disaster-risk scholarship into conversation with rights-based instruments relevant to the Philippines. Four propositions organize the synthesis: knowledge is place-based and dynamic; reciprocity is infrastructure; ecological practice links livelihood and risk; and collaboration is legitimate only when communities share authority over knowledge use. The article rejects both romanticization and dismissal. Local practices cannot replace public investment or scientific services, but formal programs can also weaken resilience when they appropriate knowledge, bypass customary institutions, or standardize away local variation. A CARE framework—Consent, Authority, Reciprocity, and Evidence-in-context—is proposed for respectful documentation and co-production.",
+    "keywords": [
+      "Indigenous knowledge",
+      "local knowledge",
+      "community resilience",
+      "reciprocity",
+      "knowledge governance"
+    ],
+    "volume": "1",
+    "issue": "1",
+    "issueLabel": "January–June 2020",
+    "publicationDate": "2020",
+    "pages": "1–4",
+    "doi": "",
+    "pdfFile": "assets/uploads/journal-archive/national-research-journal/volume-1-issue-1-2021/camille-denise-fernandez-community-resilience-revised.pdf",
+    "featured": false,
+    "active": true,
+    "digitizedDate": "2026-08-10",
+    "originalPublicationPeriod": "January–June 2020"
+  },
+  {
+    "journalId": "national-research-journal",
+    "keywords": [
+      "community quarantine",
+      "teacher well-being",
+      "student mental health",
+      "psychosocial support",
+      "school response"
+    ],
+    "volume": "1",
+    "issue": "2",
+    "issueLabel": "July–December 2020",
+    "publicationDate": "2020",
+    "doi": "",
+    "featured": false,
+    "active": true,
+    "id": "national-research-journal-volume-1-issue-2-maria-lourdes-castillo",
+    "title": "Psychological Effects of Community Quarantine on Teachers and Students",
+    "authors": [
+      "Maria Lourdes Castillo"
+    ],
+    "articleType": "Critical Review",
+    "abstract": "Community quarantine altered far more than the location of schooling. It changed daily structure, peer contact, family roles, exposure to illness and loss, economic security, instructional workload, and access to school-based support. This critical review examines psychological effects through pathways rather than treating teachers and students as a single population or quarantine as a uniform exposure. Four pathways are identified: threat and uncertainty, disruption of routine and role, social disconnection, and unequal access to protective resources. The review distinguishes understandable distress from clinical diagnosis and cautions schools against using brief screening as a substitute for qualified assessment. A School Well-Being Pathway model is proposed, combining clear communication, predictable workload, routine connection, tiered referral, staff support, and monitoring of exclusion. The article does not estimate prevalence or diagnose any participant. Its contribution is a framework for designing school responses that reduce avoidable stressors while linking people with appropriate professional care.",
+    "pages": "1–3",
+    "pdfFile": "assets/uploads/journal-archive/national-research-journal/volume-1-issue-2-2021/maria-lourdes-castillo-psychological-effects-revised-2026-08-11.pdf",
+    "digitizedDate": "2026-08-10",
+    "originalPublicationPeriod": "July–December 2020"
+  },
+  {
+    "id": "national-research-journal-volume-1-issue-1-andrea-mae-ramos",
+    "journalId": "national-research-journal",
+    "title": "Readiness of Public-School Teachers for Emergency Remote Teaching",
+    "authors": [
+      "Andrea Mae Ramos"
+    ],
+    "articleType": "Integrative Review",
+    "abstract": "Emergency remote teaching placed public-school teachers inside a delivery system that was being assembled while it was already in use. This integrative review distinguishes teacher readiness from simple confidence with technology. Readiness is treated as a chain of five capacities: dependable access, instructional redesign, assessment judgment, learner contact, and organizational support. Literature and policy documents available through 2021 were read comparatively, with attention to the difference between planned online learning and temporary emergency provision. The review finds that individual competence can be neutralized by unstable connectivity, unclear school routines, excessive preparation demands, or the absence of workable low-technology alternatives. It proposes a school readiness dashboard and a staged professional-learning model organized around recurring teaching decisions rather than isolated software training. The article offers an analytic framework, not prevalence estimates or evidence of causal impact.",
+    "keywords": [
+      "emergency remote teaching",
+      "teacher readiness",
+      "public schools",
+      "instructional adaptation",
+      "Philippines"
+    ],
+    "volume": "1",
+    "issue": "1",
+    "issueLabel": "January–June 2020",
+    "publicationDate": "2020",
+    "pages": "1–4",
+    "doi": "",
+    "pdfFile": "assets/uploads/journal-archive/national-research-journal/volume-1-issue-1-2021/andrea-mae-ramos-teacher-readiness-revised.pdf",
+    "featured": false,
+    "active": true,
+    "digitizedDate": "2026-08-10",
+    "originalPublicationPeriod": "January–June 2020"
+  },
+  {
+    "journalId": "national-research-journal",
+    "keywords": [
+      "school leadership",
+      "crisis management",
+      "COVID-19",
+      "learning continuity",
+      "decision governance"
+    ],
+    "volume": "1",
+    "issue": "2",
+    "issueLabel": "July–December 2020",
+    "publicationDate": "2020",
+    "doi": "",
+    "featured": false,
+    "active": true,
+    "id": "national-research-journal-volume-1-issue-2-nathaniel-p-garcia",
+    "title": "School Leadership and Crisis Management During the COVID-19 Outbreak",
+    "authors": [
+      "Nathaniel P. Garcia"
+    ],
+    "articleType": "Conceptual Review",
+    "abstract": "COVID-19 required school leaders to make rapid decisions across health protection, learning continuity, staff work, family communication, resource allocation, and student welfare. This conceptual review argues that crisis leadership is not a sequence of announcements but a recurring cycle of sensemaking, prioritization, coordination, care, and learning. Evidence through 2021 is synthesized into a School Crisis Leadership Cycle designed for institutions with limited staff and incomplete information. The cycle begins with a verified situation picture, converts that picture into a small set of protected priorities, assigns decision rights and communication routes, monitors staff and learner burden, and records changes for the next cycle. The article distinguishes strategic decisions from routine reporting and proposes a minimum crisis register containing the issue, evidence, affected groups, owner, action, trigger, and review date. The framework is normative and testable; it does not evaluate a particular principal, school, or division.",
+    "pages": "1–3",
+    "pdfFile": "assets/uploads/journal-archive/national-research-journal/volume-1-issue-2-2021/nathaniel-p-garcia-school-leadership-crisis-management-revised-2026-08-11.pdf",
+    "digitizedDate": "2026-08-10",
+    "originalPublicationPeriod": "July–December 2020"
+  },
+  {
+    "id": "national-research-journal-volume-1-issue-1-clarisse-joy-mendoza",
+    "journalId": "national-research-journal",
+    "title": "Students’ Access to Devices and Internet Connectivity in Rural Communities",
+    "authors": [
+      "Clarisse Joy Mendoza"
+    ],
+    "articleType": "Scoping Review",
+    "abstract": "This scoping review examines why device ownership and internet availability are inadequate proxies for students’ ability to participate in remote education. Drawing on Philippine and international evidence available through 2021, it reconstructs access as a journey: obtaining a usable device, reaching a stable connection, affording repeated use, finding time and space to study, completing platform-specific tasks, and recovering when a link fails. Rurality shapes each step through distance, market coverage, electricity, transport, and household livelihood patterns, but rural communities are not homogeneous. The synthesis introduces the concept of an access threshold: participation occurs only when all minimum conditions for a specific learning task are met at the same time. It recommends task-level access audits, offline-first design, and monitoring of failed attempts rather than enrollment alone. No local survey data are claimed.",
+    "keywords": [
+      "digital divide",
+      "rural learners",
+      "device sharing",
+      "internet connectivity",
+      "remote education"
+    ],
+    "volume": "1",
+    "issue": "1",
+    "issueLabel": "January–June 2020",
+    "publicationDate": "2020",
+    "pages": "1–4",
+    "doi": "",
+    "pdfFile": "assets/uploads/journal-archive/national-research-journal/volume-1-issue-1-2021/clarisse-joy-mendoza-device-internet-access-revised.pdf",
+    "featured": false,
+    "active": true,
+    "digitizedDate": "2026-08-10",
+    "originalPublicationPeriod": "January–June 2020"
+  },
+  {
+    "journalId": "national-research-journal",
+    "keywords": [
+      "teacher digital competence",
+      "online education",
+      "DigCompEdu",
+      "instructional design",
+      "digital assessment"
+    ],
+    "volume": "1",
+    "issue": "2",
+    "issueLabel": "July–December 2020",
+    "publicationDate": "2020",
+    "doi": "",
+    "featured": false,
+    "active": true,
+    "id": "national-research-journal-volume-1-issue-2-katrina-anne-flores",
+    "title": "Teachers' Digital Competence During the Transition to Online Education",
+    "authors": [
+      "Katrina Anne Flores"
+    ],
+    "articleType": "Integrative Review",
+    "abstract": "The emergency transition to online education made digital competence visible, but it also narrowed the concept to familiarity with devices and platforms. This integrative review treats competence as a chain of professional decisions: selecting an accessible tool, organizing content for mediated learning, enabling interaction, assessing evidence, protecting data and well-being, and improving through reflection. DigCompEdu, technological pedagogical content knowledge, and early pandemic studies are synthesized into a Digital Teaching Decision Chain. The review argues that operational fluency has educational value only when it supports a defined learner action and remains feasible under actual device, connectivity, and household conditions. It proposes evidence for each competence, including task samples, accessibility checks, feedback records, and privacy decisions, rather than self-confidence alone. Professional learning is organized around recurring teaching problems and peer review. This is a conceptual article and does not rate teachers or claim that one platform improves learning.",
+    "pages": "1–4",
+    "pdfFile": "assets/uploads/journal-archive/national-research-journal/volume-1-issue-2-2021/katrina-anne-flores-digital-competence-revised-2026-08-11.pdf",
+    "digitizedDate": "2026-08-10",
+    "originalPublicationPeriod": "July–December 2020"
+  },
+  {
+    "id": "national-research-journal-volume-1-issue-1-lorenzo-miguel-cruz",
+    "journalId": "national-research-journal",
+    "title": "Use of Social Media for Government and School Information Dissemination",
+    "authors": [
+      "Lorenzo Miguel Cruz"
+    ],
+    "articleType": "Communication-Policy Review",
+    "abstract": "Social media allowed government offices and schools to publish rapidly during the COVID-19 emergency, but publication is not the same as successful public information. This communication-policy review treats dissemination as a service with five tests: authority, findability, comprehension, actionability, and correctability. Evidence through 2021 shows that platform reach can coexist with exclusion, message overload, impersonation, outdated posts, rumor circulation, and unanswered public questions. A two-lane model is proposed. The public lane issues short, dated, shareable instructions; the record lane preserves the full advisory, version history, contact point, and correction. Social media is positioned as one layer in a redundant channel system that includes text, print, websites, hotlines, and community intermediaries. The article develops a message card, correction protocol, and operational metrics that go beyond follower counts. It is a conceptual synthesis and does not evaluate a particular agency or school.",
+    "keywords": [
+      "public information",
+      "social media governance",
+      "school communication",
+      "corrections",
+      "infodemic"
+    ],
+    "volume": "1",
+    "issue": "1",
+    "issueLabel": "January–June 2020",
+    "publicationDate": "2020",
+    "pages": "1–4",
+    "doi": "",
+    "pdfFile": "assets/uploads/journal-archive/national-research-journal/volume-1-issue-1-2021/lorenzo-miguel-cruz-social-media-information-dissemination-revised.pdf",
+    "featured": false,
+    "active": true,
+    "digitizedDate": "2026-08-10",
+    "originalPublicationPeriod": "January–June 2020"
   },
   {
     "journalId": "multidisciplinary-international-theses-and-articles-journal",
@@ -3591,6 +3893,8 @@ window.SHIRLEY_JOURNAL_ARTICLES = [
     "id": "volume-1-issue-4-attention-and-focus",
     "keywords": [],
     "publicationDate": "",
+    "originalPublicationPeriod": "",
+    "digitizedDate": "",
     "doi": ""
   },
   {
@@ -3611,6 +3915,8 @@ window.SHIRLEY_JOURNAL_ARTICLES = [
     "id": "volume-1-issue-3-differentiated-instruction",
     "keywords": [],
     "publicationDate": "",
+    "originalPublicationPeriod": "",
+    "digitizedDate": "",
     "doi": ""
   },
   {
@@ -3631,6 +3937,8 @@ window.SHIRLEY_JOURNAL_ARTICLES = [
     "id": "volume-1-issue-4-indigenous-learners",
     "keywords": [],
     "publicationDate": "",
+    "originalPublicationPeriod": "",
+    "digitizedDate": "",
     "doi": ""
   },
   {
@@ -3651,6 +3959,8 @@ window.SHIRLEY_JOURNAL_ARTICLES = [
     "id": "volume-1-issue-2-silkworm-hybrids",
     "keywords": [],
     "publicationDate": "",
+    "originalPublicationPeriod": "",
+    "digitizedDate": "",
     "doi": ""
   },
   {
@@ -3671,6 +3981,8 @@ window.SHIRLEY_JOURNAL_ARTICLES = [
     "id": "volume-1-issue-2-english-instruction",
     "keywords": [],
     "publicationDate": "",
+    "originalPublicationPeriod": "",
+    "digitizedDate": "",
     "doi": ""
   },
   {
@@ -3691,6 +4003,8 @@ window.SHIRLEY_JOURNAL_ARTICLES = [
     "id": "volume-1-issue-3-curriculum-demands",
     "keywords": [],
     "publicationDate": "",
+    "originalPublicationPeriod": "",
+    "digitizedDate": "",
     "doi": ""
   },
   {
@@ -3717,6 +4031,8 @@ window.SHIRLEY_JOURNAL_ARTICLES = [
     "active": true,
     "id": "volume-1-issue-1-decision-making-competencies",
     "publicationDate": "",
+    "originalPublicationPeriod": "",
+    "digitizedDate": "",
     "doi": ""
   },
   {
@@ -3737,6 +4053,8 @@ window.SHIRLEY_JOURNAL_ARTICLES = [
     "id": "volume-1-issue-2-veteran-teacher-engagement",
     "keywords": [],
     "publicationDate": "",
+    "originalPublicationPeriod": "",
+    "digitizedDate": "",
     "doi": ""
   },
   {
@@ -3757,6 +4075,8 @@ window.SHIRLEY_JOURNAL_ARTICLES = [
     "id": "volume-1-issue-3-digital-learning",
     "keywords": [],
     "publicationDate": "",
+    "originalPublicationPeriod": "",
+    "digitizedDate": "",
     "doi": ""
   },
   {
@@ -3777,6 +4097,8 @@ window.SHIRLEY_JOURNAL_ARTICLES = [
     "id": "volume-1-issue-3-ecological-literacy",
     "keywords": [],
     "publicationDate": "",
+    "originalPublicationPeriod": "",
+    "digitizedDate": "",
     "doi": ""
   },
   {
@@ -3797,6 +4119,8 @@ window.SHIRLEY_JOURNAL_ARTICLES = [
     "id": "volume-1-issue-4-curiosity-critical-thinking",
     "keywords": [],
     "publicationDate": "",
+    "originalPublicationPeriod": "",
+    "digitizedDate": "",
     "doi": ""
   },
   {
@@ -3817,6 +4141,8 @@ window.SHIRLEY_JOURNAL_ARTICLES = [
     "id": "volume-1-issue-2-spaced-retrieval",
     "keywords": [],
     "publicationDate": "",
+    "originalPublicationPeriod": "",
+    "digitizedDate": "",
     "doi": ""
   },
   {
@@ -3837,6 +4163,8 @@ window.SHIRLEY_JOURNAL_ARTICLES = [
     "abstract": "",
     "keywords": [],
     "publicationDate": "",
+    "originalPublicationPeriod": "",
+    "digitizedDate": "",
     "doi": ""
   },
   {
@@ -3868,6 +4196,8 @@ window.SHIRLEY_JOURNAL_ARTICLES = [
     "active": true,
     "id": "volume-1-issue-1-financial-literacy",
     "publicationDate": "",
+    "originalPublicationPeriod": "",
+    "digitizedDate": "",
     "doi": ""
   },
   {
@@ -3888,6 +4218,8 @@ window.SHIRLEY_JOURNAL_ARTICLES = [
     "id": "volume-1-issue-4-grade-inflation",
     "keywords": [],
     "publicationDate": "",
+    "originalPublicationPeriod": "",
+    "digitizedDate": "",
     "doi": ""
   },
   {
@@ -3908,6 +4240,8 @@ window.SHIRLEY_JOURNAL_ARTICLES = [
     "abstract": "",
     "keywords": [],
     "publicationDate": "",
+    "originalPublicationPeriod": "",
+    "digitizedDate": "",
     "doi": ""
   },
   {
@@ -3928,6 +4262,8 @@ window.SHIRLEY_JOURNAL_ARTICLES = [
     "id": "volume-1-issue-2-handwriting-skills",
     "keywords": [],
     "publicationDate": "",
+    "originalPublicationPeriod": "",
+    "digitizedDate": "",
     "doi": ""
   },
   {
@@ -3948,6 +4284,8 @@ window.SHIRLEY_JOURNAL_ARTICLES = [
     "id": "volume-1-issue-3-heuristic-differentiation",
     "keywords": [],
     "publicationDate": "",
+    "originalPublicationPeriod": "",
+    "digitizedDate": "",
     "doi": ""
   },
   {
@@ -3968,6 +4306,8 @@ window.SHIRLEY_JOURNAL_ARTICLES = [
     "abstract": "",
     "keywords": [],
     "publicationDate": "",
+    "originalPublicationPeriod": "",
+    "digitizedDate": "",
     "doi": ""
   },
   {
@@ -3988,6 +4328,8 @@ window.SHIRLEY_JOURNAL_ARTICLES = [
     "id": "volume-1-issue-4-mapeh-implementation",
     "keywords": [],
     "publicationDate": "",
+    "originalPublicationPeriod": "",
+    "digitizedDate": "",
     "doi": ""
   },
   {
@@ -4008,6 +4350,8 @@ window.SHIRLEY_JOURNAL_ARTICLES = [
     "id": "volume-1-issue-4-tle-program",
     "keywords": [],
     "publicationDate": "",
+    "originalPublicationPeriod": "",
+    "digitizedDate": "",
     "doi": ""
   },
   {
@@ -4028,6 +4372,8 @@ window.SHIRLEY_JOURNAL_ARTICLES = [
     "abstract": "",
     "keywords": [],
     "publicationDate": "",
+    "originalPublicationPeriod": "",
+    "digitizedDate": "",
     "doi": ""
   },
   {
@@ -4051,6 +4397,8 @@ window.SHIRLEY_JOURNAL_ARTICLES = [
     "id": "volume-1-issue-2-leadership-competence",
     "keywords": [],
     "publicationDate": "",
+    "originalPublicationPeriod": "",
+    "digitizedDate": "",
     "doi": ""
   },
   {
@@ -4071,6 +4419,8 @@ window.SHIRLEY_JOURNAL_ARTICLES = [
     "id": "volume-1-issue-4-leadership-practices",
     "keywords": [],
     "publicationDate": "",
+    "originalPublicationPeriod": "",
+    "digitizedDate": "",
     "doi": ""
   },
   {
@@ -4091,6 +4441,8 @@ window.SHIRLEY_JOURNAL_ARTICLES = [
     "id": "volume-1-issue-4-organizational-performance",
     "keywords": [],
     "publicationDate": "",
+    "originalPublicationPeriod": "",
+    "digitizedDate": "",
     "doi": ""
   },
   {
@@ -4111,6 +4463,8 @@ window.SHIRLEY_JOURNAL_ARTICLES = [
     "id": "volume-1-issue-4-science-performance",
     "keywords": [],
     "publicationDate": "",
+    "originalPublicationPeriod": "",
+    "digitizedDate": "",
     "doi": ""
   },
   {
@@ -4131,6 +4485,8 @@ window.SHIRLEY_JOURNAL_ARTICLES = [
     "id": "volume-1-issue-3-multiple-role-assignments",
     "keywords": [],
     "publicationDate": "",
+    "originalPublicationPeriod": "",
+    "digitizedDate": "",
     "doi": ""
   },
   {
@@ -4151,6 +4507,8 @@ window.SHIRLEY_JOURNAL_ARTICLES = [
     "id": "volume-1-issue-4-numeracy-performance",
     "keywords": [],
     "publicationDate": "",
+    "originalPublicationPeriod": "",
+    "digitizedDate": "",
     "doi": ""
   },
   {
@@ -4171,6 +4529,8 @@ window.SHIRLEY_JOURNAL_ARTICLES = [
     "id": "volume-1-issue-2-nutritional-status",
     "keywords": [],
     "publicationDate": "",
+    "originalPublicationPeriod": "",
+    "digitizedDate": "",
     "doi": ""
   },
   {
@@ -4191,6 +4551,8 @@ window.SHIRLEY_JOURNAL_ARTICLES = [
     "abstract": "",
     "keywords": [],
     "publicationDate": "",
+    "originalPublicationPeriod": "",
+    "digitizedDate": "",
     "doi": ""
   },
   {
@@ -4211,6 +4573,8 @@ window.SHIRLEY_JOURNAL_ARTICLES = [
     "id": "volume-1-issue-2-parental-involvement",
     "keywords": [],
     "publicationDate": "",
+    "originalPublicationPeriod": "",
+    "digitizedDate": "",
     "doi": ""
   },
   {
@@ -4231,6 +4595,8 @@ window.SHIRLEY_JOURNAL_ARTICLES = [
     "id": "volume-1-issue-4-learner-engagement",
     "keywords": [],
     "publicationDate": "",
+    "originalPublicationPeriod": "",
+    "digitizedDate": "",
     "doi": ""
   },
   {
@@ -4251,6 +4617,8 @@ window.SHIRLEY_JOURNAL_ARTICLES = [
     "id": "volume-1-issue-2-classroom-walkthroughs",
     "keywords": [],
     "publicationDate": "",
+    "originalPublicationPeriod": "",
+    "digitizedDate": "",
     "doi": ""
   },
   {
@@ -4271,6 +4639,8 @@ window.SHIRLEY_JOURNAL_ARTICLES = [
     "id": "volume-1-issue-4-learner-self-worth",
     "keywords": [],
     "publicationDate": "",
+    "originalPublicationPeriod": "",
+    "digitizedDate": "",
     "doi": ""
   },
   {
@@ -4291,6 +4661,8 @@ window.SHIRLEY_JOURNAL_ARTICLES = [
     "id": "volume-1-issue-2-mathematics-performance",
     "keywords": [],
     "publicationDate": "",
+    "originalPublicationPeriod": "",
+    "digitizedDate": "",
     "doi": ""
   },
   {
@@ -4311,6 +4683,8 @@ window.SHIRLEY_JOURNAL_ARTICLES = [
     "id": "volume-1-issue-4-phonemic-awareness",
     "keywords": [],
     "publicationDate": "",
+    "originalPublicationPeriod": "",
+    "digitizedDate": "",
     "doi": ""
   },
   {
@@ -4331,6 +4705,8 @@ window.SHIRLEY_JOURNAL_ARTICLES = [
     "id": "volume-1-issue-4-physical-education",
     "keywords": [],
     "publicationDate": "",
+    "originalPublicationPeriod": "",
+    "digitizedDate": "",
     "doi": ""
   },
   {
@@ -4351,6 +4727,8 @@ window.SHIRLEY_JOURNAL_ARTICLES = [
     "id": "volume-1-issue-3-physical-education",
     "keywords": [],
     "publicationDate": "",
+    "originalPublicationPeriod": "",
+    "digitizedDate": "",
     "doi": ""
   },
   {
@@ -4371,6 +4749,8 @@ window.SHIRLEY_JOURNAL_ARTICLES = [
     "abstract": "",
     "keywords": [],
     "publicationDate": "",
+    "originalPublicationPeriod": "",
+    "digitizedDate": "",
     "doi": ""
   },
   {
@@ -4391,6 +4771,8 @@ window.SHIRLEY_JOURNAL_ARTICLES = [
     "id": "volume-1-issue-2-school-retention",
     "keywords": [],
     "publicationDate": "",
+    "originalPublicationPeriod": "",
+    "digitizedDate": "",
     "doi": ""
   },
   {
@@ -4411,6 +4793,8 @@ window.SHIRLEY_JOURNAL_ARTICLES = [
     "id": "volume-1-issue-4-professional-development",
     "keywords": [],
     "publicationDate": "",
+    "originalPublicationPeriod": "",
+    "digitizedDate": "",
     "doi": ""
   },
   {
@@ -4431,6 +4815,8 @@ window.SHIRLEY_JOURNAL_ARTICLES = [
     "id": "volume-1-issue-4-reading-comprehension",
     "keywords": [],
     "publicationDate": "",
+    "originalPublicationPeriod": "",
+    "digitizedDate": "",
     "doi": ""
   },
   {
@@ -4451,6 +4837,8 @@ window.SHIRLEY_JOURNAL_ARTICLES = [
     "id": "volume-1-issue-3-reading-comprehension",
     "keywords": [],
     "publicationDate": "",
+    "originalPublicationPeriod": "",
+    "digitizedDate": "",
     "doi": ""
   },
   {
@@ -4471,6 +4859,8 @@ window.SHIRLEY_JOURNAL_ARTICLES = [
     "id": "volume-1-issue-4-reading-motivation",
     "keywords": [],
     "publicationDate": "",
+    "originalPublicationPeriod": "",
+    "digitizedDate": "",
     "doi": ""
   },
   {
@@ -4491,6 +4881,8 @@ window.SHIRLEY_JOURNAL_ARTICLES = [
     "abstract": "",
     "keywords": [],
     "publicationDate": "",
+    "originalPublicationPeriod": "",
+    "digitizedDate": "",
     "doi": ""
   },
   {
@@ -4511,6 +4903,8 @@ window.SHIRLEY_JOURNAL_ARTICLES = [
     "id": "volume-1-issue-4-management-roles",
     "keywords": [],
     "publicationDate": "",
+    "originalPublicationPeriod": "",
+    "digitizedDate": "",
     "doi": ""
   },
   {
@@ -4531,6 +4925,8 @@ window.SHIRLEY_JOURNAL_ARTICLES = [
     "id": "volume-1-issue-3-digital-leadership",
     "keywords": [],
     "publicationDate": "",
+    "originalPublicationPeriod": "",
+    "digitizedDate": "",
     "doi": ""
   },
   {
@@ -4551,6 +4947,8 @@ window.SHIRLEY_JOURNAL_ARTICLES = [
     "abstract": "",
     "keywords": [],
     "publicationDate": "",
+    "originalPublicationPeriod": "",
+    "digitizedDate": "",
     "doi": ""
   },
   {
@@ -4571,6 +4969,8 @@ window.SHIRLEY_JOURNAL_ARTICLES = [
     "abstract": "",
     "keywords": [],
     "publicationDate": "",
+    "originalPublicationPeriod": "",
+    "digitizedDate": "",
     "doi": ""
   },
   {
@@ -4591,6 +4991,8 @@ window.SHIRLEY_JOURNAL_ARTICLES = [
     "id": "volume-1-issue-3-stakeholder-engagement",
     "keywords": [],
     "publicationDate": "",
+    "originalPublicationPeriod": "",
+    "digitizedDate": "",
     "doi": ""
   },
   {
@@ -4611,6 +5013,8 @@ window.SHIRLEY_JOURNAL_ARTICLES = [
     "id": "volume-1-issue-2-performance-management",
     "keywords": [],
     "publicationDate": "",
+    "originalPublicationPeriod": "",
+    "digitizedDate": "",
     "doi": ""
   },
   {
@@ -4631,6 +5035,8 @@ window.SHIRLEY_JOURNAL_ARTICLES = [
     "id": "volume-1-issue-2-conversation-practice",
     "keywords": [],
     "publicationDate": "",
+    "originalPublicationPeriod": "",
+    "digitizedDate": "",
     "doi": ""
   },
   {
@@ -4651,6 +5057,8 @@ window.SHIRLEY_JOURNAL_ARTICLES = [
     "id": "volume-1-issue-3-grade-level-governance",
     "keywords": [],
     "publicationDate": "",
+    "originalPublicationPeriod": "",
+    "digitizedDate": "",
     "doi": ""
   },
   {
@@ -4671,6 +5079,8 @@ window.SHIRLEY_JOURNAL_ARTICLES = [
     "id": "volume-1-issue-4-matatag-curriculum",
     "keywords": [],
     "publicationDate": "",
+    "originalPublicationPeriod": "",
+    "digitizedDate": "",
     "doi": ""
   },
   {
@@ -4691,6 +5101,8 @@ window.SHIRLEY_JOURNAL_ARTICLES = [
     "id": "volume-1-issue-1-teachers-and-parents",
     "keywords": [],
     "publicationDate": "",
+    "originalPublicationPeriod": "",
+    "digitizedDate": "",
     "doi": ""
   },
   {
@@ -4711,6 +5123,8 @@ window.SHIRLEY_JOURNAL_ARTICLES = [
     "id": "volume-1-issue-4-teacher-burnout",
     "keywords": [],
     "publicationDate": "",
+    "originalPublicationPeriod": "",
+    "digitizedDate": "",
     "doi": ""
   },
   {
@@ -4738,6 +5152,8 @@ window.SHIRLEY_JOURNAL_ARTICLES = [
     "active": true,
     "id": "volume-1-issue-1-tvl-classroom-environment",
     "publicationDate": "",
+    "originalPublicationPeriod": "",
+    "digitizedDate": "",
     "doi": ""
   },
   {
@@ -4758,6 +5174,8 @@ window.SHIRLEY_JOURNAL_ARTICLES = [
     "id": "volume-1-issue-2-artificial-intelligence",
     "keywords": [],
     "publicationDate": "",
+    "originalPublicationPeriod": "",
+    "digitizedDate": "",
     "doi": ""
   },
   {
@@ -4778,6 +5196,8 @@ window.SHIRLEY_JOURNAL_ARTICLES = [
     "abstract": "",
     "keywords": [],
     "publicationDate": "",
+    "originalPublicationPeriod": "",
+    "digitizedDate": "",
     "doi": ""
   },
   {
@@ -4805,6 +5225,8 @@ window.SHIRLEY_JOURNAL_ARTICLES = [
     "active": true,
     "id": "volume-1-issue-1-electrical-wiring-board",
     "publicationDate": "",
+    "originalPublicationPeriod": "",
+    "digitizedDate": "",
     "doi": ""
   },
   {
@@ -4825,6 +5247,8 @@ window.SHIRLEY_JOURNAL_ARTICLES = [
     "abstract": "",
     "keywords": [],
     "publicationDate": "",
+    "originalPublicationPeriod": "",
+    "digitizedDate": "",
     "doi": ""
   }
 ];

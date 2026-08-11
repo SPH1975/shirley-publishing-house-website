@@ -17,11 +17,12 @@
   "volume": "3",
   "issue": "2",
   "issueLabel": "July–December 2022",
-  "publicationDate": "2022-12-31",
+  "publicationDate": "2022",
   "pages": "1–5",
   "doi": "",
   "pdfFile": "assets/uploads/journal-archive/national-research-journal/volume-1-issue-2/genevive-de-leon-kindergarten-seriation-sim.pdf",
   "featured": false,
   "active": true,
-  "id": "national-research-journal-volumes-1-4-5"
+  "id": "national-research-journal-volumes-1-4-5",
+  "originalPublicationPeriod": "July–December 2022"
 }

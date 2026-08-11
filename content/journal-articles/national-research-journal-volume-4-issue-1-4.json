@@ -17,11 +17,13 @@
   "volume": "6",
   "issue": "1",
   "issueLabel": "January–June 2025",
-  "publicationDate": "2026-08-10",
+  "publicationDate": "2025",
   "pages": "24–27",
   "doi": "",
   "pdfFile": "assets/uploads/journal-archive/national-research-journal/volume-4-issue-1/reysan-dugay-measurement-sampling-analysis.pdf",
   "featured": false,
   "active": true,
-  "id": "national-research-journal-volume-4-issue-1-4"
+  "id": "national-research-journal-volume-4-issue-1-4",
+  "digitizedDate": "2026-08-10",
+  "originalPublicationPeriod": "January–June 2025"
 }
