@@ -249,7 +249,8 @@
     }
   }
 
-  const reducedMotion = window.matchMedia?.('(prefers-reduced-motion: reduce)').matches;
+  const reducedMotionQuery = window.matchMedia?.('(prefers-reduced-motion: reduce)');
+  const reducedMotion = Boolean(reducedMotionQuery?.matches);
   const revealSelector = [
     '.section-heading',
     '.feature-item',
@@ -275,25 +276,125 @@
     '.repository-disclaimer'
   ].join(',');
 
-  const revealTargets = [...document.querySelectorAll(revealSelector)];
-  revealTargets.forEach((element, index) => {
-    element.classList.add('reveal-target');
-    element.style.setProperty('--reveal-delay', ((index % 4) * 65) + 'ms');
-  });
-
-  if (!reducedMotion && 'IntersectionObserver' in window && revealTargets.length) {
+  let revealObserver;
+  if (!reducedMotion && 'IntersectionObserver' in window) {
     document.documentElement.classList.add('motion-ready');
-    const revealObserver = new IntersectionObserver((entries) => {
+    revealObserver = new IntersectionObserver((entries) => {
       entries.forEach((entry) => {
         if (!entry.isIntersecting) return;
         entry.target.classList.add('is-revealed');
         revealObserver.unobserve(entry.target);
       });
     }, { threshold: 0.08, rootMargin: '0px 0px -8% 0px' });
+  }
 
-    revealTargets.forEach((element) => revealObserver.observe(element));
-  } else {
-    revealTargets.forEach((element) => element.classList.add('is-revealed'));
+  const prepareRevealTargets = (root = document) => {
+    const targets = [];
+    if (root instanceof Element && root.matches(revealSelector)) targets.push(root);
+    root.querySelectorAll?.(revealSelector).forEach((element) => targets.push(element));
+
+    targets
+      .filter((element) => !element.classList.contains('reveal-target'))
+      .forEach((element, index) => {
+        element.classList.add('reveal-target');
+        element.style.setProperty('--reveal-delay', ((index % 4) * 65) + 'ms');
+
+        if (revealObserver) revealObserver.observe(element);
+        else element.classList.add('is-revealed');
+      });
+  };
+
+  prepareRevealTargets();
+
+  const dynamicMotionHosts = [
+    '#home-repository-preview',
+    '#journals-grid',
+    '#journal-profile-section',
+    '#journal-issue-archive',
+    '#repository-category-cards',
+    '#repository-grid'
+  ];
+
+  if ('MutationObserver' in window) {
+    const dynamicMotionObserver = new MutationObserver((mutations) => {
+      mutations.forEach((mutation) => {
+        mutation.addedNodes.forEach((node) => {
+          if (node instanceof Element) prepareRevealTargets(node);
+        });
+      });
+    });
+
+    dynamicMotionHosts.forEach((selector) => {
+      const host = document.querySelector(selector);
+      if (host) dynamicMotionObserver.observe(host, { childList: true, subtree: true });
+    });
+  }
+
+  const finePointer = window.matchMedia?.('(hover: hover) and (pointer: fine)').matches;
+  const hero = document.querySelector('.hero');
+  const heroVisual = hero?.querySelector('.hero-visual');
+
+  if (!reducedMotion && finePointer && hero && heroVisual) {
+    let heroMotionFrame;
+    const renderHeroDepth = (x, y) => {
+      heroVisual.style.setProperty('--hero-shift-x', `${x * 16}px`);
+      heroVisual.style.setProperty('--hero-shift-y', `${y * 12}px`);
+      heroVisual.style.setProperty('--hero-rotate-x', `${y * -2.5}deg`);
+      heroVisual.style.setProperty('--hero-rotate-y', `${x * 3}deg`);
+    };
+
+    hero.addEventListener('pointermove', (event) => {
+      const bounds = hero.getBoundingClientRect();
+      const x = ((event.clientX - bounds.left) / bounds.width) * 2 - 1;
+      const y = ((event.clientY - bounds.top) / bounds.height) * 2 - 1;
+      window.cancelAnimationFrame(heroMotionFrame);
+      heroMotionFrame = window.requestAnimationFrame(() => renderHeroDepth(x, y));
+    }, { passive: true });
+
+    hero.addEventListener('pointerleave', () => {
+      window.cancelAnimationFrame(heroMotionFrame);
+      heroMotionFrame = window.requestAnimationFrame(() => renderHeroDepth(0, 0));
+    });
+  }
+
+  const motionCardSelector = [
+    '.preview-card',
+    '.journal-directory-card',
+    '.journal-article-card',
+    '.repository-card',
+    '.content-card',
+    '.why-card',
+    '.value-card'
+  ].join(',');
+
+  if (!reducedMotion && finePointer) {
+    const resetMotionCard = (card) => {
+      card.classList.remove('is-tilting');
+      card.style.setProperty('--tilt-x', '0deg');
+      card.style.setProperty('--tilt-y', '0deg');
+      card.style.setProperty('--tilt-glow-x', '50%');
+      card.style.setProperty('--tilt-glow-y', '50%');
+    };
+
+    document.addEventListener('pointermove', (event) => {
+      const card = event.target.closest?.(motionCardSelector);
+      if (!card) return;
+
+      const bounds = card.getBoundingClientRect();
+      const x = Math.min(1, Math.max(0, (event.clientX - bounds.left) / bounds.width));
+      const y = Math.min(1, Math.max(0, (event.clientY - bounds.top) / bounds.height));
+      card.classList.add('motion-card', 'is-tilting');
+      card.style.setProperty('--tilt-x', `${(0.5 - y) * 4}deg`);
+      card.style.setProperty('--tilt-y', `${(x - 0.5) * 5}deg`);
+      card.style.setProperty('--tilt-glow-x', `${x * 100}%`);
+      card.style.setProperty('--tilt-glow-y', `${y * 100}%`);
+    }, { passive: true });
+
+    document.addEventListener('pointerout', (event) => {
+      const card = event.target.closest?.(motionCardSelector);
+      if (!card || card.contains(event.relatedTarget)) return;
+      resetMotionCard(card);
+    });
   }
 
 })();
