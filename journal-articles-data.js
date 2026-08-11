@@ -377,21 +377,20 @@ window.SHIRLEY_JOURNAL_ARTICLES = [
     "authors": [
       "Christian Paul Reyes"
     ],
-    "articleType": "Conceptual Practice Review",
-    "abstract": "This conceptual practice review examines alternative marketing strategies used by microenterprises during lockdowns using literature and institutional documents published no later than 2021. It argues that resilient marketing is the rapid reconfiguration of channels, offers, fulfillment, payment, and customer communication. Evidence was organized around four themes: social commerce and messaging, delivery and pickup models, product and pricing adaptation, and trust, payment, and customer retention. The synthesis shows that pandemic outcomes were rarely determined by a single factor; instead, they reflected interacting material, organizational, social, and informational conditions. The article proposes a layered response combining universal minimum provision, targeted support, continuous feedback, and locally adaptable implementation. Because this is a literature-based analysis rather than original field research, it does not report participants, newly collected data, or causal estimates. Its contribution lies in integrating early pandemic evidence into a practical framework for Philippine schools and communities, especially rural and resource-constrained settings.",
+    "articleType": "Strategic Review",
+    "abstract": "Lockdown restrictions did not merely reduce demand; they broke the ordinary route by which customers discovered, evaluated, purchased, received, and repurchased from microenterprises. This strategic review examines alternative marketing as the redesign of that route rather than a shift to social-media promotion alone. Evidence available through 2021 is organized into four operating jobs: making the offer discoverable, reducing uncertainty, completing a low-friction transaction, and fulfilling safely and reliably. The synthesis shows why tactics that generate attention may fail when payment, inventory, delivery, or customer recovery is weak. It also considers low-technology strategies such as neighborhood resellers, pre-order schedules, product bundles, and shared delivery. A minimum viable marketing system is proposed for resource-constrained firms, together with measures tied to orders and repeat business rather than likes. The article is a conceptual review and does not claim performance data from particular enterprises.",
     "keywords": [
-      "COVID-19",
-      "Philippines",
-      "rural communities",
-      "equity",
-      "policy",
-      "resilience"
+      "microenterprise",
+      "lockdown",
+      "digital marketing",
+      "order fulfillment",
+      "customer retention"
     ],
     "volume": "1",
     "issue": "1",
     "issueLabel": "January–June 2020",
     "publicationDate": "2026-08-10",
-    "pages": "22–31",
+    "pages": "1–4",
     "doi": "",
     "pdfFile": "assets/uploads/journal-archive/national-research-journal/volume-1-issue-1-2021/christian-paul-reyes-alternative-marketing-strategies-revised.pdf",
     "featured": false,
@@ -893,21 +892,20 @@ window.SHIRLEY_JOURNAL_ARTICLES = [
     "authors": [
       "Emmanuel D. Bautista"
     ],
-    "articleType": "Methodological and Practice Review",
-    "abstract": "This methodological and practice review examines development and validation of printed self-learning materials using literature and institutional documents published no later than 2021. It argues that printed modules are designed instructional systems that require staged expert review, learner testing, revision, and accessibility checks. Evidence was organized around four themes: constructive alignment, content and language review, usability and learner testing, and revision, production, and monitoring. The synthesis shows that pandemic outcomes were rarely determined by a single factor; instead, they reflected interacting material, organizational, social, and informational conditions. The article proposes a layered response combining universal minimum provision, targeted support, continuous feedback, and locally adaptable implementation. Because this is a literature-based analysis rather than original field research, it does not report participants, newly collected data, or causal estimates. Its contribution lies in integrating early pandemic evidence into a practical framework for Philippine schools and communities, especially rural and resource-constrained settings.",
+    "articleType": "Methodological Review",
+    "abstract": "Printed self-learning material is not simply classroom content transferred to paper. It is an instructional interface expected to explain, guide practice, elicit evidence, and support correction when the teacher is not physically present. This methodological review converts established instructional-design principles and Philippine continuity guidance into a build-test-revise protocol. Four forms of validity are distinguished: curricular accuracy, instructional coherence, learner usability, and production reliability. Expert review is necessary for the first two but cannot substitute for observation of learners using the material. The proposed workflow begins with a competency map, proceeds through prototype and cognitive tryout, and ends with print inspection, controlled release, error logging, and version management. The article also identifies common validation errors, including reliance on global mean ratings, validators with indistinguishable roles, and claims of effectiveness made without learner-outcome evidence. The result is a practical quality-assurance model rather than an evaluation of a particular module.",
     "keywords": [
-      "COVID-19",
-      "Philippines",
-      "rural communities",
-      "equity",
-      "policy",
-      "resilience"
+      "self-learning materials",
+      "module validation",
+      "instructional design",
+      "usability testing",
+      "print quality"
     ],
     "volume": "1",
     "issue": "1",
     "issueLabel": "January–June 2020",
     "publicationDate": "2026-08-10",
-    "pages": "62–71",
+    "pages": "1–4",
     "doi": "",
     "pdfFile": "assets/uploads/journal-archive/national-research-journal/volume-1-issue-1-2021/emmanuel-d-bautista-printed-self-learning-materials-revised.pdf",
     "featured": false,
@@ -947,21 +945,20 @@ window.SHIRLEY_JOURNAL_ARTICLES = [
     "authors": [
       "Abigail Therese Mercado"
     ],
-    "articleType": "Policy and Conceptual Review",
-    "abstract": "This policy and conceptual review examines disaster preparedness and public-health awareness in rural barangays using literature and institutional documents published no later than 2021. It argues that local preparedness is an all-hazards capability linking risk knowledge, trusted communication, surveillance, logistics, and inclusive drills. Evidence was organized around four themes: risk mapping and local knowledge, public-health literacy, coordination and logistics, and inclusion, drills, and learning. The synthesis shows that pandemic outcomes were rarely determined by a single factor; instead, they reflected interacting material, organizational, social, and informational conditions. The article proposes a layered response combining universal minimum provision, targeted support, continuous feedback, and locally adaptable implementation. Because this is a literature-based analysis rather than original field research, it does not report participants, newly collected data, or causal estimates. Its contribution lies in integrating early pandemic evidence into a practical framework for Philippine schools and communities, especially rural and resource-constrained settings.",
+    "articleType": "Policy Analysis",
+    "abstract": "Rural barangays often maintain disaster plans for storms, floods, landslides, or earthquakes while public-health communication is managed through a separate set of routines. COVID-19 demonstrated the cost of that separation. This policy analysis connects the prevention, preparedness, response, and recovery responsibilities of local disaster governance with risk communication, surveillance, referral, and continuity of essential services. It proposes a household-to-barangay preparedness loop built around five functions: knowing local risk, translating warning into action, detecting and referring health threats, sustaining essential needs, and learning after exercises or events. Preparedness is judged by observable capability rather than the existence of a plan or attendance at a seminar. The article offers drill scenarios, inclusion checks, and simple records suitable for low-resource settings. It is a conceptual and documentary analysis; it does not measure awareness levels in any named barangay.",
     "keywords": [
-      "COVID-19",
-      "Philippines",
-      "rural communities",
-      "equity",
-      "policy",
-      "resilience"
+      "barangay preparedness",
+      "public-health literacy",
+      "risk communication",
+      "all-hazards planning",
+      "rural governance"
     ],
     "volume": "1",
     "issue": "1",
     "issueLabel": "January–June 2020",
     "publicationDate": "2026-08-10",
-    "pages": "1–10",
+    "pages": "1–4",
     "doi": "",
     "pdfFile": "assets/uploads/journal-archive/national-research-journal/volume-1-issue-1-2021/abigail-therese-mercado-disaster-preparedness-revised.pdf",
     "featured": false,
@@ -1304,21 +1301,20 @@ window.SHIRLEY_JOURNAL_ARTICLES = [
     "authors": [
       "Camille Denise Fernandez"
     ],
-    "articleType": "Critical Integrative Review",
-    "abstract": "This critical integrative review examines indigenous and local practices for maintaining community resilience using literature and institutional documents published no later than 2021. It argues that community resilience is strengthened when local knowledge, mutual aid, customary institutions, and ecological practices are respected and connected to formal support. Evidence was organized around four themes: local knowledge and place-based risk reading, mutual aid and customary institutions, livelihood and ecological practices, and rights, participation, and knowledge co-production. The synthesis shows that pandemic outcomes were rarely determined by a single factor; instead, they reflected interacting material, organizational, social, and informational conditions. The article proposes a layered response combining universal minimum provision, targeted support, continuous feedback, and locally adaptable implementation. Because this is a literature-based analysis rather than original field research, it does not report participants, newly collected data, or causal estimates. Its contribution lies in integrating early pandemic evidence into a practical framework for Philippine schools and communities, especially rural and resource-constrained settings.",
+    "articleType": "Critical Interpretive Review",
+    "abstract": "Discussions of community resilience often extract visible practices—seed saving, communal labor, traditional forecasting, or mutual aid—while overlooking the relationships and authority that make those practices meaningful. This critical interpretive review examines Indigenous and local knowledge as a living system of observation, obligation, memory, and governance. It brings disaster-risk scholarship into conversation with rights-based instruments relevant to the Philippines. Four propositions organize the synthesis: knowledge is place-based and dynamic; reciprocity is infrastructure; ecological practice links livelihood and risk; and collaboration is legitimate only when communities share authority over knowledge use. The article rejects both romanticization and dismissal. Local practices cannot replace public investment or scientific services, but formal programs can also weaken resilience when they appropriate knowledge, bypass customary institutions, or standardize away local variation. A CARE framework—Consent, Authority, Reciprocity, and Evidence-in-context—is proposed for respectful documentation and co-production.",
     "keywords": [
-      "COVID-19",
-      "Philippines",
-      "rural communities",
-      "equity",
-      "policy",
-      "resilience"
+      "Indigenous knowledge",
+      "local knowledge",
+      "community resilience",
+      "reciprocity",
+      "knowledge governance"
     ],
     "volume": "1",
     "issue": "1",
     "issueLabel": "January–June 2020",
     "publicationDate": "2026-08-10",
-    "pages": "11–21",
+    "pages": "1–4",
     "doi": "",
     "pdfFile": "assets/uploads/journal-archive/national-research-journal/volume-1-issue-1-2021/camille-denise-fernandez-community-resilience-revised.pdf",
     "featured": false,
@@ -2015,21 +2011,20 @@ window.SHIRLEY_JOURNAL_ARTICLES = [
     "authors": [
       "Andrea Mae Ramos"
     ],
-    "articleType": "Integrative Literature Review",
-    "abstract": "This integrative literature review examines readiness of public-school teachers for emergency remote teaching using literature and institutional documents published no later than 2021. It argues that teacher readiness is a multidimensional condition involving access, pedagogy, assessment, communication, and institutional support. Evidence was organized around four themes: digital access and infrastructure, pedagogical adaptation, assessment and feedback, and professional learning and organizational support. The synthesis shows that pandemic outcomes were rarely determined by a single factor; instead, they reflected interacting material, organizational, social, and informational conditions. The article proposes a layered response combining universal minimum provision, targeted support, continuous feedback, and locally adaptable implementation. Because this is a literature-based analysis rather than original field research, it does not report participants, newly collected data, or causal estimates. Its contribution lies in integrating early pandemic evidence into a practical framework for Philippine schools and communities, especially rural and resource-constrained settings.",
+    "articleType": "Integrative Review",
+    "abstract": "Emergency remote teaching placed public-school teachers inside a delivery system that was being assembled while it was already in use. This integrative review distinguishes teacher readiness from simple confidence with technology. Readiness is treated as a chain of five capacities: dependable access, instructional redesign, assessment judgment, learner contact, and organizational support. Literature and policy documents available through 2021 were read comparatively, with attention to the difference between planned online learning and temporary emergency provision. The review finds that individual competence can be neutralized by unstable connectivity, unclear school routines, excessive preparation demands, or the absence of workable low-technology alternatives. It proposes a school readiness dashboard and a staged professional-learning model organized around recurring teaching decisions rather than isolated software training. The article offers an analytic framework, not prevalence estimates or evidence of causal impact.",
     "keywords": [
-      "COVID-19",
-      "Philippines",
-      "rural communities",
-      "equity",
-      "policy",
-      "resilience"
+      "emergency remote teaching",
+      "teacher readiness",
+      "public schools",
+      "instructional adaptation",
+      "Philippines"
     ],
     "volume": "1",
     "issue": "1",
     "issueLabel": "January–June 2020",
     "publicationDate": "2026-08-10",
-    "pages": "42–51",
+    "pages": "1–4",
     "doi": "",
     "pdfFile": "assets/uploads/journal-archive/national-research-journal/volume-1-issue-1-2021/andrea-mae-ramos-teacher-readiness-revised.pdf",
     "featured": false,
@@ -2285,21 +2280,20 @@ window.SHIRLEY_JOURNAL_ARTICLES = [
     "authors": [
       "Clarisse Joy Mendoza"
     ],
-    "articleType": "Scoping-Style Evidence Review",
-    "abstract": "This scoping-style evidence review examines students’ access to devices and internet connectivity in rural communities using literature and institutional documents published no later than 2021. It argues that rural connectivity is an educational equity issue requiring multichannel rather than online-only delivery. Evidence was organized around four themes: device availability and sharing, coverage, speed, and affordability, geographic and socioeconomic inequality, and inclusive multichannel delivery. The synthesis shows that pandemic outcomes were rarely determined by a single factor; instead, they reflected interacting material, organizational, social, and informational conditions. The article proposes a layered response combining universal minimum provision, targeted support, continuous feedback, and locally adaptable implementation. Because this is a literature-based analysis rather than original field research, it does not report participants, newly collected data, or causal estimates. Its contribution lies in integrating early pandemic evidence into a practical framework for Philippine schools and communities, especially rural and resource-constrained settings.",
+    "articleType": "Scoping Review",
+    "abstract": "This scoping review examines why device ownership and internet availability are inadequate proxies for students’ ability to participate in remote education. Drawing on Philippine and international evidence available through 2021, it reconstructs access as a journey: obtaining a usable device, reaching a stable connection, affording repeated use, finding time and space to study, completing platform-specific tasks, and recovering when a link fails. Rurality shapes each step through distance, market coverage, electricity, transport, and household livelihood patterns, but rural communities are not homogeneous. The synthesis introduces the concept of an access threshold: participation occurs only when all minimum conditions for a specific learning task are met at the same time. It recommends task-level access audits, offline-first design, and monitoring of failed attempts rather than enrollment alone. No local survey data are claimed.",
     "keywords": [
-      "COVID-19",
-      "Philippines",
-      "rural communities",
-      "equity",
-      "policy",
-      "resilience"
+      "digital divide",
+      "rural learners",
+      "device sharing",
+      "internet connectivity",
+      "remote education"
     ],
     "volume": "1",
     "issue": "1",
     "issueLabel": "January–June 2020",
     "publicationDate": "2026-08-10",
-    "pages": "52–61",
+    "pages": "1–4",
     "doi": "",
     "pdfFile": "assets/uploads/journal-archive/national-research-journal/volume-1-issue-1-2021/clarisse-joy-mendoza-device-internet-access-revised.pdf",
     "featured": false,
@@ -2559,21 +2553,20 @@ window.SHIRLEY_JOURNAL_ARTICLES = [
     "authors": [
       "Lorenzo Miguel Cruz"
     ],
-    "articleType": "Communication Policy Review",
-    "abstract": "This communication policy review examines use of social media for government and school information dissemination using literature and institutional documents published no later than 2021. It argues that social media is a fast but incomplete public-information layer requiring verification, accessibility, redundancy, and feedback. Evidence was organized around four themes: speed and reach, credibility and misinformation, accessibility and the digital divide, and two-way communication and governance. The synthesis shows that pandemic outcomes were rarely determined by a single factor; instead, they reflected interacting material, organizational, social, and informational conditions. The article proposes a layered response combining universal minimum provision, targeted support, continuous feedback, and locally adaptable implementation. Because this is a literature-based analysis rather than original field research, it does not report participants, newly collected data, or causal estimates. Its contribution lies in integrating early pandemic evidence into a practical framework for Philippine schools and communities, especially rural and resource-constrained settings.",
+    "articleType": "Communication-Policy Review",
+    "abstract": "Social media allowed government offices and schools to publish rapidly during the COVID-19 emergency, but publication is not the same as successful public information. This communication-policy review treats dissemination as a service with five tests: authority, findability, comprehension, actionability, and correctability. Evidence through 2021 shows that platform reach can coexist with exclusion, message overload, impersonation, outdated posts, rumor circulation, and unanswered public questions. A two-lane model is proposed. The public lane issues short, dated, shareable instructions; the record lane preserves the full advisory, version history, contact point, and correction. Social media is positioned as one layer in a redundant channel system that includes text, print, websites, hotlines, and community intermediaries. The article develops a message card, correction protocol, and operational metrics that go beyond follower counts. It is a conceptual synthesis and does not evaluate a particular agency or school.",
     "keywords": [
-      "COVID-19",
-      "Philippines",
-      "rural communities",
-      "equity",
-      "policy",
-      "resilience"
+      "public information",
+      "social media governance",
+      "school communication",
+      "corrections",
+      "infodemic"
     ],
     "volume": "1",
     "issue": "1",
     "issueLabel": "January–June 2020",
     "publicationDate": "2026-08-10",
-    "pages": "32–41",
+    "pages": "1–4",
     "doi": "",
     "pdfFile": "assets/uploads/journal-archive/national-research-journal/volume-1-issue-1-2021/lorenzo-miguel-cruz-social-media-information-dissemination-revised.pdf",
     "featured": false,
