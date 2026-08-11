@@ -2635,3 +2635,146 @@ body.is-scrolled .brand img { width: 218px; height: 64px; }
   .review-publication-track .review-flow-node, .review-publish { width: 100%; }
   .peer-review-rules li { padding-left: 42px; }
 }
+
+/* ==========================================================================
+   Live-site motion system — August 2026
+   ========================================================================== */
+
+/* Coordinated first impression for the home and interior-page heroes. */
+.hero-copy > *,
+.page-hero-inner > *,
+.repository-page-hero-grid > * {
+  animation: site-intro-rise .72s cubic-bezier(.2, .72, .2, 1) both;
+}
+.hero-copy > :nth-child(2),
+.page-hero-inner > :nth-child(2) { animation-delay: 70ms; }
+.hero-copy > :nth-child(3),
+.page-hero-inner > :nth-child(3) { animation-delay: 140ms; }
+.hero-copy > :nth-child(4),
+.page-hero-inner > :nth-child(4) { animation-delay: 210ms; }
+.hero-copy > :nth-child(5),
+.page-hero-inner > :nth-child(5) { animation-delay: 280ms; }
+.hero-visual {
+  animation: site-intro-visual .9s .18s cubic-bezier(.2, .72, .2, 1) both;
+  perspective: 1100px;
+}
+.repository-page-hero-grid > :last-child { animation-delay: 150ms; }
+
+@keyframes site-intro-rise {
+  from { opacity: 0; transform: translateY(22px); }
+  to { opacity: 1; transform: translateY(0); }
+}
+@keyframes site-intro-visual {
+  from { opacity: 0; transform: translate3d(34px, 12px, 0) scale(.96); }
+  to { opacity: 1; transform: translate3d(0, 0, 0) scale(1); }
+}
+
+/* Slow ambient movement keeps the hero alive without distracting from copy. */
+.hero::before { animation: hero-orbit-large 20s ease-in-out infinite alternate; }
+.hero::after { animation: hero-orbit-small 24s ease-in-out infinite alternate-reverse; }
+.page-hero::after,
+.repository-page-hero::after { animation: hero-orbit-small 24s ease-in-out infinite alternate; }
+.hero-cover-wrap {
+  transform: translate3d(var(--hero-shift-x, 0), var(--hero-shift-y, 0), 0)
+    rotateX(var(--hero-rotate-x, 0)) rotateY(var(--hero-rotate-y, 0));
+  transform-style: preserve-3d;
+  transition: transform .35s cubic-bezier(.2, .72, .2, 1);
+  will-change: transform;
+}
+.hero-badge.one { animation: badge-drift-one 6.5s ease-in-out infinite; }
+.hero-badge.two { animation: badge-drift-two 7.5s .6s ease-in-out infinite; }
+
+@keyframes hero-orbit-large {
+  from { transform: translate3d(-18px, -12px, 0) rotate(-4deg); }
+  to { transform: translate3d(28px, 24px, 0) rotate(5deg); }
+}
+@keyframes hero-orbit-small {
+  from { transform: translate3d(-18px, 8px, 0) rotate(0); }
+  to { transform: translate3d(22px, -18px, 0) rotate(7deg); }
+}
+@keyframes badge-drift-one {
+  0%, 100% { transform: translate3d(0, 0, 24px); }
+  50% { transform: translate3d(0, -9px, 24px); }
+}
+@keyframes badge-drift-two {
+  0%, 100% { transform: translate3d(0, 0, 34px); }
+  50% { transform: translate3d(0, 8px, 34px); }
+}
+
+/* Mobile menu icon communicates the open/closed state. */
+.menu-toggle span {
+  transform-origin: center;
+  transition: transform .28s ease, opacity .2s ease, width .28s ease;
+}
+.menu-toggle[aria-expanded="true"] span:nth-child(1) { transform: translateY(7px) rotate(45deg); }
+.menu-toggle[aria-expanded="true"] span:nth-child(2) { width: 0; opacity: 0; }
+.menu-toggle[aria-expanded="true"] span:nth-child(3) { transform: translateY(-7px) rotate(-45deg); }
+
+/* Pointer depth is deliberately subtle and only enabled by JavaScript on fine pointers. */
+.motion-card {
+  --tilt-x: 0deg;
+  --tilt-y: 0deg;
+  position: relative;
+  transform-style: preserve-3d;
+  transition: transform .28s ease, box-shadow .28s ease;
+  will-change: transform;
+}
+.motion-card.is-tilting {
+  transform: perspective(900px) rotateX(var(--tilt-x)) rotateY(var(--tilt-y)) translateY(-5px);
+  box-shadow: 0 24px 48px rgba(6, 29, 66, .16);
+}
+.motion-card.is-tilting::after {
+  content: "";
+  position: absolute;
+  inset: 0;
+  z-index: 4;
+  border-radius: inherit;
+  background: radial-gradient(circle at var(--tilt-glow-x) var(--tilt-glow-y), rgba(255,255,255,.18), transparent 34%);
+  opacity: .8;
+  pointer-events: none;
+}
+
+/* Reveal headings gain a small editorial accent as they enter the viewport. */
+.section-heading::after,
+.journal-panel-heading::after {
+  content: "";
+  display: block;
+  width: 52px;
+  height: 3px;
+  margin-top: 18px;
+  border-radius: 99px;
+  background: linear-gradient(90deg, var(--blue-600), #8ec8ff);
+  transform: scaleX(0);
+  transform-origin: left;
+  transition: transform .55s .28s cubic-bezier(.2, .72, .2, 1);
+}
+.section-heading.center::after,
+.journal-panel-heading.center::after { margin-inline: auto; transform-origin: center; }
+.section-heading.is-revealed::after,
+.journal-panel-heading.is-revealed::after,
+.journal-tab-panel.is-revealed .journal-panel-heading::after { transform: scaleX(1); }
+
+@media (max-width: 900px) {
+  .hero-badge.one,
+  .hero-badge.two { animation-duration: 8s; }
+}
+
+@media (prefers-reduced-motion: reduce) {
+  .hero-copy > *,
+  .page-hero-inner > *,
+  .repository-page-hero-grid > *,
+  .hero-visual,
+  .hero::before,
+  .hero::after,
+  .page-hero::after,
+  .repository-page-hero::after,
+  .hero-badge.one,
+  .hero-badge.two {
+    animation: none !important;
+  }
+  .hero-cover-wrap,
+  .motion-card,
+  .motion-card.is-tilting { transform: none !important; }
+  .section-heading::after,
+  .journal-panel-heading::after { transform: scaleX(1); }
+}
