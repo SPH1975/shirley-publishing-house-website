@@ -5,23 +5,22 @@
   "authors": [
     "Frances Camille Robles"
   ],
-  "articleType": "Scoping-Style Technology Review",
-  "abstract": "This scoping-style technology review examines effectiveness of teacher-made video lessons and digital materials using literature and institutional documents published no later than 2021. It argues that teacher-made digital materials are most useful when concise, accessible, curriculum-aligned, cognitively manageable, and integrated with practice and feedback. Evidence was organized around four themes: multimedia design, curriculum alignment, accessibility and bandwidth, practice, interaction, and feedback. The synthesis shows that pandemic outcomes were rarely determined by a single factor; instead, they reflected interacting material, organizational, social, and informational conditions. The article proposes a layered response combining universal minimum provision, targeted support, continuous feedback, and locally adaptable implementation. Because this is a literature-based analysis rather than original field research, it does not report participants, newly collected data, or causal estimates. Its contribution lies in integrating early pandemic evidence into a practical framework for Philippine schools and communities, especially rural and resource-constrained settings.",
+  "articleType": "Conceptual Review",
+  "abstract": "Teacher-made video lessons and digital materials are often evaluated through views, duration, or learner preference, although these measures do not establish learning. This conceptual review defines effectiveness as an evidence chain connecting an instructional objective, an economical representation, an active learner response, accessible delivery, and feedback that changes the next task. Multimedia research available through 2021 suggests that digital materials become less useful when decoration competes with explanation, videos are long and passive, controls are difficult to use, or the product cannot function under limited bandwidth. The proposed Instructional Media Evidence Chain asks teachers to script the decision learners must make, segment content around meaningful units, pair explanation with a prompt or practice, provide captions and offline alternatives, and collect a small indicator of understanding. It distinguishes production quality from instructional quality and recommends reuse only after reviewing error evidence. The article does not compare platforms or estimate achievement effects. It offers criteria for designing and evaluating teacher-made resources according to what learners can do after using them.",
   "keywords": [
-    "COVID-19",
-    "Philippines",
-    "rural communities",
-    "equity",
-    "policy",
-    "resilience"
+    "teacher-made video",
+    "digital materials",
+    "multimedia learning",
+    "accessibility",
+    "formative evidence"
   ],
   "volume": "2",
   "issue": "2",
   "issueLabel": "July–December 2021",
   "publicationDate": "2026-08-10",
-  "pages": "41–50",
+  "pages": "1–3",
   "doi": "",
-  "pdfFile": "assets/uploads/journal-archive/national-research-journal/volume-2-issue-2-2021/frances-camille-robles-teacher-made-video-lessons.pdf",
+  "pdfFile": "assets/uploads/journal-archive/national-research-journal/volume-2-issue-2-2021/frances-camille-robles-teacher-made-video-lessons-revised-2026-08-11.pdf",
   "featured": false,
   "active": true
 }
