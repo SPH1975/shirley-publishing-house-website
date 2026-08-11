@@ -2,12 +2,11 @@ window.SHIRLEY_JOURNAL_ARTICLES = [
   {
     "journalId": "national-research-journal",
     "keywords": [
-      "COVID-19",
-      "Philippines",
-      "rural communities",
-      "equity",
-      "policy",
-      "resilience"
+      "academic performance",
+      "learning gaps",
+      "distance education",
+      "diagnostic assessment",
+      "recovery"
     ],
     "volume": "2",
     "issue": "1",
@@ -21,20 +20,19 @@ window.SHIRLEY_JOURNAL_ARTICLES = [
     "authors": [
       "Paolo Miguel Soriano"
     ],
-    "articleType": "Scoping-Style Evidence Review",
-    "abstract": "This scoping-style evidence review examines academic performance and learning gaps during distance education using literature and institutional documents published no later than 2021. It argues that academic performance during distance education reflects unequal opportunities to learn, making learning gaps an interaction of prior achievement, access, instructional time, and support. Evidence was organized around four themes: measurement of performance, opportunity to learn, unequal learning loss, and diagnosis and recovery. The synthesis shows that pandemic outcomes were rarely determined by a single factor; instead, they reflected interacting material, organizational, social, and informational conditions. The article proposes a layered response combining universal minimum provision, targeted support, continuous feedback, and locally adaptable implementation. Because this is a literature-based analysis rather than original field research, it does not report participants, newly collected data, or causal estimates. Its contribution lies in integrating early pandemic evidence into a practical framework for Philippine schools and communities, especially rural and resource-constrained settings.",
-    "pages": "21–30",
-    "pdfFile": "assets/uploads/journal-archive/national-research-journal/volume-2-issue-1-2021/paolo-miguel-soriano-learning-gaps.pdf"
+    "articleType": "Conceptual Review",
+    "abstract": "Academic performance during distance education cannot be interpreted responsibly from grades alone. Changes in task access, adult assistance, assessment conditions, curriculum coverage, and grading policy can alter reported performance even when underlying learning moves differently. This conceptual review separates four questions: whether learners encountered the intended content, whether they could demonstrate knowledge independently, which prerequisite skills are missing, and whether gaps are widening across groups. Evidence through 2021 is organized into a Learning-Gap Diagnostic Map linking curriculum opportunity, common assessment, error pattern, and recovery priority. The framework discourages deficit labels based on one score and recommends a small set of low-stakes anchor tasks, item-level diagnosis, evidence of assistance, and repeated checks after intervention. It distinguishes a missed opportunity to learn from a persistent misconception and treats learner strengths as part of recovery planning. The article does not estimate national or local learning loss. Its contribution is a method for converting uncertain performance evidence into defensible instructional decisions without confusing emergency grades with comparable achievement measures.",
+    "pages": "1–3",
+    "pdfFile": "assets/uploads/journal-archive/national-research-journal/volume-2-issue-1-2021/paolo-miguel-soriano-learning-gaps-revised-2026-08-11.pdf"
   },
   {
     "journalId": "national-research-journal",
     "keywords": [
-      "COVID-19",
-      "Philippines",
-      "rural communities",
-      "equity",
-      "policy",
-      "resilience"
+      "COVID-19 vaccination",
+      "vaccine confidence",
+      "community communication",
+      "access",
+      "acceptance"
     ],
     "volume": "2",
     "issue": "1",
@@ -48,20 +46,20 @@ window.SHIRLEY_JOURNAL_ARTICLES = [
     "authors": [
       "Sofia Beatrice Santiago"
     ],
-    "articleType": "Risk-Communication and Policy Review",
-    "abstract": "This risk-communication and policy review examines COVID-19 vaccine awareness and acceptance in local communities using literature and institutional documents published no later than 2021. It argues that vaccine acceptance is influenced by confidence, perceived risk, convenience, social norms, trusted messengers, and transparent communication about benefits and uncertainty. Evidence was organized around four themes: knowledge and risk perception, confidence and misinformation, access and convenience, and trusted local engagement. The synthesis shows that pandemic outcomes were rarely determined by a single factor; instead, they reflected interacting material, organizational, social, and informational conditions. The article proposes a layered response combining universal minimum provision, targeted support, continuous feedback, and locally adaptable implementation. Because this is a literature-based analysis rather than original field research, it does not report participants, newly collected data, or causal estimates. Its contribution lies in integrating early pandemic evidence into a practical framework for Philippine schools and communities, especially rural and resource-constrained settings.",
-    "pages": "71–80",
-    "pdfFile": "assets/uploads/journal-archive/national-research-journal/volume-2-issue-1-2021/sofia-beatrice-santiago-vaccine-awareness.pdf"
+    "articleType": "Conceptual Review",
+    "abstract": "Vaccine awareness is often treated as a communication endpoint, although recognizing a vaccine does not establish confidence, intention, access, or completion. This conceptual review separates those stages and examines community acceptance using evidence available through 2021. It proposes a Vaccine Acceptance Pathway that begins with exposure to understandable information, proceeds through source appraisal and personal deliberation, and ends with feasible access and follow-through. The pathway explains why message volume alone cannot resolve mistrust, why stated willingness can coexist with missed vaccination, and why respectful conversation must be paired with convenient service. It recommends segmenting questions rather than labeling people as simply hesitant, documenting rumor patterns without repeating them carelessly, using trusted messengers within clear clinical boundaries, and monitoring drop-off between registration, first contact, and completed doses. The article does not estimate acceptance in a locality or prescribe a universal message. It offers a framework for designing and evaluating community vaccination communication without confusing awareness with action.",
+    "pages": "1–3",
+    "pdfFile": "assets/uploads/journal-archive/national-research-journal/volume-2-issue-1-2021/sofia-beatrice-santiago-vaccine-awareness-revised-2026-08-11.pdf"
   },
   {
     "journalId": "national-research-journal",
     "keywords": [
-      "COVID-19",
-      "Philippines",
-      "rural communities",
-      "equity",
-      "policy",
-      "resilience"
+      "digital literacy",
+      "teachers",
+      "parents",
+      "learners",
+      "digital safety",
+      "remote education"
     ],
     "volume": "2",
     "issue": "1",
@@ -75,20 +73,19 @@ window.SHIRLEY_JOURNAL_ARTICLES = [
     "authors": [
       "Noel Christian Aquino"
     ],
-    "articleType": "Scoping-Style Digital-Literacy Review",
-    "abstract": "This scoping-style digital-literacy review examines digital literacy of teachers, parents, and learners using literature and institutional documents published no later than 2021. It argues that digital literacy is a relational capability involving access, operational skill, information judgment, safety, communication, content creation, and supported participation. Evidence was organized around four themes: access and operational skills, information and media literacy, online safety and privacy, and pedagogical and family support. The synthesis shows that pandemic outcomes were rarely determined by a single factor; instead, they reflected interacting material, organizational, social, and informational conditions. The article proposes a layered response combining universal minimum provision, targeted support, continuous feedback, and locally adaptable implementation. Because this is a literature-based analysis rather than original field research, it does not report participants, newly collected data, or causal estimates. Its contribution lies in integrating early pandemic evidence into a practical framework for Philippine schools and communities, especially rural and resource-constrained settings.",
-    "pages": "51–60",
-    "pdfFile": "assets/uploads/journal-archive/national-research-journal/volume-2-issue-1-2021/noel-christian-aquino-digital-literacy.pdf"
+    "articleType": "Conceptual Review",
+    "abstract": "Digital literacy in remote education is often reduced to device operation, although successful participation requires teachers, parents, and learners to complete connected tasks with different responsibilities. This conceptual review proposes a Shared Digital Task Ecosystem organized around access, operation, information judgment, communication, safety, and repair. Evidence through 2021 suggests that a platform can be technically available while learning fails because files are too large, instructions are fragmented, sources are unreliable, privacy expectations are unclear, or users have no recovery route after an error. The framework maps each recurring school task across the three actors and assigns one accountable process owner. It recommends performance-based support, low-bandwidth alternatives, common file and message conventions, age-appropriate safety rules, and a help system that records recurring breakdowns. It also distinguishes household assistance from surveillance and teacher competence from personal ownership of equipment. The article does not score the digital literacy of any group. Its contribution is a relational model for evaluating whether the combined system allows people to access, judge, communicate, protect, and recover while completing authentic educational tasks.",
+    "pages": "1–3",
+    "pdfFile": "assets/uploads/journal-archive/national-research-journal/volume-2-issue-1-2021/noel-christian-aquino-digital-literacy-revised-2026-08-11.pdf"
   },
   {
     "journalId": "national-research-journal",
     "keywords": [
-      "COVID-19",
-      "Philippines",
-      "rural communities",
-      "equity",
-      "policy",
-      "resilience"
+      "barangay governance",
+      "pandemic response",
+      "referral",
+      "risk communication",
+      "accountability"
     ],
     "volume": "2",
     "issue": "1",
@@ -102,20 +99,19 @@ window.SHIRLEY_JOURNAL_ARTICLES = [
     "authors": [
       "Rochelle Mae Bautista"
     ],
-    "articleType": "Local-Governance Policy and Program Review",
-    "abstract": "This local-governance policy and program review examines effectiveness of barangay-level pandemic response programs using literature and institutional documents published no later than 2021. It argues that barangay-level response effectiveness depends on clear mandates, credible information, inclusive surveillance and assistance, logistical capacity, coordination, and accountable feedback. Evidence was organized around four themes: local coordination, risk communication, surveillance, referral, and assistance, and equity and accountability. The synthesis shows that pandemic outcomes were rarely determined by a single factor; instead, they reflected interacting material, organizational, social, and informational conditions. The article proposes a layered response combining universal minimum provision, targeted support, continuous feedback, and locally adaptable implementation. Because this is a literature-based analysis rather than original field research, it does not report participants, newly collected data, or causal estimates. Its contribution lies in integrating early pandemic evidence into a practical framework for Philippine schools and communities, especially rural and resource-constrained settings.",
-    "pages": "61–70",
-    "pdfFile": "assets/uploads/journal-archive/national-research-journal/volume-2-issue-1-2021/rochelle-mae-bautista-barangay-response.pdf"
+    "articleType": "Conceptual Review",
+    "abstract": "Barangay pandemic programs operated where national rules met household realities. This conceptual review defines effectiveness as a reliable service chain rather than the number of ordinances, announcements, or activities completed. Literature and Philippine policy available through 2021 are organized around five linked functions: detecting a concern, assessing urgency, connecting residents to health or social services, sustaining essential support, and documenting correction. The synthesis shows that a visible program can still fail when residents cannot report safely, case information stops at collection, referral routes are unclear, relief rules are opaque, or local workers lack protection. It proposes a Barangay Response Service Chain with minimum evidence for each handoff and an equity check for people facing disability, language, transport, income, or digital barriers. The article is an analytic review, not an evaluation of a named barangay, and reports no invented beneficiaries or outcome rates. Its contribution is a practical framework for examining whether local response functions connect from first contact to resolution.",
+    "pages": "1–3",
+    "pdfFile": "assets/uploads/journal-archive/national-research-journal/volume-2-issue-1-2021/rochelle-mae-bautista-barangay-response-revised-2026-08-11.pdf"
   },
   {
     "journalId": "national-research-journal",
     "keywords": [
-      "COVID-19",
-      "Philippines",
-      "rural communities",
-      "equity",
-      "policy",
-      "resilience"
+      "modular distance learning",
+      "elementary learners",
+      "feedback",
+      "caregiver support",
+      "learning continuity"
     ],
     "volume": "2",
     "issue": "1",
@@ -129,20 +125,19 @@ window.SHIRLEY_JOURNAL_ARTICLES = [
     "authors": [
       "Marielle Anne de Guzman"
     ],
-    "articleType": "Integrative Effectiveness Review",
-    "abstract": "This integrative effectiveness review examines effectiveness of modular distance learning among elementary learners using literature and institutional documents published no later than 2021. It argues that the effectiveness of modular distance learning depends on instructional quality, feedback, adult support, learner independence, and equitable access rather than the distribution of printed packets alone. Evidence was organized around four themes: access and continuity, instructional design and clarity, feedback and adult support, and learning outcomes and equity. The synthesis shows that pandemic outcomes were rarely determined by a single factor; instead, they reflected interacting material, organizational, social, and informational conditions. The article proposes a layered response combining universal minimum provision, targeted support, continuous feedback, and locally adaptable implementation. Because this is a literature-based analysis rather than original field research, it does not report participants, newly collected data, or causal estimates. Its contribution lies in integrating early pandemic evidence into a practical framework for Philippine schools and communities, especially rural and resource-constrained settings.",
-    "pages": "11–20",
-    "pdfFile": "assets/uploads/journal-archive/national-research-journal/volume-2-issue-1-2021/marielle-anne-de-guzman-modular-distance-learning.pdf"
+    "articleType": "Conceptual Review",
+    "abstract": "Modular distance learning is frequently judged by distribution and submission, although elementary learners require guidance, feedback, and repeated opportunities to recover from misunderstanding. This conceptual review defines effectiveness as a complete learning cycle rather than successful packet circulation. Evidence and policy available through 2021 are organized into five functions: orient the learner and caregiver, activate prior knowledge, support an independent attempt, interpret returned evidence, and provide a timely next step. The Elementary Module Learning Cycle distinguishes essential learning from page completion and assigns caregivers a bounded role that does not depend on subject expertise. It recommends readable directions, predictable weekly maps, embedded help cues, short diagnostic tasks, multiple response modes, and a return system that records missing or heavily assisted work without penalizing the learner. The framework also treats distribution failure, comprehension difficulty, and feedback delay as separate implementation problems. This article does not compare learner outcomes or claim that modules are universally effective. It offers criteria for determining whether modular delivery functions as instruction for children whose independence, reading ability, and household support differ substantially.",
+    "pages": "1–3",
+    "pdfFile": "assets/uploads/journal-archive/national-research-journal/volume-2-issue-1-2021/marielle-anne-de-guzman-modular-distance-learning-revised-2026-08-11.pdf"
   },
   {
     "journalId": "national-research-journal",
     "keywords": [
-      "COVID-19",
-      "Philippines",
-      "rural communities",
-      "equity",
-      "policy",
-      "resilience"
+      "mathematics achievement",
+      "printed modules",
+      "worked examples",
+      "feedback",
+      "learning recovery"
     ],
     "volume": "2",
     "issue": "1",
@@ -156,20 +151,19 @@ window.SHIRLEY_JOURNAL_ARTICLES = [
     "authors": [
       "Carlo Emmanuel Mercado"
     ],
-    "articleType": "Integrative Mathematics-Education Review",
-    "abstract": "This integrative mathematics-education review examines mathematics achievement in a modular learning environment using literature and institutional documents published no later than 2021. It argues that mathematics achievement in modular environments depends on conceptual explanations, worked examples, feedback, practice quality, language accessibility, and opportunities to address misconceptions. Evidence was organized around four themes: conceptual understanding, worked examples and practice, feedback and misconception repair, and access and family support. The synthesis shows that pandemic outcomes were rarely determined by a single factor; instead, they reflected interacting material, organizational, social, and informational conditions. The article proposes a layered response combining universal minimum provision, targeted support, continuous feedback, and locally adaptable implementation. Because this is a literature-based analysis rather than original field research, it does not report participants, newly collected data, or causal estimates. Its contribution lies in integrating early pandemic evidence into a practical framework for Philippine schools and communities, especially rural and resource-constrained settings.",
-    "pages": "81–90",
-    "pdfFile": "assets/uploads/journal-archive/national-research-journal/volume-2-issue-1-2021/carlo-emmanuel-mercado-mathematics-achievement.pdf"
+    "articleType": "Conceptual Review",
+    "abstract": "Printed modules can preserve mathematics practice when classroom contact is interrupted, but distribution alone does not establish learning. This conceptual review examines achievement as the product of a feedback loop among task interpretation, worked examples, independent practice, error evidence, and instructional response. Evidence through 2021 suggests that modular mathematics becomes fragile when prerequisite gaps are invisible, examples display procedures without reasoning, answer keys replace diagnosis, and delayed feedback allows misconceptions to consolidate. The article proposes a Worked-Example Feedback Loop in which each module identifies prerequisite knowledge, models a complete solution with self-explanation prompts, sequences practice by variation, collects interpretable learner work, and routes errors to a targeted response. The approach protects learner authorship by assigning caregivers a support role rather than asking them to teach unfamiliar procedures. It also recommends separating module completion, procedural accuracy, and conceptual transfer in assessment. This is a design framework, not an empirical estimate of achievement. Its purpose is to make the instructional mechanisms inside modular delivery visible and testable.",
+    "pages": "1–3",
+    "pdfFile": "assets/uploads/journal-archive/national-research-journal/volume-2-issue-1-2021/carlo-emmanuel-mercado-mathematics-achievement-revised-2026-08-11.pdf"
   },
   {
     "journalId": "national-research-journal",
     "keywords": [
-      "COVID-19",
-      "Philippines",
-      "rural communities",
-      "equity",
-      "policy",
-      "resilience"
+      "parental involvement",
+      "modular learning",
+      "online learning",
+      "family-school partnership",
+      "learner agency"
     ],
     "volume": "2",
     "issue": "1",
@@ -183,20 +177,20 @@ window.SHIRLEY_JOURNAL_ARTICLES = [
     "authors": [
       "Renato Luis Domingo"
     ],
-    "articleType": "Integrative Family-Engagement Review",
-    "abstract": "This integrative family-engagement review examines parental involvement in modular and online learning using literature and institutional documents published no later than 2021. It argues that parental involvement in remote learning is shaped by time, confidence, communication, resources, and role clarity and should not be treated as unlimited substitute teaching. Evidence was organized around four themes: home learning roles, time and economic constraints, instructional confidence, and school-family partnerships. The synthesis shows that pandemic outcomes were rarely determined by a single factor; instead, they reflected interacting material, organizational, social, and informational conditions. The article proposes a layered response combining universal minimum provision, targeted support, continuous feedback, and locally adaptable implementation. Because this is a literature-based analysis rather than original field research, it does not report participants, newly collected data, or causal estimates. Its contribution lies in integrating early pandemic evidence into a practical framework for Philippine schools and communities, especially rural and resource-constrained settings.",
-    "pages": "31–40",
-    "pdfFile": "assets/uploads/journal-archive/national-research-journal/volume-2-issue-1-2021/renato-luis-domingo-parental-involvement.pdf"
+    "articleType": "Conceptual Review",
+    "abstract": "Remote education expanded parental involvement while blurring the boundary between support and substitute teaching. This conceptual review examines involvement as a negotiated family-school relationship rather than a single amount of participation. Evidence through 2021 is organized around five roles: prepare the learning conditions, encourage learner agency, observe progress, communicate evidence, and refer instructional problems to the teacher. The proposed Family-School Support Boundary protects parents from being held responsible for curriculum delivery and protects assessment from answers produced by adults. It recognizes that employment, household care, language, education, disability, connectivity, and device sharing shape what families can reasonably provide. The framework recommends weekly demand maps, role-specific guidance, disclosure of assistance, predictable contact routes, and differentiated support for families facing higher coordination costs. It also distinguishes productive involvement from constant monitoring or control. The article does not measure parental participation or claim that more involvement always improves achievement. Its purpose is to define equitable, observable roles through which parents and schools can coordinate without transferring professional teaching obligations to the household.",
+    "pages": "1–3",
+    "pdfFile": "assets/uploads/journal-archive/national-research-journal/volume-2-issue-1-2021/renato-luis-domingo-parental-involvement-revised-2026-08-11.pdf"
   },
   {
     "journalId": "national-research-journal",
     "keywords": [
-      "COVID-19",
-      "Philippines",
-      "rural communities",
-      "equity",
-      "policy",
-      "resilience"
+      "reading difficulty",
+      "school closure",
+      "decoding",
+      "fluency",
+      "comprehension",
+      "learning recovery"
     ],
     "volume": "2",
     "issue": "1",
@@ -210,20 +204,19 @@ window.SHIRLEY_JOURNAL_ARTICLES = [
     "authors": [
       "Therese Nicole Agustin"
     ],
-    "articleType": "Scoping-Style Literacy Review",
-    "abstract": "This scoping-style literacy review examines reading difficulties among learners during prolonged school closures using literature and institutional documents published no later than 2021. It argues that prolonged school closures can deepen reading difficulties by reducing explicit instruction, guided practice, oral interaction, access to texts, and timely diagnosis. Evidence was organized around four themes: foundational reading disruption, comprehension and vocabulary, home literacy inequality, and screening and targeted support. The synthesis shows that pandemic outcomes were rarely determined by a single factor; instead, they reflected interacting material, organizational, social, and informational conditions. The article proposes a layered response combining universal minimum provision, targeted support, continuous feedback, and locally adaptable implementation. Because this is a literature-based analysis rather than original field research, it does not report participants, newly collected data, or causal estimates. Its contribution lies in integrating early pandemic evidence into a practical framework for Philippine schools and communities, especially rural and resource-constrained settings.",
-    "pages": "41–50",
-    "pdfFile": "assets/uploads/journal-archive/national-research-journal/volume-2-issue-1-2021/therese-nicole-agustin-reading-difficulties.pdf"
+    "articleType": "Conceptual Review",
+    "abstract": "Prolonged school closures reduced direct opportunities for teachers to hear learners read, examine errors, and adjust instruction. The resulting concern is often summarized as reading difficulty, although the breakdown may occur in access to print, word recognition, fluency, oral language, background knowledge, or comprehension. This conceptual review proposes a Reading Difficulty Localization Ladder that moves from learning opportunity to increasingly complex reading processes. Evidence through 2021 supports brief, targeted checks rather than assigning a broad label from a single passage or completion record. The ladder begins by verifying access and language, then examines decoding, connected-text fluency, meaning at sentence and passage levels, and transfer to unfamiliar text. Each rung is paired with a distinct response and a rule for referral when progress remains limited. The framework also recommends short daily practice, decodable or appropriately leveled text, oral interaction, and feedback that preserves learner dignity. This article does not estimate prevalence or diagnose a reading disorder. It provides a structured route for locating instructional need after disrupted schooling.",
+    "pages": "1–3",
+    "pdfFile": "assets/uploads/journal-archive/national-research-journal/volume-2-issue-1-2021/therese-nicole-agustin-reading-difficulties-revised-2026-08-11.pdf"
   },
   {
     "journalId": "national-research-journal",
     "keywords": [
-      "COVID-19",
-      "Philippines",
-      "rural communities",
-      "equity",
-      "policy",
-      "resilience"
+      "teacher workload",
+      "occupational stress",
+      "coping",
+      "job demands",
+      "work recovery"
     ],
     "volume": "2",
     "issue": "1",
@@ -233,14 +226,14 @@ window.SHIRLEY_JOURNAL_ARTICLES = [
     "featured": false,
     "active": true,
     "id": "national-research-journal-volume-2-issue-1-jasmine-claire-velasco",
-    "title": "Teachers’ Workload, Stress, and Coping Strategies Under the New Normal",
+    "title": "Teachers' Workload, Stress, and Coping Strategies Under the New Normal",
     "authors": [
       "Jasmine Claire Velasco"
     ],
-    "articleType": "Integrative Occupational-Health Review",
-    "abstract": "This integrative occupational-health review examines teachers’ workload, stress, and coping strategies under the new normal using literature and institutional documents published no later than 2021. It argues that teacher stress under emergency education arose from intensified workload, role expansion, digital demands, and emotional labor, while sustainable coping required organizational as well as individual support. Evidence was organized around four themes: workload intensification, technostress and role conflict, emotional labor and well-being, and coping and organizational support. The synthesis shows that pandemic outcomes were rarely determined by a single factor; instead, they reflected interacting material, organizational, social, and informational conditions. The article proposes a layered response combining universal minimum provision, targeted support, continuous feedback, and locally adaptable implementation. Because this is a literature-based analysis rather than original field research, it does not report participants, newly collected data, or causal estimates. Its contribution lies in integrating early pandemic evidence into a practical framework for Philippine schools and communities, especially rural and resource-constrained settings.",
-    "pages": "1–10",
-    "pdfFile": "assets/uploads/journal-archive/national-research-journal/volume-2-issue-1-2021/jasmine-claire-velasco-teacher-workload-stress.pdf"
+    "articleType": "Conceptual Review",
+    "abstract": "Teacher stress during emergency education is often discussed as an individual coping problem even when workload is produced by institutional design. This conceptual review distinguishes task volume, task fragmentation, emotional demand, decision uncertainty, and recovery opportunity. Evidence through 2021 is interpreted through a job-demands and resources perspective and organized into a Workload Recovery Ledger. The ledger asks schools to identify each recurring demand, its educational purpose, time pattern, duplication, responsible owner, available resource, and recovery protection. The synthesis argues that wellness seminars cannot compensate for conflicting deadlines, parallel reporting channels, continuous availability, or unbounded emotional labor. Individual coping remains valuable, but it should operate after unnecessary demands are removed and essential work is prioritized. The proposed framework links workload review with clear service standards, communication windows, escalation routes, peer support, and periodic stop decisions. This article reports no stress prevalence or intervention effect. It offers an organizational method for making invisible work visible and for evaluating whether coping support is matched by changes in working conditions.",
+    "pages": "1–3",
+    "pdfFile": "assets/uploads/journal-archive/national-research-journal/volume-2-issue-1-2021/jasmine-claire-velasco-teacher-workload-stress-revised-2026-08-11.pdf"
   },
   {
     "journalId": "national-research-journal",
