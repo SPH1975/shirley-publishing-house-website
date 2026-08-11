@@ -107,9 +107,17 @@
     ['Publication Frequency', journal.publicationFrequency],
     ['Current Volume / Issue', journal.currentVolumeIssue],
     ['Established', journal.establishedYear],
+    ['Effectivity Date', journal.effectivityDate],
+    ['ISSN Assignment', journal.issnAssignedYear ? `ISSN ${journal.issn} assigned in ${journal.issnAssignedYear}` : ''],
   ].filter(([, value]) => value);
   const facts = document.getElementById('journal-facts');
   if (facts) facts.innerHTML = factValues.map(([label, value]) => `<div class="journal-fact"><span>${escapeHtml(label)}</span><strong>${escapeHtml(value)}</strong></div>`).join('');
+  if (facts && journal.historyNotice) {
+    facts.insertAdjacentHTML('afterend', `<aside class="repository-disclaimer" aria-label="Journal publication history">
+      <span class="repository-disclaimer-icon" aria-hidden="true">i</span>
+      <div><h3>Publication History</h3><p>${escapeHtml(journal.historyNotice)}</p></div>
+    </aside>`);
+  }
 
   const disciplineWrap = document.getElementById('journal-disciplines-wrap');
   const disciplines = document.getElementById('journal-disciplines');
@@ -195,6 +203,8 @@
         : journal.id === 'national-research-journal'
           ? `Volume ${escapeHtml(volume)} Issue No. ${escapeHtml(issue)}`
           : `Volume ${escapeHtml(volume)} · Issue ${escapeHtml(issue)}`;
+      const isPreIssnIssue = journal.id === 'national-research-journal'
+        && ['1', '2'].includes(String(volume));
       const articleCards = articles.map((article) => {
         const authors = (article.authors || []).join(', ') || 'Author information forthcoming';
         const meta = [
@@ -221,6 +231,7 @@
       }).join('');
       return `<section class="journal-issue-group">
         <header><div><p class="eyebrow">Journal issue</p><h3>${issueTitle}</h3></div>${issueLabel ? `<span>${escapeHtml(issueLabel)}</span>` : ''}</header>
+        ${isPreIssnIssue && journal.preIssnNotice ? `<p class="dialog-repository-note">${escapeHtml(journal.preIssnNotice)}</p>` : ''}
         <div class="journal-article-list">${articleCards}</div>
       </section>`;
     }).join('');
