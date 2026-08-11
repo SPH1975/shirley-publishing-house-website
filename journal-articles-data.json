@@ -303,23 +303,22 @@
     "authors": [
       "Alyssa Marie Manalo"
     ],
-    "articleType": "Conceptual Technology-Adoption Review",
-    "abstract": "This conceptual technology-adoption review examines adoption of cashless payments and online selling by microbusinesses using literature and institutional documents published no later than 2021. It argues that microbusiness adoption of digital commerce depends on perceived usefulness, ease of use, trust, transaction cost, connectivity, customer readiness, and platform capability. Evidence was organized around four themes: adoption incentives, skills and infrastructure, trust, fraud, and data protection, omnichannel business practice. The synthesis shows that pandemic outcomes were rarely determined by a single factor; instead, they reflected interacting material, organizational, social, and informational conditions. The article proposes a layered response combining universal minimum provision, targeted support, continuous feedback, and locally adaptable implementation. Because this is a literature-based analysis rather than original field research, it does not report participants, newly collected data, or causal estimates. Its contribution lies in integrating early pandemic evidence into a practical framework for Philippine schools and communities, especially rural and resource-constrained settings.",
+    "articleType": "Conceptual Review",
+    "abstract": "For a microbusiness, adopting cashless payment or online selling is not completed by opening an account or social-media page. A transaction must remain reliable from discovery and order confirmation through payment, fulfillment, reconciliation, and recovery. This conceptual review organizes evidence available through 2021 into a Digital Transaction Reliability Ladder. The framework explains why promotional reach can grow while losses, disputes, and owner workload also increase. It recommends a minimum catalog, explicit order and cutoff rules, separate verification of payment, documented fulfillment, daily reconciliation, customer-data limits, and fallback routes for connectivity or platform failure. Adoption should be staged according to customer need, transaction volume, fees, device access, fraud exposure, and the owner's capacity to maintain records. Cash remains a legitimate parallel option where exclusion would otherwise occur. The article does not estimate adoption rates or profitability and does not endorse a specific provider. Its contribution is a task-based method for deciding whether a digital channel creates dependable sales rather than merely online presence.",
     "keywords": [
-      "COVID-19",
-      "Philippines",
-      "rural communities",
-      "equity",
-      "policy",
-      "resilience"
+      "microbusiness",
+      "cashless payment",
+      "online selling",
+      "digital transaction",
+      "financial inclusion"
     ],
     "volume": "2",
     "issue": "2",
     "issueLabel": "July–December 2021",
     "publicationDate": "2026-08-10",
-    "pages": "1–10",
+    "pages": "1–3",
     "doi": "",
-    "pdfFile": "assets/uploads/journal-archive/national-research-journal/volume-2-issue-2-2021/alyssa-marie-manalo-cashless-payments-online-selling.pdf",
+    "pdfFile": "assets/uploads/journal-archive/national-research-journal/volume-2-issue-2-2021/alyssa-marie-manalo-cashless-payments-online-selling-revised-2026-08-11.pdf",
     "featured": false,
     "active": true
   },
@@ -330,23 +329,22 @@
     "authors": [
       "Gabriel Enrico Pascual"
     ],
-    "articleType": "Food-Systems Policy Review",
-    "abstract": "This food-systems policy review examines agricultural production and supply-chain disruptions during the pandemic using literature and institutional documents published no later than 2021. It argues that pandemic agricultural disruption operated through labor, inputs, transport, market access, storage, and price transmission, requiring continuity policies across the chain. Evidence was organized around four themes: production inputs and labor, transport and logistics, markets, prices, and perishability, resilient local food systems. The synthesis shows that pandemic outcomes were rarely determined by a single factor; instead, they reflected interacting material, organizational, social, and informational conditions. The article proposes a layered response combining universal minimum provision, targeted support, continuous feedback, and locally adaptable implementation. Because this is a literature-based analysis rather than original field research, it does not report participants, newly collected data, or causal estimates. Its contribution lies in integrating early pandemic evidence into a practical framework for Philippine schools and communities, especially rural and resource-constrained settings.",
+    "articleType": "Conceptual Review",
+    "abstract": "Pandemic disruptions in agriculture did not occur at one point. They moved through input access, farm labor and timing, aggregation, transport, exchange, and market information. This conceptual review proposes a Farm-to-Market Continuity Map for locating the earliest broken function and selecting a response that protects both food availability and producer livelihood. Evidence available through 2021 shows that aggregate production figures can conceal losses caused by delayed seed or feed, labor restrictions, rejected perishables, fragmented permits, missing buyers, and weak demand signals. The framework treats supply chains as coordinated services rather than a line of commodities. It recommends time-critical input classification, shared production calendars, temporary aggregation protocols, harmonized transport documents, explicit transaction terms, and two-way market feedback. Digital platforms are considered useful only when payment, grading, logistics, and dispute resolution are defined. The article does not estimate output, price, or income effects. Its contribution is an operational map for distinguishing production constraints from coordination failures and for designing continuity measures around perishability and timing.",
     "keywords": [
-      "COVID-19",
-      "Philippines",
-      "rural communities",
-      "equity",
-      "policy",
-      "resilience"
+      "agricultural production",
+      "food supply chain",
+      "pandemic disruption",
+      "logistics",
+      "market coordination"
     ],
     "volume": "2",
     "issue": "2",
     "issueLabel": "July–December 2021",
     "publicationDate": "2026-08-10",
-    "pages": "51–60",
+    "pages": "1–3",
     "doi": "",
-    "pdfFile": "assets/uploads/journal-archive/national-research-journal/volume-2-issue-2-2021/gabriel-enrico-pascual-agricultural-supply-chain-disruptions.pdf",
+    "pdfFile": "assets/uploads/journal-archive/national-research-journal/volume-2-issue-2-2021/gabriel-enrico-pascual-agricultural-supply-chain-disruptions-revised-2026-08-11.pdf",
     "featured": false,
     "active": true
   },
@@ -457,23 +455,22 @@
     "authors": [
       "Adrian Paolo Lim"
     ],
-    "articleType": "Methodological Review",
-    "abstract": "This methodological review examines assessment integrity in online and modular classes using literature and institutional documents published no later than 2021. It argues that assessment integrity is best protected through valid task design, transparent expectations, varied evidence, proportional verification, and supportive conditions rather than surveillance alone. Evidence was organized around four themes: validity and alignment, authentic task design, identity and unauthorized assistance, equity, privacy, and feedback. The synthesis shows that pandemic outcomes were rarely determined by a single factor; instead, they reflected interacting material, organizational, social, and informational conditions. The article proposes a layered response combining universal minimum provision, targeted support, continuous feedback, and locally adaptable implementation. Because this is a literature-based analysis rather than original field research, it does not report participants, newly collected data, or causal estimates. Its contribution lies in integrating early pandemic evidence into a practical framework for Philippine schools and communities, especially rural and resource-constrained settings.",
+    "articleType": "Conceptual Review",
+    "abstract": "Assessment integrity in online and modular classes is often framed as preventing cheating, although integrity also depends on whether the task measures the intended learning, preserves learner authorship, records relevant process, and supports a proportionate judgment. This conceptual review proposes an Assessment Evidence Integrity Model with five links: construct clarity, authentic task design, transparent conditions, corroborated authorship, and defensible interpretation. Evidence available through 2021 suggests that surveillance-heavy solutions can create privacy and access problems while failing to improve poor assessment design. The framework recommends varied application tasks, learner explanations, staged drafts, oral or written corroboration, assistance declarations, and low-stakes sampling across time. Security controls should be selected according to consequence and risk, with accessible alternatives and data minimization. The article distinguishes misconduct from collaboration, resource use, and household assistance permitted by design. It does not estimate dishonesty or validate an assessment system. Its contribution is a layered method for producing trustworthy evidence without assuming that one invigilated event is the only route to integrity.",
     "keywords": [
-      "COVID-19",
-      "Philippines",
-      "rural communities",
-      "equity",
-      "policy",
-      "resilience"
+      "assessment integrity",
+      "online learning",
+      "modular classes",
+      "authorship",
+      "authentic assessment"
     ],
     "volume": "2",
     "issue": "2",
     "issueLabel": "July–December 2021",
     "publicationDate": "2026-08-10",
-    "pages": "101–110",
+    "pages": "1–3",
     "doi": "",
-    "pdfFile": "assets/uploads/journal-archive/national-research-journal/volume-2-issue-2-2021/adrian-paolo-lim-assessment-integrity.pdf",
+    "pdfFile": "assets/uploads/journal-archive/national-research-journal/volume-2-issue-2-2021/adrian-paolo-lim-assessment-integrity-revised-2026-08-11.pdf",
     "featured": false,
     "active": true
   },
@@ -757,23 +754,22 @@
     "authors": [
       "Monica Isabel Reyes"
     ],
-    "articleType": "Program and Policy Review",
-    "abstract": "This program and policy review examines community-based livelihood programs for families affected by covid-19 using literature and institutional documents published no later than 2021. It argues that community livelihood programs are strongest when they match local demand, protect participants from excessive risk, combine assets with skills and market links, and monitor inclusion and durability. Evidence was organized around four themes: targeting and participation, skills, assets, and finance, market linkage and mentoring, inclusion, monitoring, and sustainability. The synthesis shows that pandemic outcomes were rarely determined by a single factor; instead, they reflected interacting material, organizational, social, and informational conditions. The article proposes a layered response combining universal minimum provision, targeted support, continuous feedback, and locally adaptable implementation. Because this is a literature-based analysis rather than original field research, it does not report participants, newly collected data, or causal estimates. Its contribution lies in integrating early pandemic evidence into a practical framework for Philippine schools and communities, especially rural and resource-constrained settings.",
+    "articleType": "Conceptual Review",
+    "abstract": "Community livelihood programs can provide relief, but an activity is not viable merely because participants receive training, equipment, or start-up capital. This conceptual review proposes a Livelihood Viability Ladder that moves from household stabilization to capability, a tested market offer, a workable operating system, financial control, and resilient transition. Evidence through 2021 suggests that crisis programs fail when they begin with a standard product, count distribution as success, ignore care and health constraints, or provide debt before demand and cash flow are understood. The framework recommends participatory screening of household goals and constraints, small market tests, transparent group roles, unit-cost and cash-horizon tools, buyer and supply alternatives, and predefined continuation or exit decisions. Community institutions are positioned as coordinators and accountability structures, not substitutes for customer demand. The article distinguishes social protection from enterprise finance and warns against shifting market risk to vulnerable families. It does not estimate income effects or evaluate a named program. Its contribution is a staged method for determining whether support should stabilize, test, strengthen, scale, redesign, or stop a livelihood activity.",
     "keywords": [
-      "COVID-19",
-      "Philippines",
-      "rural communities",
-      "equity",
-      "policy",
-      "resilience"
+      "community livelihood",
+      "COVID-19 recovery",
+      "microenterprise",
+      "market testing",
+      "social protection"
     ],
     "volume": "2",
     "issue": "2",
     "issueLabel": "July–December 2021",
     "publicationDate": "2026-08-10",
-    "pages": "91–100",
+    "pages": "1–3",
     "doi": "",
-    "pdfFile": "assets/uploads/journal-archive/national-research-journal/volume-2-issue-2-2021/monica-isabel-reyes-community-livelihood-programs.pdf",
+    "pdfFile": "assets/uploads/journal-archive/national-research-journal/volume-2-issue-2-2021/monica-isabel-reyes-community-livelihood-programs-revised-2026-08-11.pdf",
     "featured": false,
     "active": true
   },
@@ -1016,23 +1012,22 @@
     "authors": [
       "Frances Camille Robles"
     ],
-    "articleType": "Scoping-Style Technology Review",
-    "abstract": "This scoping-style technology review examines effectiveness of teacher-made video lessons and digital materials using literature and institutional documents published no later than 2021. It argues that teacher-made digital materials are most useful when concise, accessible, curriculum-aligned, cognitively manageable, and integrated with practice and feedback. Evidence was organized around four themes: multimedia design, curriculum alignment, accessibility and bandwidth, practice, interaction, and feedback. The synthesis shows that pandemic outcomes were rarely determined by a single factor; instead, they reflected interacting material, organizational, social, and informational conditions. The article proposes a layered response combining universal minimum provision, targeted support, continuous feedback, and locally adaptable implementation. Because this is a literature-based analysis rather than original field research, it does not report participants, newly collected data, or causal estimates. Its contribution lies in integrating early pandemic evidence into a practical framework for Philippine schools and communities, especially rural and resource-constrained settings.",
+    "articleType": "Conceptual Review",
+    "abstract": "Teacher-made video lessons and digital materials are often evaluated through views, duration, or learner preference, although these measures do not establish learning. This conceptual review defines effectiveness as an evidence chain connecting an instructional objective, an economical representation, an active learner response, accessible delivery, and feedback that changes the next task. Multimedia research available through 2021 suggests that digital materials become less useful when decoration competes with explanation, videos are long and passive, controls are difficult to use, or the product cannot function under limited bandwidth. The proposed Instructional Media Evidence Chain asks teachers to script the decision learners must make, segment content around meaningful units, pair explanation with a prompt or practice, provide captions and offline alternatives, and collect a small indicator of understanding. It distinguishes production quality from instructional quality and recommends reuse only after reviewing error evidence. The article does not compare platforms or estimate achievement effects. It offers criteria for designing and evaluating teacher-made resources according to what learners can do after using them.",
     "keywords": [
-      "COVID-19",
-      "Philippines",
-      "rural communities",
-      "equity",
-      "policy",
-      "resilience"
+      "teacher-made video",
+      "digital materials",
+      "multimedia learning",
+      "accessibility",
+      "formative evidence"
     ],
     "volume": "2",
     "issue": "2",
     "issueLabel": "July–December 2021",
     "publicationDate": "2026-08-10",
-    "pages": "41–50",
+    "pages": "1–3",
     "doi": "",
-    "pdfFile": "assets/uploads/journal-archive/national-research-journal/volume-2-issue-2-2021/frances-camille-robles-teacher-made-video-lessons.pdf",
+    "pdfFile": "assets/uploads/journal-archive/national-research-journal/volume-2-issue-2-2021/frances-camille-robles-teacher-made-video-lessons-revised-2026-08-11.pdf",
     "featured": false,
     "active": true
   },
@@ -1176,23 +1171,22 @@
     "authors": [
       "Joshua Vincent Navarro"
     ],
-    "articleType": "Organizational Integrative Review",
-    "abstract": "This organizational integrative review examines flexible work arrangements and employee productivity using literature and institutional documents published no later than 2021. It argues that productivity under flexible work is contingent on job design, autonomy, communication, technology, caregiving conditions, managerial trust, and appropriate outcome measures. Evidence was organized around four themes: job suitability and autonomy, digital coordination, home conditions and well-being, performance management and trust. The synthesis shows that pandemic outcomes were rarely determined by a single factor; instead, they reflected interacting material, organizational, social, and informational conditions. The article proposes a layered response combining universal minimum provision, targeted support, continuous feedback, and locally adaptable implementation. Because this is a literature-based analysis rather than original field research, it does not report participants, newly collected data, or causal estimates. Its contribution lies in integrating early pandemic evidence into a practical framework for Philippine schools and communities, especially rural and resource-constrained settings.",
+    "articleType": "Conceptual Review",
+    "abstract": "Flexible work arrangements do not produce productivity by location alone. Their effects depend on task fit, autonomy, coordination, measurement, technology, and recovery. This conceptual review organizes evidence available through 2021 into a Flexible Work Productivity Agreement: define the output, select where and when the task can be performed, establish coordination windows, provide the required resources, and review performance together with well-being. The framework distinguishes flexibility from permanent availability and rejects activity signals such as online status or message volume as universal productivity measures. It also recognizes that home conditions, disability, care responsibilities, role seniority, and access to equipment shape the value of flexibility. Managers are encouraged to use team-level service standards, documented handoffs, protected focus periods, and outcome measures with quality and timeliness checks. Employees need a route to revise arrangements when isolation, overload, or inequity appears. This article does not estimate productivity gains or recommend one model for all occupations. It provides criteria for matching work design with task requirements and human sustainability.",
     "keywords": [
-      "COVID-19",
-      "Philippines",
-      "rural communities",
-      "equity",
-      "policy",
-      "resilience"
+      "flexible work",
+      "telework",
+      "employee productivity",
+      "autonomy",
+      "work design"
     ],
     "volume": "2",
     "issue": "2",
     "issueLabel": "July–December 2021",
     "publicationDate": "2026-08-10",
-    "pages": "71–80",
+    "pages": "1–3",
     "doi": "",
-    "pdfFile": "assets/uploads/journal-archive/national-research-journal/volume-2-issue-2-2021/joshua-vincent-navarro-flexible-work-productivity.pdf",
+    "pdfFile": "assets/uploads/journal-archive/national-research-journal/volume-2-issue-2-2021/joshua-vincent-navarro-flexible-work-productivity-revised-2026-08-11.pdf",
     "featured": false,
     "active": true
   },
@@ -1851,23 +1845,22 @@
     "authors": [
       "Miguel Andres Valdez"
     ],
-    "articleType": "Integrative Mental-Health Review",
-    "abstract": "This integrative mental-health review examines mental health and social isolation among adolescents using literature and institutional documents published no later than 2021. It argues that adolescent mental-health effects during the pandemic arose from interacting isolation, uncertainty, family stress, disrupted routines, online exposure, and reduced access to protective relationships. Evidence was organized around four themes: loneliness and isolation, anxiety, mood, and uncertainty, family and digital environments, protective relationships and services. The synthesis shows that pandemic outcomes were rarely determined by a single factor; instead, they reflected interacting material, organizational, social, and informational conditions. The article proposes a layered response combining universal minimum provision, targeted support, continuous feedback, and locally adaptable implementation. Because this is a literature-based analysis rather than original field research, it does not report participants, newly collected data, or causal estimates. Its contribution lies in integrating early pandemic evidence into a practical framework for Philippine schools and communities, especially rural and resource-constrained settings.",
+    "articleType": "Conceptual Review",
+    "abstract": "Social isolation during the pandemic altered adolescents' peer contact, school routines, autonomy, family relationships, physical activity, and access to help. This conceptual review avoids treating isolation as a uniform exposure or every distress response as a disorder. Evidence through 2021 is organized into an Adolescent Connection and Care Pathway: notice change, restore predictable routine, create meaningful connection, strengthen coping and agency, and escalate concerns through a safe referral route. The framework distinguishes physical separation from loneliness and emphasizes that digital contact can be protective, neutral, or harmful depending on quality, exclusion, sleep disruption, and online risk. Schools and communities are encouraged to use low-pressure contact, confidential check-ins with a clear purpose, peer and family support, activity and sleep routines, and tiered professional care. Screening is recommended only when valid tools, trained interpretation, privacy, and response capacity are present. The article does not estimate prevalence or diagnose adolescents. It offers a prevention-to-referral model that recognizes developmental needs while avoiding automatic medicalization of understandable distress.",
     "keywords": [
-      "COVID-19",
-      "Philippines",
-      "rural communities",
-      "equity",
-      "policy",
-      "resilience"
+      "adolescent mental health",
+      "social isolation",
+      "loneliness",
+      "school support",
+      "referral"
     ],
     "volume": "2",
     "issue": "2",
     "issueLabel": "July–December 2021",
     "publicationDate": "2026-08-10",
-    "pages": "81–90",
+    "pages": "1–3",
     "doi": "",
-    "pdfFile": "assets/uploads/journal-archive/national-research-journal/volume-2-issue-2-2021/miguel-andres-valdez-adolescent-mental-health.pdf",
+    "pdfFile": "assets/uploads/journal-archive/national-research-journal/volume-2-issue-2-2021/miguel-andres-valdez-adolescent-mental-health-revised-2026-08-11.pdf",
     "featured": false,
     "active": true
   },
@@ -1952,23 +1945,22 @@
     "authors": [
       "Elaine Patricia Mendoza"
     ],
-    "articleType": "School-Reopening Policy Review",
-    "abstract": "This school-reopening policy review examines preparedness of schools for the gradual return to face-to-face classes using literature and institutional documents published no later than 2021. It argues that safe school reopening requires layered health measures, water and sanitation, ventilation, surveillance, continuity planning, communication, and psychosocial support. Evidence was organized around four themes: health and facility readiness, operations and continuity, communication and consent, learning recovery and well-being. The synthesis shows that pandemic outcomes were rarely determined by a single factor; instead, they reflected interacting material, organizational, social, and informational conditions. The article proposes a layered response combining universal minimum provision, targeted support, continuous feedback, and locally adaptable implementation. Because this is a literature-based analysis rather than original field research, it does not report participants, newly collected data, or causal estimates. Its contribution lies in integrating early pandemic evidence into a practical framework for Philippine schools and communities, especially rural and resource-constrained settings.",
+    "articleType": "Conceptual Review",
+    "abstract": "School reopening is not a single decision made before learners return; it is a sequence of readiness judgments that must remain valid while conditions change. This conceptual review organizes guidance available through 2021 into five gates: governance and authority, site and movement controls, continuity of teaching, protection and support of people, and surveillance with correction. A school passes a gate only when responsibilities, minimum resources, operating routines, exception routes, and evidence of practice are visible. The framework distinguishes written compliance from operational readiness and rejects the assumption that one checklist score can represent every school. It also treats remote-learning continuity, disability access, staff workload, household communication, and rapid response to symptoms as integral to reopening rather than secondary concerns. Tabletop exercises and small pilots are proposed as stronger evidence than policy documents alone. This article does not certify any school or predict transmission. Its contribution is a gate-based method for determining what can proceed, what requires mitigation, and what conditions should pause or modify face-to-face activity.",
     "keywords": [
-      "COVID-19",
-      "Philippines",
-      "rural communities",
-      "equity",
-      "policy",
-      "resilience"
+      "school reopening",
+      "face-to-face classes",
+      "readiness",
+      "infection prevention",
+      "learning continuity"
     ],
     "volume": "2",
     "issue": "2",
     "issueLabel": "July–December 2021",
     "publicationDate": "2026-08-10",
-    "pages": "31–40",
+    "pages": "1–3",
     "doi": "",
-    "pdfFile": "assets/uploads/journal-archive/national-research-journal/volume-2-issue-2-2021/elaine-patricia-mendoza-school-reopening-preparedness.pdf",
+    "pdfFile": "assets/uploads/journal-archive/national-research-journal/volume-2-issue-2-2021/elaine-patricia-mendoza-school-reopening-preparedness-revised-2026-08-11.pdf",
     "featured": false,
     "active": true
   },
@@ -2058,23 +2050,22 @@
     "authors": [
       "Daniel Joseph Cabrera"
     ],
-    "articleType": "Integrative Enterprise-Recovery Review",
-    "abstract": "This integrative enterprise-recovery review examines recovery strategies of restaurants and other small enterprises using literature and institutional documents published no later than 2021. It argues that small-enterprise recovery requires coordinated changes in liquidity, operations, health protection, demand generation, supply relationships, and owner well-being. Evidence was organized around four themes: liquidity and cost control, safe operations, market and channel adaptation, networks and public support. The synthesis shows that pandemic outcomes were rarely determined by a single factor; instead, they reflected interacting material, organizational, social, and informational conditions. The article proposes a layered response combining universal minimum provision, targeted support, continuous feedback, and locally adaptable implementation. Because this is a literature-based analysis rather than original field research, it does not report participants, newly collected data, or causal estimates. Its contribution lies in integrating early pandemic evidence into a practical framework for Philippine schools and communities, especially rural and resource-constrained settings.",
+    "articleType": "Conceptual Review",
+    "abstract": "Recovery for restaurants and other small enterprises is not a return to the pre-crisis routine. Restrictions, customer risk perceptions, input volatility, debt, and changed channels require owners to rebuild an operating model under uncertainty. This conceptual review proposes a Small-Enterprise Recovery Portfolio with five simultaneous decisions: establish a safe and credible offer, understand unit economics and cash runway, build a reliable fulfillment route, run bounded market experiments, and define review or exit triggers. Evidence through 2021 suggests that digital promotion is insufficient when stock, labor, payment, packaging, delivery, and customer recovery remain disconnected. The framework encourages a minimum viable offer rather than an expanded menu, contribution and cash-horizon records rather than sales alone, channel-specific procedures, and small tests with explicit success and loss limits. Assistance is most useful when matched to the actual bottleneck, whether authorization, demand, capability, logistics, or finance. The article does not estimate survival or revenue effects. It offers a disciplined recovery method for protecting scarce cash while creating evidence about what the enterprise can sustain.",
     "keywords": [
-      "COVID-19",
-      "Philippines",
-      "rural communities",
-      "equity",
-      "policy",
-      "resilience"
+      "restaurant recovery",
+      "small enterprise",
+      "cash flow",
+      "business continuity",
+      "market experiment"
     ],
     "volume": "2",
     "issue": "2",
     "issueLabel": "July–December 2021",
     "publicationDate": "2026-08-10",
-    "pages": "21–30",
+    "pages": "1–3",
     "doi": "",
-    "pdfFile": "assets/uploads/journal-archive/national-research-journal/volume-2-issue-2-2021/daniel-joseph-cabrera-restaurant-small-enterprise-recovery.pdf",
+    "pdfFile": "assets/uploads/journal-archive/national-research-journal/volume-2-issue-2-2021/daniel-joseph-cabrera-restaurant-small-enterprise-recovery-revised-2026-08-11.pdf",
     "featured": false,
     "active": true
   },
@@ -2246,23 +2237,22 @@
     "authors": [
       "Bianca Louise Ferrer"
     ],
-    "articleType": "Conceptual Integrative Review",
-    "abstract": "This conceptual integrative review examines student motivation and engagement in remote education using literature and institutional documents published no later than 2021. It argues that remote engagement is a multidimensional product of autonomy, competence, relatedness, task value, routine, and feasible participation rather than simple attendance or login counts. Evidence was organized around four themes: behavioral participation, emotional engagement, cognitive engagement, belonging, feedback, and agency. The synthesis shows that pandemic outcomes were rarely determined by a single factor; instead, they reflected interacting material, organizational, social, and informational conditions. The article proposes a layered response combining universal minimum provision, targeted support, continuous feedback, and locally adaptable implementation. Because this is a literature-based analysis rather than original field research, it does not report participants, newly collected data, or causal estimates. Its contribution lies in integrating early pandemic evidence into a practical framework for Philippine schools and communities, especially rural and resource-constrained settings.",
+    "articleType": "Conceptual Review",
+    "abstract": "Remote education can make engagement difficult to observe. Logins, message responses, attendance, and submitted files capture only fragments of behavioral participation and may conceal low value, confusion, isolation, or constrained access. This conceptual review proposes a Remote Engagement Engine built from five interacting conditions: meaningful value, feasible agency, achievable challenge, social connection, and responsive feedback. Evidence available through 2021 suggests that motivation is weakened when workload is fragmented, choices are superficial, tasks provide little evidence of progress, or contact is limited to reminders about missing work. The framework recommends a visible purpose, bounded choice, short success cycles, predictable teacher presence, peer contribution, and recovery routes after absence. It distinguishes disengagement from access failure and discourages punitive escalation before the barrier is understood. Engagement is monitored through patterns across preparation, participation, strategy, explanation, help-seeking, and persistence rather than one platform metric. The article does not estimate motivation or identify a universal engagement intervention. Its contribution is a design model linking students' reasons and capabilities to observable participation over time.",
     "keywords": [
-      "COVID-19",
-      "Philippines",
-      "rural communities",
-      "equity",
-      "policy",
-      "resilience"
+      "student motivation",
+      "engagement",
+      "remote education",
+      "autonomy",
+      "teacher presence"
     ],
     "volume": "2",
     "issue": "2",
     "issueLabel": "July–December 2021",
     "publicationDate": "2026-08-10",
-    "pages": "11–20",
+    "pages": "1–3",
     "doi": "",
-    "pdfFile": "assets/uploads/journal-archive/national-research-journal/volume-2-issue-2-2021/bianca-louise-ferrer-student-motivation-engagement.pdf",
+    "pdfFile": "assets/uploads/journal-archive/national-research-journal/volume-2-issue-2-2021/bianca-louise-ferrer-student-motivation-engagement-revised-2026-08-11.pdf",
     "featured": false,
     "active": true
   },
@@ -2623,27 +2613,26 @@
   {
     "id": "national-research-journal-volume-2-issue-2-isabella-grace-villanueva-womens-community-resilience",
     "journalId": "national-research-journal",
-    "title": "Women’s Role in Household and Community Resilience During the Pandemic",
+    "title": "Women's Role in Household and Community Resilience During the Pandemic",
     "authors": [
       "Isabella Grace Villanueva"
     ],
-    "articleType": "Critical Integrative Review",
-    "abstract": "This critical integrative review examines women’s role in household and community resilience during the pandemic using literature and institutional documents published no later than 2021. It argues that women’s resilience work combined care, livelihood adaptation, health communication, food management, and community organizing but often carried unequal unpaid burdens and exposure to risk. Evidence was organized around four themes: unpaid care and household management, livelihood adaptation, community leadership and mutual aid, gendered risk, rights, and support. The synthesis shows that pandemic outcomes were rarely determined by a single factor; instead, they reflected interacting material, organizational, social, and informational conditions. The article proposes a layered response combining universal minimum provision, targeted support, continuous feedback, and locally adaptable implementation. Because this is a literature-based analysis rather than original field research, it does not report participants, newly collected data, or causal estimates. Its contribution lies in integrating early pandemic evidence into a practical framework for Philippine schools and communities, especially rural and resource-constrained settings.",
+    "articleType": "Conceptual Review",
+    "abstract": "Women were central to household and community continuity during the pandemic, yet the work through which resilience was produced was often unpaid, informal, or absent from program records. This conceptual review examines resilience through five interconnected domains: care and domestic labor, livelihood adaptation, health and food management, mutual-aid networks, and participation in decisions. Evidence through 2021 indicates that describing women as naturally resilient can conceal unequal time burdens, exposure, income loss, violence risk, and limited authority over resources. The proposed Care-to-Collective Resilience Map records contributions together with cost, control, support, safety, and voice. It asks programs to reduce burdens rather than merely celebrate them, recognize informal coordination, provide accessible services and social protection, and include diverse women in the decisions that affect their work. The framework avoids treating women as one homogeneous group and considers age, disability, household structure, livelihood, and location. This article does not estimate gender effects or represent the experience of a specific community. It offers an equity-oriented method for evaluating whether resilience initiatives sustain the people who make collective coping possible.",
     "keywords": [
-      "COVID-19",
-      "Philippines",
-      "rural communities",
-      "equity",
-      "policy",
-      "resilience"
+      "women",
+      "unpaid care",
+      "household resilience",
+      "community networks",
+      "gender equity"
     ],
     "volume": "2",
     "issue": "2",
     "issueLabel": "July–December 2021",
     "publicationDate": "2026-08-10",
-    "pages": "61–70",
+    "pages": "1–3",
     "doi": "",
-    "pdfFile": "assets/uploads/journal-archive/national-research-journal/volume-2-issue-2-2021/isabella-grace-villanueva-womens-community-resilience.pdf",
+    "pdfFile": "assets/uploads/journal-archive/national-research-journal/volume-2-issue-2-2021/isabella-grace-villanueva-womens-community-resilience-revised-2026-08-11.pdf",
     "featured": false,
     "active": true
   },

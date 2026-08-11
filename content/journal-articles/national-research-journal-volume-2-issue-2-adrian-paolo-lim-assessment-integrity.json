@@ -5,23 +5,22 @@
   "authors": [
     "Adrian Paolo Lim"
   ],
-  "articleType": "Methodological Review",
-  "abstract": "This methodological review examines assessment integrity in online and modular classes using literature and institutional documents published no later than 2021. It argues that assessment integrity is best protected through valid task design, transparent expectations, varied evidence, proportional verification, and supportive conditions rather than surveillance alone. Evidence was organized around four themes: validity and alignment, authentic task design, identity and unauthorized assistance, equity, privacy, and feedback. The synthesis shows that pandemic outcomes were rarely determined by a single factor; instead, they reflected interacting material, organizational, social, and informational conditions. The article proposes a layered response combining universal minimum provision, targeted support, continuous feedback, and locally adaptable implementation. Because this is a literature-based analysis rather than original field research, it does not report participants, newly collected data, or causal estimates. Its contribution lies in integrating early pandemic evidence into a practical framework for Philippine schools and communities, especially rural and resource-constrained settings.",
+  "articleType": "Conceptual Review",
+  "abstract": "Assessment integrity in online and modular classes is often framed as preventing cheating, although integrity also depends on whether the task measures the intended learning, preserves learner authorship, records relevant process, and supports a proportionate judgment. This conceptual review proposes an Assessment Evidence Integrity Model with five links: construct clarity, authentic task design, transparent conditions, corroborated authorship, and defensible interpretation. Evidence available through 2021 suggests that surveillance-heavy solutions can create privacy and access problems while failing to improve poor assessment design. The framework recommends varied application tasks, learner explanations, staged drafts, oral or written corroboration, assistance declarations, and low-stakes sampling across time. Security controls should be selected according to consequence and risk, with accessible alternatives and data minimization. The article distinguishes misconduct from collaboration, resource use, and household assistance permitted by design. It does not estimate dishonesty or validate an assessment system. Its contribution is a layered method for producing trustworthy evidence without assuming that one invigilated event is the only route to integrity.",
   "keywords": [
-    "COVID-19",
-    "Philippines",
-    "rural communities",
-    "equity",
-    "policy",
-    "resilience"
+    "assessment integrity",
+    "online learning",
+    "modular classes",
+    "authorship",
+    "authentic assessment"
   ],
   "volume": "2",
   "issue": "2",
   "issueLabel": "July–December 2021",
   "publicationDate": "2026-08-10",
-  "pages": "101–110",
+  "pages": "1–3",
   "doi": "",
-  "pdfFile": "assets/uploads/journal-archive/national-research-journal/volume-2-issue-2-2021/adrian-paolo-lim-assessment-integrity.pdf",
+  "pdfFile": "assets/uploads/journal-archive/national-research-journal/volume-2-issue-2-2021/adrian-paolo-lim-assessment-integrity-revised-2026-08-11.pdf",
   "featured": false,
   "active": true
 }
