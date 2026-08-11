@@ -1,12 +1,11 @@
 {
   "journalId": "national-research-journal",
   "keywords": [
-    "COVID-19",
-    "Philippines",
-    "rural communities",
-    "equity",
-    "policy",
-    "resilience"
+    "market closure",
+    "local farmers",
+    "market vendors",
+    "food supply chain",
+    "local market access"
   ],
   "volume": "1",
   "issue": "2",
@@ -20,8 +19,8 @@
   "authors": [
     "Patricia Mae Soriano"
   ],
-  "articleType": "Food-Systems Policy Review",
-  "abstract": "This food-systems policy review examines effects of market closures on local farmers and vendors using literature and institutional documents published no later than 2021. It argues that market closure is a disruption to perishable supply chains, farmgate prices, vendor incomes, and household food access. Evidence was organized around four themes: perishability and logistics, price and bargaining effects, vendor and farm livelihoods, and safe-market continuity and alternative channels. The synthesis shows that pandemic outcomes were rarely determined by a single factor; instead, they reflected interacting material, organizational, social, and informational conditions. The article proposes a layered response combining universal minimum provision, targeted support, continuous feedback, and locally adaptable implementation. Because this is a literature-based analysis rather than original field research, it does not report participants, newly collected data, or causal estimates. Its contribution lies in integrating early pandemic evidence into a practical framework for Philippine schools and communities, especially rural and resource-constrained settings.",
-  "pages": "11–20",
-  "pdfFile": "assets/uploads/journal-archive/national-research-journal/volume-1-issue-2-2021/patricia-mae-soriano-market-closures.pdf"
+  "articleType": "Supply-Chain Review",
+  "abstract": "Market closure interrupts a circuit rather than a single selling event. Farmers lose a destination for perishable harvests, vendors lose foot traffic and working capital, transporters lose viable routes, and households lose familiar access points. This supply-chain review traces five connected functions: production planning, aggregation, transport, exchange, and market feedback. Philippine and international evidence available through 2021 indicates that movement restrictions and uneven local enforcement could create bottlenecks even when agricultural production continued. The article proposes a Local Food-Market Circuit model for designing temporary markets, pickup points, mobile selling, institutional procurement, and digital ordering without ignoring grading, payment, cold storage, health protection, or unsold-product risk. It also separates emergency disposal reduction from long-term market development. The framework is conceptual and does not estimate losses among farmers or vendors in a particular municipality.",
+  "pages": "1–3",
+  "pdfFile": "assets/uploads/journal-archive/national-research-journal/volume-1-issue-2-2021/patricia-mae-soriano-market-closures-revised-2026-08-11.pdf"
 }

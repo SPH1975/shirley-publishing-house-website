@@ -674,12 +674,11 @@
   {
     "journalId": "national-research-journal",
     "keywords": [
-      "COVID-19",
-      "Philippines",
-      "rural communities",
-      "equity",
-      "policy",
-      "resilience"
+      "home-based learning",
+      "parental support",
+      "household coordination",
+      "remote education",
+      "learning continuity"
     ],
     "volume": "1",
     "issue": "2",
@@ -693,10 +692,10 @@
     "authors": [
       "Rafael M. Villanueva"
     ],
-    "articleType": "Integrative Literature Review",
-    "abstract": "This integrative literature review examines challenges encountered by parents during home-based learning using literature and institutional documents published no later than 2021. It argues that parental support is unpaid educational labor shaped by time, income, confidence, household space, and school communication. Evidence was organized around four themes: role strain and time poverty, instructional confidence, economic and technological barriers, and school-family communication. The synthesis shows that pandemic outcomes were rarely determined by a single factor; instead, they reflected interacting material, organizational, social, and informational conditions. The article proposes a layered response combining universal minimum provision, targeted support, continuous feedback, and locally adaptable implementation. Because this is a literature-based analysis rather than original field research, it does not report participants, newly collected data, or causal estimates. Its contribution lies in integrating early pandemic evidence into a practical framework for Philippine schools and communities, especially rural and resource-constrained settings.",
-    "pages": "21–30",
-    "pdfFile": "assets/uploads/journal-archive/national-research-journal/volume-1-issue-2-2021/rafael-m-villanueva-home-based-learning.pdf"
+    "articleType": "Integrative Review",
+    "abstract": "Home-based learning transferred a substantial part of educational coordination into households without transferring the time, training, equipment, or authority ordinarily available in schools. This integrative review reframes parental difficulty as a coordination problem rather than a deficit in commitment. Evidence available through 2021 is organized around five connected tasks: interpreting school requirements, arranging household time and space, supporting learner effort without replacing it, maintaining contact with teachers, and protecting family well-being. The review shows why a parent can be highly involved yet unable to sustain the expected routine when work schedules, device sharing, unfamiliar content, language, or delayed feedback converge. It proposes a Household Learning Coordination model that separates the responsibilities of schools, teachers, learners, and caregivers and uses a weekly learning map, a single help route, and escalation rules for unresolved barriers. The article is a conceptual synthesis and does not estimate the prevalence of parental challenges in a specific community.",
+    "pages": "1–4",
+    "pdfFile": "assets/uploads/journal-archive/national-research-journal/volume-1-issue-2-2021/rafael-m-villanueva-home-based-learning-revised-2026-08-11.pdf"
   },
   {
     "journalId": "national-research-journal",
@@ -728,12 +727,11 @@
   {
     "journalId": "national-research-journal",
     "keywords": [
-      "COVID-19",
-      "Philippines",
-      "rural communities",
-      "equity",
-      "policy",
-      "resilience"
+      "health protocols",
+      "community compliance",
+      "risk communication",
+      "behavioral science",
+      "public health"
     ],
     "volume": "1",
     "issue": "2",
@@ -747,10 +745,10 @@
     "authors": [
       "Jerome S. Santiago"
     ],
-    "articleType": "Behavioral Policy Review",
-    "abstract": "This behavioral policy review examines community compliance with COVID-19 health and safety protocols using literature and institutional documents published no later than 2021. It argues that compliance is a social and institutional outcome influenced by risk perception, feasibility, trust, norms, and consistent enforcement. Evidence was organized around four themes: risk knowledge and perception, trust and message consistency, material feasibility, and social norms and proportionate enforcement. The synthesis shows that pandemic outcomes were rarely determined by a single factor; instead, they reflected interacting material, organizational, social, and informational conditions. The article proposes a layered response combining universal minimum provision, targeted support, continuous feedback, and locally adaptable implementation. Because this is a literature-based analysis rather than original field research, it does not report participants, newly collected data, or causal estimates. Its contribution lies in integrating early pandemic evidence into a practical framework for Philippine schools and communities, especially rural and resource-constrained settings.",
-    "pages": "51–60",
-    "pdfFile": "assets/uploads/journal-archive/national-research-journal/volume-1-issue-2-2021/jerome-s-santiago-community-compliance.pdf"
+    "articleType": "Behavioral and Policy Review",
+    "abstract": "Compliance with health and safety protocols is often described as an individual choice, yet adherence depends on whether guidance is trusted, understandable, materially possible, socially supported, and fairly enforced. This behavioral and policy review synthesizes evidence available through 2021 and develops a Feasible Compliance model with five conditions: credible guidance, practical capability, supportive norms, proportionate enforcement, and corrective learning. The model explains why repeated reminders may fail when households lack masks, water, space, transport alternatives, income protection, or confidence that rules are consistently applied. It also distinguishes observation of behavior from assumptions about motivation. The article proposes a local compliance audit that records the required action, the barrier, the responsible authority, the enabling measure, and the review date. It argues that communication and enforcement should be paired with resources and grievance routes. This is a conceptual synthesis; it does not calculate compliance rates or assess a named community.",
+    "pages": "1–4",
+    "pdfFile": "assets/uploads/journal-archive/national-research-journal/volume-1-issue-2-2021/jerome-s-santiago-community-compliance-revised-2026-08-11.pdf"
   },
   {
     "id": "national-research-journal-volume-2-issue-2-monica-isabel-reyes-community-livelihood-programs",
@@ -1041,12 +1039,11 @@
   {
     "journalId": "national-research-journal",
     "keywords": [
-      "COVID-19",
-      "Philippines",
-      "rural communities",
-      "equity",
-      "policy",
-      "resilience"
+      "market closure",
+      "local farmers",
+      "market vendors",
+      "food supply chain",
+      "local market access"
     ],
     "volume": "1",
     "issue": "2",
@@ -1060,10 +1057,10 @@
     "authors": [
       "Patricia Mae Soriano"
     ],
-    "articleType": "Food-Systems Policy Review",
-    "abstract": "This food-systems policy review examines effects of market closures on local farmers and vendors using literature and institutional documents published no later than 2021. It argues that market closure is a disruption to perishable supply chains, farmgate prices, vendor incomes, and household food access. Evidence was organized around four themes: perishability and logistics, price and bargaining effects, vendor and farm livelihoods, and safe-market continuity and alternative channels. The synthesis shows that pandemic outcomes were rarely determined by a single factor; instead, they reflected interacting material, organizational, social, and informational conditions. The article proposes a layered response combining universal minimum provision, targeted support, continuous feedback, and locally adaptable implementation. Because this is a literature-based analysis rather than original field research, it does not report participants, newly collected data, or causal estimates. Its contribution lies in integrating early pandemic evidence into a practical framework for Philippine schools and communities, especially rural and resource-constrained settings.",
-    "pages": "11–20",
-    "pdfFile": "assets/uploads/journal-archive/national-research-journal/volume-1-issue-2-2021/patricia-mae-soriano-market-closures.pdf"
+    "articleType": "Supply-Chain Review",
+    "abstract": "Market closure interrupts a circuit rather than a single selling event. Farmers lose a destination for perishable harvests, vendors lose foot traffic and working capital, transporters lose viable routes, and households lose familiar access points. This supply-chain review traces five connected functions: production planning, aggregation, transport, exchange, and market feedback. Philippine and international evidence available through 2021 indicates that movement restrictions and uneven local enforcement could create bottlenecks even when agricultural production continued. The article proposes a Local Food-Market Circuit model for designing temporary markets, pickup points, mobile selling, institutional procurement, and digital ordering without ignoring grading, payment, cold storage, health protection, or unsold-product risk. It also separates emergency disposal reduction from long-term market development. The framework is conceptual and does not estimate losses among farmers or vendors in a particular municipality.",
+    "pages": "1–3",
+    "pdfFile": "assets/uploads/journal-archive/national-research-journal/volume-1-issue-2-2021/patricia-mae-soriano-market-closures-revised-2026-08-11.pdf"
   },
   {
     "journalId": "national-research-journal",
@@ -1122,12 +1119,11 @@
   {
     "journalId": "national-research-journal",
     "keywords": [
-      "COVID-19",
-      "Philippines",
-      "rural communities",
-      "equity",
-      "policy",
-      "resilience"
+      "small business",
+      "community quarantine",
+      "business continuity",
+      "liquidity",
+      "operational adaptation"
     ],
     "volume": "1",
     "issue": "2",
@@ -1141,10 +1137,10 @@
     "authors": [
       "Hannah Grace Aquino"
     ],
-    "articleType": "Integrative Business Review",
-    "abstract": "This integrative business review examines experiences of small businesses during the initial community quarantine using literature and institutional documents published no later than 2021. It argues that micro and small enterprise vulnerability is a function of thin cash reserves, disrupted demand and supply, mobility rules, and limited digital capacity. Evidence was organized around four themes: liquidity and demand shock, supply and mobility disruption, labor and owner well-being, and adaptation and public support. The synthesis shows that pandemic outcomes were rarely determined by a single factor; instead, they reflected interacting material, organizational, social, and informational conditions. The article proposes a layered response combining universal minimum provision, targeted support, continuous feedback, and locally adaptable implementation. Because this is a literature-based analysis rather than original field research, it does not report participants, newly collected data, or causal estimates. Its contribution lies in integrating early pandemic evidence into a practical framework for Philippine schools and communities, especially rural and resource-constrained settings.",
-    "pages": "41–50",
-    "pdfFile": "assets/uploads/journal-archive/national-research-journal/volume-1-issue-2-2021/hannah-grace-aquino-small-businesses.pdf"
+    "articleType": "Conceptual Review",
+    "abstract": "The initial community quarantine confronted small businesses with simultaneous restrictions on premises, workers, suppliers, customers, and cash flow. This conceptual review examines the early crisis as a sequence of operating decisions rather than a uniform experience of closure. Evidence through 2021 is organized around five questions: whether the firm could legally and safely operate, preserve liquidity, maintain a minimum supply route, reach viable demand, and decide what to pause, adapt, or stop. The synthesis emphasizes that digital promotion could not compensate for failed inventory, payment, or delivery arrangements, and that reopening did not automatically restore demand or working capital. It proposes a Small-Business Continuity Sequence supported by a daily cash horizon, a minimum viable offer, explicit supplier alternatives, and predefined decision triggers. The framework is designed for micro and small firms with limited managerial capacity. It is a non-empirical model and does not claim that all sectors or localities experienced quarantine in the same way.",
+    "pages": "1–3",
+    "pdfFile": "assets/uploads/journal-archive/national-research-journal/volume-1-issue-2-2021/hannah-grace-aquino-small-businesses-revised-2026-08-11.pdf"
   },
   {
     "journalId": "national-research-journal",
@@ -1203,12 +1199,11 @@
   {
     "journalId": "national-research-journal",
     "keywords": [
-      "COVID-19",
-      "Philippines",
-      "rural communities",
-      "equity",
-      "policy",
-      "resilience"
+      "food security",
+      "low-income households",
+      "lockdown",
+      "food access",
+      "social protection"
     ],
     "volume": "1",
     "issue": "2",
@@ -1222,10 +1217,10 @@
     "authors": [
       "Vincent Carlo Navarro"
     ],
-    "articleType": "Policy-Oriented Integrative Review",
-    "abstract": "This policy-oriented integrative review examines food security among low-income households during lockdowns using literature and institutional documents published no later than 2021. It argues that food insecurity during lockdown is an interaction among income loss, mobility restrictions, price pressures, and constrained safety nets. Evidence was organized around four themes: income and livelihood shocks, food access and affordability, nutrition and coping strategies, and social protection and local food systems. The synthesis shows that pandemic outcomes were rarely determined by a single factor; instead, they reflected interacting material, organizational, social, and informational conditions. The article proposes a layered response combining universal minimum provision, targeted support, continuous feedback, and locally adaptable implementation. Because this is a literature-based analysis rather than original field research, it does not report participants, newly collected data, or causal estimates. Its contribution lies in integrating early pandemic evidence into a practical framework for Philippine schools and communities, especially rural and resource-constrained settings.",
-    "pages": "31–40",
-    "pdfFile": "assets/uploads/journal-archive/national-research-journal/volume-1-issue-2-2021/vincent-carlo-navarro-food-security.pdf"
+    "articleType": "Policy Review",
+    "abstract": "Lockdowns affected food security through more than temporary shortages. For low-income households, restrictions could reduce earnings, change food prices, limit transport, interrupt school feeding, and narrow access to markets at the same time. This policy review organizes evidence through four household pressures: income loss, acquisition barriers, diet compression, and instability over time. It distinguishes food availability in the wider market from a household's ability to obtain, prepare, and sustain an adequate diet. The synthesis argues that relief measured only by the number of packs distributed can miss timeliness, nutritional quality, household composition, and the cost of repeated access. A Household Food Security Pressure model is proposed, combining rapid income support, geographically distributed acquisition routes, nutrition-sensitive assistance, and monitoring of repeated coping strategies. The model is intended for local planning and future empirical testing; it does not report new household data or attribute a single outcome to quarantine alone.",
+    "pages": "1–4",
+    "pdfFile": "assets/uploads/journal-archive/national-research-journal/volume-1-issue-2-2021/vincent-carlo-navarro-food-security-revised-2026-08-11.pdf"
   },
   {
     "journalId": "national-research-journal",
@@ -1980,12 +1975,11 @@
   {
     "journalId": "national-research-journal",
     "keywords": [
-      "COVID-19",
-      "Philippines",
-      "rural communities",
-      "equity",
-      "policy",
-      "resilience"
+      "community quarantine",
+      "teacher well-being",
+      "student mental health",
+      "psychosocial support",
+      "school response"
     ],
     "volume": "1",
     "issue": "2",
@@ -1999,10 +1993,10 @@
     "authors": [
       "Maria Lourdes Castillo"
     ],
-    "articleType": "Integrative Mental-Health Review",
-    "abstract": "This integrative mental-health review examines psychological effects of community quarantine on teachers and students using literature and institutional documents published no later than 2021. It argues that quarantine-related distress is the product of isolation, uncertainty, workload, disrupted routines, and unequal access to support. Evidence was organized around four themes: stress, anxiety, and uncertainty, isolation and disrupted routines, workload and role conflict, and protective relationships and referral systems. The synthesis shows that pandemic outcomes were rarely determined by a single factor; instead, they reflected interacting material, organizational, social, and informational conditions. The article proposes a layered response combining universal minimum provision, targeted support, continuous feedback, and locally adaptable implementation. Because this is a literature-based analysis rather than original field research, it does not report participants, newly collected data, or causal estimates. Its contribution lies in integrating early pandemic evidence into a practical framework for Philippine schools and communities, especially rural and resource-constrained settings.",
-    "pages": "71–80",
-    "pdfFile": "assets/uploads/journal-archive/national-research-journal/volume-1-issue-2-2021/maria-lourdes-castillo-psychological-effects.pdf"
+    "articleType": "Critical Review",
+    "abstract": "Community quarantine altered far more than the location of schooling. It changed daily structure, peer contact, family roles, exposure to illness and loss, economic security, instructional workload, and access to school-based support. This critical review examines psychological effects through pathways rather than treating teachers and students as a single population or quarantine as a uniform exposure. Four pathways are identified: threat and uncertainty, disruption of routine and role, social disconnection, and unequal access to protective resources. The review distinguishes understandable distress from clinical diagnosis and cautions schools against using brief screening as a substitute for qualified assessment. A School Well-Being Pathway model is proposed, combining clear communication, predictable workload, routine connection, tiered referral, staff support, and monitoring of exclusion. The article does not estimate prevalence or diagnose any participant. Its contribution is a framework for designing school responses that reduce avoidable stressors while linking people with appropriate professional care.",
+    "pages": "1–3",
+    "pdfFile": "assets/uploads/journal-archive/national-research-journal/volume-1-issue-2-2021/maria-lourdes-castillo-psychological-effects-revised-2026-08-11.pdf"
   },
   {
     "id": "national-research-journal-volume-1-issue-1-andrea-mae-ramos",
@@ -2168,12 +2162,11 @@
   {
     "journalId": "national-research-journal",
     "keywords": [
+      "school leadership",
+      "crisis management",
       "COVID-19",
-      "Philippines",
-      "rural communities",
-      "equity",
-      "policy",
-      "resilience"
+      "learning continuity",
+      "decision governance"
     ],
     "volume": "1",
     "issue": "2",
@@ -2187,10 +2180,10 @@
     "authors": [
       "Nathaniel P. Garcia"
     ],
-    "articleType": "Policy and Leadership Review",
-    "abstract": "This policy and leadership review examines school leadership and crisis management during the COVID-19 outbreak using literature and institutional documents published no later than 2021. It argues that effective crisis leadership is a cycle of sensemaking, transparent communication, distributed action, care, and adaptive learning. Evidence was organized around four themes: rapid sensemaking and planning, communication and trust, distributed leadership, and staff and learner well-being. The synthesis shows that pandemic outcomes were rarely determined by a single factor; instead, they reflected interacting material, organizational, social, and informational conditions. The article proposes a layered response combining universal minimum provision, targeted support, continuous feedback, and locally adaptable implementation. Because this is a literature-based analysis rather than original field research, it does not report participants, newly collected data, or causal estimates. Its contribution lies in integrating early pandemic evidence into a practical framework for Philippine schools and communities, especially rural and resource-constrained settings.",
-    "pages": "1–10",
-    "pdfFile": "assets/uploads/journal-archive/national-research-journal/volume-1-issue-2-2021/nathaniel-p-garcia-school-leadership-crisis-management.pdf"
+    "articleType": "Conceptual Review",
+    "abstract": "COVID-19 required school leaders to make rapid decisions across health protection, learning continuity, staff work, family communication, resource allocation, and student welfare. This conceptual review argues that crisis leadership is not a sequence of announcements but a recurring cycle of sensemaking, prioritization, coordination, care, and learning. Evidence through 2021 is synthesized into a School Crisis Leadership Cycle designed for institutions with limited staff and incomplete information. The cycle begins with a verified situation picture, converts that picture into a small set of protected priorities, assigns decision rights and communication routes, monitors staff and learner burden, and records changes for the next cycle. The article distinguishes strategic decisions from routine reporting and proposes a minimum crisis register containing the issue, evidence, affected groups, owner, action, trigger, and review date. The framework is normative and testable; it does not evaluate a particular principal, school, or division.",
+    "pages": "1–3",
+    "pdfFile": "assets/uploads/journal-archive/national-research-journal/volume-1-issue-2-2021/nathaniel-p-garcia-school-leadership-crisis-management-revised-2026-08-11.pdf"
   },
   {
     "journalId": "national-research-journal",
@@ -2302,12 +2295,11 @@
   {
     "journalId": "national-research-journal",
     "keywords": [
-      "COVID-19",
-      "Philippines",
-      "rural communities",
-      "equity",
-      "policy",
-      "resilience"
+      "teacher digital competence",
+      "online education",
+      "DigCompEdu",
+      "instructional design",
+      "digital assessment"
     ],
     "volume": "1",
     "issue": "2",
@@ -2317,14 +2309,14 @@
     "featured": false,
     "active": true,
     "id": "national-research-journal-volume-1-issue-2-katrina-anne-flores",
-    "title": "Teachers’ Digital Competence During the Transition to Online Education",
+    "title": "Teachers' Digital Competence During the Transition to Online Education",
     "authors": [
       "Katrina Anne Flores"
     ],
-    "articleType": "Conceptual Integrative Review",
-    "abstract": "This conceptual integrative review examines teachers’ digital competence during the transition to online education using literature and institutional documents published no later than 2021. It argues that digital competence is the purposeful integration of technology, pedagogy, content, assessment, safety, and professional judgment. Evidence was organized around four themes: operational digital skills, digital pedagogy and content, assessment and learner engagement, and ethics, safety, and continuing development. The synthesis shows that pandemic outcomes were rarely determined by a single factor; instead, they reflected interacting material, organizational, social, and informational conditions. The article proposes a layered response combining universal minimum provision, targeted support, continuous feedback, and locally adaptable implementation. Because this is a literature-based analysis rather than original field research, it does not report participants, newly collected data, or causal estimates. Its contribution lies in integrating early pandemic evidence into a practical framework for Philippine schools and communities, especially rural and resource-constrained settings.",
-    "pages": "61–70",
-    "pdfFile": "assets/uploads/journal-archive/national-research-journal/volume-1-issue-2-2021/katrina-anne-flores-digital-competence.pdf"
+    "articleType": "Integrative Review",
+    "abstract": "The emergency transition to online education made digital competence visible, but it also narrowed the concept to familiarity with devices and platforms. This integrative review treats competence as a chain of professional decisions: selecting an accessible tool, organizing content for mediated learning, enabling interaction, assessing evidence, protecting data and well-being, and improving through reflection. DigCompEdu, technological pedagogical content knowledge, and early pandemic studies are synthesized into a Digital Teaching Decision Chain. The review argues that operational fluency has educational value only when it supports a defined learner action and remains feasible under actual device, connectivity, and household conditions. It proposes evidence for each competence, including task samples, accessibility checks, feedback records, and privacy decisions, rather than self-confidence alone. Professional learning is organized around recurring teaching problems and peer review. This is a conceptual article and does not rate teachers or claim that one platform improves learning.",
+    "pages": "1–4",
+    "pdfFile": "assets/uploads/journal-archive/national-research-journal/volume-1-issue-2-2021/katrina-anne-flores-digital-competence-revised-2026-08-11.pdf"
   },
   {
     "journalId": "national-research-journal",
