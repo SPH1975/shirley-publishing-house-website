@@ -3107,3 +3107,313 @@ body.is-scrolled .brand img { width: 218px; height: 64px; }
   .showcase-marquee-track { flex-wrap: wrap; width: auto; justify-content: center; }
   .showcase-marquee-track > :nth-child(n+13) { display: none; }
 }
+
+/* ==========================================================================
+   Publication ethics policy hub
+   ========================================================================== */
+.ethics-hero .page-hero-inner { max-width: 1010px; }
+.ethics-hero-actions { display: flex; flex-wrap: wrap; gap: 12px; margin-top: 30px; }
+.ethics-hero .ethics-download {
+  color: #fff;
+  border-color: rgba(255,255,255,.28);
+  background: rgba(255,255,255,.09);
+  backdrop-filter: blur(12px);
+}
+.ethics-hero .ethics-download:hover { border-color: rgba(255,255,255,.48); background: rgba(255,255,255,.15); }
+.ethics-meta {
+  display: flex;
+  flex-wrap: wrap;
+  gap: 12px;
+  margin-top: 34px;
+}
+.ethics-meta > span {
+  display: inline-flex;
+  align-items: center;
+  gap: 7px;
+  padding: 8px 12px;
+  border: 1px solid rgba(255,255,255,.17);
+  border-radius: 999px;
+  color: rgba(246,250,255,.82);
+  background: rgba(255,255,255,.07);
+  font-size: .76rem;
+}
+.ethics-meta strong { color: #fff; }
+.ethics-overview .section-heading { max-width: 900px; }
+.ethics-category-grid { display: grid; grid-template-columns: repeat(3, minmax(0, 1fr)); gap: 18px; }
+.ethics-category-card {
+  position: relative;
+  min-width: 0;
+  padding: 28px;
+  overflow: hidden;
+  border: 1px solid rgba(11,79,157,.13);
+  border-radius: 22px;
+  background: #fff;
+  box-shadow: var(--shadow-sm);
+}
+.ethics-category-card::after {
+  content: "";
+  position: absolute;
+  width: 150px;
+  height: 150px;
+  right: -75px;
+  top: -80px;
+  border: 24px solid rgba(44,131,220,.07);
+  border-radius: 50%;
+  pointer-events: none;
+}
+.ethics-category-number {
+  color: var(--blue-600);
+  font-size: .68rem;
+  font-weight: 950;
+  letter-spacing: .12em;
+}
+.ethics-category-card h3 {
+  margin: 10px 0 8px;
+  color: var(--navy-900);
+  font-family: Georgia, "Times New Roman", serif;
+  font-size: 1.45rem;
+  line-height: 1.15;
+}
+.ethics-category-card > p { min-height: 4.8em; margin: 0 0 20px; color: var(--muted); font-size: .88rem; }
+.ethics-category-links { display: grid; border-top: 1px solid var(--line); }
+.ethics-category-links a {
+  display: grid;
+  grid-template-columns: 30px minmax(0, 1fr);
+  gap: 8px;
+  align-items: baseline;
+  padding: 11px 0;
+  border-bottom: 1px solid var(--line);
+  color: var(--navy-900);
+  font-size: .78rem;
+  font-weight: 800;
+  line-height: 1.4;
+}
+.ethics-category-links a:hover { color: var(--blue-600); }
+.ethics-category-links a span { color: var(--blue-600); font-size: .64rem; letter-spacing: .08em; }
+.ethics-policy-section { padding-top: 90px; }
+.ethics-policy-layout { display: grid; grid-template-columns: 260px minmax(0, 1fr); gap: 54px; align-items: start; }
+.ethics-sidebar { min-width: 0; }
+.ethics-sidebar-inner {
+  position: sticky;
+  top: 125px;
+  padding: 24px;
+  border: 1px solid rgba(11,79,157,.13);
+  border-radius: 20px;
+  background: rgba(255,255,255,.92);
+  box-shadow: var(--shadow-sm);
+  backdrop-filter: blur(12px);
+}
+.ethics-sidebar nav { display: grid; gap: 3px; }
+.ethics-sidebar nav a {
+  display: grid;
+  grid-template-columns: 26px minmax(0, 1fr);
+  gap: 8px;
+  padding: 10px 8px;
+  border-radius: 10px;
+  color: var(--navy-900);
+  font-size: .77rem;
+  font-weight: 800;
+  line-height: 1.35;
+}
+.ethics-sidebar nav a:hover { color: var(--blue-600); background: var(--blue-50); }
+.ethics-sidebar nav span { color: var(--blue-600); font-size: .62rem; letter-spacing: .08em; }
+.policy-controls { display: grid; grid-template-columns: 1fr 1fr; gap: 7px; margin-top: 18px; padding-top: 18px; border-top: 1px solid var(--line); }
+.policy-controls button {
+  min-height: 40px;
+  padding: 8px;
+  border: 1px solid var(--line);
+  border-radius: 9px;
+  color: var(--blue-700);
+  background: #fff;
+  font-size: .68rem;
+  font-weight: 900;
+  line-height: 1.25;
+}
+.policy-controls button:hover { border-color: var(--blue-500); background: var(--blue-50); }
+.ethics-sidebar-contact { display: block; margin-top: 16px; color: var(--blue-700); font-size: .75rem; font-weight: 900; }
+.ethics-policy-content { min-width: 0; display: grid; gap: 84px; }
+.policy-category,
+.policy-document { scroll-margin-top: 125px; }
+.policy-category-heading {
+  display: grid;
+  grid-template-columns: 72px minmax(0, 1fr);
+  gap: 22px;
+  align-items: start;
+  margin-bottom: 24px;
+}
+.policy-category-heading > span {
+  width: 66px;
+  height: 66px;
+  display: grid;
+  place-items: center;
+  border-radius: 18px;
+  color: #fff;
+  background: linear-gradient(145deg, var(--blue-500), var(--navy-800));
+  box-shadow: 0 15px 30px rgba(6,29,66,.18);
+  font-size: .82rem;
+  font-weight: 950;
+  letter-spacing: .1em;
+}
+.policy-category-heading .eyebrow { margin-bottom: 7px; }
+.policy-category-heading h2 {
+  margin: 0;
+  color: var(--ink);
+  font-family: Georgia, "Times New Roman", serif;
+  font-size: clamp(2rem, 4vw, 3.15rem);
+  line-height: 1.05;
+  letter-spacing: -.025em;
+}
+.policy-category-heading div > p:last-child { max-width: 760px; margin: 10px 0 0; color: var(--muted); }
+.policy-list { display: grid; gap: 14px; }
+.policy-document { border-radius: 20px; transition: box-shadow .25s ease, transform .25s ease; }
+.policy-document:target { box-shadow: 0 0 0 4px rgba(44,131,220,.18), 0 24px 65px rgba(6,29,66,.13); }
+.policy-details {
+  overflow: clip;
+  border: 1px solid rgba(11,79,157,.14);
+  border-radius: 20px;
+  background: #fff;
+  box-shadow: 0 10px 28px rgba(6,29,66,.06);
+}
+.policy-details[open] { border-color: rgba(18,104,196,.28); box-shadow: 0 20px 55px rgba(6,29,66,.12); }
+.policy-details summary {
+  display: grid;
+  grid-template-columns: 56px minmax(0, 1fr) auto;
+  gap: 18px;
+  align-items: center;
+  min-height: 116px;
+  padding: 24px 26px;
+  list-style: none;
+  color: var(--text);
+  background: #fff;
+}
+.policy-details summary::-webkit-details-marker { display: none; }
+.policy-details summary:hover { background: linear-gradient(90deg, #fff, var(--blue-50)); }
+.policy-details summary:focus-visible { outline-offset: -4px; }
+.policy-number {
+  width: 50px;
+  height: 50px;
+  display: grid;
+  place-items: center;
+  border-radius: 14px;
+  color: var(--blue-700);
+  background: var(--blue-100);
+  font-size: .75rem;
+  font-weight: 950;
+  letter-spacing: .08em;
+}
+.policy-summary-copy { min-width: 0; display: grid; gap: 6px; color: var(--muted); font-size: .82rem; line-height: 1.45; }
+.policy-title { color: var(--navy-900); font-family: Georgia, "Times New Roman", serif; font-size: 1.32rem; font-weight: 700; line-height: 1.2; }
+.policy-summary-action { display: inline-flex; align-items: center; gap: 10px; color: var(--blue-700); font-size: .68rem; font-weight: 900; text-transform: uppercase; letter-spacing: .06em; }
+.policy-summary-action b { width: 30px; height: 30px; display: grid; place-items: center; border: 1px solid var(--line); border-radius: 9px; background: #fff; font-size: 1.05rem; transition: transform .2s ease; }
+.policy-close-label { display: none; }
+.policy-details[open] .policy-open-label { display: none; }
+.policy-details[open] .policy-close-label { display: inline; }
+.policy-details[open] .policy-summary-action b { transform: rotate(45deg); }
+.policy-body { padding: 4px 38px 38px 100px; border-top: 1px solid var(--line); }
+.policy-meta { display: grid; grid-template-columns: 1fr 1.7fr .6fr .8fr; gap: 10px; margin: 28px 0; }
+.policy-meta span { min-width: 0; padding: 12px 13px; border: 1px solid var(--line); border-radius: 11px; color: var(--text); background: var(--blue-50); font-size: .72rem; line-height: 1.45; }
+.policy-meta strong { display: block; margin-bottom: 3px; color: var(--blue-700); font-size: .59rem; letter-spacing: .08em; text-transform: uppercase; }
+.policy-body p,
+.policy-body li { color: var(--text); font-size: .93rem; }
+.policy-body p { margin: 0 0 17px; }
+.policy-body h4 { margin: 34px 0 12px; color: var(--navy-900); font-family: Georgia, "Times New Roman", serif; font-size: 1.3rem; line-height: 1.25; }
+.policy-body ul,
+.policy-body ol { display: grid; gap: 8px; margin: 0 0 21px; padding-left: 23px; }
+.policy-body li { padding-left: 4px; }
+.policy-body > p a,
+.policy-body li a { color: var(--blue-700); font-weight: 800; text-decoration: underline; text-decoration-thickness: 1px; text-underline-offset: 3px; }
+.policy-purpose { margin-top: 0 !important; padding: 20px 22px; border-left: 4px solid var(--blue-500); border-radius: 0 13px 13px 0; background: var(--blue-50); }
+.policy-body blockquote { margin: 24px 0; padding: 20px 22px; border: 1px solid rgba(18,104,196,.2); border-radius: 14px; color: var(--navy-900); background: #edf6ff; font-size: .92rem; font-style: normal; }
+.policy-contact { display: flex; align-items: center; justify-content: space-between; gap: 20px; margin-top: 32px; padding: 18px 20px; border-radius: 14px; color: #fff; background: linear-gradient(120deg, var(--navy-900), var(--blue-700)); font-size: .78rem; }
+.policy-contact a { color: #fff; font-weight: 900; text-align: right; }
+.policy-contact a:hover { text-decoration: underline; }
+.journal-policy-notice {
+  display: flex;
+  align-items: center;
+  justify-content: space-between;
+  gap: 28px;
+  margin: 34px 0;
+  padding: 24px 26px;
+  border: 1px solid rgba(18,104,196,.18);
+  border-radius: 18px;
+  background: linear-gradient(110deg, #fff, var(--blue-50));
+  box-shadow: var(--shadow-sm);
+}
+.journal-policy-notice h3 { margin: 0 0 7px; color: var(--navy-900); font-family: Georgia, "Times New Roman", serif; font-size: 1.35rem; }
+.journal-policy-notice p:last-child { max-width: 740px; margin: 0; color: var(--muted); font-size: .86rem; }
+.journal-policy-notice .btn { flex: 0 0 auto; }
+
+@media (max-width: 1050px) {
+  .ethics-category-grid { grid-template-columns: repeat(2, minmax(0, 1fr)); }
+  .ethics-category-card > p { min-height: 0; }
+  .ethics-policy-layout { grid-template-columns: 220px minmax(0, 1fr); gap: 32px; }
+  .ethics-sidebar-inner { padding: 18px; }
+  .policy-details summary { grid-template-columns: 52px minmax(0, 1fr); }
+  .policy-summary-action { grid-column: 2; justify-self: start; }
+  .policy-body { padding-left: 34px; }
+  .policy-meta { grid-template-columns: 1fr 1fr; }
+}
+
+@media (max-width: 800px) {
+  .ethics-policy-layout { grid-template-columns: 1fr; }
+  .ethics-sidebar-inner { position: static; }
+  .ethics-sidebar nav { grid-template-columns: repeat(2, minmax(0, 1fr)); }
+  .policy-controls { display: flex; }
+  .policy-controls button { flex: 1; }
+  .ethics-sidebar-contact { text-align: center; }
+  .policy-category,
+  .policy-document { scroll-margin-top: 100px; }
+  .journal-policy-notice { align-items: flex-start; flex-direction: column; }
+}
+
+@media (max-width: 600px) {
+  .ethics-hero-actions { align-items: stretch; flex-direction: column; }
+  .ethics-hero-actions .btn { width: 100%; }
+  .ethics-meta { gap: 7px; }
+  .ethics-meta > span { width: 100%; justify-content: space-between; }
+  .ethics-category-grid { grid-template-columns: 1fr; }
+  .ethics-category-card { padding: 23px 20px; }
+  .ethics-sidebar nav { grid-template-columns: 1fr; }
+  .policy-category-heading { grid-template-columns: 52px minmax(0, 1fr); gap: 14px; }
+  .policy-category-heading > span { width: 50px; height: 50px; border-radius: 14px; }
+  .policy-category-heading h2 { font-size: 2rem; }
+  .policy-details summary { grid-template-columns: 44px minmax(0, 1fr); gap: 12px; min-height: 0; padding: 20px 16px; }
+  .policy-number { width: 42px; height: 42px; border-radius: 12px; }
+  .policy-title { font-size: 1.08rem; }
+  .policy-summary-copy > span:last-child { font-size: .76rem; }
+  .policy-body { padding: 2px 18px 26px; }
+  .policy-meta { grid-template-columns: 1fr; margin: 22px 0; }
+  .policy-body p,
+  .policy-body li { font-size: .88rem; }
+  .policy-body h4 { font-size: 1.18rem; }
+  .policy-contact { align-items: flex-start; flex-direction: column; gap: 8px; }
+  .policy-contact a { text-align: left; }
+}
+
+@media print {
+  .site-update-notice,
+  .topbar,
+  .site-header,
+  .ethics-hero-actions,
+  .ethics-sidebar,
+  .cta-band,
+  .site-footer,
+  .scroll-progress,
+  .site-back-to-top { display: none !important; }
+  .ethics-hero { color: #000; background: #fff; }
+  .ethics-hero .page-hero-inner { padding: 20px 0; }
+  .ethics-hero h1,
+  .ethics-hero p:not(.eyebrow),
+  .ethics-meta > span,
+  .ethics-meta strong { color: #000; }
+  .ethics-overview { display: none; }
+  .ethics-policy-section { padding: 0; background: #fff; }
+  .ethics-policy-layout { display: block; }
+  .ethics-policy-content { gap: 40px; }
+  .policy-details,
+  .policy-details[open] { border-color: #bbb; box-shadow: none; }
+  .policy-details summary { min-height: 0; padding: 14px; }
+  .policy-summary-action { display: none; }
+  .policy-body { padding: 0 20px 20px; }
+  .policy-document { break-inside: avoid-page; }
+}
