@@ -1,12 +1,11 @@
 {
   "journalId": "national-research-journal",
   "keywords": [
-    "COVID-19",
-    "Philippines",
-    "rural communities",
-    "equity",
-    "policy",
-    "resilience"
+    "parental involvement",
+    "modular learning",
+    "online learning",
+    "family-school partnership",
+    "learner agency"
   ],
   "volume": "2",
   "issue": "1",
@@ -20,8 +19,8 @@
   "authors": [
     "Renato Luis Domingo"
   ],
-  "articleType": "Integrative Family-Engagement Review",
-  "abstract": "This integrative family-engagement review examines parental involvement in modular and online learning using literature and institutional documents published no later than 2021. It argues that parental involvement in remote learning is shaped by time, confidence, communication, resources, and role clarity and should not be treated as unlimited substitute teaching. Evidence was organized around four themes: home learning roles, time and economic constraints, instructional confidence, and school-family partnerships. The synthesis shows that pandemic outcomes were rarely determined by a single factor; instead, they reflected interacting material, organizational, social, and informational conditions. The article proposes a layered response combining universal minimum provision, targeted support, continuous feedback, and locally adaptable implementation. Because this is a literature-based analysis rather than original field research, it does not report participants, newly collected data, or causal estimates. Its contribution lies in integrating early pandemic evidence into a practical framework for Philippine schools and communities, especially rural and resource-constrained settings.",
-  "pages": "31–40",
-  "pdfFile": "assets/uploads/journal-archive/national-research-journal/volume-2-issue-1-2021/renato-luis-domingo-parental-involvement.pdf"
+  "articleType": "Conceptual Review",
+  "abstract": "Remote education expanded parental involvement while blurring the boundary between support and substitute teaching. This conceptual review examines involvement as a negotiated family-school relationship rather than a single amount of participation. Evidence through 2021 is organized around five roles: prepare the learning conditions, encourage learner agency, observe progress, communicate evidence, and refer instructional problems to the teacher. The proposed Family-School Support Boundary protects parents from being held responsible for curriculum delivery and protects assessment from answers produced by adults. It recognizes that employment, household care, language, education, disability, connectivity, and device sharing shape what families can reasonably provide. The framework recommends weekly demand maps, role-specific guidance, disclosure of assistance, predictable contact routes, and differentiated support for families facing higher coordination costs. It also distinguishes productive involvement from constant monitoring or control. The article does not measure parental participation or claim that more involvement always improves achievement. Its purpose is to define equitable, observable roles through which parents and schools can coordinate without transferring professional teaching obligations to the household.",
+  "pages": "1–3",
+  "pdfFile": "assets/uploads/journal-archive/national-research-journal/volume-2-issue-1-2021/renato-luis-domingo-parental-involvement-revised-2026-08-11.pdf"
 }

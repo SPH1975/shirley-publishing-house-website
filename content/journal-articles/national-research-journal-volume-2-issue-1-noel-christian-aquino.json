@@ -1,12 +1,12 @@
 {
   "journalId": "national-research-journal",
   "keywords": [
-    "COVID-19",
-    "Philippines",
-    "rural communities",
-    "equity",
-    "policy",
-    "resilience"
+    "digital literacy",
+    "teachers",
+    "parents",
+    "learners",
+    "digital safety",
+    "remote education"
   ],
   "volume": "2",
   "issue": "1",
@@ -20,8 +20,8 @@
   "authors": [
     "Noel Christian Aquino"
   ],
-  "articleType": "Scoping-Style Digital-Literacy Review",
-  "abstract": "This scoping-style digital-literacy review examines digital literacy of teachers, parents, and learners using literature and institutional documents published no later than 2021. It argues that digital literacy is a relational capability involving access, operational skill, information judgment, safety, communication, content creation, and supported participation. Evidence was organized around four themes: access and operational skills, information and media literacy, online safety and privacy, and pedagogical and family support. The synthesis shows that pandemic outcomes were rarely determined by a single factor; instead, they reflected interacting material, organizational, social, and informational conditions. The article proposes a layered response combining universal minimum provision, targeted support, continuous feedback, and locally adaptable implementation. Because this is a literature-based analysis rather than original field research, it does not report participants, newly collected data, or causal estimates. Its contribution lies in integrating early pandemic evidence into a practical framework for Philippine schools and communities, especially rural and resource-constrained settings.",
-  "pages": "51–60",
-  "pdfFile": "assets/uploads/journal-archive/national-research-journal/volume-2-issue-1-2021/noel-christian-aquino-digital-literacy.pdf"
+  "articleType": "Conceptual Review",
+  "abstract": "Digital literacy in remote education is often reduced to device operation, although successful participation requires teachers, parents, and learners to complete connected tasks with different responsibilities. This conceptual review proposes a Shared Digital Task Ecosystem organized around access, operation, information judgment, communication, safety, and repair. Evidence through 2021 suggests that a platform can be technically available while learning fails because files are too large, instructions are fragmented, sources are unreliable, privacy expectations are unclear, or users have no recovery route after an error. The framework maps each recurring school task across the three actors and assigns one accountable process owner. It recommends performance-based support, low-bandwidth alternatives, common file and message conventions, age-appropriate safety rules, and a help system that records recurring breakdowns. It also distinguishes household assistance from surveillance and teacher competence from personal ownership of equipment. The article does not score the digital literacy of any group. Its contribution is a relational model for evaluating whether the combined system allows people to access, judge, communicate, protect, and recover while completing authentic educational tasks.",
+  "pages": "1–3",
+  "pdfFile": "assets/uploads/journal-archive/national-research-journal/volume-2-issue-1-2021/noel-christian-aquino-digital-literacy-revised-2026-08-11.pdf"
 }

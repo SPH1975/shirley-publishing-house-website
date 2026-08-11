@@ -1,12 +1,11 @@
 {
   "journalId": "national-research-journal",
   "keywords": [
-    "COVID-19",
-    "Philippines",
-    "rural communities",
-    "equity",
-    "policy",
-    "resilience"
+    "mathematics achievement",
+    "printed modules",
+    "worked examples",
+    "feedback",
+    "learning recovery"
   ],
   "volume": "2",
   "issue": "1",
@@ -20,8 +19,8 @@
   "authors": [
     "Carlo Emmanuel Mercado"
   ],
-  "articleType": "Integrative Mathematics-Education Review",
-  "abstract": "This integrative mathematics-education review examines mathematics achievement in a modular learning environment using literature and institutional documents published no later than 2021. It argues that mathematics achievement in modular environments depends on conceptual explanations, worked examples, feedback, practice quality, language accessibility, and opportunities to address misconceptions. Evidence was organized around four themes: conceptual understanding, worked examples and practice, feedback and misconception repair, and access and family support. The synthesis shows that pandemic outcomes were rarely determined by a single factor; instead, they reflected interacting material, organizational, social, and informational conditions. The article proposes a layered response combining universal minimum provision, targeted support, continuous feedback, and locally adaptable implementation. Because this is a literature-based analysis rather than original field research, it does not report participants, newly collected data, or causal estimates. Its contribution lies in integrating early pandemic evidence into a practical framework for Philippine schools and communities, especially rural and resource-constrained settings.",
-  "pages": "81–90",
-  "pdfFile": "assets/uploads/journal-archive/national-research-journal/volume-2-issue-1-2021/carlo-emmanuel-mercado-mathematics-achievement.pdf"
+  "articleType": "Conceptual Review",
+  "abstract": "Printed modules can preserve mathematics practice when classroom contact is interrupted, but distribution alone does not establish learning. This conceptual review examines achievement as the product of a feedback loop among task interpretation, worked examples, independent practice, error evidence, and instructional response. Evidence through 2021 suggests that modular mathematics becomes fragile when prerequisite gaps are invisible, examples display procedures without reasoning, answer keys replace diagnosis, and delayed feedback allows misconceptions to consolidate. The article proposes a Worked-Example Feedback Loop in which each module identifies prerequisite knowledge, models a complete solution with self-explanation prompts, sequences practice by variation, collects interpretable learner work, and routes errors to a targeted response. The approach protects learner authorship by assigning caregivers a support role rather than asking them to teach unfamiliar procedures. It also recommends separating module completion, procedural accuracy, and conceptual transfer in assessment. This is a design framework, not an empirical estimate of achievement. Its purpose is to make the instructional mechanisms inside modular delivery visible and testable.",
+  "pages": "1–3",
+  "pdfFile": "assets/uploads/journal-archive/national-research-journal/volume-2-issue-1-2021/carlo-emmanuel-mercado-mathematics-achievement-revised-2026-08-11.pdf"
 }

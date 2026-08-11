@@ -1,12 +1,11 @@
 {
   "journalId": "national-research-journal",
   "keywords": [
-    "COVID-19",
-    "Philippines",
-    "rural communities",
-    "equity",
-    "policy",
-    "resilience"
+    "teacher workload",
+    "occupational stress",
+    "coping",
+    "job demands",
+    "work recovery"
   ],
   "volume": "2",
   "issue": "1",
@@ -16,12 +15,12 @@
   "featured": false,
   "active": true,
   "id": "national-research-journal-volume-2-issue-1-jasmine-claire-velasco",
-  "title": "Teachers’ Workload, Stress, and Coping Strategies Under the New Normal",
+  "title": "Teachers' Workload, Stress, and Coping Strategies Under the New Normal",
   "authors": [
     "Jasmine Claire Velasco"
   ],
-  "articleType": "Integrative Occupational-Health Review",
-  "abstract": "This integrative occupational-health review examines teachers’ workload, stress, and coping strategies under the new normal using literature and institutional documents published no later than 2021. It argues that teacher stress under emergency education arose from intensified workload, role expansion, digital demands, and emotional labor, while sustainable coping required organizational as well as individual support. Evidence was organized around four themes: workload intensification, technostress and role conflict, emotional labor and well-being, and coping and organizational support. The synthesis shows that pandemic outcomes were rarely determined by a single factor; instead, they reflected interacting material, organizational, social, and informational conditions. The article proposes a layered response combining universal minimum provision, targeted support, continuous feedback, and locally adaptable implementation. Because this is a literature-based analysis rather than original field research, it does not report participants, newly collected data, or causal estimates. Its contribution lies in integrating early pandemic evidence into a practical framework for Philippine schools and communities, especially rural and resource-constrained settings.",
-  "pages": "1–10",
-  "pdfFile": "assets/uploads/journal-archive/national-research-journal/volume-2-issue-1-2021/jasmine-claire-velasco-teacher-workload-stress.pdf"
+  "articleType": "Conceptual Review",
+  "abstract": "Teacher stress during emergency education is often discussed as an individual coping problem even when workload is produced by institutional design. This conceptual review distinguishes task volume, task fragmentation, emotional demand, decision uncertainty, and recovery opportunity. Evidence through 2021 is interpreted through a job-demands and resources perspective and organized into a Workload Recovery Ledger. The ledger asks schools to identify each recurring demand, its educational purpose, time pattern, duplication, responsible owner, available resource, and recovery protection. The synthesis argues that wellness seminars cannot compensate for conflicting deadlines, parallel reporting channels, continuous availability, or unbounded emotional labor. Individual coping remains valuable, but it should operate after unnecessary demands are removed and essential work is prioritized. The proposed framework links workload review with clear service standards, communication windows, escalation routes, peer support, and periodic stop decisions. This article reports no stress prevalence or intervention effect. It offers an organizational method for making invisible work visible and for evaluating whether coping support is matched by changes in working conditions.",
+  "pages": "1–3",
+  "pdfFile": "assets/uploads/journal-archive/national-research-journal/volume-2-issue-1-2021/jasmine-claire-velasco-teacher-workload-stress-revised-2026-08-11.pdf"
 }

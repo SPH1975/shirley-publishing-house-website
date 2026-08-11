@@ -1,12 +1,11 @@
 {
   "journalId": "national-research-journal",
   "keywords": [
-    "COVID-19",
-    "Philippines",
-    "rural communities",
-    "equity",
-    "policy",
-    "resilience"
+    "COVID-19 vaccination",
+    "vaccine confidence",
+    "community communication",
+    "access",
+    "acceptance"
   ],
   "volume": "2",
   "issue": "1",
@@ -20,8 +19,8 @@
   "authors": [
     "Sofia Beatrice Santiago"
   ],
-  "articleType": "Risk-Communication and Policy Review",
-  "abstract": "This risk-communication and policy review examines COVID-19 vaccine awareness and acceptance in local communities using literature and institutional documents published no later than 2021. It argues that vaccine acceptance is influenced by confidence, perceived risk, convenience, social norms, trusted messengers, and transparent communication about benefits and uncertainty. Evidence was organized around four themes: knowledge and risk perception, confidence and misinformation, access and convenience, and trusted local engagement. The synthesis shows that pandemic outcomes were rarely determined by a single factor; instead, they reflected interacting material, organizational, social, and informational conditions. The article proposes a layered response combining universal minimum provision, targeted support, continuous feedback, and locally adaptable implementation. Because this is a literature-based analysis rather than original field research, it does not report participants, newly collected data, or causal estimates. Its contribution lies in integrating early pandemic evidence into a practical framework for Philippine schools and communities, especially rural and resource-constrained settings.",
-  "pages": "71–80",
-  "pdfFile": "assets/uploads/journal-archive/national-research-journal/volume-2-issue-1-2021/sofia-beatrice-santiago-vaccine-awareness.pdf"
+  "articleType": "Conceptual Review",
+  "abstract": "Vaccine awareness is often treated as a communication endpoint, although recognizing a vaccine does not establish confidence, intention, access, or completion. This conceptual review separates those stages and examines community acceptance using evidence available through 2021. It proposes a Vaccine Acceptance Pathway that begins with exposure to understandable information, proceeds through source appraisal and personal deliberation, and ends with feasible access and follow-through. The pathway explains why message volume alone cannot resolve mistrust, why stated willingness can coexist with missed vaccination, and why respectful conversation must be paired with convenient service. It recommends segmenting questions rather than labeling people as simply hesitant, documenting rumor patterns without repeating them carelessly, using trusted messengers within clear clinical boundaries, and monitoring drop-off between registration, first contact, and completed doses. The article does not estimate acceptance in a locality or prescribe a universal message. It offers a framework for designing and evaluating community vaccination communication without confusing awareness with action.",
+  "pages": "1–3",
+  "pdfFile": "assets/uploads/journal-archive/national-research-journal/volume-2-issue-1-2021/sofia-beatrice-santiago-vaccine-awareness-revised-2026-08-11.pdf"
 }
