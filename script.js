@@ -273,7 +273,11 @@
     '.repository-category-card',
     '.repository-card',
     '.repository-page-stat-card',
-    '.repository-disclaimer'
+    '.repository-disclaimer',
+    '.publishing-showcase-heading',
+    '.showcase-proof-item',
+    '.banner-stage',
+    '.showcase-cta-row'
   ].join(',');
 
   let revealObserver;
@@ -354,6 +358,34 @@
     hero.addEventListener('pointerleave', () => {
       window.cancelAnimationFrame(heroMotionFrame);
       heroMotionFrame = window.requestAnimationFrame(() => renderHeroDepth(0, 0));
+    });
+  }
+
+  const bannerStage = document.querySelector('[data-banner-stage]');
+  if (!reducedMotion && finePointer && bannerStage) {
+    let bannerMotionFrame;
+    const renderBannerDepth = (x, y, glowX = 50, glowY = 50) => {
+      bannerStage.style.setProperty('--banner-rotate-x', `${y * -2.2}deg`);
+      bannerStage.style.setProperty('--banner-rotate-y', `${x * 2.8}deg`);
+      bannerStage.style.setProperty('--banner-shift-x', `${x * 5}px`);
+      bannerStage.style.setProperty('--banner-shift-y', `${y * 4}px`);
+      bannerStage.style.setProperty('--banner-glow-x', `${glowX}%`);
+      bannerStage.style.setProperty('--banner-glow-y', `${glowY}%`);
+    };
+
+    bannerStage.addEventListener('pointermove', (event) => {
+      const bounds = bannerStage.getBoundingClientRect();
+      const relativeX = Math.min(1, Math.max(0, (event.clientX - bounds.left) / bounds.width));
+      const relativeY = Math.min(1, Math.max(0, (event.clientY - bounds.top) / bounds.height));
+      const x = relativeX * 2 - 1;
+      const y = relativeY * 2 - 1;
+      window.cancelAnimationFrame(bannerMotionFrame);
+      bannerMotionFrame = window.requestAnimationFrame(() => renderBannerDepth(x, y, relativeX * 100, relativeY * 100));
+    }, { passive: true });
+
+    bannerStage.addEventListener('pointerleave', () => {
+      window.cancelAnimationFrame(bannerMotionFrame);
+      bannerMotionFrame = window.requestAnimationFrame(() => renderBannerDepth(0, 0));
     });
   }
 
