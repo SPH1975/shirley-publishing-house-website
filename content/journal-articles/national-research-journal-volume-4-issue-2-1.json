@@ -17,11 +17,13 @@
   "volume": "6",
   "issue": "2",
   "issueLabel": "July–December 2025",
-  "publicationDate": "2026-08-10",
+  "publicationDate": "2025",
   "pages": "1–11",
   "doi": "",
   "pdfFile": "assets/uploads/journal-archive/national-research-journal/volume-4-issue-2/marina-binay-an-cookery-safety-accuracy.pdf",
   "featured": false,
   "active": true,
-  "id": "national-research-journal-volume-4-issue-2-1"
+  "id": "national-research-journal-volume-4-issue-2-1",
+  "digitizedDate": "2026-08-10",
+  "originalPublicationPeriod": "July–December 2025"
 }

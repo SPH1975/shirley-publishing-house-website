@@ -131,6 +131,10 @@ collections:
       - { label: "Publication Format", name: "format", widget: "string", required: false, hint: "Example: Print and Online" }
       - { label: "Current Volume and Issue", name: "currentVolumeIssue", widget: "string", required: false }
       - { label: "Established Year", name: "establishedYear", widget: "string", required: false, hint: "Example: 2026" }
+      - { label: "Effectivity Date", name: "effectivityDate", widget: "string", required: false, hint: "Example: January 2020" }
+      - { label: "ISSN Assignment Year", name: "issnAssignedYear", widget: "string", required: false, hint: "Example: 2022" }
+      - { label: "Publication History Notice", name: "historyNotice", widget: "text", required: false }
+      - { label: "Pre-ISSN Issue Notice", name: "preIssnNotice", widget: "text", required: false }
       - { label: "Editor-in-Chief", name: "editorInChief", widget: "string", required: false }
       - label: "Editorial Board Groups"
         name: "editorialBoardGroups"
@@ -182,7 +186,9 @@ collections:
       - { label: "Volume", name: "volume", widget: "string", hint: "Example: 2" }
       - { label: "Issue", name: "issue", widget: "string", hint: "Example: 1" }
       - { label: "Issue Display Label", name: "issueLabel", widget: "string", required: false, hint: "Optional. Example: January–June 2023" }
-      - { label: "Publication Date", name: "publicationDate", widget: "datetime", date_format: "YYYY-MM-DD", time_format: false, format: "YYYY-MM-DD" }
+      - { label: "Original Publication Year or Date", name: "publicationDate", widget: "string", hint: "Use YYYY when the exact original date is not documented; otherwise use YYYY-MM-DD." }
+      - { label: "Original Publication Period", name: "originalPublicationPeriod", widget: "string", required: false, hint: "Example: January–June 2020" }
+      - { label: "Digitized / Uploaded Online Date", name: "digitizedDate", widget: "datetime", required: false, date_format: "YYYY-MM-DD", time_format: false, format: "YYYY-MM-DD", hint: "This is separate from the original publication date." }
       - { label: "Page Range", name: "pages", widget: "string", required: false, hint: "Example: 15–29" }
       - { label: "DOI", name: "doi", widget: "string", required: false }
       - { label: "Article PDF", name: "pdfFile", widget: "file", allow_multiple: false, choose_url: false, hint: "Upload the final PDF. To fully remove an article later, delete this entry and then delete its PDF from Media." }
