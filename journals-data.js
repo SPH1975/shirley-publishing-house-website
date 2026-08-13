@@ -95,7 +95,7 @@ window.SHIRLEY_JOURNALS = [
         "role": "Art and Layout Editors",
         "members": [
           {
-            "name": "Chris Nalda"
+            "name": "Christopher Nalda"
           },
           {
             "name": "Donnavee B. Cabasal",
@@ -229,7 +229,7 @@ window.SHIRLEY_JOURNALS = [
         "role": "Art and Layout Editors",
         "members": [
           {
-            "name": "Chris Nalda",
+            "name": "Christopher Nalda",
             "affiliation": "Layout Artist & Graphic Designer, Shirley Publishing House"
           },
           {
@@ -301,6 +301,12 @@ window.SHIRLEY_JOURNALS = [
             "credentials": "MT II",
             "affiliation": "Schools Division Office of Nueva Vizcaya",
             "country": "Philippines"
+          },
+          {
+            "name": "Verna Ruth Pulinney",
+            "credentials": "MAEd",
+            "affiliation": "Faculty, Ontario College of Teaching; Member, Manitoba Teachers Society",
+            "country": "Canada"
           }
         ]
       },
@@ -347,7 +353,7 @@ window.SHIRLEY_JOURNALS = [
         "role": "Art and Layout Editors",
         "members": [
           {
-            "name": "Chris Nalda",
+            "name": "Christopher Nalda",
             "affiliation": "Layout Artist & Graphic Designer, Shirley Publishing House",
             "country": "Philippines"
           },
