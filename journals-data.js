@@ -275,7 +275,8 @@ window.SHIRLEY_JOURNALS = [
         "members": [
           {
             "name": "Shirley D. Vicente",
-            "credentials": "MAEd"
+            "credentials": "MAEd",
+            "affiliation": "Retired MTI, Kasibu West District, SDO Nueva Vizcaya"
           }
         ]
       },
@@ -296,15 +297,6 @@ window.SHIRLEY_JOURNALS = [
             "name": "Joy A. Caronilla",
             "credentials": "MT II",
             "affiliation": "Schools Division Office of Nueva Vizcaya"
-          },
-          {
-            "name": "Marissa Johnson Palma",
-            "affiliation": "English Language Assessment Consultant, British Council Education Consulting (Beijing) Co. Ltd"
-          },
-          {
-            "name": "Felicitos A. Del Rosario III",
-            "credentials": "PhD",
-            "affiliation": "Retired MTI, Benigno S. Aquino National High School"
           }
         ]
       },
@@ -327,14 +319,18 @@ window.SHIRLEY_JOURNALS = [
             "affiliation": "Teacher III / Division Research Focal Person, Schools Division Office of Cauayan City"
           },
           {
-            "name": "Jossanth D. Vicente",
-            "credentials": "RCE",
-            "affiliation": "Associate Editor / Technical Editor, Shirley Publishing House"
+            "name": "Donnavee B. Cabasal",
+            "credentials": "MT I",
+            "affiliation": "Schools Division Office of Nueva Vizcaya"
           },
           {
-            "name": "Mark Lester Ventura",
-            "credentials": "RCE",
-            "affiliation": "Associate Editor / Technical Editor, Shirley Publishing House"
+            "name": "Felicitos A. Del Rosario III",
+            "credentials": "PhD",
+            "affiliation": "Retired MTI, Benigno S. Aquino National High School"
+          },
+          {
+            "name": "Marissa Johnson Palma",
+            "affiliation": "English Language Assessment Consultant, British Council Education Consulting (Beijing) Co. Ltd"
           }
         ]
       },
@@ -346,9 +342,14 @@ window.SHIRLEY_JOURNALS = [
             "affiliation": "Layout Artist & Graphic Designer, Shirley Publishing House"
           },
           {
-            "name": "Donnavee B. Cabasal",
-            "credentials": "MT I",
-            "affiliation": "Schools Division Office of Nueva Vizcaya"
+            "name": "Jossanth D. Vicente",
+            "credentials": "RCE",
+            "affiliation": "Art and Layout Editor / Technical Editor, Shirley Publishing House"
+          },
+          {
+            "name": "Mark Lester Ventura",
+            "credentials": "RCE",
+            "affiliation": "Art and Layout Editor / Technical Editor, Shirley Publishing House"
           }
         ]
       }
