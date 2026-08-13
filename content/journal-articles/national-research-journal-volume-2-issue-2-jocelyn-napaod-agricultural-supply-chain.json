@@ -1,0 +1,28 @@
+{
+  "id": "national-research-journal-volume-2-issue-2-jocelyn-napaod-agricultural-supply-chain",
+  "journalId": "national-research-journal",
+  "title": "Agricultural Production and Supply-Chain Disruptions During the Pandemic",
+  "authors": [
+    "Jocelyn Napaod"
+  ],
+  "articleType": "Conceptual Review",
+  "abstract": "Pandemic disruptions in agriculture did not occur at one point. They moved through input access, farm labor and timing, aggregation, transport, exchange, and market information. This conceptual review proposes a Farm-to-Market Continuity Map for locating the earliest broken function and selecting a response that protects both food availability and producer livelihood. Evidence available through 2021 shows that aggregate production figures can conceal losses caused by delayed seed or feed, labor restrictions, rejected perishables, fragmented permits, missing buyers, and weak demand signals. The framework treats supply chains as coordinated services rather than a line of commodities. It recommends time-critical input classification, shared production calendars, temporary aggregation protocols, harmonized transport documents, explicit transaction terms, and two-way market feedback. Digital platforms are considered useful only when payment, grading, logistics, and dispute resolution are defined. The article does not estimate output, price, or income effects. Its contribution is an operational map for distinguishing production constraints from coordination failures and for designing continuity measures around perishability and timing.",
+  "keywords": [
+    "agricultural production",
+    "food supply chain",
+    "pandemic disruption",
+    "logistics",
+    "market coordination"
+  ],
+  "volume": "2",
+  "issue": "2",
+  "issueLabel": "July-December 2021",
+  "publicationDate": "2021",
+  "pages": "1-3",
+  "doi": "",
+  "pdfFile": "assets/uploads/journal-archive/national-research-journal/volume-2-issue-2-2021/jocelyn-napaod-agricultural-supply-chain.pdf",
+  "featured": false,
+  "active": true,
+  "digitizedDate": "2026-08-13",
+  "originalPublicationPeriod": "July-December 2021"
+}

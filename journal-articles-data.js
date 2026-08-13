@@ -2894,7 +2894,14 @@ window.SHIRLEY_JOURNAL_ARTICLES = [
     "originalPublicationPeriod": "January–June 2022"
   },
   {
+    "id": "national-research-journal-volume-2-issue-1-marivic-ballatong-learning-gaps",
     "journalId": "national-research-journal",
+    "title": "Academic Performance and Learning Gaps During Distance Education",
+    "authors": [
+      "Marivic Ballatong"
+    ],
+    "articleType": "Conceptual Review",
+    "abstract": "Academic performance during distance education cannot be interpreted responsibly from grades alone. Changes in task access, adult assistance, assessment conditions, curriculum coverage, and grading policy can alter reported performance even when underlying learning moves differently. This conceptual review separates four questions: whether learners encountered the intended content, whether they could demonstrate knowledge independently, which prerequisite skills are missing, and whether gaps are widening across groups. Evidence through 2021 is organized into a Learning-Gap Diagnostic Map linking curriculum opportunity, common assessment, error pattern, and recovery priority. The framework discourages deficit labels based on one score and recommends a small set of low-stakes anchor tasks, item-level diagnosis, evidence of assistance, and repeated checks after intervention. It distinguishes a missed opportunity to learn from a persistent misconception and treats learner strengths as part of recovery planning. The article does not estimate national or local learning loss. Its contribution is a method for converting uncertain performance evidence into defensible instructional decisions without confusing emergency grades with comparable achievement measures.",
     "keywords": [
       "academic performance",
       "learning gaps",
@@ -2904,29 +2911,22 @@ window.SHIRLEY_JOURNAL_ARTICLES = [
     ],
     "volume": "2",
     "issue": "1",
-    "issueLabel": "January–June 2021",
+    "issueLabel": "January-June 2021",
     "publicationDate": "2021",
+    "pages": "1-3",
     "doi": "",
+    "pdfFile": "assets/uploads/journal-archive/national-research-journal/volume-2-issue-1-2021/marivic-ballatong-learning-gaps.pdf",
     "featured": false,
     "active": true,
-    "id": "national-research-journal-volume-2-issue-1-paolo-miguel-soriano",
-    "title": "Academic Performance and Learning Gaps During Distance Education",
-    "authors": [
-      "Paolo Miguel Soriano"
-    ],
-    "articleType": "Conceptual Review",
-    "abstract": "Academic performance during distance education cannot be interpreted responsibly from grades alone. Changes in task access, adult assistance, assessment conditions, curriculum coverage, and grading policy can alter reported performance even when underlying learning moves differently. This conceptual review separates four questions: whether learners encountered the intended content, whether they could demonstrate knowledge independently, which prerequisite skills are missing, and whether gaps are widening across groups. Evidence through 2021 is organized into a Learning-Gap Diagnostic Map linking curriculum opportunity, common assessment, error pattern, and recovery priority. The framework discourages deficit labels based on one score and recommends a small set of low-stakes anchor tasks, item-level diagnosis, evidence of assistance, and repeated checks after intervention. It distinguishes a missed opportunity to learn from a persistent misconception and treats learner strengths as part of recovery planning. The article does not estimate national or local learning loss. Its contribution is a method for converting uncertain performance evidence into defensible instructional decisions without confusing emergency grades with comparable achievement measures.",
-    "pages": "1–3",
-    "pdfFile": "assets/uploads/journal-archive/national-research-journal/volume-2-issue-1-2021/paolo-miguel-soriano-learning-gaps-revised-2026-08-11.pdf",
-    "digitizedDate": "2026-08-11",
-    "originalPublicationPeriod": "January–June 2021"
+    "digitizedDate": "2026-08-13",
+    "originalPublicationPeriod": "January-June 2021"
   },
   {
-    "id": "national-research-journal-volume-2-issue-2-alyssa-marie-manalo-cashless-payments-online-selling",
+    "id": "national-research-journal-volume-2-issue-2-lovejoy-kafilas-cashless-payments",
     "journalId": "national-research-journal",
     "title": "Adoption of Cashless Payments and Online Selling by Microbusinesses",
     "authors": [
-      "Alyssa Marie Manalo"
+      "Lovejoy Kafilas"
     ],
     "articleType": "Conceptual Review",
     "abstract": "For a microbusiness, adopting cashless payment or online selling is not completed by opening an account or social-media page. A transaction must remain reliable from discovery and order confirmation through payment, fulfillment, reconciliation, and recovery. This conceptual review organizes evidence available through 2021 into a Digital Transaction Reliability Ladder. The framework explains why promotional reach can grow while losses, disputes, and owner workload also increase. It recommends a minimum catalog, explicit order and cutoff rules, separate verification of payment, documented fulfillment, daily reconciliation, customer-data limits, and fallback routes for connectivity or platform failure. Adoption should be staged according to customer need, transaction volume, fees, device access, fraud exposure, and the owner's capacity to maintain records. Cash remains a legitimate parallel option where exclusion would otherwise occur. The article does not estimate adoption rates or profitability and does not endorse a specific provider. Its contribution is a task-based method for deciding whether a digital channel creates dependable sales rather than merely online presence.",
@@ -2939,22 +2939,22 @@ window.SHIRLEY_JOURNAL_ARTICLES = [
     ],
     "volume": "2",
     "issue": "2",
-    "issueLabel": "July–December 2021",
+    "issueLabel": "July-December 2021",
     "publicationDate": "2021",
-    "pages": "1–3",
+    "pages": "1-3",
     "doi": "",
-    "pdfFile": "assets/uploads/journal-archive/national-research-journal/volume-2-issue-2-2021/alyssa-marie-manalo-cashless-payments-online-selling-revised-2026-08-11.pdf",
+    "pdfFile": "assets/uploads/journal-archive/national-research-journal/volume-2-issue-2-2021/lovejoy-kafilas-cashless-payments.pdf",
     "featured": false,
     "active": true,
-    "digitizedDate": "2026-08-10",
-    "originalPublicationPeriod": "July–December 2021"
+    "digitizedDate": "2026-08-13",
+    "originalPublicationPeriod": "July-December 2021"
   },
   {
-    "id": "national-research-journal-volume-2-issue-2-gabriel-enrico-pascual-agricultural-supply-chain-disruptions",
+    "id": "national-research-journal-volume-2-issue-2-jocelyn-napaod-agricultural-supply-chain",
     "journalId": "national-research-journal",
     "title": "Agricultural Production and Supply-Chain Disruptions During the Pandemic",
     "authors": [
-      "Gabriel Enrico Pascual"
+      "Jocelyn Napaod"
     ],
     "articleType": "Conceptual Review",
     "abstract": "Pandemic disruptions in agriculture did not occur at one point. They moved through input access, farm labor and timing, aggregation, transport, exchange, and market information. This conceptual review proposes a Farm-to-Market Continuity Map for locating the earliest broken function and selecting a response that protects both food availability and producer livelihood. Evidence available through 2021 shows that aggregate production figures can conceal losses caused by delayed seed or feed, labor restrictions, rejected perishables, fragmented permits, missing buyers, and weak demand signals. The framework treats supply chains as coordinated services rather than a line of commodities. It recommends time-critical input classification, shared production calendars, temporary aggregation protocols, harmonized transport documents, explicit transaction terms, and two-way market feedback. Digital platforms are considered useful only when payment, grading, logistics, and dispute resolution are defined. The article does not estimate output, price, or income effects. Its contribution is an operational map for distinguishing production constraints from coordination failures and for designing continuity measures around perishability and timing.",
@@ -2967,15 +2967,15 @@ window.SHIRLEY_JOURNAL_ARTICLES = [
     ],
     "volume": "2",
     "issue": "2",
-    "issueLabel": "July–December 2021",
+    "issueLabel": "July-December 2021",
     "publicationDate": "2021",
-    "pages": "1–3",
+    "pages": "1-3",
     "doi": "",
-    "pdfFile": "assets/uploads/journal-archive/national-research-journal/volume-2-issue-2-2021/gabriel-enrico-pascual-agricultural-supply-chain-disruptions-revised-2026-08-11.pdf",
+    "pdfFile": "assets/uploads/journal-archive/national-research-journal/volume-2-issue-2-2021/jocelyn-napaod-agricultural-supply-chain.pdf",
     "featured": false,
     "active": true,
-    "digitizedDate": "2026-08-10",
-    "originalPublicationPeriod": "July–December 2021"
+    "digitizedDate": "2026-08-13",
+    "originalPublicationPeriod": "July-December 2021"
   },
   {
     "id": "national-research-journal-volume-2-issue-2-adrian-paolo-lim-assessment-integrity",
@@ -2995,22 +2995,22 @@ window.SHIRLEY_JOURNAL_ARTICLES = [
     ],
     "volume": "2",
     "issue": "2",
-    "issueLabel": "July–December 2021",
+    "issueLabel": "July-December 2021",
     "publicationDate": "2021",
-    "pages": "1–3",
+    "pages": "1-3",
     "doi": "",
-    "pdfFile": "assets/uploads/journal-archive/national-research-journal/volume-2-issue-2-2021/adrian-paolo-lim-assessment-integrity-revised-2026-08-11.pdf",
+    "pdfFile": "assets/uploads/journal-archive/national-research-journal/volume-2-issue-2-2021/adrian-paolo-lim-assessment-integrity.pdf",
     "featured": false,
     "active": true,
-    "digitizedDate": "2026-08-10",
-    "originalPublicationPeriod": "July–December 2021"
+    "digitizedDate": "2026-08-13",
+    "originalPublicationPeriod": "July-December 2021"
   },
   {
-    "id": "national-research-journal-volume-2-issue-2-monica-isabel-reyes-community-livelihood-programs",
+    "id": "national-research-journal-volume-2-issue-2-rommel-sacramento-community-livelihood-programs",
     "journalId": "national-research-journal",
     "title": "Community-Based Livelihood Programs for Families Affected by COVID-19",
     "authors": [
-      "Monica Isabel Reyes"
+      "Rommel Sacramento"
     ],
     "articleType": "Conceptual Review",
     "abstract": "Community livelihood programs can provide relief, but an activity is not viable merely because participants receive training, equipment, or start-up capital. This conceptual review proposes a Livelihood Viability Ladder that moves from household stabilization to capability, a tested market offer, a workable operating system, financial control, and resilient transition. Evidence through 2021 suggests that crisis programs fail when they begin with a standard product, count distribution as success, ignore care and health constraints, or provide debt before demand and cash flow are understood. The framework recommends participatory screening of household goals and constraints, small market tests, transparent group roles, unit-cost and cash-horizon tools, buyer and supply alternatives, and predefined continuation or exit decisions. Community institutions are positioned as coordinators and accountability structures, not substitutes for customer demand. The article distinguishes social protection from enterprise finance and warns against shifting market risk to vulnerable families. It does not estimate income effects or evaluate a named program. Its contribution is a staged method for determining whether support should stabilize, test, strengthen, scale, redesign, or stop a livelihood activity.",
@@ -3023,18 +3023,25 @@ window.SHIRLEY_JOURNAL_ARTICLES = [
     ],
     "volume": "2",
     "issue": "2",
-    "issueLabel": "July–December 2021",
+    "issueLabel": "July-December 2021",
     "publicationDate": "2021",
-    "pages": "1–3",
+    "pages": "1-3",
     "doi": "",
-    "pdfFile": "assets/uploads/journal-archive/national-research-journal/volume-2-issue-2-2021/monica-isabel-reyes-community-livelihood-programs-revised-2026-08-11.pdf",
+    "pdfFile": "assets/uploads/journal-archive/national-research-journal/volume-2-issue-2-2021/rommel-sacramento-community-livelihood-programs.pdf",
     "featured": false,
     "active": true,
-    "digitizedDate": "2026-08-10",
-    "originalPublicationPeriod": "July–December 2021"
+    "digitizedDate": "2026-08-13",
+    "originalPublicationPeriod": "July-December 2021"
   },
   {
+    "id": "national-research-journal-volume-2-issue-1-renaleth-watan-vaccine-awareness",
     "journalId": "national-research-journal",
+    "title": "COVID-19 Vaccine Awareness and Acceptance in Local Communities",
+    "authors": [
+      "Renaleth Watan"
+    ],
+    "articleType": "Conceptual Review",
+    "abstract": "Vaccine awareness is often treated as a communication endpoint, although recognizing a vaccine does not establish confidence, intention, access, or completion. This conceptual review separates those stages and examines community acceptance using evidence available through 2021. It proposes a Vaccine Acceptance Pathway that begins with exposure to understandable information, proceeds through source appraisal and personal deliberation, and ends with feasible access and follow-through. The pathway explains why message volume alone cannot resolve mistrust, why stated willingness can coexist with missed vaccination, and why respectful conversation must be paired with convenient service. It recommends segmenting questions rather than labeling people as simply hesitant, documenting rumor patterns without repeating them carelessly, using trusted messengers within clear clinical boundaries, and monitoring drop-off between registration, first contact, and completed doses. The article does not estimate acceptance in a locality or prescribe a universal message. It offers a framework for designing and evaluating community vaccination communication without confusing awareness with action.",
     "keywords": [
       "COVID-19 vaccination",
       "vaccine confidence",
@@ -3044,25 +3051,25 @@ window.SHIRLEY_JOURNAL_ARTICLES = [
     ],
     "volume": "2",
     "issue": "1",
-    "issueLabel": "January–June 2021",
+    "issueLabel": "January-June 2021",
     "publicationDate": "2021",
+    "pages": "1-3",
     "doi": "",
+    "pdfFile": "assets/uploads/journal-archive/national-research-journal/volume-2-issue-1-2021/renaleth-watan-vaccine-awareness.pdf",
     "featured": false,
     "active": true,
-    "id": "national-research-journal-volume-2-issue-1-sofia-beatrice-santiago",
-    "title": "COVID-19 Vaccine Awareness and Acceptance in Local Communities",
-    "authors": [
-      "Sofia Beatrice Santiago"
-    ],
-    "articleType": "Conceptual Review",
-    "abstract": "Vaccine awareness is often treated as a communication endpoint, although recognizing a vaccine does not establish confidence, intention, access, or completion. This conceptual review separates those stages and examines community acceptance using evidence available through 2021. It proposes a Vaccine Acceptance Pathway that begins with exposure to understandable information, proceeds through source appraisal and personal deliberation, and ends with feasible access and follow-through. The pathway explains why message volume alone cannot resolve mistrust, why stated willingness can coexist with missed vaccination, and why respectful conversation must be paired with convenient service. It recommends segmenting questions rather than labeling people as simply hesitant, documenting rumor patterns without repeating them carelessly, using trusted messengers within clear clinical boundaries, and monitoring drop-off between registration, first contact, and completed doses. The article does not estimate acceptance in a locality or prescribe a universal message. It offers a framework for designing and evaluating community vaccination communication without confusing awareness with action.",
-    "pages": "1–3",
-    "pdfFile": "assets/uploads/journal-archive/national-research-journal/volume-2-issue-1-2021/sofia-beatrice-santiago-vaccine-awareness-revised-2026-08-11.pdf",
-    "digitizedDate": "2026-08-11",
-    "originalPublicationPeriod": "January–June 2021"
+    "digitizedDate": "2026-08-13",
+    "originalPublicationPeriod": "January-June 2021"
   },
   {
+    "id": "national-research-journal-volume-2-issue-1-fe-butay-digital-literacy",
     "journalId": "national-research-journal",
+    "title": "Digital Literacy of Teachers, Parents, and Learners",
+    "authors": [
+      "Fe Butay"
+    ],
+    "articleType": "Conceptual Review",
+    "abstract": "Digital literacy in remote education is often reduced to device operation, although successful participation requires teachers, parents, and learners to complete connected tasks with different responsibilities. This conceptual review proposes a Shared Digital Task Ecosystem organized around access, operation, information judgment, communication, safety, and repair. Evidence through 2021 suggests that a platform can be technically available while learning fails because files are too large, instructions are fragmented, sources are unreliable, privacy expectations are unclear, or users have no recovery route after an error. The framework maps each recurring school task across the three actors and assigns one accountable process owner. It recommends performance-based support, low-bandwidth alternatives, common file and message conventions, age-appropriate safety rules, and a help system that records recurring breakdowns. It also distinguishes household assistance from surveillance and teacher competence from personal ownership of equipment. The article does not score the digital literacy of any group. Its contribution is a relational model for evaluating whether the combined system allows people to access, judge, communicate, protect, and recover while completing authentic educational tasks.",
     "keywords": [
       "digital literacy",
       "teachers",
@@ -3073,25 +3080,25 @@ window.SHIRLEY_JOURNAL_ARTICLES = [
     ],
     "volume": "2",
     "issue": "1",
-    "issueLabel": "January–June 2021",
+    "issueLabel": "January-June 2021",
     "publicationDate": "2021",
+    "pages": "1-3",
     "doi": "",
+    "pdfFile": "assets/uploads/journal-archive/national-research-journal/volume-2-issue-1-2021/fe-butay-digital-literacy.pdf",
     "featured": false,
     "active": true,
-    "id": "national-research-journal-volume-2-issue-1-noel-christian-aquino",
-    "title": "Digital Literacy of Teachers, Parents, and Learners",
-    "authors": [
-      "Noel Christian Aquino"
-    ],
-    "articleType": "Conceptual Review",
-    "abstract": "Digital literacy in remote education is often reduced to device operation, although successful participation requires teachers, parents, and learners to complete connected tasks with different responsibilities. This conceptual review proposes a Shared Digital Task Ecosystem organized around access, operation, information judgment, communication, safety, and repair. Evidence through 2021 suggests that a platform can be technically available while learning fails because files are too large, instructions are fragmented, sources are unreliable, privacy expectations are unclear, or users have no recovery route after an error. The framework maps each recurring school task across the three actors and assigns one accountable process owner. It recommends performance-based support, low-bandwidth alternatives, common file and message conventions, age-appropriate safety rules, and a help system that records recurring breakdowns. It also distinguishes household assistance from surveillance and teacher competence from personal ownership of equipment. The article does not score the digital literacy of any group. Its contribution is a relational model for evaluating whether the combined system allows people to access, judge, communicate, protect, and recover while completing authentic educational tasks.",
-    "pages": "1–3",
-    "pdfFile": "assets/uploads/journal-archive/national-research-journal/volume-2-issue-1-2021/noel-christian-aquino-digital-literacy-revised-2026-08-11.pdf",
-    "digitizedDate": "2026-08-11",
-    "originalPublicationPeriod": "January–June 2021"
+    "digitizedDate": "2026-08-13",
+    "originalPublicationPeriod": "January-June 2021"
   },
   {
+    "id": "national-research-journal-volume-2-issue-1-dolores-andag-barangay-pandemic-response",
     "journalId": "national-research-journal",
+    "title": "Effectiveness of Barangay-Level Pandemic Response Programs",
+    "authors": [
+      "Dolores Andag"
+    ],
+    "articleType": "Conceptual Review",
+    "abstract": "Barangay pandemic programs operated where national rules met household realities. This conceptual review defines effectiveness as a reliable service chain rather than the number of ordinances, announcements, or activities completed. Literature and Philippine policy available through 2021 are organized around five linked functions: detecting a concern, assessing urgency, connecting residents to health or social services, sustaining essential support, and documenting correction. The synthesis shows that a visible program can still fail when residents cannot report safely, case information stops at collection, referral routes are unclear, relief rules are opaque, or local workers lack protection. It proposes a Barangay Response Service Chain with minimum evidence for each handoff and an equity check for people facing disability, language, transport, income, or digital barriers. The article is an analytic review, not an evaluation of a named barangay, and reports no invented beneficiaries or outcome rates. Its contribution is a practical framework for examining whether local response functions connect from first contact to resolution.",
     "keywords": [
       "barangay governance",
       "pandemic response",
@@ -3101,25 +3108,25 @@ window.SHIRLEY_JOURNAL_ARTICLES = [
     ],
     "volume": "2",
     "issue": "1",
-    "issueLabel": "January–June 2021",
+    "issueLabel": "January-June 2021",
     "publicationDate": "2021",
+    "pages": "1-3",
     "doi": "",
+    "pdfFile": "assets/uploads/journal-archive/national-research-journal/volume-2-issue-1-2021/dolores-andag-barangay-pandemic-response.pdf",
     "featured": false,
     "active": true,
-    "id": "national-research-journal-volume-2-issue-1-rochelle-mae-bautista",
-    "title": "Effectiveness of Barangay-Level Pandemic Response Programs",
-    "authors": [
-      "Rochelle Mae Bautista"
-    ],
-    "articleType": "Conceptual Review",
-    "abstract": "Barangay pandemic programs operated where national rules met household realities. This conceptual review defines effectiveness as a reliable service chain rather than the number of ordinances, announcements, or activities completed. Literature and Philippine policy available through 2021 are organized around five linked functions: detecting a concern, assessing urgency, connecting residents to health or social services, sustaining essential support, and documenting correction. The synthesis shows that a visible program can still fail when residents cannot report safely, case information stops at collection, referral routes are unclear, relief rules are opaque, or local workers lack protection. It proposes a Barangay Response Service Chain with minimum evidence for each handoff and an equity check for people facing disability, language, transport, income, or digital barriers. The article is an analytic review, not an evaluation of a named barangay, and reports no invented beneficiaries or outcome rates. Its contribution is a practical framework for examining whether local response functions connect from first contact to resolution.",
-    "pages": "1–3",
-    "pdfFile": "assets/uploads/journal-archive/national-research-journal/volume-2-issue-1-2021/rochelle-mae-bautista-barangay-response-revised-2026-08-11.pdf",
-    "digitizedDate": "2026-08-11",
-    "originalPublicationPeriod": "January–June 2021"
+    "digitizedDate": "2026-08-13",
+    "originalPublicationPeriod": "January-June 2021"
   },
   {
+    "id": "national-research-journal-volume-2-issue-1-shiella-buhong-modular-distance-learning",
     "journalId": "national-research-journal",
+    "title": "Effectiveness of Modular Distance Learning Among Elementary Learners",
+    "authors": [
+      "Shiella Buhong"
+    ],
+    "articleType": "Conceptual Review",
+    "abstract": "Modular distance learning is frequently judged by distribution and submission, although elementary learners require guidance, feedback, and repeated opportunities to recover from misunderstanding. This conceptual review defines effectiveness as a complete learning cycle rather than successful packet circulation. Evidence and policy available through 2021 are organized into five functions: orient the learner and caregiver, activate prior knowledge, support an independent attempt, interpret returned evidence, and provide a timely next step. The Elementary Module Learning Cycle distinguishes essential learning from page completion and assigns caregivers a bounded role that does not depend on subject expertise. It recommends readable directions, predictable weekly maps, embedded help cues, short diagnostic tasks, multiple response modes, and a return system that records missing or heavily assisted work without penalizing the learner. The framework also treats distribution failure, comprehension difficulty, and feedback delay as separate implementation problems. This article does not compare learner outcomes or claim that modules are universally effective. It offers criteria for determining whether modular delivery functions as instruction for children whose independence, reading ability, and household support differ substantially.",
     "keywords": [
       "modular distance learning",
       "elementary learners",
@@ -3129,29 +3136,22 @@ window.SHIRLEY_JOURNAL_ARTICLES = [
     ],
     "volume": "2",
     "issue": "1",
-    "issueLabel": "January–June 2021",
+    "issueLabel": "January-June 2021",
     "publicationDate": "2021",
+    "pages": "1-3",
     "doi": "",
+    "pdfFile": "assets/uploads/journal-archive/national-research-journal/volume-2-issue-1-2021/shiella-buhong-modular-distance-learning.pdf",
     "featured": false,
     "active": true,
-    "id": "national-research-journal-volume-2-issue-1-marielle-anne-de-guzman",
-    "title": "Effectiveness of Modular Distance Learning Among Elementary Learners",
-    "authors": [
-      "Marielle Anne de Guzman"
-    ],
-    "articleType": "Conceptual Review",
-    "abstract": "Modular distance learning is frequently judged by distribution and submission, although elementary learners require guidance, feedback, and repeated opportunities to recover from misunderstanding. This conceptual review defines effectiveness as a complete learning cycle rather than successful packet circulation. Evidence and policy available through 2021 are organized into five functions: orient the learner and caregiver, activate prior knowledge, support an independent attempt, interpret returned evidence, and provide a timely next step. The Elementary Module Learning Cycle distinguishes essential learning from page completion and assigns caregivers a bounded role that does not depend on subject expertise. It recommends readable directions, predictable weekly maps, embedded help cues, short diagnostic tasks, multiple response modes, and a return system that records missing or heavily assisted work without penalizing the learner. The framework also treats distribution failure, comprehension difficulty, and feedback delay as separate implementation problems. This article does not compare learner outcomes or claim that modules are universally effective. It offers criteria for determining whether modular delivery functions as instruction for children whose independence, reading ability, and household support differ substantially.",
-    "pages": "1–3",
-    "pdfFile": "assets/uploads/journal-archive/national-research-journal/volume-2-issue-1-2021/marielle-anne-de-guzman-modular-distance-learning-revised-2026-08-11.pdf",
-    "digitizedDate": "2026-08-11",
-    "originalPublicationPeriod": "January–June 2021"
+    "digitizedDate": "2026-08-13",
+    "originalPublicationPeriod": "January-June 2021"
   },
   {
-    "id": "national-research-journal-volume-2-issue-2-frances-camille-robles-teacher-made-video-lessons",
+    "id": "national-research-journal-volume-2-issue-2-veronica-claudio-teacher-made-video-lessons",
     "journalId": "national-research-journal",
     "title": "Effectiveness of Teacher-Made Video Lessons and Digital Materials",
     "authors": [
-      "Frances Camille Robles"
+      "Veronica Claudio"
     ],
     "articleType": "Conceptual Review",
     "abstract": "Teacher-made video lessons and digital materials are often evaluated through views, duration, or learner preference, although these measures do not establish learning. This conceptual review defines effectiveness as an evidence chain connecting an instructional objective, an economical representation, an active learner response, accessible delivery, and feedback that changes the next task. Multimedia research available through 2021 suggests that digital materials become less useful when decoration competes with explanation, videos are long and passive, controls are difficult to use, or the product cannot function under limited bandwidth. The proposed Instructional Media Evidence Chain asks teachers to script the decision learners must make, segment content around meaningful units, pair explanation with a prompt or practice, provide captions and offline alternatives, and collect a small indicator of understanding. It distinguishes production quality from instructional quality and recommends reuse only after reviewing error evidence. The article does not compare platforms or estimate achievement effects. It offers criteria for designing and evaluating teacher-made resources according to what learners can do after using them.",
@@ -3164,22 +3164,22 @@ window.SHIRLEY_JOURNAL_ARTICLES = [
     ],
     "volume": "2",
     "issue": "2",
-    "issueLabel": "July–December 2021",
+    "issueLabel": "July-December 2021",
     "publicationDate": "2021",
-    "pages": "1–3",
+    "pages": "1-3",
     "doi": "",
-    "pdfFile": "assets/uploads/journal-archive/national-research-journal/volume-2-issue-2-2021/frances-camille-robles-teacher-made-video-lessons-revised-2026-08-11.pdf",
+    "pdfFile": "assets/uploads/journal-archive/national-research-journal/volume-2-issue-2-2021/veronica-claudio-teacher-made-video-lessons.pdf",
     "featured": false,
     "active": true,
-    "digitizedDate": "2026-08-10",
-    "originalPublicationPeriod": "July–December 2021"
+    "digitizedDate": "2026-08-13",
+    "originalPublicationPeriod": "July-December 2021"
   },
   {
-    "id": "national-research-journal-volume-2-issue-2-joshua-vincent-navarro-flexible-work-productivity",
+    "id": "national-research-journal-volume-2-issue-2-vincent-lumicquio-flexible-work-productivity",
     "journalId": "national-research-journal",
     "title": "Flexible Work Arrangements and Employee Productivity",
     "authors": [
-      "Joshua Vincent Navarro"
+      "Vincent Lumicquio"
     ],
     "articleType": "Conceptual Review",
     "abstract": "Flexible work arrangements do not produce productivity by location alone. Their effects depend on task fit, autonomy, coordination, measurement, technology, and recovery. This conceptual review organizes evidence available through 2021 into a Flexible Work Productivity Agreement: define the output, select where and when the task can be performed, establish coordination windows, provide the required resources, and review performance together with well-being. The framework distinguishes flexibility from permanent availability and rejects activity signals such as online status or message volume as universal productivity measures. It also recognizes that home conditions, disability, care responsibilities, role seniority, and access to equipment shape the value of flexibility. Managers are encouraged to use team-level service standards, documented handoffs, protected focus periods, and outcome measures with quality and timeliness checks. Employees need a route to revise arrangements when isolation, overload, or inequity appears. This article does not estimate productivity gains or recommend one model for all occupations. It provides criteria for matching work design with task requirements and human sustainability.",
@@ -3192,18 +3192,25 @@ window.SHIRLEY_JOURNAL_ARTICLES = [
     ],
     "volume": "2",
     "issue": "2",
-    "issueLabel": "July–December 2021",
+    "issueLabel": "July-December 2021",
     "publicationDate": "2021",
-    "pages": "1–3",
+    "pages": "1-3",
     "doi": "",
-    "pdfFile": "assets/uploads/journal-archive/national-research-journal/volume-2-issue-2-2021/joshua-vincent-navarro-flexible-work-productivity-revised-2026-08-11.pdf",
+    "pdfFile": "assets/uploads/journal-archive/national-research-journal/volume-2-issue-2-2021/vincent-lumicquio-flexible-work-productivity.pdf",
     "featured": false,
     "active": true,
-    "digitizedDate": "2026-08-10",
-    "originalPublicationPeriod": "July–December 2021"
+    "digitizedDate": "2026-08-13",
+    "originalPublicationPeriod": "July-December 2021"
   },
   {
+    "id": "national-research-journal-volume-2-issue-1-sheryl-alisen-mathematics-achievement",
     "journalId": "national-research-journal",
+    "title": "Mathematics Achievement in a Modular Learning Environment",
+    "authors": [
+      "Sheryl Alisen"
+    ],
+    "articleType": "Conceptual Review",
+    "abstract": "Printed modules can preserve mathematics practice when classroom contact is interrupted, but distribution alone does not establish learning. This conceptual review examines achievement as the product of a feedback loop among task interpretation, worked examples, independent practice, error evidence, and instructional response. Evidence through 2021 suggests that modular mathematics becomes fragile when prerequisite gaps are invisible, examples display procedures without reasoning, answer keys replace diagnosis, and delayed feedback allows misconceptions to consolidate. The article proposes a Worked-Example Feedback Loop in which each module identifies prerequisite knowledge, models a complete solution with self-explanation prompts, sequences practice by variation, collects interpretable learner work, and routes errors to a targeted response. The approach protects learner authorship by assigning caregivers a support role rather than asking them to teach unfamiliar procedures. It also recommends separating module completion, procedural accuracy, and conceptual transfer in assessment. This is a design framework, not an empirical estimate of achievement. Its purpose is to make the instructional mechanisms inside modular delivery visible and testable.",
     "keywords": [
       "mathematics achievement",
       "printed modules",
@@ -3213,29 +3220,22 @@ window.SHIRLEY_JOURNAL_ARTICLES = [
     ],
     "volume": "2",
     "issue": "1",
-    "issueLabel": "January–June 2021",
+    "issueLabel": "January-June 2021",
     "publicationDate": "2021",
+    "pages": "1-3",
     "doi": "",
+    "pdfFile": "assets/uploads/journal-archive/national-research-journal/volume-2-issue-1-2021/sheryl-alisen-mathematics-achievement.pdf",
     "featured": false,
     "active": true,
-    "id": "national-research-journal-volume-2-issue-1-carlo-emmanuel-mercado",
-    "title": "Mathematics Achievement in a Modular Learning Environment",
-    "authors": [
-      "Carlo Emmanuel Mercado"
-    ],
-    "articleType": "Conceptual Review",
-    "abstract": "Printed modules can preserve mathematics practice when classroom contact is interrupted, but distribution alone does not establish learning. This conceptual review examines achievement as the product of a feedback loop among task interpretation, worked examples, independent practice, error evidence, and instructional response. Evidence through 2021 suggests that modular mathematics becomes fragile when prerequisite gaps are invisible, examples display procedures without reasoning, answer keys replace diagnosis, and delayed feedback allows misconceptions to consolidate. The article proposes a Worked-Example Feedback Loop in which each module identifies prerequisite knowledge, models a complete solution with self-explanation prompts, sequences practice by variation, collects interpretable learner work, and routes errors to a targeted response. The approach protects learner authorship by assigning caregivers a support role rather than asking them to teach unfamiliar procedures. It also recommends separating module completion, procedural accuracy, and conceptual transfer in assessment. This is a design framework, not an empirical estimate of achievement. Its purpose is to make the instructional mechanisms inside modular delivery visible and testable.",
-    "pages": "1–3",
-    "pdfFile": "assets/uploads/journal-archive/national-research-journal/volume-2-issue-1-2021/carlo-emmanuel-mercado-mathematics-achievement-revised-2026-08-11.pdf",
-    "digitizedDate": "2026-08-11",
-    "originalPublicationPeriod": "January–June 2021"
+    "digitizedDate": "2026-08-13",
+    "originalPublicationPeriod": "January-June 2021"
   },
   {
-    "id": "national-research-journal-volume-2-issue-2-miguel-andres-valdez-adolescent-mental-health",
+    "id": "national-research-journal-volume-2-issue-2-helen-dangpas-adolescent-mental-health",
     "journalId": "national-research-journal",
     "title": "Mental Health and Social Isolation Among Adolescents",
     "authors": [
-      "Miguel Andres Valdez"
+      "Helen Dangpas"
     ],
     "articleType": "Conceptual Review",
     "abstract": "Social isolation during the pandemic altered adolescents' peer contact, school routines, autonomy, family relationships, physical activity, and access to help. This conceptual review avoids treating isolation as a uniform exposure or every distress response as a disorder. Evidence through 2021 is organized into an Adolescent Connection and Care Pathway: notice change, restore predictable routine, create meaningful connection, strengthen coping and agency, and escalate concerns through a safe referral route. The framework distinguishes physical separation from loneliness and emphasizes that digital contact can be protective, neutral, or harmful depending on quality, exclusion, sleep disruption, and online risk. Schools and communities are encouraged to use low-pressure contact, confidential check-ins with a clear purpose, peer and family support, activity and sleep routines, and tiered professional care. Screening is recommended only when valid tools, trained interpretation, privacy, and response capacity are present. The article does not estimate prevalence or diagnose adolescents. It offers a prevention-to-referral model that recognizes developmental needs while avoiding automatic medicalization of understandable distress.",
@@ -3248,18 +3248,25 @@ window.SHIRLEY_JOURNAL_ARTICLES = [
     ],
     "volume": "2",
     "issue": "2",
-    "issueLabel": "July–December 2021",
+    "issueLabel": "July-December 2021",
     "publicationDate": "2021",
-    "pages": "1–3",
+    "pages": "1-3",
     "doi": "",
-    "pdfFile": "assets/uploads/journal-archive/national-research-journal/volume-2-issue-2-2021/miguel-andres-valdez-adolescent-mental-health-revised-2026-08-11.pdf",
+    "pdfFile": "assets/uploads/journal-archive/national-research-journal/volume-2-issue-2-2021/helen-dangpas-adolescent-mental-health.pdf",
     "featured": false,
     "active": true,
-    "digitizedDate": "2026-08-10",
-    "originalPublicationPeriod": "July–December 2021"
+    "digitizedDate": "2026-08-13",
+    "originalPublicationPeriod": "July-December 2021"
   },
   {
+    "id": "national-research-journal-volume-2-issue-1-novelyn-tayaban-parental-involvement",
     "journalId": "national-research-journal",
+    "title": "Parental Involvement in Modular and Online Learning",
+    "authors": [
+      "Novelyn Tayaban"
+    ],
+    "articleType": "Conceptual Review",
+    "abstract": "Remote education expanded parental involvement while blurring the boundary between support and substitute teaching. This conceptual review examines involvement as a negotiated family-school relationship rather than a single amount of participation. Evidence through 2021 is organized around five roles: prepare the learning conditions, encourage learner agency, observe progress, communicate evidence, and refer instructional problems to the teacher. The proposed Family-School Support Boundary protects parents from being held responsible for curriculum delivery and protects assessment from answers produced by adults. It recognizes that employment, household care, language, education, disability, connectivity, and device sharing shape what families can reasonably provide. The framework recommends weekly demand maps, role-specific guidance, disclosure of assistance, predictable contact routes, and differentiated support for families facing higher coordination costs. It also distinguishes productive involvement from constant monitoring or control. The article does not measure parental participation or claim that more involvement always improves achievement. Its purpose is to define equitable, observable roles through which parents and schools can coordinate without transferring professional teaching obligations to the household.",
     "keywords": [
       "parental involvement",
       "modular learning",
@@ -3269,29 +3276,22 @@ window.SHIRLEY_JOURNAL_ARTICLES = [
     ],
     "volume": "2",
     "issue": "1",
-    "issueLabel": "January–June 2021",
+    "issueLabel": "January-June 2021",
     "publicationDate": "2021",
+    "pages": "1-3",
     "doi": "",
+    "pdfFile": "assets/uploads/journal-archive/national-research-journal/volume-2-issue-1-2021/novelyn-tayaban-parental-involvement.pdf",
     "featured": false,
     "active": true,
-    "id": "national-research-journal-volume-2-issue-1-renato-luis-domingo",
-    "title": "Parental Involvement in Modular and Online Learning",
-    "authors": [
-      "Renato Luis Domingo"
-    ],
-    "articleType": "Conceptual Review",
-    "abstract": "Remote education expanded parental involvement while blurring the boundary between support and substitute teaching. This conceptual review examines involvement as a negotiated family-school relationship rather than a single amount of participation. Evidence through 2021 is organized around five roles: prepare the learning conditions, encourage learner agency, observe progress, communicate evidence, and refer instructional problems to the teacher. The proposed Family-School Support Boundary protects parents from being held responsible for curriculum delivery and protects assessment from answers produced by adults. It recognizes that employment, household care, language, education, disability, connectivity, and device sharing shape what families can reasonably provide. The framework recommends weekly demand maps, role-specific guidance, disclosure of assistance, predictable contact routes, and differentiated support for families facing higher coordination costs. It also distinguishes productive involvement from constant monitoring or control. The article does not measure parental participation or claim that more involvement always improves achievement. Its purpose is to define equitable, observable roles through which parents and schools can coordinate without transferring professional teaching obligations to the household.",
-    "pages": "1–3",
-    "pdfFile": "assets/uploads/journal-archive/national-research-journal/volume-2-issue-1-2021/renato-luis-domingo-parental-involvement-revised-2026-08-11.pdf",
-    "digitizedDate": "2026-08-11",
-    "originalPublicationPeriod": "January–June 2021"
+    "digitizedDate": "2026-08-13",
+    "originalPublicationPeriod": "January-June 2021"
   },
   {
-    "id": "national-research-journal-volume-2-issue-2-elaine-patricia-mendoza-school-reopening-preparedness",
+    "id": "national-research-journal-volume-2-issue-2-karen-faye-soberano-school-reopening",
     "journalId": "national-research-journal",
     "title": "Preparedness of Schools for the Gradual Return to Face-to-Face Classes",
     "authors": [
-      "Elaine Patricia Mendoza"
+      "Karen Faye Soberano"
     ],
     "articleType": "Conceptual Review",
     "abstract": "School reopening is not a single decision made before learners return; it is a sequence of readiness judgments that must remain valid while conditions change. This conceptual review organizes guidance available through 2021 into five gates: governance and authority, site and movement controls, continuity of teaching, protection and support of people, and surveillance with correction. A school passes a gate only when responsibilities, minimum resources, operating routines, exception routes, and evidence of practice are visible. The framework distinguishes written compliance from operational readiness and rejects the assumption that one checklist score can represent every school. It also treats remote-learning continuity, disability access, staff workload, household communication, and rapid response to symptoms as integral to reopening rather than secondary concerns. Tabletop exercises and small pilots are proposed as stronger evidence than policy documents alone. This article does not certify any school or predict transmission. Its contribution is a gate-based method for determining what can proceed, what requires mitigation, and what conditions should pause or modify face-to-face activity.",
@@ -3304,18 +3304,25 @@ window.SHIRLEY_JOURNAL_ARTICLES = [
     ],
     "volume": "2",
     "issue": "2",
-    "issueLabel": "July–December 2021",
+    "issueLabel": "July-December 2021",
     "publicationDate": "2021",
-    "pages": "1–3",
+    "pages": "1-3",
     "doi": "",
-    "pdfFile": "assets/uploads/journal-archive/national-research-journal/volume-2-issue-2-2021/elaine-patricia-mendoza-school-reopening-preparedness-revised-2026-08-11.pdf",
+    "pdfFile": "assets/uploads/journal-archive/national-research-journal/volume-2-issue-2-2021/karen-faye-soberano-school-reopening.pdf",
     "featured": false,
     "active": true,
-    "digitizedDate": "2026-08-10",
-    "originalPublicationPeriod": "July–December 2021"
+    "digitizedDate": "2026-08-13",
+    "originalPublicationPeriod": "July-December 2021"
   },
   {
+    "id": "national-research-journal-volume-2-issue-1-lucila-dulnuan-reading-difficulties",
     "journalId": "national-research-journal",
+    "title": "Reading Difficulties Among Learners During Prolonged School Closures",
+    "authors": [
+      "Lucila Dulnuan"
+    ],
+    "articleType": "Conceptual Review",
+    "abstract": "Prolonged school closures reduced direct opportunities for teachers to hear learners read, examine errors, and adjust instruction. The resulting concern is often summarized as reading difficulty, although the breakdown may occur in access to print, word recognition, fluency, oral language, background knowledge, or comprehension. This conceptual review proposes a Reading Difficulty Localization Ladder that moves from learning opportunity to increasingly complex reading processes. Evidence through 2021 supports brief, targeted checks rather than assigning a broad label from a single passage or completion record. The ladder begins by verifying access and language, then examines decoding, connected-text fluency, meaning at sentence and passage levels, and transfer to unfamiliar text. Each rung is paired with a distinct response and a rule for referral when progress remains limited. The framework also recommends short daily practice, decodable or appropriately leveled text, oral interaction, and feedback that preserves learner dignity. This article does not estimate prevalence or diagnose a reading disorder. It provides a structured route for locating instructional need after disrupted schooling.",
     "keywords": [
       "reading difficulty",
       "school closure",
@@ -3326,29 +3333,22 @@ window.SHIRLEY_JOURNAL_ARTICLES = [
     ],
     "volume": "2",
     "issue": "1",
-    "issueLabel": "January–June 2021",
+    "issueLabel": "January-June 2021",
     "publicationDate": "2021",
+    "pages": "1-3",
     "doi": "",
+    "pdfFile": "assets/uploads/journal-archive/national-research-journal/volume-2-issue-1-2021/lucila-dulnuan-reading-difficulties.pdf",
     "featured": false,
     "active": true,
-    "id": "national-research-journal-volume-2-issue-1-therese-nicole-agustin",
-    "title": "Reading Difficulties Among Learners During Prolonged School Closures",
-    "authors": [
-      "Therese Nicole Agustin"
-    ],
-    "articleType": "Conceptual Review",
-    "abstract": "Prolonged school closures reduced direct opportunities for teachers to hear learners read, examine errors, and adjust instruction. The resulting concern is often summarized as reading difficulty, although the breakdown may occur in access to print, word recognition, fluency, oral language, background knowledge, or comprehension. This conceptual review proposes a Reading Difficulty Localization Ladder that moves from learning opportunity to increasingly complex reading processes. Evidence through 2021 supports brief, targeted checks rather than assigning a broad label from a single passage or completion record. The ladder begins by verifying access and language, then examines decoding, connected-text fluency, meaning at sentence and passage levels, and transfer to unfamiliar text. Each rung is paired with a distinct response and a rule for referral when progress remains limited. The framework also recommends short daily practice, decodable or appropriately leveled text, oral interaction, and feedback that preserves learner dignity. This article does not estimate prevalence or diagnose a reading disorder. It provides a structured route for locating instructional need after disrupted schooling.",
-    "pages": "1–3",
-    "pdfFile": "assets/uploads/journal-archive/national-research-journal/volume-2-issue-1-2021/therese-nicole-agustin-reading-difficulties-revised-2026-08-11.pdf",
-    "digitizedDate": "2026-08-11",
-    "originalPublicationPeriod": "January–June 2021"
+    "digitizedDate": "2026-08-13",
+    "originalPublicationPeriod": "January-June 2021"
   },
   {
-    "id": "national-research-journal-volume-2-issue-2-daniel-joseph-cabrera-restaurant-small-enterprise-recovery",
+    "id": "national-research-journal-volume-2-issue-2-mylene-santos-small-enterprise-recovery",
     "journalId": "national-research-journal",
     "title": "Recovery Strategies of Restaurants and Other Small Enterprises",
     "authors": [
-      "Daniel Joseph Cabrera"
+      "Mylene Santos"
     ],
     "articleType": "Conceptual Review",
     "abstract": "Recovery for restaurants and other small enterprises is not a return to the pre-crisis routine. Restrictions, customer risk perceptions, input volatility, debt, and changed channels require owners to rebuild an operating model under uncertainty. This conceptual review proposes a Small-Enterprise Recovery Portfolio with five simultaneous decisions: establish a safe and credible offer, understand unit economics and cash runway, build a reliable fulfillment route, run bounded market experiments, and define review or exit triggers. Evidence through 2021 suggests that digital promotion is insufficient when stock, labor, payment, packaging, delivery, and customer recovery remain disconnected. The framework encourages a minimum viable offer rather than an expanded menu, contribution and cash-horizon records rather than sales alone, channel-specific procedures, and small tests with explicit success and loss limits. Assistance is most useful when matched to the actual bottleneck, whether authorization, demand, capability, logistics, or finance. The article does not estimate survival or revenue effects. It offers a disciplined recovery method for protecting scarce cash while creating evidence about what the enterprise can sustain.",
@@ -3361,22 +3361,22 @@ window.SHIRLEY_JOURNAL_ARTICLES = [
     ],
     "volume": "2",
     "issue": "2",
-    "issueLabel": "July–December 2021",
+    "issueLabel": "July-December 2021",
     "publicationDate": "2021",
-    "pages": "1–3",
+    "pages": "1-3",
     "doi": "",
-    "pdfFile": "assets/uploads/journal-archive/national-research-journal/volume-2-issue-2-2021/daniel-joseph-cabrera-restaurant-small-enterprise-recovery-revised-2026-08-11.pdf",
+    "pdfFile": "assets/uploads/journal-archive/national-research-journal/volume-2-issue-2-2021/mylene-santos-small-enterprise-recovery.pdf",
     "featured": false,
     "active": true,
-    "digitizedDate": "2026-08-10",
-    "originalPublicationPeriod": "July–December 2021"
+    "digitizedDate": "2026-08-13",
+    "originalPublicationPeriod": "July-December 2021"
   },
   {
-    "id": "national-research-journal-volume-2-issue-2-bianca-louise-ferrer-student-motivation-engagement",
+    "id": "national-research-journal-volume-2-issue-2-sunny-binando-student-motivation",
     "journalId": "national-research-journal",
     "title": "Student Motivation and Engagement in Remote Education",
     "authors": [
-      "Bianca Louise Ferrer"
+      "Sunny Binando"
     ],
     "articleType": "Conceptual Review",
     "abstract": "Remote education can make engagement difficult to observe. Logins, message responses, attendance, and submitted files capture only fragments of behavioral participation and may conceal low value, confusion, isolation, or constrained access. This conceptual review proposes a Remote Engagement Engine built from five interacting conditions: meaningful value, feasible agency, achievable challenge, social connection, and responsive feedback. Evidence available through 2021 suggests that motivation is weakened when workload is fragmented, choices are superficial, tasks provide little evidence of progress, or contact is limited to reminders about missing work. The framework recommends a visible purpose, bounded choice, short success cycles, predictable teacher presence, peer contribution, and recovery routes after absence. It distinguishes disengagement from access failure and discourages punitive escalation before the barrier is understood. Engagement is monitored through patterns across preparation, participation, strategy, explanation, help-seeking, and persistence rather than one platform metric. The article does not estimate motivation or identify a universal engagement intervention. Its contribution is a design model linking students' reasons and capabilities to observable participation over time.",
@@ -3389,18 +3389,25 @@ window.SHIRLEY_JOURNAL_ARTICLES = [
     ],
     "volume": "2",
     "issue": "2",
-    "issueLabel": "July–December 2021",
+    "issueLabel": "July-December 2021",
     "publicationDate": "2021",
-    "pages": "1–3",
+    "pages": "1-3",
     "doi": "",
-    "pdfFile": "assets/uploads/journal-archive/national-research-journal/volume-2-issue-2-2021/bianca-louise-ferrer-student-motivation-engagement-revised-2026-08-11.pdf",
+    "pdfFile": "assets/uploads/journal-archive/national-research-journal/volume-2-issue-2-2021/sunny-binando-student-motivation.pdf",
     "featured": false,
     "active": true,
-    "digitizedDate": "2026-08-10",
-    "originalPublicationPeriod": "July–December 2021"
+    "digitizedDate": "2026-08-13",
+    "originalPublicationPeriod": "July-December 2021"
   },
   {
+    "id": "national-research-journal-volume-2-issue-1-karen-humiwat-teacher-workload-stress",
     "journalId": "national-research-journal",
+    "title": "Teachers' Workload, Stress, and Coping Strategies Under the New Normal",
+    "authors": [
+      "Karen Humiwat"
+    ],
+    "articleType": "Conceptual Review",
+    "abstract": "Teacher stress during emergency education is often discussed as an individual coping problem even when workload is produced by institutional design. This conceptual review distinguishes task volume, task fragmentation, emotional demand, decision uncertainty, and recovery opportunity. Evidence through 2021 is interpreted through a job-demands and resources perspective and organized into a Workload Recovery Ledger. The ledger asks schools to identify each recurring demand, its educational purpose, time pattern, duplication, responsible owner, available resource, and recovery protection. The synthesis argues that wellness seminars cannot compensate for conflicting deadlines, parallel reporting channels, continuous availability, or unbounded emotional labor. Individual coping remains valuable, but it should operate after unnecessary demands are removed and essential work is prioritized. The proposed framework links workload review with clear service standards, communication windows, escalation routes, peer support, and periodic stop decisions. This article reports no stress prevalence or intervention effect. It offers an organizational method for making invisible work visible and for evaluating whether coping support is matched by changes in working conditions.",
     "keywords": [
       "teacher workload",
       "occupational stress",
@@ -3410,29 +3417,22 @@ window.SHIRLEY_JOURNAL_ARTICLES = [
     ],
     "volume": "2",
     "issue": "1",
-    "issueLabel": "January–June 2021",
+    "issueLabel": "January-June 2021",
     "publicationDate": "2021",
+    "pages": "1-3",
     "doi": "",
+    "pdfFile": "assets/uploads/journal-archive/national-research-journal/volume-2-issue-1-2021/karen-humiwat-teacher-workload-stress.pdf",
     "featured": false,
     "active": true,
-    "id": "national-research-journal-volume-2-issue-1-jasmine-claire-velasco",
-    "title": "Teachers' Workload, Stress, and Coping Strategies Under the New Normal",
-    "authors": [
-      "Jasmine Claire Velasco"
-    ],
-    "articleType": "Conceptual Review",
-    "abstract": "Teacher stress during emergency education is often discussed as an individual coping problem even when workload is produced by institutional design. This conceptual review distinguishes task volume, task fragmentation, emotional demand, decision uncertainty, and recovery opportunity. Evidence through 2021 is interpreted through a job-demands and resources perspective and organized into a Workload Recovery Ledger. The ledger asks schools to identify each recurring demand, its educational purpose, time pattern, duplication, responsible owner, available resource, and recovery protection. The synthesis argues that wellness seminars cannot compensate for conflicting deadlines, parallel reporting channels, continuous availability, or unbounded emotional labor. Individual coping remains valuable, but it should operate after unnecessary demands are removed and essential work is prioritized. The proposed framework links workload review with clear service standards, communication windows, escalation routes, peer support, and periodic stop decisions. This article reports no stress prevalence or intervention effect. It offers an organizational method for making invisible work visible and for evaluating whether coping support is matched by changes in working conditions.",
-    "pages": "1–3",
-    "pdfFile": "assets/uploads/journal-archive/national-research-journal/volume-2-issue-1-2021/jasmine-claire-velasco-teacher-workload-stress-revised-2026-08-11.pdf",
-    "digitizedDate": "2026-08-11",
-    "originalPublicationPeriod": "January–June 2021"
+    "digitizedDate": "2026-08-13",
+    "originalPublicationPeriod": "January-June 2021"
   },
   {
-    "id": "national-research-journal-volume-2-issue-2-isabella-grace-villanueva-womens-community-resilience",
+    "id": "national-research-journal-volume-2-issue-2-agustina-basinag-womens-community-resilience",
     "journalId": "national-research-journal",
     "title": "Women's Role in Household and Community Resilience During the Pandemic",
     "authors": [
-      "Isabella Grace Villanueva"
+      "Agustina Basinag"
     ],
     "articleType": "Conceptual Review",
     "abstract": "Women were central to household and community continuity during the pandemic, yet the work through which resilience was produced was often unpaid, informal, or absent from program records. This conceptual review examines resilience through five interconnected domains: care and domestic labor, livelihood adaptation, health and food management, mutual-aid networks, and participation in decisions. Evidence through 2021 indicates that describing women as naturally resilient can conceal unequal time burdens, exposure, income loss, violence risk, and limited authority over resources. The proposed Care-to-Collective Resilience Map records contributions together with cost, control, support, safety, and voice. It asks programs to reduce burdens rather than merely celebrate them, recognize informal coordination, provide accessible services and social protection, and include diverse women in the decisions that affect their work. The framework avoids treating women as one homogeneous group and considers age, disability, household structure, livelihood, and location. This article does not estimate gender effects or represent the experience of a specific community. It offers an equity-oriented method for evaluating whether resilience initiatives sustain the people who make collective coping possible.",
@@ -3445,22 +3445,22 @@ window.SHIRLEY_JOURNAL_ARTICLES = [
     ],
     "volume": "2",
     "issue": "2",
-    "issueLabel": "July–December 2021",
+    "issueLabel": "July-December 2021",
     "publicationDate": "2021",
-    "pages": "1–3",
+    "pages": "1-3",
     "doi": "",
-    "pdfFile": "assets/uploads/journal-archive/national-research-journal/volume-2-issue-2-2021/isabella-grace-villanueva-womens-community-resilience-revised-2026-08-11.pdf",
+    "pdfFile": "assets/uploads/journal-archive/national-research-journal/volume-2-issue-2-2021/agustina-basinag-womens-community-resilience.pdf",
     "featured": false,
     "active": true,
-    "digitizedDate": "2026-08-10",
-    "originalPublicationPeriod": "July–December 2021"
+    "digitizedDate": "2026-08-13",
+    "originalPublicationPeriod": "July-December 2021"
   },
   {
-    "id": "national-research-journal-volume-1-issue-1-christian-paul-reyes",
+    "id": "national-research-journal-volume-1-issue-1-fe-dinero-alternative-marketing-strategies",
     "journalId": "national-research-journal",
     "title": "Alternative Marketing Strategies Used by Microenterprises During Lockdowns",
     "authors": [
-      "Christian Paul Reyes"
+      "Fe Dinero"
     ],
     "articleType": "Strategic Review",
     "abstract": "Lockdown restrictions did not merely reduce demand; they broke the ordinary route by which customers discovered, evaluated, purchased, received, and repurchased from microenterprises. This strategic review examines alternative marketing as the redesign of that route rather than a shift to social-media promotion alone. Evidence available through 2021 is organized into four operating jobs: making the offer discoverable, reducing uncertainty, completing a low-friction transaction, and fulfilling safely and reliably. The synthesis shows why tactics that generate attention may fail when payment, inventory, delivery, or customer recovery is weak. It also considers low-technology strategies such as neighborhood resellers, pre-order schedules, product bundles, and shared delivery. A minimum viable marketing system is proposed for resource-constrained firms, together with measures tied to orders and repeat business rather than likes. The article is a conceptual review and does not claim performance data from particular enterprises.",
@@ -3473,18 +3473,25 @@ window.SHIRLEY_JOURNAL_ARTICLES = [
     ],
     "volume": "1",
     "issue": "1",
-    "issueLabel": "January–June 2020",
+    "issueLabel": "January-June 2020",
     "publicationDate": "2020",
-    "pages": "1–4",
+    "pages": "1-4",
     "doi": "",
-    "pdfFile": "assets/uploads/journal-archive/national-research-journal/volume-1-issue-1-2021/christian-paul-reyes-alternative-marketing-strategies-revised.pdf",
+    "pdfFile": "assets/uploads/journal-archive/national-research-journal/volume-1-issue-1/fe-dinero-alternative-marketing-strategies.pdf",
     "featured": false,
     "active": true,
-    "digitizedDate": "2026-08-10",
-    "originalPublicationPeriod": "January–June 2020"
+    "digitizedDate": "2026-08-13",
+    "originalPublicationPeriod": "January-June 2020"
   },
   {
+    "id": "national-research-journal-volume-1-issue-2-anabelle-sadinas-home-based-learning",
     "journalId": "national-research-journal",
+    "title": "Challenges Encountered by Parents During Home-Based Learning",
+    "authors": [
+      "Anabelle Sadinas"
+    ],
+    "articleType": "Integrative Review",
+    "abstract": "Home-based learning transferred a substantial part of educational coordination into households without transferring the time, training, equipment, or authority ordinarily available in schools. This integrative review reframes parental difficulty as a coordination problem rather than a deficit in commitment. Evidence available through 2021 is organized around five connected tasks: interpreting school requirements, arranging household time and space, supporting learner effort without replacing it, maintaining contact with teachers, and protecting family well-being. The review shows why a parent can be highly involved yet unable to sustain the expected routine when work schedules, device sharing, unfamiliar content, language, or delayed feedback converge. It proposes a Household Learning Coordination model that separates the responsibilities of schools, teachers, learners, and caregivers and uses a weekly learning map, a single help route, and escalation rules for unresolved barriers. The article is a conceptual synthesis and does not estimate the prevalence of parental challenges in a specific community.",
     "keywords": [
       "home-based learning",
       "parental support",
@@ -3494,25 +3501,25 @@ window.SHIRLEY_JOURNAL_ARTICLES = [
     ],
     "volume": "1",
     "issue": "2",
-    "issueLabel": "July–December 2020",
+    "issueLabel": "July-December 2020",
     "publicationDate": "2020",
+    "pages": "1-4",
     "doi": "",
+    "pdfFile": "assets/uploads/journal-archive/national-research-journal/volume-1-issue-2-2021/anabelle-sadinas-home-based-learning.pdf",
     "featured": false,
     "active": true,
-    "id": "national-research-journal-volume-1-issue-2-rafael-m-villanueva",
-    "title": "Challenges Encountered by Parents During Home-Based Learning",
-    "authors": [
-      "Rafael M. Villanueva"
-    ],
-    "articleType": "Integrative Review",
-    "abstract": "Home-based learning transferred a substantial part of educational coordination into households without transferring the time, training, equipment, or authority ordinarily available in schools. This integrative review reframes parental difficulty as a coordination problem rather than a deficit in commitment. Evidence available through 2021 is organized around five connected tasks: interpreting school requirements, arranging household time and space, supporting learner effort without replacing it, maintaining contact with teachers, and protecting family well-being. The review shows why a parent can be highly involved yet unable to sustain the expected routine when work schedules, device sharing, unfamiliar content, language, or delayed feedback converge. It proposes a Household Learning Coordination model that separates the responsibilities of schools, teachers, learners, and caregivers and uses a weekly learning map, a single help route, and escalation rules for unresolved barriers. The article is a conceptual synthesis and does not estimate the prevalence of parental challenges in a specific community.",
-    "pages": "1–4",
-    "pdfFile": "assets/uploads/journal-archive/national-research-journal/volume-1-issue-2-2021/rafael-m-villanueva-home-based-learning-revised-2026-08-11.pdf",
-    "digitizedDate": "2026-08-10",
-    "originalPublicationPeriod": "July–December 2020"
+    "digitizedDate": "2026-08-13",
+    "originalPublicationPeriod": "July-December 2020"
   },
   {
+    "id": "national-research-journal-volume-1-issue-2-rosemarie-copero-community-compliance",
     "journalId": "national-research-journal",
+    "title": "Community Compliance with COVID-19 Health and Safety Protocols",
+    "authors": [
+      "Rosemarie Copero"
+    ],
+    "articleType": "Behavioral and Policy Review",
+    "abstract": "Compliance with health and safety protocols is often described as an individual choice, yet adherence depends on whether guidance is trusted, understandable, materially possible, socially supported, and fairly enforced. This behavioral and policy review synthesizes evidence available through 2021 and develops a Feasible Compliance model with five conditions: credible guidance, practical capability, supportive norms, proportionate enforcement, and corrective learning. The model explains why repeated reminders may fail when households lack masks, water, space, transport alternatives, income protection, or confidence that rules are consistently applied. It also distinguishes observation of behavior from assumptions about motivation. The article proposes a local compliance audit that records the required action, the barrier, the responsible authority, the enabling measure, and the review date. It argues that communication and enforcement should be paired with resources and grievance routes. This is a conceptual synthesis; it does not calculate compliance rates or assess a named community.",
     "keywords": [
       "health protocols",
       "community compliance",
@@ -3522,29 +3529,22 @@ window.SHIRLEY_JOURNAL_ARTICLES = [
     ],
     "volume": "1",
     "issue": "2",
-    "issueLabel": "July–December 2020",
+    "issueLabel": "July-December 2020",
     "publicationDate": "2020",
+    "pages": "1-4",
     "doi": "",
+    "pdfFile": "assets/uploads/journal-archive/national-research-journal/volume-1-issue-2-2021/rosemarie-copero-community-compliance.pdf",
     "featured": false,
     "active": true,
-    "id": "national-research-journal-volume-1-issue-2-jerome-s-santiago",
-    "title": "Community Compliance with COVID-19 Health and Safety Protocols",
-    "authors": [
-      "Jerome S. Santiago"
-    ],
-    "articleType": "Behavioral and Policy Review",
-    "abstract": "Compliance with health and safety protocols is often described as an individual choice, yet adherence depends on whether guidance is trusted, understandable, materially possible, socially supported, and fairly enforced. This behavioral and policy review synthesizes evidence available through 2021 and develops a Feasible Compliance model with five conditions: credible guidance, practical capability, supportive norms, proportionate enforcement, and corrective learning. The model explains why repeated reminders may fail when households lack masks, water, space, transport alternatives, income protection, or confidence that rules are consistently applied. It also distinguishes observation of behavior from assumptions about motivation. The article proposes a local compliance audit that records the required action, the barrier, the responsible authority, the enabling measure, and the review date. It argues that communication and enforcement should be paired with resources and grievance routes. This is a conceptual synthesis; it does not calculate compliance rates or assess a named community.",
-    "pages": "1–4",
-    "pdfFile": "assets/uploads/journal-archive/national-research-journal/volume-1-issue-2-2021/jerome-s-santiago-community-compliance-revised-2026-08-11.pdf",
-    "digitizedDate": "2026-08-10",
-    "originalPublicationPeriod": "July–December 2020"
+    "digitizedDate": "2026-08-13",
+    "originalPublicationPeriod": "July-December 2020"
   },
   {
-    "id": "national-research-journal-volume-1-issue-1-emmanuel-d-bautista",
+    "id": "national-research-journal-volume-1-issue-1-karen-damaso-printed-self-learning-materials",
     "journalId": "national-research-journal",
     "title": "Development and Validation of Printed Self-Learning Materials",
     "authors": [
-      "Emmanuel D. Bautista"
+      "Karen Damaso"
     ],
     "articleType": "Methodological Review",
     "abstract": "Printed self-learning material is not simply classroom content transferred to paper. It is an instructional interface expected to explain, guide practice, elicit evidence, and support correction when the teacher is not physically present. This methodological review converts established instructional-design principles and Philippine continuity guidance into a build-test-revise protocol. Four forms of validity are distinguished: curricular accuracy, instructional coherence, learner usability, and production reliability. Expert review is necessary for the first two but cannot substitute for observation of learners using the material. The proposed workflow begins with a competency map, proceeds through prototype and cognitive tryout, and ends with print inspection, controlled release, error logging, and version management. The article also identifies common validation errors, including reliance on global mean ratings, validators with indistinguishable roles, and claims of effectiveness made without learner-outcome evidence. The result is a practical quality-assurance model rather than an evaluation of a particular module.",
@@ -3557,22 +3557,22 @@ window.SHIRLEY_JOURNAL_ARTICLES = [
     ],
     "volume": "1",
     "issue": "1",
-    "issueLabel": "January–June 2020",
+    "issueLabel": "January-June 2020",
     "publicationDate": "2020",
-    "pages": "1–4",
+    "pages": "1-4",
     "doi": "",
-    "pdfFile": "assets/uploads/journal-archive/national-research-journal/volume-1-issue-1-2021/emmanuel-d-bautista-printed-self-learning-materials-revised.pdf",
+    "pdfFile": "assets/uploads/journal-archive/national-research-journal/volume-1-issue-1/karen-damaso-printed-self-learning-materials.pdf",
     "featured": false,
     "active": true,
-    "digitizedDate": "2026-08-10",
-    "originalPublicationPeriod": "January–June 2020"
+    "digitizedDate": "2026-08-13",
+    "originalPublicationPeriod": "January-June 2020"
   },
   {
-    "id": "national-research-journal-volume-1-issue-1-abigail-therese-mercado",
+    "id": "national-research-journal-volume-1-issue-1-james-lamsis-disaster-preparedness",
     "journalId": "national-research-journal",
     "title": "Disaster Preparedness and Public-Health Awareness in Rural Barangays",
     "authors": [
-      "Abigail Therese Mercado"
+      "James Lamsis"
     ],
     "articleType": "Policy Analysis",
     "abstract": "Rural barangays often maintain disaster plans for storms, floods, landslides, or earthquakes while public-health communication is managed through a separate set of routines. COVID-19 demonstrated the cost of that separation. This policy analysis connects the prevention, preparedness, response, and recovery responsibilities of local disaster governance with risk communication, surveillance, referral, and continuity of essential services. It proposes a household-to-barangay preparedness loop built around five functions: knowing local risk, translating warning into action, detecting and referring health threats, sustaining essential needs, and learning after exercises or events. Preparedness is judged by observable capability rather than the existence of a plan or attendance at a seminar. The article offers drill scenarios, inclusion checks, and simple records suitable for low-resource settings. It is a conceptual and documentary analysis; it does not measure awareness levels in any named barangay.",
@@ -3585,18 +3585,25 @@ window.SHIRLEY_JOURNAL_ARTICLES = [
     ],
     "volume": "1",
     "issue": "1",
-    "issueLabel": "January–June 2020",
+    "issueLabel": "January-June 2020",
     "publicationDate": "2020",
-    "pages": "1–4",
+    "pages": "1-4",
     "doi": "",
-    "pdfFile": "assets/uploads/journal-archive/national-research-journal/volume-1-issue-1-2021/abigail-therese-mercado-disaster-preparedness-revised.pdf",
+    "pdfFile": "assets/uploads/journal-archive/national-research-journal/volume-1-issue-1/james-lamsis-disaster-preparedness.pdf",
     "featured": false,
     "active": true,
-    "digitizedDate": "2026-08-10",
-    "originalPublicationPeriod": "January–June 2020"
+    "digitizedDate": "2026-08-13",
+    "originalPublicationPeriod": "January-June 2020"
   },
   {
+    "id": "national-research-journal-volume-1-issue-2-crispina-caoili-market-closures",
     "journalId": "national-research-journal",
+    "title": "Effects of Market Closures on Local Farmers and Vendors",
+    "authors": [
+      "Crispina Caoili"
+    ],
+    "articleType": "Supply-Chain Review",
+    "abstract": "Market closure interrupts a circuit rather than a single selling event. Farmers lose a destination for perishable harvests, vendors lose foot traffic and working capital, transporters lose viable routes, and households lose familiar access points. This supply-chain review traces five connected functions: production planning, aggregation, transport, exchange, and market feedback. Philippine and international evidence available through 2021 indicates that movement restrictions and uneven local enforcement could create bottlenecks even when agricultural production continued. The article proposes a Local Food-Market Circuit model for designing temporary markets, pickup points, mobile selling, institutional procurement, and digital ordering without ignoring grading, payment, cold storage, health protection, or unsold-product risk. It also separates emergency disposal reduction from long-term market development. The framework is conceptual and does not estimate losses among farmers or vendors in a particular municipality.",
     "keywords": [
       "market closure",
       "local farmers",
@@ -3606,25 +3613,25 @@ window.SHIRLEY_JOURNAL_ARTICLES = [
     ],
     "volume": "1",
     "issue": "2",
-    "issueLabel": "July–December 2020",
+    "issueLabel": "July-December 2020",
     "publicationDate": "2020",
+    "pages": "1-3",
     "doi": "",
+    "pdfFile": "assets/uploads/journal-archive/national-research-journal/volume-1-issue-2-2021/crispina-caoili-market-closures.pdf",
     "featured": false,
     "active": true,
-    "id": "national-research-journal-volume-1-issue-2-patricia-mae-soriano",
-    "title": "Effects of Market Closures on Local Farmers and Vendors",
-    "authors": [
-      "Patricia Mae Soriano"
-    ],
-    "articleType": "Supply-Chain Review",
-    "abstract": "Market closure interrupts a circuit rather than a single selling event. Farmers lose a destination for perishable harvests, vendors lose foot traffic and working capital, transporters lose viable routes, and households lose familiar access points. This supply-chain review traces five connected functions: production planning, aggregation, transport, exchange, and market feedback. Philippine and international evidence available through 2021 indicates that movement restrictions and uneven local enforcement could create bottlenecks even when agricultural production continued. The article proposes a Local Food-Market Circuit model for designing temporary markets, pickup points, mobile selling, institutional procurement, and digital ordering without ignoring grading, payment, cold storage, health protection, or unsold-product risk. It also separates emergency disposal reduction from long-term market development. The framework is conceptual and does not estimate losses among farmers or vendors in a particular municipality.",
-    "pages": "1–3",
-    "pdfFile": "assets/uploads/journal-archive/national-research-journal/volume-1-issue-2-2021/patricia-mae-soriano-market-closures-revised-2026-08-11.pdf",
-    "digitizedDate": "2026-08-10",
-    "originalPublicationPeriod": "July–December 2020"
+    "digitizedDate": "2026-08-13",
+    "originalPublicationPeriod": "July-December 2020"
   },
   {
+    "id": "national-research-journal-volume-1-issue-2-alice-dulnuan-small-business-quarantine",
     "journalId": "national-research-journal",
+    "title": "Experiences of Small Businesses During the Initial Community Quarantine",
+    "authors": [
+      "Alice Dulnuan"
+    ],
+    "articleType": "Conceptual Review",
+    "abstract": "The initial community quarantine confronted small businesses with simultaneous restrictions on premises, workers, suppliers, customers, and cash flow. This conceptual review examines the early crisis as a sequence of operating decisions rather than a uniform experience of closure. Evidence through 2021 is organized around five questions: whether the firm could legally and safely operate, preserve liquidity, maintain a minimum supply route, reach viable demand, and decide what to pause, adapt, or stop. The synthesis emphasizes that digital promotion could not compensate for failed inventory, payment, or delivery arrangements, and that reopening did not automatically restore demand or working capital. It proposes a Small-Business Continuity Sequence supported by a daily cash horizon, a minimum viable offer, explicit supplier alternatives, and predefined decision triggers. The framework is designed for micro and small firms with limited managerial capacity. It is a non-empirical model and does not claim that all sectors or localities experienced quarantine in the same way.",
     "keywords": [
       "small business",
       "community quarantine",
@@ -3634,25 +3641,25 @@ window.SHIRLEY_JOURNAL_ARTICLES = [
     ],
     "volume": "1",
     "issue": "2",
-    "issueLabel": "July–December 2020",
+    "issueLabel": "July-December 2020",
     "publicationDate": "2020",
+    "pages": "1-3",
     "doi": "",
+    "pdfFile": "assets/uploads/journal-archive/national-research-journal/volume-1-issue-2-2021/alice-dulnuan-small-business-quarantine.pdf",
     "featured": false,
     "active": true,
-    "id": "national-research-journal-volume-1-issue-2-hannah-grace-aquino",
-    "title": "Experiences of Small Businesses During the Initial Community Quarantine",
-    "authors": [
-      "Hannah Grace Aquino"
-    ],
-    "articleType": "Conceptual Review",
-    "abstract": "The initial community quarantine confronted small businesses with simultaneous restrictions on premises, workers, suppliers, customers, and cash flow. This conceptual review examines the early crisis as a sequence of operating decisions rather than a uniform experience of closure. Evidence through 2021 is organized around five questions: whether the firm could legally and safely operate, preserve liquidity, maintain a minimum supply route, reach viable demand, and decide what to pause, adapt, or stop. The synthesis emphasizes that digital promotion could not compensate for failed inventory, payment, or delivery arrangements, and that reopening did not automatically restore demand or working capital. It proposes a Small-Business Continuity Sequence supported by a daily cash horizon, a minimum viable offer, explicit supplier alternatives, and predefined decision triggers. The framework is designed for micro and small firms with limited managerial capacity. It is a non-empirical model and does not claim that all sectors or localities experienced quarantine in the same way.",
-    "pages": "1–3",
-    "pdfFile": "assets/uploads/journal-archive/national-research-journal/volume-1-issue-2-2021/hannah-grace-aquino-small-businesses-revised-2026-08-11.pdf",
-    "digitizedDate": "2026-08-10",
-    "originalPublicationPeriod": "July–December 2020"
+    "digitizedDate": "2026-08-13",
+    "originalPublicationPeriod": "July-December 2020"
   },
   {
+    "id": "national-research-journal-volume-1-issue-2-reynalyn-serafino-food-security",
     "journalId": "national-research-journal",
+    "title": "Food Security Among Low-Income Households During Lockdowns",
+    "authors": [
+      "Reynalyn Serafino"
+    ],
+    "articleType": "Policy Review",
+    "abstract": "Lockdowns affected food security through more than temporary shortages. For low-income households, restrictions could reduce earnings, change food prices, limit transport, interrupt school feeding, and narrow access to markets at the same time. This policy review organizes evidence through four household pressures: income loss, acquisition barriers, diet compression, and instability over time. It distinguishes food availability in the wider market from a household's ability to obtain, prepare, and sustain an adequate diet. The synthesis argues that relief measured only by the number of packs distributed can miss timeliness, nutritional quality, household composition, and the cost of repeated access. A Household Food Security Pressure model is proposed, combining rapid income support, geographically distributed acquisition routes, nutrition-sensitive assistance, and monitoring of repeated coping strategies. The model is intended for local planning and future empirical testing; it does not report new household data or attribute a single outcome to quarantine alone.",
     "keywords": [
       "food security",
       "low-income households",
@@ -3662,29 +3669,22 @@ window.SHIRLEY_JOURNAL_ARTICLES = [
     ],
     "volume": "1",
     "issue": "2",
-    "issueLabel": "July–December 2020",
+    "issueLabel": "July-December 2020",
     "publicationDate": "2020",
+    "pages": "1-4",
     "doi": "",
+    "pdfFile": "assets/uploads/journal-archive/national-research-journal/volume-1-issue-2-2021/reynalyn-serafino-food-security.pdf",
     "featured": false,
     "active": true,
-    "id": "national-research-journal-volume-1-issue-2-vincent-carlo-navarro",
-    "title": "Food Security Among Low-Income Households During Lockdowns",
-    "authors": [
-      "Vincent Carlo Navarro"
-    ],
-    "articleType": "Policy Review",
-    "abstract": "Lockdowns affected food security through more than temporary shortages. For low-income households, restrictions could reduce earnings, change food prices, limit transport, interrupt school feeding, and narrow access to markets at the same time. This policy review organizes evidence through four household pressures: income loss, acquisition barriers, diet compression, and instability over time. It distinguishes food availability in the wider market from a household's ability to obtain, prepare, and sustain an adequate diet. The synthesis argues that relief measured only by the number of packs distributed can miss timeliness, nutritional quality, household composition, and the cost of repeated access. A Household Food Security Pressure model is proposed, combining rapid income support, geographically distributed acquisition routes, nutrition-sensitive assistance, and monitoring of repeated coping strategies. The model is intended for local planning and future empirical testing; it does not report new household data or attribute a single outcome to quarantine alone.",
-    "pages": "1–4",
-    "pdfFile": "assets/uploads/journal-archive/national-research-journal/volume-1-issue-2-2021/vincent-carlo-navarro-food-security-revised-2026-08-11.pdf",
-    "digitizedDate": "2026-08-10",
-    "originalPublicationPeriod": "July–December 2020"
+    "digitizedDate": "2026-08-13",
+    "originalPublicationPeriod": "July-December 2020"
   },
   {
-    "id": "national-research-journal-volume-1-issue-1-camille-denise-fernandez",
+    "id": "national-research-journal-volume-1-issue-1-judith-lucas-community-resilience",
     "journalId": "national-research-journal",
     "title": "Indigenous and Local Practices for Maintaining Community Resilience",
     "authors": [
-      "Camille Denise Fernandez"
+      "Judith Lucas"
     ],
     "articleType": "Critical Interpretive Review",
     "abstract": "Discussions of community resilience often extract visible practices—seed saving, communal labor, traditional forecasting, or mutual aid—while overlooking the relationships and authority that make those practices meaningful. This critical interpretive review examines Indigenous and local knowledge as a living system of observation, obligation, memory, and governance. It brings disaster-risk scholarship into conversation with rights-based instruments relevant to the Philippines. Four propositions organize the synthesis: knowledge is place-based and dynamic; reciprocity is infrastructure; ecological practice links livelihood and risk; and collaboration is legitimate only when communities share authority over knowledge use. The article rejects both romanticization and dismissal. Local practices cannot replace public investment or scientific services, but formal programs can also weaken resilience when they appropriate knowledge, bypass customary institutions, or standardize away local variation. A CARE framework—Consent, Authority, Reciprocity, and Evidence-in-context—is proposed for respectful documentation and co-production.",
@@ -3697,18 +3697,25 @@ window.SHIRLEY_JOURNAL_ARTICLES = [
     ],
     "volume": "1",
     "issue": "1",
-    "issueLabel": "January–June 2020",
+    "issueLabel": "January-June 2020",
     "publicationDate": "2020",
-    "pages": "1–4",
+    "pages": "1-4",
     "doi": "",
-    "pdfFile": "assets/uploads/journal-archive/national-research-journal/volume-1-issue-1-2021/camille-denise-fernandez-community-resilience-revised.pdf",
+    "pdfFile": "assets/uploads/journal-archive/national-research-journal/volume-1-issue-1/judith-lucas-community-resilience.pdf",
     "featured": false,
     "active": true,
-    "digitizedDate": "2026-08-10",
-    "originalPublicationPeriod": "January–June 2020"
+    "digitizedDate": "2026-08-13",
+    "originalPublicationPeriod": "January-June 2020"
   },
   {
+    "id": "national-research-journal-volume-1-issue-2-victoria-baguilat-quarantine-psychological-effects",
     "journalId": "national-research-journal",
+    "title": "Psychological Effects of Community Quarantine on Teachers and Students",
+    "authors": [
+      "Victoria Baguilat"
+    ],
+    "articleType": "Critical Review",
+    "abstract": "Community quarantine altered far more than the location of schooling. It changed daily structure, peer contact, family roles, exposure to illness and loss, economic security, instructional workload, and access to school-based support. This critical review examines psychological effects through pathways rather than treating teachers and students as a single population or quarantine as a uniform exposure. Four pathways are identified: threat and uncertainty, disruption of routine and role, social disconnection, and unequal access to protective resources. The review distinguishes understandable distress from clinical diagnosis and cautions schools against using brief screening as a substitute for qualified assessment. A School Well-Being Pathway model is proposed, combining clear communication, predictable workload, routine connection, tiered referral, staff support, and monitoring of exclusion. The article does not estimate prevalence or diagnose any participant. Its contribution is a framework for designing school responses that reduce avoidable stressors while linking people with appropriate professional care.",
     "keywords": [
       "community quarantine",
       "teacher well-being",
@@ -3718,25 +3725,18 @@ window.SHIRLEY_JOURNAL_ARTICLES = [
     ],
     "volume": "1",
     "issue": "2",
-    "issueLabel": "July–December 2020",
+    "issueLabel": "July-December 2020",
     "publicationDate": "2020",
+    "pages": "1-3",
     "doi": "",
+    "pdfFile": "assets/uploads/journal-archive/national-research-journal/volume-1-issue-2-2021/victoria-baguilat-quarantine-psychological-effects.pdf",
     "featured": false,
     "active": true,
-    "id": "national-research-journal-volume-1-issue-2-maria-lourdes-castillo",
-    "title": "Psychological Effects of Community Quarantine on Teachers and Students",
-    "authors": [
-      "Maria Lourdes Castillo"
-    ],
-    "articleType": "Critical Review",
-    "abstract": "Community quarantine altered far more than the location of schooling. It changed daily structure, peer contact, family roles, exposure to illness and loss, economic security, instructional workload, and access to school-based support. This critical review examines psychological effects through pathways rather than treating teachers and students as a single population or quarantine as a uniform exposure. Four pathways are identified: threat and uncertainty, disruption of routine and role, social disconnection, and unequal access to protective resources. The review distinguishes understandable distress from clinical diagnosis and cautions schools against using brief screening as a substitute for qualified assessment. A School Well-Being Pathway model is proposed, combining clear communication, predictable workload, routine connection, tiered referral, staff support, and monitoring of exclusion. The article does not estimate prevalence or diagnose any participant. Its contribution is a framework for designing school responses that reduce avoidable stressors while linking people with appropriate professional care.",
-    "pages": "1–3",
-    "pdfFile": "assets/uploads/journal-archive/national-research-journal/volume-1-issue-2-2021/maria-lourdes-castillo-psychological-effects-revised-2026-08-11.pdf",
-    "digitizedDate": "2026-08-10",
-    "originalPublicationPeriod": "July–December 2020"
+    "digitizedDate": "2026-08-13",
+    "originalPublicationPeriod": "July-December 2020"
   },
   {
-    "id": "national-research-journal-volume-1-issue-1-andrea-mae-ramos",
+    "id": "national-research-journal-volume-1-issue-1-andrea-mae-ramos-emergency-remote-teaching",
     "journalId": "national-research-journal",
     "title": "Readiness of Public-School Teachers for Emergency Remote Teaching",
     "authors": [
@@ -3753,18 +3753,25 @@ window.SHIRLEY_JOURNAL_ARTICLES = [
     ],
     "volume": "1",
     "issue": "1",
-    "issueLabel": "January–June 2020",
+    "issueLabel": "January-June 2020",
     "publicationDate": "2020",
-    "pages": "1–4",
+    "pages": "1-4",
     "doi": "",
-    "pdfFile": "assets/uploads/journal-archive/national-research-journal/volume-1-issue-1-2021/andrea-mae-ramos-teacher-readiness-revised.pdf",
+    "pdfFile": "assets/uploads/journal-archive/national-research-journal/volume-1-issue-1/andrea-mae-ramos-emergency-remote-teaching.pdf",
     "featured": false,
     "active": true,
-    "digitizedDate": "2026-08-10",
-    "originalPublicationPeriod": "January–June 2020"
+    "digitizedDate": "2026-08-13",
+    "originalPublicationPeriod": "January-June 2020"
   },
   {
+    "id": "national-research-journal-volume-1-issue-2-arcelie-benito-school-crisis-management",
     "journalId": "national-research-journal",
+    "title": "School Leadership and Crisis Management During the COVID-19 Outbreak",
+    "authors": [
+      "Arcelie Benito"
+    ],
+    "articleType": "Conceptual Review",
+    "abstract": "COVID-19 required school leaders to make rapid decisions across health protection, learning continuity, staff work, family communication, resource allocation, and student welfare. This conceptual review argues that crisis leadership is not a sequence of announcements but a recurring cycle of sensemaking, prioritization, coordination, care, and learning. Evidence through 2021 is synthesized into a School Crisis Leadership Cycle designed for institutions with limited staff and incomplete information. The cycle begins with a verified situation picture, converts that picture into a small set of protected priorities, assigns decision rights and communication routes, monitors staff and learner burden, and records changes for the next cycle. The article distinguishes strategic decisions from routine reporting and proposes a minimum crisis register containing the issue, evidence, affected groups, owner, action, trigger, and review date. The framework is normative and testable; it does not evaluate a particular principal, school, or division.",
     "keywords": [
       "school leadership",
       "crisis management",
@@ -3774,29 +3781,22 @@ window.SHIRLEY_JOURNAL_ARTICLES = [
     ],
     "volume": "1",
     "issue": "2",
-    "issueLabel": "July–December 2020",
+    "issueLabel": "July-December 2020",
     "publicationDate": "2020",
+    "pages": "1-3",
     "doi": "",
+    "pdfFile": "assets/uploads/journal-archive/national-research-journal/volume-1-issue-2-2021/arcelie-benito-school-crisis-management.pdf",
     "featured": false,
     "active": true,
-    "id": "national-research-journal-volume-1-issue-2-nathaniel-p-garcia",
-    "title": "School Leadership and Crisis Management During the COVID-19 Outbreak",
-    "authors": [
-      "Nathaniel P. Garcia"
-    ],
-    "articleType": "Conceptual Review",
-    "abstract": "COVID-19 required school leaders to make rapid decisions across health protection, learning continuity, staff work, family communication, resource allocation, and student welfare. This conceptual review argues that crisis leadership is not a sequence of announcements but a recurring cycle of sensemaking, prioritization, coordination, care, and learning. Evidence through 2021 is synthesized into a School Crisis Leadership Cycle designed for institutions with limited staff and incomplete information. The cycle begins with a verified situation picture, converts that picture into a small set of protected priorities, assigns decision rights and communication routes, monitors staff and learner burden, and records changes for the next cycle. The article distinguishes strategic decisions from routine reporting and proposes a minimum crisis register containing the issue, evidence, affected groups, owner, action, trigger, and review date. The framework is normative and testable; it does not evaluate a particular principal, school, or division.",
-    "pages": "1–3",
-    "pdfFile": "assets/uploads/journal-archive/national-research-journal/volume-1-issue-2-2021/nathaniel-p-garcia-school-leadership-crisis-management-revised-2026-08-11.pdf",
-    "digitizedDate": "2026-08-10",
-    "originalPublicationPeriod": "July–December 2020"
+    "digitizedDate": "2026-08-13",
+    "originalPublicationPeriod": "July-December 2020"
   },
   {
-    "id": "national-research-journal-volume-1-issue-1-clarisse-joy-mendoza",
+    "id": "national-research-journal-volume-1-issue-1-lea-pahigdana-device-internet-access",
     "journalId": "national-research-journal",
-    "title": "Students’ Access to Devices and Internet Connectivity in Rural Communities",
+    "title": "Students' Access to Devices and Internet Connectivity in Rural Communities",
     "authors": [
-      "Clarisse Joy Mendoza"
+      "Lea Pahigdana"
     ],
     "articleType": "Scoping Review",
     "abstract": "This scoping review examines why device ownership and internet availability are inadequate proxies for students’ ability to participate in remote education. Drawing on Philippine and international evidence available through 2021, it reconstructs access as a journey: obtaining a usable device, reaching a stable connection, affording repeated use, finding time and space to study, completing platform-specific tasks, and recovering when a link fails. Rurality shapes each step through distance, market coverage, electricity, transport, and household livelihood patterns, but rural communities are not homogeneous. The synthesis introduces the concept of an access threshold: participation occurs only when all minimum conditions for a specific learning task are met at the same time. It recommends task-level access audits, offline-first design, and monitoring of failed attempts rather than enrollment alone. No local survey data are claimed.",
@@ -3809,18 +3809,25 @@ window.SHIRLEY_JOURNAL_ARTICLES = [
     ],
     "volume": "1",
     "issue": "1",
-    "issueLabel": "January–June 2020",
+    "issueLabel": "January-June 2020",
     "publicationDate": "2020",
-    "pages": "1–4",
+    "pages": "1-4",
     "doi": "",
-    "pdfFile": "assets/uploads/journal-archive/national-research-journal/volume-1-issue-1-2021/clarisse-joy-mendoza-device-internet-access-revised.pdf",
+    "pdfFile": "assets/uploads/journal-archive/national-research-journal/volume-1-issue-1/lea-pahigdana-device-internet-access.pdf",
     "featured": false,
     "active": true,
-    "digitizedDate": "2026-08-10",
-    "originalPublicationPeriod": "January–June 2020"
+    "digitizedDate": "2026-08-13",
+    "originalPublicationPeriod": "January-June 2020"
   },
   {
+    "id": "national-research-journal-volume-1-issue-2-grace-humiwat-teacher-digital-competence",
     "journalId": "national-research-journal",
+    "title": "Teachers' Digital Competence During the Transition to Online Education",
+    "authors": [
+      "Grace Humiwat"
+    ],
+    "articleType": "Integrative Review",
+    "abstract": "The emergency transition to online education made digital competence visible, but it also narrowed the concept to familiarity with devices and platforms. This integrative review treats competence as a chain of professional decisions: selecting an accessible tool, organizing content for mediated learning, enabling interaction, assessing evidence, protecting data and well-being, and improving through reflection. DigCompEdu, technological pedagogical content knowledge, and early pandemic studies are synthesized into a Digital Teaching Decision Chain. The review argues that operational fluency has educational value only when it supports a defined learner action and remains feasible under actual device, connectivity, and household conditions. It proposes evidence for each competence, including task samples, accessibility checks, feedback records, and privacy decisions, rather than self-confidence alone. Professional learning is organized around recurring teaching problems and peer review. This is a conceptual article and does not rate teachers or claim that one platform improves learning.",
     "keywords": [
       "teacher digital competence",
       "online education",
@@ -3830,29 +3837,22 @@ window.SHIRLEY_JOURNAL_ARTICLES = [
     ],
     "volume": "1",
     "issue": "2",
-    "issueLabel": "July–December 2020",
+    "issueLabel": "July-December 2020",
     "publicationDate": "2020",
+    "pages": "1-4",
     "doi": "",
+    "pdfFile": "assets/uploads/journal-archive/national-research-journal/volume-1-issue-2-2021/grace-humiwat-teacher-digital-competence.pdf",
     "featured": false,
     "active": true,
-    "id": "national-research-journal-volume-1-issue-2-katrina-anne-flores",
-    "title": "Teachers' Digital Competence During the Transition to Online Education",
-    "authors": [
-      "Katrina Anne Flores"
-    ],
-    "articleType": "Integrative Review",
-    "abstract": "The emergency transition to online education made digital competence visible, but it also narrowed the concept to familiarity with devices and platforms. This integrative review treats competence as a chain of professional decisions: selecting an accessible tool, organizing content for mediated learning, enabling interaction, assessing evidence, protecting data and well-being, and improving through reflection. DigCompEdu, technological pedagogical content knowledge, and early pandemic studies are synthesized into a Digital Teaching Decision Chain. The review argues that operational fluency has educational value only when it supports a defined learner action and remains feasible under actual device, connectivity, and household conditions. It proposes evidence for each competence, including task samples, accessibility checks, feedback records, and privacy decisions, rather than self-confidence alone. Professional learning is organized around recurring teaching problems and peer review. This is a conceptual article and does not rate teachers or claim that one platform improves learning.",
-    "pages": "1–4",
-    "pdfFile": "assets/uploads/journal-archive/national-research-journal/volume-1-issue-2-2021/katrina-anne-flores-digital-competence-revised-2026-08-11.pdf",
-    "digitizedDate": "2026-08-10",
-    "originalPublicationPeriod": "July–December 2020"
+    "digitizedDate": "2026-08-13",
+    "originalPublicationPeriod": "July-December 2020"
   },
   {
-    "id": "national-research-journal-volume-1-issue-1-lorenzo-miguel-cruz",
+    "id": "national-research-journal-volume-1-issue-1-phoebe-sadinas-social-media-information-dissemination",
     "journalId": "national-research-journal",
     "title": "Use of Social Media for Government and School Information Dissemination",
     "authors": [
-      "Lorenzo Miguel Cruz"
+      "Phoebe Sadinas"
     ],
     "articleType": "Communication-Policy Review",
     "abstract": "Social media allowed government offices and schools to publish rapidly during the COVID-19 emergency, but publication is not the same as successful public information. This communication-policy review treats dissemination as a service with five tests: authority, findability, comprehension, actionability, and correctability. Evidence through 2021 shows that platform reach can coexist with exclusion, message overload, impersonation, outdated posts, rumor circulation, and unanswered public questions. A two-lane model is proposed. The public lane issues short, dated, shareable instructions; the record lane preserves the full advisory, version history, contact point, and correction. Social media is positioned as one layer in a redundant channel system that includes text, print, websites, hotlines, and community intermediaries. The article develops a message card, correction protocol, and operational metrics that go beyond follower counts. It is a conceptual synthesis and does not evaluate a particular agency or school.",
@@ -3865,15 +3865,15 @@ window.SHIRLEY_JOURNAL_ARTICLES = [
     ],
     "volume": "1",
     "issue": "1",
-    "issueLabel": "January–June 2020",
+    "issueLabel": "January-June 2020",
     "publicationDate": "2020",
-    "pages": "1–4",
+    "pages": "1-4",
     "doi": "",
-    "pdfFile": "assets/uploads/journal-archive/national-research-journal/volume-1-issue-1-2021/lorenzo-miguel-cruz-social-media-information-dissemination-revised.pdf",
+    "pdfFile": "assets/uploads/journal-archive/national-research-journal/volume-1-issue-1/phoebe-sadinas-social-media-information-dissemination.pdf",
     "featured": false,
     "active": true,
-    "digitizedDate": "2026-08-10",
-    "originalPublicationPeriod": "January–June 2020"
+    "digitizedDate": "2026-08-13",
+    "originalPublicationPeriod": "January-June 2020"
   },
   {
     "journalId": "multidisciplinary-international-theses-and-articles-journal",

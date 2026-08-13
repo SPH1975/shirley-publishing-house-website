@@ -142,7 +142,7 @@ const journalDirectoryCard = (journal) => {
     <h2><a href="${journalPageUrl(journal)}">${escapeHtml(journal.shortTitle || journal.title)}</a></h2><p>${escapeHtml(journal.description)}</p>
     ${tags ? `<div class="scope-tags journal-card-tags">${tags}</div>` : ''}${facts ? `<div class="journal-card-facts">${facts}</div>` : ''}
     <div class="journal-card-actions"><a class="btn btn-primary" href="${journalPageUrl(journal)}">View Journal</a><a class="btn btn-secondary" href="${escapeHtml(journal.submissionUrl || 'submit.html')}">Submit an Article</a></div></div>
-  </article>`;
+  </article>`.replace(/[ \t]+$/gm, '');
 };
 
 const publicationDirectoryCard = (item) => {
@@ -166,7 +166,7 @@ const publicationDirectoryCard = (item) => {
       ${item.abstract ? `<p class="repository-description">${escapeHtml(item.abstract)}</p>` : ''}
       ${item.accessUrl ? `<div class="repository-card-actions"><a class="repository-access-button" href="${escapeHtml(item.accessUrl)}">${escapeHtml(item.accessLabel || 'Open Publication')}</a></div>` : ''}
     </div>
-  </article>`;
+  </article>`.replace(/[ \t]+$/gm, '');
 };
 
 const pageShell = ({ title, description, canonical, head = '', body }) => `<!DOCTYPE html>
