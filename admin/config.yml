@@ -147,7 +147,11 @@ collections:
             widget: "list"
             fields:
               - { label: "Name", name: "name", widget: "string" }
+              - { label: "Credentials", name: "credentials", widget: "string", required: false }
               - { label: "Affiliation", name: "affiliation", widget: "text", required: false }
+              - { label: "Country", name: "country", widget: "string", required: false, hint: "Write the country in full, such as Philippines, United States, or China." }
+              - { label: "ORCID URL", name: "orcid", widget: "string", required: false, hint: "Use the complete authenticated URL, such as https://orcid.org/0000-0000-0000-0000." }
+              - { label: "Institutional Profile URL", name: "profileUrl", widget: "string", required: false, hint: "Optional official university, employer, or professional profile." }
       - { label: "Additional Ungrouped Editorial Board Members", name: "editorialBoard", widget: "list", required: false, default: [] }
       - { label: "Accepted Types of Work", name: "acceptedWorks", widget: "list", required: false, default: ["Research Articles", "Review Articles"] }
       - { label: "Article Preparation Guidelines", name: "preparationGuidelines", widget: "list", required: false, default: [] }
