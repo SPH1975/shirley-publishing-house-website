@@ -174,7 +174,7 @@ const pageShell = ({ title, description, canonical, head = '', body }) => `<!DOC
 <title>${escapeHtml(title)}</title><meta name="description" content="${escapeHtml(description)}"><link rel="canonical" href="${escapeHtml(canonical)}">
 <link href="assets/favicon.png" rel="icon" type="image/png"><link href="styles.css" rel="stylesheet">${head}</head>
 <body><a class="skip-link" href="#main-content">Skip to content</a>
-<header class="site-header" id="top"><div class="container header-inner"><a class="brand" href="index.html" aria-label="Shirley Publishing House home"><img src="assets/shirley-logo-transparent.png" alt="Shirley Publishing House official logo"></a><nav class="main-nav" aria-label="Main navigation"><a href="index.html">Home</a><a class="nav-active" href="journal.html">Journals</a><a href="repository.html">Archives</a><a href="publication-ethics.html">Publication Ethics</a><a href="contact.html">Contact Us</a></nav></div></header>
+<header class="site-header" id="top"><div class="container header-inner"><a class="brand" href="index.html" aria-label="Shirley Publishing House home"><img src="assets/shirley-logo-transparent.png" alt="Shirley Publishing House official logo"></a><nav class="main-nav" aria-label="Main navigation"><a href="index.html">Home</a><a href="about.html">About Us</a><a class="nav-active" href="journal.html">Journals</a><a href="repository.html">Archives</a><a href="publication-ethics.html">Publication Ethics</a><a href="contact.html">Contact Us</a></nav></div></header>
 <main id="main-content">${body}</main>
 <footer class="site-footer"><div class="container footer-main"><div class="footer-brand-wrap"><a class="footer-brand" href="index.html"><img src="assets/shirley-logo-transparent.png" alt="Shirley Publishing House logo"></a><p>Quality publication, academic support, registration assistance, printing, and binding services.</p></div><div><h3>Explore</h3><a href="journal.html">Our Journals</a><a href="repository.html">Archives</a><a href="authors.html">Author Guidelines</a></div><div><h3>Contact</h3><a href="mailto:${escapeHtml(site.email)}">${escapeHtml(site.email)}</a><span>${escapeHtml(site.location)}</span></div></div></footer>
 <script src="script.js"></script></body></html>`;
@@ -233,6 +233,32 @@ fs.writeFileSync(repositoryPath, repositoryHtml);
 
 journals.forEach((journal) => fs.writeFileSync(path.join(root, journalPageUrl(journal)), journalLandingPage(journal)));
 journalArticles.forEach((article) => fs.writeFileSync(path.join(root, articlePageUrl(article)), articleLandingPage(article)));
+
+const primaryNavigationPages = {
+  'index.html': 'home',
+  'about.html': 'about',
+  'services.html': 'services',
+  'journal.html': 'journals',
+  'repository.html': 'archives',
+  'publication-ethics.html': 'ethics',
+  'authors.html': '',
+  'submit.html': '',
+  'contact.html': 'contact',
+};
+const primaryNavigation = (active = '') => {
+  const link = (key, href, label) => `<a${active === key ? ' aria-current="page" class="nav-active"' : ''} href="${href}">${label}</a>`;
+  return `<nav aria-label="Main navigation" class="main-nav" id="main-nav">
+${link('home', 'index.html', 'Home')}${link('about', 'about.html', 'About Us')}${link('journals', 'journal.html', 'Journals')}${link('services', 'services.html', 'Services')}${link('archives', 'repository.html', 'Archives')}${link('ethics', 'publication-ethics.html', 'Publication Ethics')}${link('contact', 'contact.html', 'Contact Us')}
+<a class="nav-cta" href="submit.html">Submit Manuscript</a>
+</nav>`;
+};
+Object.entries(primaryNavigationPages).forEach(([file, active]) => {
+  const pagePath = path.join(root, file);
+  const html = fs.readFileSync(pagePath, 'utf8');
+  const navigationPattern = /<nav(?=[^>]*class="main-nav")[^>]*>[\s\S]*?<\/nav>/;
+  if (!navigationPattern.test(html)) throw new Error(`Main navigation is missing from ${file}.`);
+  fs.writeFileSync(pagePath, html.replace(navigationPattern, primaryNavigation(active)));
+});
 
 const staticPages = ['index.html', 'about.html', 'services.html', 'journal.html', 'repository.html', 'publication-ethics.html', 'authors.html', 'submit.html', 'contact.html'];
 const sitemapUrls = [...staticPages, ...journals.map(journalPageUrl), ...journalArticles.map(articlePageUrl)];
