@@ -145,6 +145,30 @@ const journalDirectoryCard = (journal) => {
   </article>`;
 };
 
+const publicationDirectoryCard = (item) => {
+  const meta = [
+    item.type,
+    item.year,
+    item.volume || item.edition,
+    item.identifierLabel && item.identifier ? `${item.identifierLabel} ${item.identifier}` : '',
+  ].filter(Boolean).join(' · ');
+  const initials = String(item.title || 'Publication').split(/\s+/).slice(0, 3)
+    .map((word) => word[0] || '').join('').toUpperCase();
+  const cover = item.cover
+    ? `<div class="repository-cover has-cover"><div class="repository-cover-placeholder" aria-hidden="true"><span>${escapeHtml(initials)}</span><small>Shirley Publishing House</small></div><img src="${escapeHtml(item.cover)}" alt="Cover of ${escapeHtml(item.title)}" loading="lazy"></div>`
+    : `<div class="repository-cover repository-cover-fallback"><div class="repository-cover-placeholder" aria-hidden="true"><span>${escapeHtml(initials)}</span><small>Shirley Publishing House</small></div></div>`;
+  return `<article class="repository-card" data-publication-id="${escapeHtml(item.id)}">
+    ${cover}<div class="repository-card-body">
+      <div class="repository-card-topline"><span class="repository-type-badge">${escapeHtml(item.type || 'Publication')}</span>${item.featured ? '<span class="repository-featured">Featured</span>' : ''}</div>
+      <h3>${escapeHtml(item.title)}</h3>
+      <p class="repository-author">${escapeHtml(item.author || 'Author not specified')}</p>
+      <p class="repository-meta">${escapeHtml(meta)}</p>
+      ${item.abstract ? `<p class="repository-description">${escapeHtml(item.abstract)}</p>` : ''}
+      ${item.accessUrl ? `<div class="repository-card-actions"><a class="repository-access-button" href="${escapeHtml(item.accessUrl)}">${escapeHtml(item.accessLabel || 'Open Publication')}</a></div>` : ''}
+    </div>
+  </article>`;
+};
+
 const pageShell = ({ title, description, canonical, head = '', body }) => `<!DOCTYPE html>
 <html lang="en"><head><meta charset="utf-8"><meta name="viewport" content="width=device-width,initial-scale=1">
 <title>${escapeHtml(title)}</title><meta name="description" content="${escapeHtml(description)}"><link rel="canonical" href="${escapeHtml(canonical)}">
@@ -196,6 +220,16 @@ const directoryStart = '<!-- JOURNAL_DIRECTORY_START -->';
 const directoryEnd = '<!-- JOURNAL_DIRECTORY_END -->';
 if (!directoryHtml.includes(directoryStart) || !directoryHtml.includes(directoryEnd)) throw new Error('Journal directory render markers are missing.');
 fs.writeFileSync(directoryPath, directoryHtml.replace(new RegExp(`${directoryStart}[\\s\\S]*?${directoryEnd}`), `${directoryStart}${journals.map(journalDirectoryCard).join('')}${directoryEnd}`));
+
+const repositoryPath = path.join(root, 'repository.html');
+let repositoryHtml = fs.readFileSync(repositoryPath, 'utf8');
+const repositoryGridPattern = /<div aria-live="polite" class="repository-grid" id="repository-grid">(?:<!-- REPOSITORY_STATIC_START -->[\s\S]*?<!-- REPOSITORY_STATIC_END -->)?<\/div>/;
+if (!repositoryGridPattern.test(repositoryHtml)) throw new Error('Repository grid render target is missing.');
+const staticRepositoryCards = publications.map(publicationDirectoryCard).join('');
+repositoryHtml = repositoryHtml
+  .replace(repositoryGridPattern, `<div aria-live="polite" class="repository-grid" id="repository-grid"><!-- REPOSITORY_STATIC_START -->${staticRepositoryCards}<!-- REPOSITORY_STATIC_END --></div>`)
+  .replace(/<p id="repository-count">[\s\S]*?<\/p>/, `<p id="repository-count">${publications.length} publications available</p>`);
+fs.writeFileSync(repositoryPath, repositoryHtml);
 
 journals.forEach((journal) => fs.writeFileSync(path.join(root, journalPageUrl(journal)), journalLandingPage(journal)));
 journalArticles.forEach((article) => fs.writeFileSync(path.join(root, articlePageUrl(article)), articleLandingPage(article)));
