@@ -3417,3 +3417,13 @@ body.is-scrolled .brand img { width: 218px; height: 64px; }
   .policy-body { padding: 0 20px 20px; }
   .policy-document { break-inside: avoid-page; }
 }
+/* Crawlable journal editorial boards */
+.editorial-board-grid { display: grid; gap: 1.25rem; margin-top: 2rem; }
+.editorial-board-group { border: 1px solid rgba(6, 29, 66, .14); border-radius: 18px; padding: 1.35rem; background: #fff; }
+.editorial-board-group > h3 { margin: 0 0 1rem; color: #061d42; }
+.editorial-board-members { display: grid; grid-template-columns: repeat(auto-fit, minmax(230px, 1fr)); gap: 1rem; }
+.editorial-board-member { padding: 1rem; border-radius: 14px; background: #f5f8fc; }
+.editorial-board-member h4 { margin: 0 0 .45rem; color: #061d42; }
+.editorial-board-member p { margin: .25rem 0; }
+.editorial-board-country { color: #52637b; font-weight: 700; }
+.editorial-board-id { display: inline-block; margin-top: .45rem; font-weight: 700; }
