@@ -276,7 +276,8 @@ window.SHIRLEY_JOURNALS = [
           {
             "name": "Shirley D. Vicente",
             "credentials": "MAEd",
-            "affiliation": "Retired MTI, Kasibu West District, SDO Nueva Vizcaya"
+            "affiliation": "Retired MTI, Kasibu West District, SDO Nueva Vizcaya",
+            "country": "Philippines"
           }
         ]
       },
@@ -286,17 +287,20 @@ window.SHIRLEY_JOURNALS = [
           {
             "name": "Alma Bella G. Cabilinan",
             "credentials": "PhD",
-            "affiliation": "Assistant Professor IV, Nueva Vizcaya State University – Bayombong Campus"
+            "affiliation": "Assistant Professor IV, Nueva Vizcaya State University – Bayombong Campus",
+            "country": "Philippines"
           },
           {
             "name": "Christine Marie M. Walog",
             "credentials": "MAEd",
-            "affiliation": "Certified National Book Development Board Book Editor; Member, International Association of Scholarly Publishers, Editors and Reviewers"
+            "affiliation": "Certified National Book Development Board Book Editor; Member, International Association of Scholarly Publishers, Editors and Reviewers",
+            "country": "Philippines"
           },
           {
             "name": "Joy A. Caronilla",
             "credentials": "MT II",
-            "affiliation": "Schools Division Office of Nueva Vizcaya"
+            "affiliation": "Schools Division Office of Nueva Vizcaya",
+            "country": "Philippines"
           }
         ]
       },
@@ -306,7 +310,8 @@ window.SHIRLEY_JOURNALS = [
           {
             "name": "Leticia D. Guinsiman",
             "credentials": "PhD",
-            "affiliation": "Professor IV, Ifugao State University – Tinoc Campus"
+            "affiliation": "Professor IV, Ifugao State University – Tinoc Campus",
+            "country": "Philippines"
           }
         ]
       },
@@ -316,21 +321,25 @@ window.SHIRLEY_JOURNALS = [
           {
             "name": "Joseph C. Eco, Jr.",
             "credentials": "EdD",
-            "affiliation": "Teacher III / Division Research Focal Person, Schools Division Office of Cauayan City"
+            "affiliation": "Teacher III / Division Research Focal Person, Schools Division Office of Cauayan City",
+            "country": "Philippines"
           },
           {
             "name": "Donnavee B. Cabasal",
             "credentials": "MT I",
-            "affiliation": "Schools Division Office of Nueva Vizcaya"
+            "affiliation": "Schools Division Office of Nueva Vizcaya",
+            "country": "Philippines"
           },
           {
             "name": "Felicitos A. Del Rosario III",
             "credentials": "PhD",
-            "affiliation": "Retired MTI, Benigno S. Aquino National High School"
+            "affiliation": "Retired MTI, Benigno S. Aquino National High School",
+            "country": "Philippines"
           },
           {
             "name": "Marissa Johnson Palma",
-            "affiliation": "English Language Assessment Consultant, British Council Education Consulting (Beijing) Co. Ltd"
+            "affiliation": "English Language Assessment Consultant, British Council Education Consulting (Beijing) Co. Ltd",
+            "country": "China"
           }
         ]
       },
@@ -339,17 +348,20 @@ window.SHIRLEY_JOURNALS = [
         "members": [
           {
             "name": "Chris Nalda",
-            "affiliation": "Layout Artist & Graphic Designer, Shirley Publishing House"
+            "affiliation": "Layout Artist & Graphic Designer, Shirley Publishing House",
+            "country": "Philippines"
           },
           {
             "name": "Jossanth D. Vicente",
             "credentials": "RCE",
-            "affiliation": "Art and Layout Editor / Technical Editor, Shirley Publishing House"
+            "affiliation": "Art and Layout Editor / Technical Editor, Shirley Publishing House",
+            "country": "Philippines"
           },
           {
             "name": "Mark Lester Ventura",
             "credentials": "RCE",
-            "affiliation": "Art and Layout Editor / Technical Editor, Shirley Publishing House"
+            "affiliation": "Art and Layout Editor / Technical Editor, Shirley Publishing House",
+            "country": "Philippines"
           }
         ]
       }
