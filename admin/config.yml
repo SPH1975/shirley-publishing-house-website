@@ -119,7 +119,8 @@ collections:
       - { label: "Journal Title", name: "title", widget: "string" }
       - { label: "Short Journal Name", name: "shortTitle", widget: "string", required: false, hint: "A shorter name for cards and headings." }
       - { label: "URL Slug", name: "urlSlug", widget: "string", required: false, hint: "Optional. Use lowercase words separated by hyphens, such as international-journal-of-education." }
-      - { label: "ISSN", name: "issn", widget: "string", required: false }
+      - { label: "Print ISSN", name: "issn", widget: "string", required: false }
+      - { label: "Online ISSN", name: "onlineIssn", widget: "string", required: false }
       - { label: "Journal Cover", name: "cover", widget: "image", required: false }
       - { label: "Editorial Board Image / Journal Back Page", name: "editorialBoardImage", widget: "image", required: false, hint: "Upload the back page or designed editorial-board image. It will appear on the journal profile page." }
       - { label: "Downloadable Journal PDF / Full Issue", name: "journalFile", widget: "file", required: false, allow_multiple: false, choose_url: false, hint: "Upload the complete journal issue as a PDF. Visitors will be able to download it from the journal directory and profile page. Use a compressed, web-optimized PDF for faster downloads." }

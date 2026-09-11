@@ -5,6 +5,7 @@ window.SHIRLEY_JOURNALS = [
       "Literature"
     ],
     "issn": "3155-6191",
+    "onlineIssn": "3155-7031",
     "editorialCriteria": [],
     "currentVolumeIssue": "Volume 1 Issue No. 2",
     "active": true,
@@ -124,6 +125,7 @@ window.SHIRLEY_JOURNALS = [
       "Other Graduate Disciplines"
     ],
     "issn": "3116-403X",
+    "onlineIssn": "3155-704X",
     "editorialCriteria": [
       "Relevance to the journal’s multidisciplinary scope",
       "Originality and academic contribution",
@@ -402,6 +404,7 @@ window.SHIRLEY_JOURNALS = [
     "description": "National Research Journal is a semi-annual English-language scholarly publication of Shirley Publishing House. It provides a venue for original research, academic studies, and evidence-based contributions addressing educational, institutional, scientific, social, and national development concerns.",
     "editorialBoard": [],
     "id": "national-research-journal",
+    "onlineIssn": "",
     "editorialBoardImage": "",
     "journalFile": "",
     "downloadLabel": "Download Full Journal (PDF)"

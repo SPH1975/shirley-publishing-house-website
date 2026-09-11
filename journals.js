@@ -27,7 +27,8 @@
       listGrid.innerHTML = visible.map((journal) => {
         const profileUrl = `journal-${encodeURIComponent(journal.id)}.html`;
         const facts = [
-          journal.issn ? `<span><small>ISSN</small><strong>${escapeHtml(journal.issn)}</strong></span>` : '',
+          journal.issn ? `<span><small>Print ISSN</small><strong>${escapeHtml(journal.issn)}</strong></span>` : '',
+    journal.onlineIssn ? `<span><small>Online ISSN</small><strong>${escapeHtml(journal.onlineIssn)}</strong></span>` : '',
           journal.publicationFrequency ? `<span><small>Frequency</small><strong>${escapeHtml(journal.publicationFrequency)}</strong></span>` : '',
           journal.currentVolumeIssue ? `<span><small>Current Issue</small><strong>${escapeHtml(journal.currentVolumeIssue)}</strong></span>` : '',
         ].filter(Boolean).join('');
@@ -37,7 +38,7 @@
             <img src="${escapeHtml(coverSrc(journal))}" alt="${escapeHtml(journal.title)} cover" loading="lazy">
           </a>
           <div class="journal-card-body">
-            <div class="journal-card-topline"><span class="journal-status">${journal.featured ? 'Featured journal' : 'Academic journal'}</span>${journal.issn ? `<span class="journal-issn">ISSN ${escapeHtml(journal.issn)}</span>` : ''}</div>
+            <div class="journal-card-topline"><span class="journal-status">${journal.featured ? 'Featured journal' : 'Academic journal'}</span>${journal.issn ? `<span class="journal-issn">Print ISSN ${escapeHtml(journal.issn)}</span>` : ''}</div>
             <h2><a href="${profileUrl}">${escapeHtml(journal.shortTitle || journal.title)}</a></h2>
             ${journal.description ? `<p>${escapeHtml(journal.description)}</p>` : ''}
             ${tags ? `<div class="scope-tags journal-card-tags">${tags}</div>` : ''}
@@ -100,7 +101,7 @@
   }
 
   const factValues = [
-    ['ISSN', journal.issn],
+    ['Print ISSN', journal.issn], ['Online ISSN', journal.onlineIssn],
     ['Publisher', 'Shirley Publishing House'],
     ['Scope', journal.scope],
     ['Format', journal.format],
