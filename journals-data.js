@@ -270,7 +270,7 @@ window.SHIRLEY_JOURNALS = [
     "active": true,
     "publicationsUrl": "repository.html",
     "featured": true,
-    "publicationFrequency": "Semi-annual",
+    "publicationFrequency": "Semiannual",
     "editorialBoardGroups": [
       {
         "role": "Chairman",
@@ -380,7 +380,7 @@ window.SHIRLEY_JOURNALS = [
     "effectivityDate": "January 2020",
     "issnAssignedYear": "2022",
     "historyNotice": "National Research Journal began publication in January 2020. ISSN 2960-3625 was assigned in 2022. Volumes 1 and 2 were originally published before the ISSN assignment and remain part of the journal's continuous publication history.",
-    "preIssnNotice": "This issue was originally published before National Research Journal received ISSN 2960-3625 in 2022.",
+    "preIssnNotice": "Legacy pre-ISSN content: This issue was produced during National Research Journal’s 2020–2021 founding period, before Print ISSN 2960-3625 was assigned and before implementation of the journal’s formal external peer-review process. Its inclusion in the archive preserves the journal’s historical publication record and does not represent the articles as externally peer reviewed.",
     "cover": "assets/uploads/journal-covers/national-research-journal-cover-2026.svg",
     "format": "Print",
     "title": "National Research Journal",
@@ -401,7 +401,7 @@ window.SHIRLEY_JOURNALS = [
       "Policy and Development Studies"
     ],
     "shortTitle": "National Research Journal",
-    "description": "National Research Journal is a semi-annual English-language scholarly publication of Shirley Publishing House. It provides a venue for original research, academic studies, and evidence-based contributions addressing educational, institutional, scientific, social, and national development concerns.",
+    "description": "National Research Journal is a semiannual English-language scholarly publication of Shirley Publishing House. It provides a venue for original research, academic studies, and evidence-based contributions addressing educational, institutional, scientific, social, and national development concerns.",
     "editorialBoard": [],
     "id": "national-research-journal",
     "onlineIssn": "",
