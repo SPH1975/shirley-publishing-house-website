@@ -192,7 +192,6 @@ const journalLandingPage = (journal) => {
       const profileUrl = String(member.profileUrl || member.orcid || '').trim();
       return `<article class="editorial-board-member"><h4>${profileUrl ? `<a href="${escapeHtml(profileUrl)}" target="_blank" rel="noopener">${escapeHtml(name)}</a>` : escapeHtml(name)}</h4>${member.affiliation ? `<p>${escapeHtml(member.affiliation)}</p>` : ''}${member.country ? `<p class="editorial-board-country">${escapeHtml(member.country)}</p>` : ''}${member.orcid ? `<a class="editorial-board-id" href="${escapeHtml(member.orcid)}" target="_blank" rel="noopener">ORCID</a>` : ''}</article>`;
     }).join('')}</div></section>`).join('')}</div>
-    <p class="dialog-repository-note">Board members are publicly listed for scholarly transparency. Appointments should be maintained with the member's consent and current affiliation.</p>
   </div></section>` : '';
   const groups = new Map();
   articles.forEach((article) => {
