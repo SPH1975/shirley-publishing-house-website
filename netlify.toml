@@ -6,6 +6,11 @@
   NODE_VERSION = "20"
 
 [[redirects]]
+  from = "/national-research-journal/open-access-policy"
+  to = "/national-research-journal-open-access-policy.html"
+  status = 200
+
+[[redirects]]
   from = "/admin"
   to = "/admin/"
   status = 301
