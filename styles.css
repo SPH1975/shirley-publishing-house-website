@@ -803,6 +803,26 @@ input:focus, select:focus, textarea:focus { border-color: var(--blue-500); box-s
 .about-journal-facts dd { margin: 0; color: var(--navy-950); font-weight: 800; }
 .about-journal-facts a { color: var(--blue-700); text-decoration: underline; text-underline-offset: 3px; }
 .legacy-article-notice { margin: 24px 0; }
+.journal-author-information-section { padding-top: 0; }
+.author-guidelines-content { max-width: 860px; color: var(--text); font-size: 1rem; line-height: 1.75; }
+.author-guidelines-content > section { padding-bottom: 4px; border-bottom: 1px solid rgba(23, 72, 124, .11); }
+.author-guidelines-content > section:last-of-type { border-bottom: 0; }
+.author-guidelines-content h2 { font-size: clamp(1.45rem, 2.4vw, 1.9rem); line-height: 1.25; }
+.author-guidelines-content h3 { font-size: 1.12rem; line-height: 1.4; }
+.author-guidelines-content p, .author-guidelines-content li { max-width: 74ch; }
+.author-guidelines-content strong { color: var(--navy-950); }
+.author-guidelines-content ol, .author-guidelines-content ul { padding-left: 1.4rem; }
+.author-guidelines-content li::marker { color: var(--blue-700); font-weight: 800; }
+.guidelines-contact { margin-top: 38px; padding: 26px 28px 30px; border: 1px solid rgba(24, 86, 146, .25); border-left: 5px solid var(--blue-700); border-radius: 12px; background: var(--blue-50); }
+.guidelines-contact h2 { margin-top: 0; }
+.guidelines-contact address { display: grid; gap: 8px; font-style: normal; }
+.guidelines-contact address span { display: block; }
+.guidelines-contact-note { margin-bottom: 0; color: var(--muted); font-size: .9rem; }
+.guidelines-policy-links { margin-top: 38px; padding: 28px; border-radius: 12px; background: var(--navy-950); }
+.guidelines-policy-links h2 { margin: 0 0 18px; color: #fff; }
+.guidelines-policy-links > div { display: grid; grid-template-columns: repeat(2, minmax(0, 1fr)); gap: 10px 18px; }
+.guidelines-policy-links a { display: block; padding: 11px 13px; border: 1px solid rgba(255,255,255,.24); border-radius: 8px; color: #fff; background: rgba(255,255,255,.08); font-weight: 800; text-decoration: none; }
+.guidelines-policy-links a:hover, .guidelines-policy-links a:focus-visible { border-color: var(--gold); color: var(--navy-950); background: var(--gold); }
 .journal-accepted-grid { grid-template-columns: repeat(3, 1fr); }
 .editorial-panel { display: grid; grid-template-columns: minmax(240px, .7fr) 1.3fr; gap: 18px; max-width: 950px; margin: 0 auto; }
 .editorial-panel > div { padding: 26px; border: 1px solid var(--line); border-radius: 17px; background: #fff; box-shadow: var(--shadow-sm); }
@@ -867,6 +887,30 @@ input:focus, select:focus, textarea:focus { border-color: var(--blue-500); box-s
   .about-journal-card { padding: 22px 19px; }
   .about-journal-card .check-list { columns: 1; }
   .about-journal-facts > div { grid-template-columns: 1fr; gap: 4px; }
+  .author-guidelines-content { font-size: 1rem; }
+  .guidelines-contact, .guidelines-policy-links { padding: 22px 19px; }
+  .guidelines-policy-links > div { grid-template-columns: 1fr; }
+}
+
+@media print {
+  .author-guidelines-page .site-header,
+  .author-guidelines-page .site-footer,
+  .author-guidelines-page .journal-local-nav,
+  .author-guidelines-page .preservation-toc,
+  .author-guidelines-page .skip-link { display: none !important; }
+  .author-guidelines-page { color: #000; background: #fff; font-size: 11pt; }
+  .author-guidelines-page .page-hero { padding: 0 0 18pt; color: #000; background: #fff; }
+  .author-guidelines-page .page-hero * { color: #000 !important; }
+  .author-guidelines-page .preservation-policy-icon { display: none; }
+  .author-guidelines-page .preservation-policy-layout { display: block; }
+  .author-guidelines-page .author-guidelines-content { max-width: none; color: #000; font-size: 11pt; line-height: 1.5; }
+  .author-guidelines-page .author-guidelines-content section { break-inside: avoid-page; border-color: #ccc; }
+  .author-guidelines-page a { color: #000; text-decoration: underline; }
+  .author-guidelines-page .policy-facts,
+  .author-guidelines-page .guidelines-policy-links > div { grid-template-columns: repeat(2, 1fr); }
+  .author-guidelines-page .guidelines-policy-links { color: #000; background: #fff; border: 1px solid #999; }
+  .author-guidelines-page .guidelines-policy-links h2,
+  .author-guidelines-page .guidelines-policy-links a { color: #000; background: #fff; border-color: #aaa; }
 }
 
 
