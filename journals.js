@@ -98,6 +98,10 @@
   if (issnVerificationSection && journal.id === 'national-research-journal') {
     issnVerificationSection.hidden = false;
   }
+  const openAccessSection = document.getElementById('journal-open-access-policy');
+  if (openAccessSection && journal.id === 'national-research-journal') {
+    openAccessSection.hidden = false;
+  }
 
   const cover = document.getElementById('journal-cover');
   if (cover) {
