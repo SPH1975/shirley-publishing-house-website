@@ -775,6 +775,20 @@ input:focus, select:focus, textarea:focus { border-color: var(--blue-500); box-s
 .policy-prose { max-width: 920px; }
 .policy-prose h2 { margin-top: 34px; color: var(--navy-950); font-family: Georgia, serif; }
 .policy-prose a { color: var(--blue-700); text-decoration: underline; text-underline-offset: 3px; }
+.about-journal-section { padding-top: 12px; background: var(--soft); }
+.about-journal-grid { display: grid; grid-template-columns: repeat(2, minmax(0, 1fr)); gap: 20px; }
+.about-journal-card { padding: 28px; border: 1px solid var(--line); border-radius: 12px; background: #fff; box-shadow: var(--shadow-sm); }
+.about-journal-card.about-journal-wide { grid-column: 1 / -1; }
+.about-journal-card h3 { margin: 0 0 14px; color: var(--navy-950); font-family: Georgia, serif; font-size: clamp(1.35rem, 2.5vw, 1.8rem); }
+.about-journal-card p { color: var(--text); }
+.about-journal-card .check-list { columns: 2; column-gap: 30px; }
+.about-journal-card .check-list li { break-inside: avoid; }
+.about-journal-facts { display: grid; gap: 0; margin: 0 0 22px; }
+.about-journal-facts > div { display: grid; grid-template-columns: minmax(150px, .8fr) minmax(0, 1.2fr); gap: 16px; padding: 11px 0; border-bottom: 1px solid var(--line); }
+.about-journal-facts dt { color: var(--muted); font-size: .72rem; font-weight: 900; letter-spacing: .05em; text-transform: uppercase; }
+.about-journal-facts dd { margin: 0; color: var(--navy-950); font-weight: 800; }
+.about-journal-facts a { color: var(--blue-700); text-decoration: underline; text-underline-offset: 3px; }
+.legacy-article-notice { margin: 24px 0; }
 .journal-accepted-grid { grid-template-columns: repeat(3, 1fr); }
 .editorial-panel { display: grid; grid-template-columns: minmax(240px, .7fr) 1.3fr; gap: 18px; max-width: 950px; margin: 0 auto; }
 .editorial-panel > div { padding: 26px; border: 1px solid var(--line); border-radius: 17px; background: #fff; box-shadow: var(--shadow-sm); }
@@ -830,6 +844,11 @@ input:focus, select:focus, textarea:focus { border-color: var(--blue-500); box-s
   .open-access-confirmations, .policy-facts { grid-template-columns: 1fr; }
   .journal-local-nav .container { display: grid; grid-template-columns: 1fr 1fr; }
   .journal-local-nav a { text-align: center; }
+  .about-journal-grid { grid-template-columns: 1fr; }
+  .about-journal-card.about-journal-wide { grid-column: auto; }
+  .about-journal-card { padding: 22px 19px; }
+  .about-journal-card .check-list { columns: 1; }
+  .about-journal-facts > div { grid-template-columns: 1fr; gap: 4px; }
 }
 
 

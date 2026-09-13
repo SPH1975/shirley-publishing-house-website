@@ -128,7 +128,7 @@ collections:
       - { label: "Journal Description", name: "description", widget: "text" }
       - { label: "Scope", name: "scope", widget: "string", required: false, hint: "Example: Multidisciplinary Graduate Studies" }
       - { label: "Disciplines Covered", name: "disciplines", widget: "list", required: false, default: [] }
-      - { label: "Publication Frequency", name: "publicationFrequency", widget: "string", required: false, hint: "Example: Biannual, Quarterly, or As issues are completed" }
+      - { label: "Publication Frequency", name: "publicationFrequency", widget: "string", required: false, hint: "Example: Semiannual, quarterly, or as issues are completed" }
       - { label: "Publication Format", name: "format", widget: "string", required: false, hint: "Example: Print and Online" }
       - { label: "Current Volume and Issue", name: "currentVolumeIssue", widget: "string", required: false }
       - { label: "Established Year", name: "establishedYear", widget: "string", required: false, hint: "Example: 2026" }
