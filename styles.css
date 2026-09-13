@@ -775,6 +775,20 @@ input:focus, select:focus, textarea:focus { border-color: var(--blue-500); box-s
 .policy-prose { max-width: 920px; }
 .policy-prose h2 { margin-top: 34px; color: var(--navy-950); font-family: Georgia, serif; }
 .policy-prose a { color: var(--blue-700); text-decoration: underline; text-underline-offset: 3px; }
+.preservation-policy-title { display: flex; align-items: center; gap: 18px; }
+.preservation-policy-title h1 { margin: 0; }
+.preservation-policy-icon { width: 58px; height: 58px; flex: 0 0 58px; display: grid; place-items: center; border-radius: 14px; color: #fff; background: linear-gradient(145deg, var(--navy-900), var(--blue-600)); box-shadow: 0 10px 24px rgba(11, 35, 62, .2); }
+.preservation-policy-icon svg { width: 30px; height: 30px; fill: none; stroke: currentColor; stroke-width: 1.8; stroke-linecap: round; stroke-linejoin: round; }
+.preservation-policy-layout { display: grid; grid-template-columns: minmax(210px, 260px) minmax(0, 1fr); gap: 42px; align-items: start; }
+.preservation-toc { position: sticky; top: 96px; padding: 22px; border: 1px solid var(--line); border-radius: 12px; background: var(--soft); }
+.preservation-toc h2 { margin: 0 0 14px; color: var(--navy-950); font-family: Georgia, serif; font-size: 1.25rem; }
+.preservation-toc a { display: block; padding: 7px 0; color: var(--navy-900); font-size: .78rem; font-weight: 800; }
+.preservation-toc a:hover, .preservation-toc a:focus-visible { color: var(--blue-700); text-decoration: underline; text-underline-offset: 3px; }
+.preservation-policy-content { max-width: none; min-width: 0; }
+.preservation-policy-content h3 { margin-top: 25px; color: var(--navy-900); }
+.preservation-policy-content li { margin: 7px 0; color: var(--muted); }
+.preservation-policy-content section { scroll-margin-top: 100px; }
+.preservation-status-panel { margin-top: 20px; padding: 22px 24px; border: 1px solid rgba(24, 86, 146, .28); border-left: 5px solid var(--blue-700); border-radius: 10px; color: var(--navy-900); background: #f4f8fc; }
 .about-journal-section { padding-top: 12px; background: var(--soft); }
 .about-journal-grid { display: grid; grid-template-columns: repeat(2, minmax(0, 1fr)); gap: 20px; }
 .about-journal-card { padding: 28px; border: 1px solid var(--line); border-radius: 12px; background: #fff; box-shadow: var(--shadow-sm); }
@@ -844,6 +858,10 @@ input:focus, select:focus, textarea:focus { border-color: var(--blue-500); box-s
   .open-access-confirmations, .policy-facts { grid-template-columns: 1fr; }
   .journal-local-nav .container { display: grid; grid-template-columns: 1fr 1fr; }
   .journal-local-nav a { text-align: center; }
+  .preservation-policy-layout { grid-template-columns: 1fr; gap: 24px; }
+  .preservation-toc { position: static; }
+  .preservation-policy-title { align-items: flex-start; }
+  .preservation-policy-icon { width: 48px; height: 48px; flex-basis: 48px; }
   .about-journal-grid { grid-template-columns: 1fr; }
   .about-journal-card.about-journal-wide { grid-column: auto; }
   .about-journal-card { padding: 22px 19px; }
