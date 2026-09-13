@@ -94,6 +94,11 @@
   const descriptionMeta = document.querySelector('meta[name="description"]');
   if (descriptionMeta) descriptionMeta.content = journal.description || `Journal profile for ${journal.title}.`;
 
+  const issnVerificationSection = document.getElementById('journal-issn-verification');
+  if (issnVerificationSection && journal.id === 'national-research-journal') {
+    issnVerificationSection.hidden = false;
+  }
+
   const cover = document.getElementById('journal-cover');
   if (cover) {
     cover.src = coverSrc(journal);
