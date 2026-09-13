@@ -122,7 +122,7 @@
   ].filter(([, value]) => value);
   const facts = document.getElementById('journal-facts');
   if (facts) facts.innerHTML = factValues.map(([label, value]) => `<div class="journal-fact"><span>${escapeHtml(label)}</span><strong>${escapeHtml(value)}</strong></div>`).join('');
-  if (facts && journal.historyNotice) {
+  if (facts && journal.historyNotice && journal.id !== 'national-research-journal') {
     facts.insertAdjacentHTML('afterend', `<aside class="repository-disclaimer" aria-label="Journal publication history">
       <span class="repository-disclaimer-icon" aria-hidden="true">i</span>
       <div><h3>Publication History</h3><p>${escapeHtml(journal.historyNotice)}</p></div>
