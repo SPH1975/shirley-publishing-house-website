@@ -171,15 +171,120 @@ const publicationDirectoryCard = (item) => {
   </article>`.replace(/[ \t]+$/gm, '');
 };
 
-const pageShell = ({ title, description, canonical, head = '', body }) => `<!DOCTYPE html>
+const pageShell = ({ title, description, canonical, head = '', body, footerAuthorHref = 'authors.html' }) => `<!DOCTYPE html>
 <html lang="en"><head><meta charset="utf-8"><meta name="viewport" content="width=device-width,initial-scale=1">
 <title>${escapeHtml(title)}</title><meta name="description" content="${escapeHtml(description)}"><link rel="canonical" href="${escapeHtml(canonical)}">
 <link href="assets/favicon.png" rel="icon" type="image/png"><link href="styles.css" rel="stylesheet">${head}</head>
 <body><a class="skip-link" href="#main-content">Skip to content</a>
 <header class="site-header" id="top"><div class="container header-inner"><a class="brand" href="index.html" aria-label="Shirley Publishing House home"><img src="assets/shirley-logo-transparent.png" alt="Shirley Publishing House official logo"></a><nav class="main-nav" aria-label="Main navigation"><a href="index.html">Home</a><a href="about.html">About Us</a><a class="nav-active" href="journal.html">Journals</a><a href="repository.html">Archives</a><a href="publication-ethics.html">Publication Ethics</a><a href="contact.html">Contact Us</a></nav></div></header>
 <main id="main-content">${body}</main>
-<footer class="site-footer"><div class="container footer-main"><div class="footer-brand-wrap"><a class="footer-brand" href="index.html"><img src="assets/shirley-logo-transparent.png" alt="Shirley Publishing House logo"></a><p>Quality publication, academic support, registration assistance, printing, and binding services.</p></div><div><h3>Explore</h3><a href="journal.html">Our Journals</a><a href="repository.html">Archives</a><a href="authors.html">Author Guidelines</a></div><div><h3>Journal Policies</h3><a href="/national-research-journal/peer-review-policy">Peer-Review Policy</a><a href="/national-research-journal/open-access-policy">Open Access Policy</a><a href="/national-research-journal/digital-preservation">Digital Preservation</a></div><div><h3>Contact</h3><a href="mailto:${escapeHtml(site.email)}">${escapeHtml(site.email)}</a><span>${escapeHtml(site.location)}</span></div></div></footer>
+<footer class="site-footer"><div class="container footer-main"><div class="footer-brand-wrap"><a class="footer-brand" href="index.html"><img src="assets/shirley-logo-transparent.png" alt="Shirley Publishing House logo"></a><p>Quality publication, academic support, registration assistance, printing, and binding services.</p></div><div><h3>Explore</h3><a href="journal.html">Our Journals</a><a href="repository.html">Archives</a><a href="${escapeHtml(footerAuthorHref)}">Author Guidelines</a></div><div><h3>Journal Policies</h3><a href="/national-research-journal/peer-review-policy">Peer-Review Policy</a><a href="/national-research-journal/open-access-policy">Open Access Policy</a><a href="/national-research-journal/digital-preservation">Digital Preservation</a></div><div><h3>Contact</h3><a href="mailto:${escapeHtml(site.email)}">${escapeHtml(site.email)}</a><span>${escapeHtml(site.location)}</span></div></div></footer>
 <script src="script.js"></script></body></html>`;
+
+const guidelineAnchorMap = new Map([
+  ['2. Scope', 'scope'],
+  ['3. Accepted Article Types', 'article-types'],
+  ['6. Authorship and Contributions', 'authorship'],
+  ['8. Manuscript Files', 'manuscript-preparation'],
+  ['13. Research Ethics', 'research-ethics'],
+  ['15. Data Availability', 'data-availability'],
+  ['16. Conflicts of Interest', 'conflicts-of-interest'],
+  ['18. Artificial Intelligence and Automated Tools', 'artificial-intelligence'],
+  ['20. Peer Review', 'peer-review'],
+  ['22. Publication Fees', 'publication-fees'],
+  ['23. Copyright and Open-Access Licence', 'copyright-and-licensing'],
+  ['25. Submission Procedure', 'submission-procedure'],
+  ['30. Submission Checklist', 'submission-checklist'],
+]);
+
+const renderGuidelineInline = (value = '') => escapeHtml(value)
+  .replace(/\*\*(.+?)\*\*/g, '<strong>$1</strong>')
+  .replace(/\[([^\]]+)\]\(([^)]+)\)/g, (_, label, href) => {
+    const cleanHref = href.replace(/\\:/g, ':');
+    return `<a href="${escapeHtml(cleanHref)}">${label}</a>`;
+  });
+
+const renderGuidelinesMarkdown = (markdown = '') => {
+  const firstSection = markdown.indexOf('## 1. About the Journal');
+  const lines = markdown.slice(firstSection >= 0 ? firstSection : 0).split(/\r?\n/);
+  let html = '';
+  let paragraph = [];
+  let listType = '';
+  let sectionOpen = false;
+  const flushParagraph = () => {
+    if (!paragraph.length) return;
+    html += `<p>${renderGuidelineInline(paragraph.join(' '))}</p>`;
+    paragraph = [];
+  };
+  const closeList = () => {
+    if (!listType) return;
+    html += `</${listType}>`;
+    listType = '';
+  };
+  lines.forEach((line) => {
+    const h2 = line.match(/^##\s+(.+)$/);
+    const h3 = line.match(/^###\s+(.+)$/);
+    const bullet = line.match(/^-\s+(.+)$/);
+    const ordered = line.match(/^\d+\.\s+(.+)$/);
+    if (h2) {
+      flushParagraph(); closeList();
+      if (sectionOpen) html += '</section>';
+      const heading = h2[1].trim();
+      const id = guidelineAnchorMap.get(heading) || slugify(heading.replace(/^\d+\.\s*/, ''));
+      html += `<section id="${escapeHtml(id)}"><h2>${renderGuidelineInline(heading)}</h2>`;
+      sectionOpen = true;
+    } else if (h3) {
+      flushParagraph(); closeList();
+      html += `<h3>${renderGuidelineInline(h3[1].trim())}</h3>`;
+    } else if (bullet || ordered) {
+      flushParagraph();
+      const nextType = bullet ? 'ul' : 'ol';
+      if (listType && listType !== nextType) closeList();
+      if (!listType) { listType = nextType; html += `<${listType}>`; }
+      html += `<li>${renderGuidelineInline((bullet || ordered)[1].trim())}</li>`;
+    } else if (!line.trim()) {
+      flushParagraph(); closeList();
+    } else {
+      paragraph.push(line.trim());
+    }
+  });
+  flushParagraph(); closeList();
+  if (sectionOpen) html += '</section>';
+  return html;
+};
+
+const authorGuidelinesPage = () => {
+  const title = 'Author Guidelines | National Research Journal';
+  const description = 'Submission, manuscript preparation, authorship, ethics, peer review, licensing and publication requirements for authors submitting to the National Research Journal.';
+  const canonical = `${siteUrl}/national-research-journal/author-guidelines`;
+  const source = fs.readFileSync(path.join(root, 'content', 'policies', 'national-research-journal-author-guidelines.md'), 'utf8');
+  const guidelineSections = renderGuidelinesMarkdown(source);
+  const toc = [
+    ['scope', 'Scope'], ['article-types', 'Article Types'], ['authorship', 'Authorship'],
+    ['manuscript-preparation', 'Manuscript Preparation'], ['research-ethics', 'Research Ethics'],
+    ['data-availability', 'Data Availability'], ['conflicts-of-interest', 'Conflicts of Interest'],
+    ['artificial-intelligence', 'Artificial Intelligence'], ['peer-review', 'Peer Review'],
+    ['publication-fees', 'Publication Fees'], ['copyright-and-licensing', 'Copyright and Licensing'],
+    ['submission-procedure', 'Submission Procedure'], ['submission-checklist', 'Submission Checklist'],
+  ].map(([id, label]) => `<a href="#${id}">${label}</a>`).join('');
+  return `<!DOCTYPE html>
+<html lang="en"><head><meta charset="utf-8"><meta name="viewport" content="width=device-width,initial-scale=1">
+<title>${title}</title><meta name="description" content="${description}"><link rel="canonical" href="${canonical}">
+<meta name="robots" content="index, follow"><meta property="og:type" content="article"><meta property="og:site_name" content="Shirley Publishing House"><meta property="og:title" content="${title}"><meta property="og:description" content="${description}"><meta property="og:url" content="${canonical}">
+<link href="/assets/favicon.png" rel="icon" type="image/png"><link href="/styles.css" rel="stylesheet"></head>
+<body class="author-guidelines-page"><a class="skip-link" href="#main-content">Skip to content</a>
+<header class="site-header" id="top"><div class="container header-inner"><a class="brand" href="/index.html" aria-label="Shirley Publishing House home"><img src="/assets/shirley-logo-transparent.png" alt="Shirley Publishing House official logo"></a><button aria-controls="main-nav" aria-expanded="false" aria-label="Open navigation menu" class="menu-toggle" type="button"><span></span><span></span><span></span></button><nav aria-label="Main navigation" class="main-nav" id="main-nav"><a href="/index.html">Home</a><a href="/about.html">About Us</a><a class="nav-active" href="/journal.html">Journals</a><a href="/services.html">Services</a><a href="/repository.html">Archives</a><a href="/publication-ethics.html">Publication Ethics</a><a href="/contact.html">Contact Us</a><a class="nav-cta" href="/submit.html">Submit Manuscript</a></nav></div></header>
+<main id="main-content"><section class="page-hero preservation-policy-hero"><div class="container page-hero-inner"><nav class="breadcrumbs" aria-label="Breadcrumb"><a href="/index.html">Home</a> / <a href="/journal.html">Journals</a> / <a href="/journal-national-research-journal.html">National Research Journal</a> / Author Guidelines</nav><div class="preservation-policy-title"><span class="preservation-policy-icon" aria-hidden="true"><svg viewBox="0 0 24 24"><path d="M5 3.5h10a4 4 0 0 1 4 4V21H8a3 3 0 0 1-3-3V3.5Z"/><path d="M8 17h11M9 8h6M9 12h6"/></svg></span><div><p class="eyebrow">National Research Journal</p><h1>National Research Journal Author Guidelines</h1></div></div><p>Complete requirements for preparing, declaring and submitting manuscripts to NRJ.</p></div></section>
+<nav class="journal-local-nav" aria-label="National Research Journal policy navigation"><div class="container"><a href="/journal-national-research-journal.html">NRJ Homepage</a><a aria-current="page" href="/national-research-journal/author-guidelines">Author Guidelines</a><a href="/national-research-journal/peer-review-policy">Peer-Review Policy</a><a href="/national-research-journal/open-access-policy">Open Access Policy</a><a href="/national-research-journal/digital-preservation">Digital Preservation</a></div></nav>
+<section class="section"><div class="container preservation-policy-layout author-guidelines-layout"><aside class="preservation-toc" aria-labelledby="author-guidelines-toc-title"><h2 id="author-guidelines-toc-title">On this page</h2><nav aria-label="Author Guidelines table of contents">${toc}</nav></aside><article class="policy-prose preservation-policy-content author-guidelines-content">
+<dl class="policy-facts"><div><dt>Journal</dt><dd>National Research Journal</dd></div><div><dt>Print ISSN</dt><dd>2960-3625</dd></div><div><dt>Publisher</dt><dd>Shirley Publishing House</dd></div><div><dt>Publication frequency</dt><dd>Semiannual</dd></div><div><dt>Language</dt><dd>English</dd></div><div><dt>Effective date</dt><dd><time datetime="2026-09-13">September 13, 2026</time></dd></div><div><dt>Last reviewed</dt><dd><time datetime="2026-09-13">September 13, 2026</time></dd></div></dl>
+<aside class="preservation-status-panel" aria-label="Historical application"><strong>Prospective application.</strong> These guidelines take effect on September 13, 2026. They do not apply retroactively to the 2020–2021 legacy issues and do not alter their authorship, dates or historical records.</aside>
+${guidelineSections}
+<section class="guidelines-contact" aria-labelledby="submission-contact-title"><h2 id="submission-contact-title">Submission Contact</h2><address data-submission-contact><span data-contact-field="email"><strong>Email:</strong> <a href="mailto:shirleypublishinghouse@gmail.com">shirleypublishinghouse@gmail.com</a></span><span data-contact-field="phone"><strong>Contact number:</strong> <a href="tel:+639533008505">0953-300-8505</a></span><span data-contact-field="address"><strong>Address:</strong> Kasibu, Nueva Vizcaya 3703, Philippines</span></address><p class="guidelines-contact-note">This is the verified publishing-house contact. The email field can be replaced when a dedicated NRJ address becomes operational.</p></section>
+<nav class="guidelines-policy-links" aria-labelledby="related-policy-title"><h2 id="related-policy-title">Journal Pages and Related Policies</h2><div><a href="/journal-national-research-journal.html">NRJ Homepage</a><a href="/national-research-journal/peer-review-policy">Peer-Review Policy</a><a href="/national-research-journal/open-access-policy">Open Access Policy</a><a href="/publication-ethics.html">Publication Ethics</a><a href="/national-research-journal/digital-preservation">Digital Preservation Policy</a><a href="/publication-ethics.html#publication-fees-and-refund-rules">Publication Fees, Waiver and Refund Policy</a><a href="/publication-ethics.html#copyright-licensing-and-open-access">Copyright and Licensing Policy</a><a href="/contact.html">Contact Page</a><a href="/submit.html">Manuscript Submission Page</a></div></nav>
+</article></div></section></main>
+<footer class="site-footer"><div class="container footer-main"><div class="footer-brand-wrap"><a class="footer-brand" href="/index.html"><img src="/assets/shirley-logo-transparent.png" alt="Shirley Publishing House logo"></a><p>Quality publication, academic support, registration assistance, printing, and binding services.</p></div><div><h3>Explore</h3><a href="/journal.html">Our Journals</a><a href="/repository.html">Archives</a><a href="/national-research-journal/author-guidelines">NRJ Author Guidelines</a></div><div><h3>Journal Policies</h3><a href="/national-research-journal/peer-review-policy">Peer-Review Policy</a><a href="/national-research-journal/open-access-policy">Open Access Policy</a><a href="/national-research-journal/digital-preservation">Digital Preservation</a></div><div><h3>Contact</h3><a href="mailto:shirleypublishinghouse@gmail.com">shirleypublishinghouse@gmail.com</a><span>Kasibu, Nueva Vizcaya 3703, Philippines</span></div></div></footer><script src="/script.js"></script></body></html>`;
+};
 
 const journalLandingPage = (journal) => {
   const articles = journalArticles.filter((article) => article.journalId === journal.id);
@@ -241,13 +346,14 @@ const journalLandingPage = (journal) => {
   const peerReviewPolicy = journal.id === 'national-research-journal' ? `<section class="section journal-peer-review-section" id="peer-review-process" aria-labelledby="journal-peer-review-title"><div class="container"><div class="journal-open-access-card">
     <div class="journal-open-access-icon" aria-hidden="true"><svg viewBox="0 0 24 24"><path d="M12 3 4.5 6v5.5c0 4.5 3.1 7.8 7.5 9.5 4.4-1.7 7.5-5 7.5-9.5V6L12 3Z"/><path d="m8.5 12 2.2 2.2 4.8-5"/></svg></div>
     <div class="journal-open-access-copy"><p class="eyebrow">Editorial assessment</p><h2 id="journal-peer-review-title">Peer-Review Process</h2><p>Scholarly manuscripts submitted to National Research Journal undergo initial editorial screening followed by double-anonymous external peer review by at least two independent reviewers. Reviewers evaluate originality, methodological soundness, ethical compliance, clarity and scholarly contribution. The responsible editor makes the final decision after considering the independent reports. Submissions involving an editor or board member are handled by an independent editor.</p>
-    <div class="hero-actions"><a class="btn btn-primary" href="/national-research-journal/peer-review-policy" aria-label="Read the complete National Research Journal peer-review policy">Read the Complete Peer-Review Policy</a><a class="btn btn-secondary" href="authors.html" aria-label="Read author guidelines">Author Guidelines</a><a class="btn btn-secondary" href="publication-ethics.html" aria-label="Read publication ethics policies">Publication Ethics</a></div></div>
+    <div class="hero-actions"><a class="btn btn-primary" href="/national-research-journal/peer-review-policy" aria-label="Read the complete National Research Journal peer-review policy">Read the Complete Peer-Review Policy</a><a class="btn btn-secondary" href="/national-research-journal/author-guidelines" aria-label="Read the National Research Journal author guidelines">NRJ Author Guidelines</a><a class="btn btn-secondary" href="publication-ethics.html" aria-label="Read publication ethics policies">Publication Ethics</a></div></div>
   </div></div></section>` : '';
-  const journalNavigation = journal.id === 'national-research-journal' ? `<nav class="journal-local-nav" aria-label="National Research Journal page and policy navigation"><div class="container"><a href="#journal-information">Journal Information</a><a href="#issn-verification">ISSN Verification</a><a href="#about-the-journal">About the Journal</a><a href="#peer-review-process">Peer-Review Process</a><a href="#open-access-policy">Open Access Policy</a><a href="/national-research-journal/digital-preservation" aria-label="Read the National Research Journal digital preservation policy">Digital Preservation</a><a href="#published-articles">Published Articles</a></div></nav>` : '';
+  const informationForAuthors = journal.id === 'national-research-journal' ? `<section class="section journal-author-information-section" id="information-for-authors" aria-labelledby="information-for-authors-title"><div class="container"><div class="journal-open-access-card"><div class="journal-open-access-icon" aria-hidden="true"><svg viewBox="0 0 24 24"><path d="M5 3.5h10a4 4 0 0 1 4 4V21H8a3 3 0 0 1-3-3V3.5Z"/><path d="M8 17h11M9 8h6M9 12h6"/></svg></div><div class="journal-open-access-copy"><p class="eyebrow">Submission requirements</p><h2 id="information-for-authors-title">Information for Authors</h2><p>Authors submitting to National Research Journal must follow the journal’s requirements for manuscript preparation, ethical reporting, genuine contributor-based authorship, double-anonymous peer review, open-access licensing and accurate publication records.</p><div class="hero-actions"><a class="btn btn-primary" href="/national-research-journal/author-guidelines">Read the NRJ Author Guidelines</a></div></div></div></div></section>` : '';
+  const journalNavigation = journal.id === 'national-research-journal' ? `<nav class="journal-local-nav" aria-label="National Research Journal page and policy navigation"><div class="container"><a href="#journal-information">Journal Information</a><a href="#issn-verification">ISSN Verification</a><a href="#about-the-journal">About the Journal</a><a href="#information-for-authors">For Authors</a><a href="#peer-review-process">Peer-Review Process</a><a href="#open-access-policy">Open Access Policy</a><a href="/national-research-journal/digital-preservation" aria-label="Read the National Research Journal digital preservation policy">Digital Preservation</a><a href="#published-articles">Published Articles</a></div></nav>` : '';
   const schema = { '@context': 'https://schema.org', '@type': 'Periodical', name: journal.title, issn: [journal.issn, journal.onlineIssn].filter(Boolean), inLanguage: 'English', additionalProperty: [{ '@type': 'PropertyValue', name: 'Publication frequency', value: journal.publicationFrequency }], publisher: { '@type': 'Organization', name: 'Shirley Publishing House', address: { '@type': 'PostalAddress', addressLocality: 'Kasibu', addressRegion: 'Nueva Vizcaya', postalCode: '3703', addressCountry: 'PH' } }, editor: editorialMembers.map((member) => ({ '@type': 'Person', name: member.name, honorificSuffix: member.credentials || undefined, affiliation: member.affiliation ? { '@type': 'Organization', name: member.affiliation } : undefined, url: member.profileUrl || member.orcid || undefined })), url: absoluteUrl(journalPageUrl(journal)), description: journal.description };
   const pageTitle = journal.id === 'national-research-journal' ? 'National Research Journal: About, Scope and Policies | Shirley Publishing House' : `${journal.shortTitle || journal.title} | Shirley Publishing House`;
   const pageDescription = journal.id === 'national-research-journal' ? 'Official homepage of National Research Journal, Print ISSN 2960-3625: aims, scope, audience, article types, publication schedule, publisher, peer-review history, policies and archive.' : journal.description;
-  return pageShell({ title: pageTitle, description: pageDescription, canonical: absoluteUrl(journalPageUrl(journal)), head: `<script type="application/ld+json">${jsonLd(schema)}</script>`, body: `<section class="page-hero"><div class="container page-hero-inner"><div class="breadcrumbs"><a href="index.html">Home</a> / <a href="journal.html">Journals</a> / ${escapeHtml(journal.shortTitle || journal.title)}</div><p class="eyebrow">Journal profile</p><h1>${escapeHtml(journal.title)}</h1><p>${escapeHtml(journal.description)}</p></div></section>${journalNavigation}<section class="section" id="journal-information"><div class="container"><div class="journal-profile"><div class="journal-profile-cover"><img src="${escapeHtml(journal.cover || 'assets/journal-cover-official.png')}" alt="${escapeHtml(journal.title)} cover"></div><div class="journal-profile-content"><p class="eyebrow">Journal information</p><div class="journal-facts">${facts}</div>${journal.historyNotice && journal.id !== 'national-research-journal' ? `<aside class="repository-disclaimer"><span class="repository-disclaimer-icon" aria-hidden="true">i</span><div><h2>Publication History</h2><p>${escapeHtml(journal.historyNotice)}</p></div></aside>` : ''}</div></div></div></section>${issnVerification.replace('aria-labelledby="journal-issn-verification-title"', 'id="issn-verification" aria-labelledby="journal-issn-verification-title"')}${aboutJournal}${peerReviewPolicy}${openAccessPolicy}${editorialBoard}<section class="section section-soft" id="published-articles"><div class="container"><div class="journal-panel-heading"><p class="eyebrow">Archive</p><h2>Published articles</h2><p>${articles.length} article${articles.length === 1 ? '' : 's'} listed with crawlable individual landing pages.</p></div>${archive || '<p>No articles are currently listed.</p>'}</div></section>` });
+  return pageShell({ title: pageTitle, description: pageDescription, canonical: absoluteUrl(journalPageUrl(journal)), head: `<script type="application/ld+json">${jsonLd(schema)}</script>`, footerAuthorHref: journal.id === 'national-research-journal' ? '/national-research-journal/author-guidelines' : 'authors.html', body: `<section class="page-hero"><div class="container page-hero-inner"><div class="breadcrumbs"><a href="index.html">Home</a> / <a href="journal.html">Journals</a> / ${escapeHtml(journal.shortTitle || journal.title)}</div><p class="eyebrow">Journal profile</p><h1>${escapeHtml(journal.title)}</h1><p>${escapeHtml(journal.description)}</p></div></section>${journalNavigation}<section class="section" id="journal-information"><div class="container"><div class="journal-profile"><div class="journal-profile-cover"><img src="${escapeHtml(journal.cover || 'assets/journal-cover-official.png')}" alt="${escapeHtml(journal.title)} cover"></div><div class="journal-profile-content"><p class="eyebrow">Journal information</p><div class="journal-facts">${facts}</div>${journal.historyNotice && journal.id !== 'national-research-journal' ? `<aside class="repository-disclaimer"><span class="repository-disclaimer-icon" aria-hidden="true">i</span><div><h2>Publication History</h2><p>${escapeHtml(journal.historyNotice)}</p></div></aside>` : ''}</div></div></div></section>${issnVerification.replace('aria-labelledby="journal-issn-verification-title"', 'id="issn-verification" aria-labelledby="journal-issn-verification-title"')}${aboutJournal}${informationForAuthors}${peerReviewPolicy}${openAccessPolicy}${editorialBoard}<section class="section section-soft" id="published-articles"><div class="container"><div class="journal-panel-heading"><p class="eyebrow">Archive</p><h2>Published articles</h2><p>${articles.length} article${articles.length === 1 ? '' : 's'} listed with crawlable individual landing pages.</p></div>${archive || '<p>No articles are currently listed.</p>'}</div></section>` });
 };
 
 const articleLandingPage = (article) => {
@@ -281,6 +387,7 @@ fs.writeFileSync(repositoryPath, repositoryHtml);
 
 journals.forEach((journal) => fs.writeFileSync(path.join(root, journalPageUrl(journal)), journalLandingPage(journal)));
 journalArticles.forEach((article) => fs.writeFileSync(path.join(root, articlePageUrl(article)), articleLandingPage(article)));
+fs.writeFileSync(path.join(root, 'national-research-journal-author-guidelines.html'), authorGuidelinesPage());
 
 const primaryNavigationPages = {
   'index.html': 'home',
@@ -309,7 +416,7 @@ Object.entries(primaryNavigationPages).forEach(([file, active]) => {
 });
 
 const staticPages = ['index.html', 'about.html', 'services.html', 'journal.html', 'repository.html', 'publication-ethics.html', 'authors.html', 'submit.html', 'contact.html'];
-const policyPages = ['national-research-journal/peer-review-policy', 'national-research-journal/open-access-policy', 'national-research-journal/digital-preservation'];
+const policyPages = ['national-research-journal/author-guidelines', 'national-research-journal/peer-review-policy', 'national-research-journal/open-access-policy', 'national-research-journal/digital-preservation'];
 const sitemapUrls = [...staticPages, ...policyPages, ...journals.map(journalPageUrl), ...journalArticles.map(articlePageUrl)];
 const sitemap = `<?xml version="1.0" encoding="UTF-8"?>\n<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">\n${sitemapUrls.map((url) => `  <url><loc>${escapeHtml(absoluteUrl(url))}</loc></url>`).join('\n')}\n</urlset>\n`;
 fs.writeFileSync(path.join(root, 'sitemap.xml'), sitemap);
