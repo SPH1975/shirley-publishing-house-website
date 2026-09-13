@@ -3289,8 +3289,10 @@ body.is-scrolled .brand img { width: 218px; height: 64px; }
 /* ==========================================================================
    Publication ethics policy hub
    ========================================================================== */
-.ethics-hero .page-hero-inner { max-width: 1010px; }
-.ethics-hero-actions { display: flex; flex-wrap: wrap; gap: 12px; margin-top: 30px; }
+.ethics-hero .page-hero-inner { max-width: 1010px; padding-block: 46px 52px; }
+.ethics-hero h1 { font-size: clamp(2.65rem, 5vw, 4.35rem); }
+.ethics-hero p:not(.eyebrow) { max-width: 850px; margin-bottom: 0; font-size: .98rem; line-height: 1.55; }
+.ethics-hero-actions { display: flex; flex-wrap: wrap; gap: 10px; margin-top: 20px; }
 .ethics-hero .ethics-download {
   color: #fff;
   border-color: rgba(255,255,255,.28);
@@ -3298,24 +3300,17 @@ body.is-scrolled .brand img { width: 218px; height: 64px; }
   backdrop-filter: blur(12px);
 }
 .ethics-hero .ethics-download:hover { border-color: rgba(255,255,255,.48); background: rgba(255,255,255,.15); }
-.ethics-meta {
-  display: flex;
-  flex-wrap: wrap;
-  gap: 12px;
-  margin-top: 34px;
-}
-.ethics-meta > span {
-  display: inline-flex;
-  align-items: center;
-  gap: 7px;
-  padding: 8px 12px;
-  border: 1px solid rgba(255,255,255,.17);
-  border-radius: 999px;
-  color: rgba(246,250,255,.82);
-  background: rgba(255,255,255,.07);
-  font-size: .76rem;
-}
-.ethics-meta strong { color: #fff; }
+.section.journal-policy-highlights.ethics-policy-framework { padding: 26px 0; }
+.ethics-policy-framework .journal-policy-highlights-grid { gap: 12px; }
+.ethics-policy-framework .journal-policy-card { min-height: 168px; padding: 15px; border-radius: 10px; box-shadow: 0 7px 18px rgba(11,35,62,.07); }
+.ethics-policy-framework .journal-open-access-copy h2 { margin: 1px 0 5px; font-size: clamp(1.16rem, 1.7vw, 1.4rem); }
+.ethics-policy-framework .journal-open-access-copy > p:not(.eyebrow) { margin: 0 0 8px; font-size: .76rem; line-height: 1.45; }
+.ethics-policy-link { align-self: flex-start; margin-top: auto; color: var(--policy-accent); font-size: .72rem; font-weight: 900; line-height: 1.35; }
+.ethics-policy-link:hover,
+.ethics-policy-link:focus-visible,
+.ethics-policy-note:hover,
+.ethics-policy-note:focus-visible { text-decoration: underline; text-underline-offset: 3px; }
+.ethics-policy-note { display: block; margin-top: 7px; color: var(--navy-800); font-size: .64rem; font-weight: 800; line-height: 1.35; }
 .ethics-overview .section-heading { max-width: 900px; }
 .ethics-category-grid { display: grid; grid-template-columns: repeat(3, minmax(0, 1fr)); gap: 18px; }
 .ethics-category-card {
@@ -3368,13 +3363,19 @@ body.is-scrolled .brand img { width: 218px; height: 64px; }
 }
 .ethics-category-links a:hover { color: var(--blue-600); }
 .ethics-category-links a span { color: var(--blue-600); font-size: .64rem; letter-spacing: .08em; }
-.ethics-policy-section { padding-top: 90px; }
-.ethics-policy-layout { display: grid; grid-template-columns: 260px minmax(0, 1fr); gap: 54px; align-items: start; }
+.ethics-policy-section { padding: 52px 0 72px; scroll-margin-top: 100px; }
+.ethics-manual-heading { display: flex; align-items: flex-end; justify-content: space-between; gap: 28px; margin-bottom: 34px; }
+.ethics-manual-heading .eyebrow { margin-bottom: 6px; }
+.ethics-manual-heading h2 { margin: 0; color: var(--ink); font-family: Georgia, "Times New Roman", serif; font-size: clamp(2rem, 3.5vw, 3.15rem); line-height: 1.05; letter-spacing: -.025em; }
+.ethics-manual-meta { display: flex; flex-wrap: wrap; justify-content: flex-end; gap: 7px; }
+.ethics-manual-meta span { padding: 7px 10px; border: 1px solid var(--line); border-radius: 999px; color: var(--muted); background: #fff; font-size: .68rem; white-space: nowrap; }
+.ethics-manual-meta strong { color: var(--navy-900); }
+.ethics-policy-layout { display: grid; grid-template-columns: 230px minmax(0, 1fr); gap: 36px; align-items: start; }
 .ethics-sidebar { min-width: 0; }
 .ethics-sidebar-inner {
   position: sticky;
   top: 125px;
-  padding: 24px;
+  padding: 18px;
   border: 1px solid rgba(11,79,157,.13);
   border-radius: 20px;
   background: rgba(255,255,255,.92);
@@ -3386,7 +3387,7 @@ body.is-scrolled .brand img { width: 218px; height: 64px; }
   display: grid;
   grid-template-columns: 26px minmax(0, 1fr);
   gap: 8px;
-  padding: 10px 8px;
+  padding: 8px;
   border-radius: 10px;
   color: var(--navy-900);
   font-size: .77rem;
@@ -3395,7 +3396,7 @@ body.is-scrolled .brand img { width: 218px; height: 64px; }
 }
 .ethics-sidebar nav a:hover { color: var(--blue-600); background: var(--blue-50); }
 .ethics-sidebar nav span { color: var(--blue-600); font-size: .62rem; letter-spacing: .08em; }
-.policy-controls { display: grid; grid-template-columns: 1fr 1fr; gap: 7px; margin-top: 18px; padding-top: 18px; border-top: 1px solid var(--line); }
+.policy-controls { display: grid; grid-template-columns: 1fr 1fr; gap: 7px; margin-top: 14px; padding-top: 14px; border-top: 1px solid var(--line); }
 .policy-controls button {
   min-height: 40px;
   padding: 8px;
@@ -3409,22 +3410,22 @@ body.is-scrolled .brand img { width: 218px; height: 64px; }
 }
 .policy-controls button:hover { border-color: var(--blue-500); background: var(--blue-50); }
 .ethics-sidebar-contact { display: block; margin-top: 16px; color: var(--blue-700); font-size: .75rem; font-weight: 900; }
-.ethics-policy-content { min-width: 0; display: grid; gap: 84px; }
+.ethics-policy-content { min-width: 0; display: grid; gap: 52px; }
 .policy-category,
 .policy-document { scroll-margin-top: 125px; }
 .policy-category-heading {
   display: grid;
-  grid-template-columns: 72px minmax(0, 1fr);
-  gap: 22px;
+  grid-template-columns: 54px minmax(0, 1fr);
+  gap: 16px;
   align-items: start;
-  margin-bottom: 24px;
+  margin-bottom: 16px;
 }
 .policy-category-heading > span {
-  width: 66px;
-  height: 66px;
+  width: 50px;
+  height: 50px;
   display: grid;
   place-items: center;
-  border-radius: 18px;
+  border-radius: 14px;
   color: #fff;
   background: linear-gradient(145deg, var(--blue-500), var(--navy-800));
   box-shadow: 0 15px 30px rgba(6,29,66,.18);
@@ -3437,29 +3438,29 @@ body.is-scrolled .brand img { width: 218px; height: 64px; }
   margin: 0;
   color: var(--ink);
   font-family: Georgia, "Times New Roman", serif;
-  font-size: clamp(2rem, 4vw, 3.15rem);
+  font-size: clamp(1.65rem, 3vw, 2.35rem);
   line-height: 1.05;
   letter-spacing: -.025em;
 }
-.policy-category-heading div > p:last-child { max-width: 760px; margin: 10px 0 0; color: var(--muted); }
-.policy-list { display: grid; gap: 14px; }
-.policy-document { border-radius: 20px; transition: box-shadow .25s ease, transform .25s ease; }
+.policy-category-heading div > p:last-child { max-width: 760px; margin: 6px 0 0; color: var(--muted); font-size: .86rem; }
+.policy-list { display: grid; gap: 10px; }
+.policy-document { border-radius: 14px; transition: box-shadow .25s ease, transform .25s ease; }
 .policy-document:target { box-shadow: 0 0 0 4px rgba(44,131,220,.18), 0 24px 65px rgba(6,29,66,.13); }
 .policy-details {
   overflow: clip;
   border: 1px solid rgba(11,79,157,.14);
-  border-radius: 20px;
+  border-radius: 14px;
   background: #fff;
   box-shadow: 0 10px 28px rgba(6,29,66,.06);
 }
 .policy-details[open] { border-color: rgba(18,104,196,.28); box-shadow: 0 20px 55px rgba(6,29,66,.12); }
 .policy-details summary {
   display: grid;
-  grid-template-columns: 56px minmax(0, 1fr) auto;
-  gap: 18px;
+  grid-template-columns: 46px minmax(0, 1fr) auto;
+  gap: 14px;
   align-items: center;
-  min-height: 116px;
-  padding: 24px 26px;
+  min-height: 90px;
+  padding: 16px 18px;
   list-style: none;
   color: var(--text);
   background: #fff;
@@ -3468,19 +3469,19 @@ body.is-scrolled .brand img { width: 218px; height: 64px; }
 .policy-details summary:hover { background: linear-gradient(90deg, #fff, var(--blue-50)); }
 .policy-details summary:focus-visible { outline-offset: -4px; }
 .policy-number {
-  width: 50px;
-  height: 50px;
+  width: 42px;
+  height: 42px;
   display: grid;
   place-items: center;
-  border-radius: 14px;
+  border-radius: 11px;
   color: var(--blue-700);
   background: var(--blue-100);
   font-size: .75rem;
   font-weight: 950;
   letter-spacing: .08em;
 }
-.policy-summary-copy { min-width: 0; display: grid; gap: 6px; color: var(--muted); font-size: .82rem; line-height: 1.45; }
-.policy-title { color: var(--navy-900); font-family: Georgia, "Times New Roman", serif; font-size: 1.32rem; font-weight: 700; line-height: 1.2; }
+.policy-summary-copy { min-width: 0; display: grid; gap: 4px; color: var(--muted); font-size: .78rem; line-height: 1.4; }
+.policy-title { color: var(--navy-900); font-family: Georgia, "Times New Roman", serif; font-size: 1.16rem; font-weight: 700; line-height: 1.2; }
 .policy-summary-action { display: inline-flex; align-items: center; gap: 10px; color: var(--blue-700); font-size: .68rem; font-weight: 900; text-transform: uppercase; letter-spacing: .06em; }
 .policy-summary-action b { width: 30px; height: 30px; display: grid; place-items: center; border: 1px solid var(--line); border-radius: 9px; background: #fff; font-size: 1.05rem; transition: transform .2s ease; }
 .policy-close-label { display: none; }
@@ -3533,6 +3534,8 @@ body.is-scrolled .brand img { width: 218px; height: 64px; }
 }
 
 @media (max-width: 800px) {
+  .ethics-manual-heading { align-items: flex-start; flex-direction: column; gap: 15px; }
+  .ethics-manual-meta { justify-content: flex-start; }
   .ethics-policy-layout { grid-template-columns: 1fr; }
   .ethics-sidebar-inner { position: static; }
   .ethics-sidebar nav { grid-template-columns: repeat(2, minmax(0, 1fr)); }
@@ -3545,10 +3548,14 @@ body.is-scrolled .brand img { width: 218px; height: 64px; }
 }
 
 @media (max-width: 600px) {
+  .ethics-hero .page-hero-inner { padding-block: 34px 38px; }
+  .ethics-hero h1 { font-size: 2.45rem; }
   .ethics-hero-actions { align-items: stretch; flex-direction: column; }
   .ethics-hero-actions .btn { width: 100%; }
-  .ethics-meta { gap: 7px; }
-  .ethics-meta > span { width: 100%; justify-content: space-between; }
+  .ethics-policy-framework .journal-policy-card { min-height: 0; }
+  .ethics-policy-note { font-size: .67rem; }
+  .ethics-manual-heading { margin-bottom: 24px; }
+  .ethics-manual-meta span { white-space: normal; }
   .ethics-category-grid { grid-template-columns: 1fr; }
   .ethics-category-card { padding: 23px 20px; }
   .ethics-sidebar nav { grid-template-columns: 1fr; }
@@ -3573,6 +3580,7 @@ body.is-scrolled .brand img { width: 218px; height: 64px; }
   .topbar,
   .site-header,
   .ethics-hero-actions,
+  .ethics-policy-framework,
   .ethics-sidebar,
   .cta-band,
   .site-footer,
@@ -3581,9 +3589,7 @@ body.is-scrolled .brand img { width: 218px; height: 64px; }
   .ethics-hero { color: #000; background: #fff; }
   .ethics-hero .page-hero-inner { padding: 20px 0; }
   .ethics-hero h1,
-  .ethics-hero p:not(.eyebrow),
-  .ethics-meta > span,
-  .ethics-meta strong { color: #000; }
+  .ethics-hero p:not(.eyebrow) { color: #000; }
   .ethics-overview { display: none; }
   .ethics-policy-section { padding: 0; background: #fff; }
   .ethics-policy-layout { display: block; }
