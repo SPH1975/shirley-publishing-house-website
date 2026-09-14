@@ -3609,5 +3609,86 @@ body.is-scrolled .brand img { width: 218px; height: 64px; }
 .editorial-board-member { padding: 1rem; border-radius: 14px; background: #f5f8fc; }
 .editorial-board-member h4 { margin: 0 0 .45rem; color: #061d42; }
 .editorial-board-member p { margin: .25rem 0; }
+
+/* Compact National Research Journal profile */
+.nrj-profile {
+  grid-template-columns: 240px minmax(0, 1fr);
+  gap: 30px;
+  align-items: start;
+  padding: 28px;
+  border: 1px solid var(--line);
+  border-radius: 14px;
+  background: #fff;
+  box-shadow: var(--shadow-sm);
+}
+.nrj-profile .journal-profile-cover { padding: 12px; }
+.nrj-profile .journal-facts {
+  grid-template-columns: repeat(3, minmax(0, 1fr));
+  gap: 9px;
+  margin: 12px 0 0;
+}
+.nrj-profile .journal-fact { min-width: 0; padding: 11px 12px; border-radius: 9px; background: var(--soft); }
+.nrj-profile-links { display: flex; flex-wrap: wrap; gap: 8px 18px; margin-top: 18px; padding-top: 16px; border-top: 1px solid var(--line); }
+.nrj-profile-links a { font-size: .76rem; }
+
+.nrj-about-grid { gap: 14px; }
+.nrj-about-grid .about-journal-card { padding: 22px; }
+.nrj-chip-list { display: flex; flex-wrap: wrap; gap: 8px; margin: 18px 0; padding: 0; list-style: none; }
+.nrj-chip-list li { padding: 7px 10px; border: 1px solid var(--line); border-radius: 999px; color: var(--navy-900); background: var(--blue-50); font-size: .74rem; font-weight: 800; }
+.nrj-qualifier { margin-bottom: 0; color: var(--muted) !important; font-size: .84rem; }
+.nrj-history { padding: 0 !important; overflow: hidden; }
+.nrj-history summary,
+.nrj-editorial-section .editorial-board-group > summary,
+.nrj-archive-section .journal-issue-group > summary { cursor: pointer; list-style: none; }
+.nrj-history summary::-webkit-details-marker,
+.nrj-editorial-section .editorial-board-group > summary::-webkit-details-marker,
+.nrj-archive-section .journal-issue-group > summary::-webkit-details-marker { display: none; }
+.nrj-history summary { position: relative; padding: 20px 56px 20px 22px; color: var(--navy-900); font-family: Georgia, serif; font-size: 1.18rem; font-weight: 700; }
+.nrj-history summary::after,
+.nrj-editorial-section .editorial-board-group > summary::after { content: '+'; position: absolute; right: 20px; top: 50%; translate: 0 -50%; font-family: Arial, sans-serif; font-size: 1.3rem; }
+.nrj-history[open] summary::after,
+.nrj-editorial-section .editorial-board-group[open] > summary::after { content: '−'; }
+.nrj-history > div { padding: 0 22px 20px; border-top: 1px solid var(--line); }
+.nrj-history > div p:last-child { margin-bottom: 0; }
+
+.nrj-editorial-section .editorial-board-grid { gap: 10px; margin-top: 20px; }
+.nrj-editorial-section .editorial-board-group { padding: 0; overflow: hidden; border-radius: 12px; }
+.nrj-editorial-section .editorial-board-group > summary { position: relative; display: flex; align-items: center; justify-content: space-between; gap: 18px; padding: 15px 54px 15px 18px; color: var(--navy-900); font-weight: 900; }
+.nrj-editorial-section .editorial-board-group > summary small { color: var(--muted); font-size: .68rem; text-transform: uppercase; letter-spacing: .05em; }
+.nrj-editorial-section .editorial-board-members { padding: 0 18px 18px; border-top: 1px solid var(--line); }
+.nrj-editorial-section .editorial-board-member { padding: 13px; border-radius: 9px; }
+
+.nrj-archive-section .journal-issue-archive { gap: 12px; }
+.nrj-archive-section .journal-issue-group { border-radius: 12px; }
+.nrj-archive-section .journal-issue-group > summary {
+  display: grid;
+  grid-template-columns: minmax(0, 1fr) auto auto;
+  align-items: center;
+  gap: 14px;
+  padding: 17px 20px;
+  color: #fff;
+  background: linear-gradient(120deg, var(--navy-950), var(--blue-700));
+}
+.nrj-archive-section .journal-issue-group > summary .eyebrow { margin-bottom: 3px; color: #f1b6be; }
+.nrj-archive-section .journal-issue-group > summary h2 { margin: 0; color: #fff; font-family: Georgia, serif; font-size: 1.25rem; }
+.nrj-archive-section .journal-issue-group > summary > span,
+.nrj-archive-section .journal-issue-group > summary > small { padding: 6px 9px; border: 1px solid rgba(255,255,255,.24); border-radius: 999px; color: rgba(255,255,255,.9); font-size: .68rem; font-weight: 800; }
+.nrj-archive-section .journal-article-card { padding: 20px; }
+
+@media (max-width: 900px) {
+  .nrj-profile { grid-template-columns: 190px minmax(0, 1fr); }
+  .nrj-profile .journal-facts { grid-template-columns: repeat(2, minmax(0, 1fr)); }
+}
+
+@media (max-width: 680px) {
+  .nrj-profile { grid-template-columns: 1fr; padding: 18px; }
+  .nrj-profile .journal-profile-cover { width: min(230px, 70vw); margin: 0 auto; }
+  .nrj-profile .journal-facts { grid-template-columns: 1fr 1fr; }
+  .nrj-profile-links { flex-direction: column; }
+  .nrj-about-grid .about-journal-card { padding: 18px; }
+  .nrj-archive-section .journal-issue-group > summary { grid-template-columns: 1fr; gap: 8px; }
+  .nrj-archive-section .journal-issue-group > summary > span,
+  .nrj-archive-section .journal-issue-group > summary > small { justify-self: start; }
+}
 .editorial-board-country { color: #52637b; font-weight: 700; }
 .editorial-board-id { display: inline-block; margin-top: .45rem; font-weight: 700; }
