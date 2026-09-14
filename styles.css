@@ -3611,6 +3611,9 @@ body.is-scrolled .brand img { width: 218px; height: 64px; }
 .editorial-board-member p { margin: .25rem 0; }
 
 /* Compact National Research Journal profile */
+.nrj-page-hero .page-hero-inner { padding-block: 48px 52px; }
+.nrj-page-hero h1 { max-width: 980px; font-size: clamp(2.65rem, 5.2vw, 4.8rem); }
+.nrj-page-hero .page-hero-inner > p:last-child { max-width: 820px; }
 .nrj-profile {
   grid-template-columns: 240px minmax(0, 1fr);
   gap: 30px;
@@ -3681,6 +3684,8 @@ body.is-scrolled .brand img { width: 218px; height: 64px; }
 }
 
 @media (max-width: 680px) {
+  .nrj-page-hero .page-hero-inner { padding-block: 34px 38px; }
+  .nrj-page-hero h1 { font-size: clamp(2.25rem, 12vw, 3.25rem); }
   .nrj-profile { grid-template-columns: 1fr; padding: 18px; }
   .nrj-profile .journal-profile-cover { width: min(230px, 70vw); margin: 0 auto; }
   .nrj-profile .journal-facts { grid-template-columns: 1fr 1fr; }
