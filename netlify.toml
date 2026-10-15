@@ -5,6 +5,61 @@
 [build.environment]
   NODE_VERSION = "20"
 
+# Temporary article access restrictions; remove when editorial review is complete.
+[[redirects]]
+  from = "/article-volume-1-issue-4-learner-engagement"
+  to = "/article-temporarily-unavailable.html"
+  status = 404
+  force = true
+
+[[redirects]]
+  from = "/article-volume-1-issue-4-learner-engagement.html"
+  to = "/article-temporarily-unavailable.html"
+  status = 404
+  force = true
+
+[[redirects]]
+  from = "/assets/uploads/journal-archive/volume-1-issue-4/roxanne-urzame-learner-engagement.pdf"
+  to = "/article-temporarily-unavailable.html"
+  status = 404
+  force = true
+
+[[redirects]]
+  from = "/article-volume-1-issue-4-reading-comprehension"
+  to = "/article-temporarily-unavailable.html"
+  status = 404
+  force = true
+
+[[redirects]]
+  from = "/article-volume-1-issue-4-reading-comprehension.html"
+  to = "/article-temporarily-unavailable.html"
+  status = 404
+  force = true
+
+[[redirects]]
+  from = "/assets/uploads/journal-archive/volume-1-issue-4/mary-aguilar-reading-comprehension.pdf"
+  to = "/article-temporarily-unavailable.html"
+  status = 404
+  force = true
+
+[[redirects]]
+  from = "/article-volume-1-issue-4-reading-motivation"
+  to = "/article-temporarily-unavailable.html"
+  status = 404
+  force = true
+
+[[redirects]]
+  from = "/article-volume-1-issue-4-reading-motivation.html"
+  to = "/article-temporarily-unavailable.html"
+  status = 404
+  force = true
+
+[[redirects]]
+  from = "/assets/uploads/journal-archive/volume-1-issue-4/elvira-guerrero-reading-motivation.pdf"
+  to = "/article-temporarily-unavailable.html"
+  status = 404
+  force = true
+
 [[redirects]]
   from = "/national-research-journal/open-access-policy"
   to = "/national-research-journal-open-access-policy.html"
